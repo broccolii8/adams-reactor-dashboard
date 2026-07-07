@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T05:29:59Z",
+  "generated_at": "2026-07-07T06:48:51Z",
   "last_checked": "2026-07-07",
   "total_docs": 8308,
   "reactors": [
@@ -35,6 +35,33 @@
         ]
       },
       "stage_signal_line": "사전신청 269 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]",
+      "recent_documents": [
+        {
+          "accession_number": "ML26085A078",
+          "date": "2026-05-18",
+          "title": "Final FRN Hermes 1 Extension Order"
+        },
+        {
+          "accession_number": "ML26085A142",
+          "date": "2026-05-13",
+          "title": "Attachment 1: Issuance of a Permit for the Construction of the Facility"
+        },
+        {
+          "accession_number": "ML26085A117",
+          "date": "2026-05-13",
+          "title": "Final Amendment Hermes 1 CP to Extend Construction Completion"
+        },
+        {
+          "accession_number": "ML26085A108",
+          "date": "2026-05-13",
+          "title": "Final Transmittal Letter to Amend Hermes 1 CP to Extend Construction Completion"
+        },
+        {
+          "accession_number": "ML26085A103",
+          "date": "2026-05-13",
+          "title": "Final Safety Evaluation to Amend Hermes 1 CP to Extend Construction Completion"
+        }
+      ],
       "kakao_summary": "[Kairos Hermes] / CP 발급 완료 / 2023년 12월 15일 Hermes 시험원자로 건설허가(CP)가 정식 발급됨. / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: Hermes 1 건설완료 기한 연장을 위한 건설허가(CP) 개정이 최종 승인되고 관련 연방관보 고시가 발행되었다. / 단계: 사전신청 269 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]"
     },
     {
@@ -68,6 +95,33 @@
         ]
       },
       "stage_signal_line": "사전신청 233 | 신청접수 18 | 기술검토 13 | 초안 SE 0 | 최종 5 [현재]",
+      "recent_documents": [
+        {
+          "accession_number": "ML26119A913",
+          "date": "2026-05-06",
+          "title": "2026/04/29 Kairos Power Pre-App Doc - FW Kairos - Hermes Site Characteristics and Geologic Mapping Condition Draft Audit"
+        },
+        {
+          "accession_number": "ML26119A912",
+          "date": "2026-05-06",
+          "title": "2026/04/29 Kairos Power Pre-App Doc - Kairos - Hermes Site Characteristics and Geologic Mapping Condition Draft Audit Re"
+        },
+        {
+          "accession_number": "ML26117A087",
+          "date": "2026-05-04",
+          "title": "2026/04/27 Kairos Power Pre-App Doc - Kairos - Hermes Site Characteristics and Geologic Mapping Condition Draft Audit Re"
+        },
+        {
+          "accession_number": "ML26085A071",
+          "date": "2026-04-21",
+          "title": "FRN: Notice of Issuance of EA and FONSI for Hermes 1 Construction Extension"
+        },
+        {
+          "accession_number": "ML26096A488",
+          "date": "2026-04-14",
+          "title": "Kairos Power LLC, Request for NRC to Designate Kairos Power Reviewing Official for 10 CFR Part 73"
+        }
+      ],
       "kakao_summary": "[Kairos Hermes 2] / CP 발급 완료 / Hermes 2 Unit 1·2 건설허가(CP)가 2024년 12월 17일 공식 발급됨 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: 최근 Hermes 부지 특성 및 지질 매핑 조건 감사 보고서 관련 이메일이 여러 차례 접수되었고, Hermes 1 건설 연장에 대한 EA 및 FONSI 발급 공고도 이루어졌습니다. / 단계: 사전신청 233 | 신청접수 18 | 기술검토 13 | 초안 SE 0 | 최종 5 [현재]"
     },
     {
@@ -101,6 +155,33 @@
         ]
       },
       "stage_signal_line": "사전신청 58 | 신청접수 14 | 기술검토 13 | 초안 SE 0 | 최종 15 [현재]",
+      "recent_documents": [
+        {
+          "accession_number": "ML26168A505",
+          "date": "2026-06-25",
+          "title": "FSER, TVA Construction Permit Application (Clinch River Nuclear Site, Unit 1) [Public]"
+        },
+        {
+          "accession_number": "ML26160A308",
+          "date": "2026-06-22",
+          "title": "Clinch River Nuclear Site, Unit 1, Construction Permit Application Review Status"
+        },
+        {
+          "accession_number": "ML26149A490",
+          "date": "2026-06-12",
+          "title": "2026/05/29 Clinch River CP Saf Docs - Availability of Advance Safety Evaluation Report (ASER) Chapters, Clinch River Con"
+        },
+        {
+          "accession_number": "ML25175A059",
+          "date": "2026-06-05",
+          "title": "Federal Register Notice, Docketing and Opportunity for Hearing, Tennessee Valley Authority's CP application (Clinch Rive"
+        },
+        {
+          "accession_number": "ML26111A189",
+          "date": "2026-06-04",
+          "title": "Clinch River CPA - ASER - Chapter 7 Instrumentation and Controls"
+        }
+      ],
       "kakao_summary": "[BWRX-300 / Clinch River Unit 1] / FSER 발행 완료 / CP 미발급 / 근거: ML26168A505 | FSER, TVA Construction Permit Application (Clinch River Nuclear Site,  / 최근 활동: Clinch River Unit 1 건설허가 신청에 대한 최종 안전평가보고서(FSER)가 2026년 6월 25일 발행되었으며, 이에 앞서 계측제어·공학적안전설비·부지특성·안전해석 등 여러 장의 사전안전평가보고서(ASER)가 순차적으로 공개되었습니다. / 단계: 사전신청 58 | 신청접수 14 | 기술검토 13 | 초안 SE 0 | 최종 15 [현재]"
     },
     {
@@ -135,6 +216,33 @@
         ]
       },
       "stage_signal_line": "사전신청 330 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]",
+      "recent_documents": [
+        {
+          "accession_number": "ML26162A207",
+          "date": "2026-07-06",
+          "title": "Audit Plan - TerraPower -  Generic Dual Unit - NAT-21522"
+        },
+        {
+          "accession_number": "ML26149A339",
+          "date": "2026-06-26",
+          "title": "NRC Form 898 - Completeness Determination for the TerraPower, LLC  \"Emergency Action Level Methodology Topical Report\" R"
+        },
+        {
+          "accession_number": "ML26140A305",
+          "date": "2026-06-17",
+          "title": "Terrapower, LLC - Audit Plan for the Topical Report Nat-16856, \"Comprehensive Vibration Assessment Program,\" Revision 1"
+        },
+        {
+          "accession_number": "ML26149A292",
+          "date": "2026-06-09",
+          "title": "TerraPower, LLC - Transmits NAT-22075, Rev. 0, \"Emergency Action Level Methodology Topical Report\""
+        },
+        {
+          "accession_number": "ML26106A226",
+          "date": "2026-04-30",
+          "title": "Nuclear Regulatory Commission Inspection Report of TerraPower, LLC, No. 99902100/2026-201"
+        }
+      ],
       "kakao_summary": "[TerraPower Natrium / Kemmerer Unit 1] / CP 발급 완료 / 건설허가(CP)가 2026년 3월 9일 공식 발급됨 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: 비상조치수준 방법론 토픽보고서 제출 및 완전성 결정, 진동평가·이중호기 감사계획 수립, 운영허가 규제참여계획 개정 등 인허가 관련 활동이 활발히 진행되었습니다. / 단계: 사전신청 330 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]"
     },
     {
@@ -166,6 +274,33 @@
         ]
       },
       "stage_signal_line": "사전신청 283 | 신청접수 19 | 기술검토 8 [현재] | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML26167A098",
+          "date": "2026-06-30",
+          "title": "2026/06/16 Project Long Mott Docs - EAFONSI Long Mott Generating Station ADAMS No. ML26112A016"
+        },
+        {
+          "accession_number": "ML26176A482",
+          "date": "2026-06-26",
+          "title": "Memorandum (Notice Regarding Issuance of Decisions on Intervenor's Motion to Amend Contention 3B, Applicant's Motion to "
+        },
+        {
+          "accession_number": "ML26176A352",
+          "date": "2026-06-25",
+          "title": "Transcript of Long Mott Energy, LLC, Hearing, May 12, 2026 Hearing, Pages 396-492 (Redacted)"
+        },
+        {
+          "accession_number": "ML26176A349",
+          "date": "2026-06-25",
+          "title": "Memorandum and Order (Correcting May 12, 2026, Prehearing Conference Transcript)"
+        },
+        {
+          "accession_number": "ML26141A199",
+          "date": "2026-06-25",
+          "title": "NRC Form 897 Topical Report Withholding Determination - Xe-100 Graphite Core Assembly Material Qualification and Design "
+        }
+      ],
       "kakao_summary": "[X-energy Xe-100] / NRC 기술검토 중 / 쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음 / 최근 활동: 최근 Xe-100 흑연 노심 집합체 관련 토피컬 보고서 검토·비밀 지정 결정이 완료되었고, Long Mott 허가 청문 및 법적 결정도 진행되었습니다. / 단계: 사전신청 283 | 신청접수 19 | 기술검토 8 [현재] | 초안 SE 0 | 최종 0"
     },
     {
@@ -203,6 +338,33 @@
         ]
       },
       "stage_signal_line": "사전신청 452 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]",
+      "recent_documents": [
+        {
+          "accession_number": "ML26142A075",
+          "date": "2026-06-05",
+          "title": "2026/05/22 NuScale NPM-20 - NuScale - Request for Withholding Information from Public Disclosure"
+        },
+        {
+          "accession_number": "ML25246B399",
+          "date": "2026-06-03",
+          "title": "Request for Withholding Information from Public Disclosure for NuScale Power, LLC"
+        },
+        {
+          "accession_number": "ML25353A608",
+          "date": "2026-04-29",
+          "title": "NuScale Power, LLC Submittal of Topical Report Supplement Entitled \"Supplement 1 to TR-1015-18653-P-A, \"Design of the Hi"
+        },
+        {
+          "accession_number": "ML26089A372",
+          "date": "2026-04-10",
+          "title": "Response to NuScale Topical Report Audit Question No. A-ERO.LTR-08"
+        },
+        {
+          "accession_number": "ML26089A376",
+          "date": "2026-04-10",
+          "title": "Response to NuScale Topical Report Audit Question No. A-ERO.LTR-12"
+        }
+      ],
       "kakao_summary": "[NuScale US460 SDA] / FSER 발행 완료 / COL 미발급 / 근거: ML25129A004 | Standard Design Approval SDA for the NuScale US460 Power Plant Design / 최근 활동: 최근 NuScale은 보호 시스템 설계 관련 심사보고서 보충본을 제출하고 감사 질의에 대한 RAI 답변 다수를 제출하였으며, 비공개 정보 보호 요청도 이루어졌습니다. / 단계: 사전신청 452 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
     },
     {
@@ -237,6 +399,33 @@
         ]
       },
       "stage_signal_line": "사전신청 163 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]",
+      "recent_documents": [
+        {
+          "accession_number": "ML26173A195",
+          "date": "2026-07-01",
+          "title": "NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical Report, Oklo-2025-RX-R012-A, \"Principal Design Criteria"
+        },
+        {
+          "accession_number": "ML26173A194",
+          "date": "2026-07-01",
+          "title": "Email - NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical Report, Oklo-2025-RX-R012-A, \"Principal Design "
+        },
+        {
+          "accession_number": "ML26173A203",
+          "date": "2026-07-01",
+          "title": "RE_ Question regarding -A versions for \"Principal Design Criteria for the Aurora Powerhouse,\" Revision 1"
+        },
+        {
+          "accession_number": "ML26173A186",
+          "date": "2026-06-30",
+          "title": "NRC Form 897 - Request for Withholding from Public Disclosure - Oklo Inc. Topical Report, Oklo-2025-RX-R012-A, \"Principa"
+        },
+        {
+          "accession_number": "ML26173A185",
+          "date": "2026-06-30",
+          "title": "Email - NRC Form 897 - Request for Withholding from Public Disclosure - Oklo Inc. Topical Report, Oklo-2025-RX-R012-A, \""
+        }
+      ],
       "kakao_summary": "[Oklo Aurora Powerhouse] / 기존 신청 거부 / COL 신청이 거부되었으며, 면허 발급 이력 없음 / ⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: Oklo가 Aurora Powerhouse 주요 설계 기준 토피컬 보고서(Rev. 1)를 제출하고, NRC가 이를 검토·접수하며 비공개 요청 및 인허가 프로젝트 계획 업데이트도 함께 이루어졌습니다. / 단계: 사전신청 163 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]"
     },
     {
@@ -269,6 +458,33 @@
         ]
       },
       "stage_signal_line": "사전신청 20 | 신청접수 13 | 기술검토 13 | 초안 SE 0 | 최종 1 [신청 철회]",
+      "recent_documents": [
+        {
+          "accession_number": "ML26008A028",
+          "date": "2026-02-04",
+          "title": "Response to CPA Withdrawal Letter"
+        },
+        {
+          "accession_number": "ML26008A029",
+          "date": "2026-01-29",
+          "title": "FRN CPA Withdrawn"
+        },
+        {
+          "accession_number": "ML25353A630",
+          "date": "2026-01-02",
+          "title": "Meitner-1 Construction Permit Application Withdrawal Following Atomic Alchem's Slection for the Department of Energy's R"
+        },
+        {
+          "accession_number": "ML25325A231",
+          "date": "2025-12-02",
+          "title": "2025/11/21 NRR E-mail Capture - Atomic Alchemy Operators LLC - Acknowledgement of Receipt of the First Part of Construct"
+        },
+        {
+          "accession_number": "ML25255A200",
+          "date": "2025-11-20",
+          "title": "Atomic Alchemy, Inc., Construction Permit Application for the Meitner-1 Non-Power Production or Utilization Facility"
+        }
+      ],
       "kakao_summary": "[Atomic Alchemy Meitner-1] / 인허가 신청 철회 / 근거: ML25353A630 | Meitner-1 Construction Permit Application Withdrawal Following Atomic  / 표기된 최고 단계는 과거 도달 단계이며, 현재 신청은 철회 상태. / 최근 활동: Atomic Alchemy는 2025년 11월 Meitner-1 건설허가 신청서를 제출하였으나, 2026년 1월 DOE 원자로 파일럿 프로그램 선정을 이유로 해당 신청을 철회하였습니다. / 단계: 사전신청 20 | 신청접수 13 | 기술검토 13 | 초안 SE 0 | 최종 1 [신청 철회]"
     },
     {
@@ -301,6 +517,33 @@
         ]
       },
       "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML26177A276",
+          "date": "2026-07-06",
+          "title": "2026/06/23 - Comment (1) E-mail regarding Pioneer 1 & 2 EIS Scoping"
+        },
+        {
+          "accession_number": "ML26161A005",
+          "date": "2026-07-01",
+          "title": "Ltr to R. Schumaker, MI SHPO - Holtec SMR 300 CP and LWA - S106 Initiation Letter"
+        },
+        {
+          "accession_number": "ML26161A004",
+          "date": "2026-07-01",
+          "title": "Letter to J. Loichinger, ACHP - Holtec SMR 300 CP and LWA - S106 Initiation Letter"
+        },
+        {
+          "accession_number": "ML26176A382",
+          "date": "2026-06-26",
+          "title": "Letter to Whitney B. Gravelle, Bay Mills Indian Community - Holtec SMR 300 CP and LWA - S106 Initiation Letter"
+        },
+        {
+          "accession_number": "ML26176A381",
+          "date": "2026-06-26",
+          "title": "Letter to Virgil Wind, Mille Lacs Band of Ojibwe - Holtec SMR 300 CP and LWA - S106 Initiation Letter"
+        }
+      ],
       "kakao_summary": "[Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)] / NRC 기술검토 중 / 최근 활동: NRC가 Holtec SMR-300 CP·LWA 관련 국가역사보존법 106조 협의 개시 서한을 여러 원주민 부족 및 관련 기관에 발송하였고, EIS 범위 설정에 대한 공개 의견도 접수되었다. / 단계: 사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0"
     }
   ]
