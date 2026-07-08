@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T00:23:07Z",
+  "generated_at": "2026-07-08T01:50:29Z",
   "last_checked": "2026-07-08",
-  "total_docs": 8310,
+  "total_docs": 8314,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -180,6 +180,56 @@
         }
       ],
       "kakao_summary": "[BWRX-300 / Clinch River Unit 1] / FSER 발행 완료 / CP 미발급 / 근거: ML26168A505 | FSER, TVA Construction Permit Application (Clinch River Nuclear Site,  / 최근 활동: TVA 클린치 리버 원자력 부지 1호기 건설허가 신청에 대한 최종안전평가보고서(FSER)가 발급되고 연방관보에 청문회 공고가 게재되었습니다. / 단계: 사전신청 58 | 신청접수 14 | 기술검토 13 | 초안 SE 0 | 최종 15 [현재]"
+    },
+    {
+      "id": "bwrx300_aep_rockport",
+      "name": "BWRX-300 / AEP Rockport (Indiana Michigan Power)",
+      "total_docs": 4,
+      "doc_date_range": {
+        "earliest": "2026-05-07",
+        "latest": "2026-07-07"
+      },
+      "track_labels": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "판단 불가 — 단계 신호 문서 없음",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "AEP의 고급 원자력 프로젝트 2를 위해 NEPA 문서 파일럿 프로그램 참여 및 규제 초기 활동 관련 서한과 선서서가 접수되었습니다.",
+        "evidence": [
+          "ML26177A167 | 2026-07-07 | Response Letter to Acknowledgement of Interest in Applicant-Prepared N",
+          "ML26160A348 | 2026-06-18 | Advanced Nuclear Power Project Two, Acknowledgment of Interest in Appl",
+          "ML26119A910 | 2026-05-07 | Enclosure 1: Affidavit",
+          "ML26119A911 | 2026-05-07 | Enclosure 2: AEP-ND-2026-002: Regulatory Engagement Plant Initial Acti"
+        ]
+      },
+      "stage_signal_line": "사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML26177A167",
+          "date": "2026-07-07",
+          "title": "Response Letter to Acknowledgement of Interest in Applicant-Prepared National Environmental Policy Act Document Pilot Pr"
+        },
+        {
+          "accession_number": "ML26160A348",
+          "date": "2026-06-18",
+          "title": "Advanced Nuclear Power Project Two, Acknowledgment of Interest in Applicant Prepared NEPA Document Pilot Program (Docket"
+        },
+        {
+          "accession_number": "ML26119A910",
+          "date": "2026-05-07",
+          "title": "Enclosure 1: Affidavit"
+        },
+        {
+          "accession_number": "ML26119A911",
+          "date": "2026-05-07",
+          "title": "Enclosure 2: AEP-ND-2026-002: Regulatory Engagement Plant Initial Activities for AEP Advanced Nuclear Project Two"
+        }
+      ],
+      "kakao_summary": "[BWRX-300 / AEP Rockport (Indiana Michigan Power)] / 판단 불가 — 단계 신호 문서 없음 / 최근 활동: AEP의 고급 원자력 프로젝트 2를 위해 NEPA 문서 파일럿 프로그램 참여 및 규제 초기 활동 관련 서한과 선서서가 접수되었습니다. / 단계: 사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
     },
     {
       "id": "terrapower_natrium_kemmerer",
