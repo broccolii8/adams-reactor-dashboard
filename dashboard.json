@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T01:50:29Z",
+  "generated_at": "2026-07-08T04:50:58Z",
   "last_checked": "2026-07-08",
-  "total_docs": 8314,
+  "total_docs": 8901,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -592,6 +592,402 @@
         }
       ],
       "kakao_summary": "[Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)] / NRC 기술검토 중 / 최근 활동: NRC가 Holtec SMR-300 CP·LWA 관련 국가역사보전법 106조 절차를 개시하며 여러 부족·기관에 통보하고, EIS 스코핑 의견 및 SHPO의 고고학·건축 조사 동의서가 접수되었다. / 단계: 사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0"
+    },
+    {
+      "id": "aalo_atomics_aalox",
+      "name": "Aalo Atomics Aalo-X",
+      "total_docs": 40,
+      "doc_date_range": {
+        "earliest": "2024-07-11",
+        "latest": "2026-06-24"
+      },
+      "track_labels": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "사전신청 단계",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
+      "recent_activity": {
+        "comment": "최근 Aalo-1의 열스펙트럼 재료 과제 관련 회의가 2026년 6월 24일에 개최되었으며, 이에 앞서 CAF 최종 설계 검토 및 QAPD 안전 평가 관련 문서도 제출되었습니다.",
+        "evidence": [
+          "ML26175A267 | 2026-06-24 | Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026",
+          "ML26174A022 | 2026-06-23 | Aalo-1 Thermal Spectrum Materials Challenges- Public",
+          "ML26166A042 | 2026-06-15 | Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026",
+          "ML26161A356 | 2026-06-10 | Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026",
+          "ML26078A140 | 2026-05-07 | Letter - NRC Staff Observations on Aalo CAF Final Design Review and PD",
+          "ML26085A030 | 2026-05-07 | Enclosure 1 - NRC Observations on Aalo CAF Final Design Review and PDS",
+          "ML26117A142 | 2026-05-06 | Enclosure - Aalo QAPD Topical Report Safety Evaluation"
+        ]
+      },
+      "stage_signal_line": "사전신청 16 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML26175A267",
+          "date": "2026-06-24",
+          "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026"
+        },
+        {
+          "accession_number": "ML26174A022",
+          "date": "2026-06-23",
+          "title": "Aalo-1 Thermal Spectrum Materials Challenges- Public"
+        },
+        {
+          "accession_number": "ML26166A042",
+          "date": "2026-06-15",
+          "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026"
+        },
+        {
+          "accession_number": "ML26161A356",
+          "date": "2026-06-10",
+          "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026"
+        },
+        {
+          "accession_number": "ML26131A191",
+          "date": "2026-05-11",
+          "title": "E-mail - Aalo Holdings, Inc - Request to Withhold Information from Public Disclosure"
+        }
+      ],
+      "kakao_summary": "[Aalo Atomics Aalo-X] / 사전신청 단계 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: 최근 Aalo-1의 열스펙트럼 재료 과제 관련 회의가 2026년 6월 24일에 개최되었으며, 이에 앞서 CAF 최종 설계 검토 및 QAPD 안전 평가 관련 문서도 제출되었습니다. / 단계: 사전신청 16 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+    },
+    {
+      "id": "antares_nuclear_mark0",
+      "name": "Antares Nuclear Mark-0",
+      "total_docs": 4,
+      "doc_date_range": {
+        "earliest": "2025-08-08",
+        "latest": "2025-11-24"
+      },
+      "track_labels": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "판단 불가 — 단계 신호 문서 없음",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "Antares Nuclear, Inc.가 사전 신청 참여 계획을 제출하고 프로젝트 번호를 배정받았으며, 제출 자료의 영업비밀 보호 요청 및 선서진술서가 접수되었습니다.",
+        "evidence": [
+          "ML25269A181 | 2025-11-24 | Request For Withholding Proprietary Information Antares, Inc., Regulat",
+          "ML25219A163 | 2025-08-22 | Antares Nuclear, Inc.,  Assignment Of Project Number and Explanation o",
+          "ML25212A105 | 2025-08-08 | Antares Nuclear, Inc., Submittal of Pre-Application Engagement Plan",
+          "ML25212A106 | 2025-08-08 | Enclosure 1: Antares Proprietary Affidavit, GC-25-01"
+        ]
+      },
+      "stage_signal_line": "사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML25269A181",
+          "date": "2025-11-24",
+          "title": "Request For Withholding Proprietary Information Antares, Inc., Regulatory Engagement Plan Submitted On July 25, 2025"
+        },
+        {
+          "accession_number": "ML25219A163",
+          "date": "2025-08-22",
+          "title": "Antares Nuclear, Inc.,  Assignment Of Project Number and Explanation of Billing and Fees"
+        },
+        {
+          "accession_number": "ML25212A105",
+          "date": "2025-08-08",
+          "title": "Antares Nuclear, Inc., Submittal of Pre-Application Engagement Plan"
+        },
+        {
+          "accession_number": "ML25212A106",
+          "date": "2025-08-08",
+          "title": "Enclosure 1: Antares Proprietary Affidavit, GC-25-01"
+        }
+      ],
+      "kakao_summary": "[Antares Nuclear Mark-0] / 판단 불가 — 단계 신호 문서 없음 / 최근 활동: Antares Nuclear, Inc.가 사전 신청 참여 계획을 제출하고 프로젝트 번호를 배정받았으며, 제출 자료의 영업비밀 보호 요청 및 선서진술서가 접수되었습니다. / 단계: 사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+    },
+    {
+      "id": "deep_fission_gravity",
+      "name": "Deep Fission Gravity Reactor",
+      "total_docs": 22,
+      "doc_date_range": {
+        "earliest": "2024-06-04",
+        "latest": "2026-06-05"
+      },
+      "track_labels": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "사전신청 단계",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "Deep Fission은 중력 반응로 개념 설계 백서와 NRC 규제 참여 계획을 제출하고, NRC와 전자 참조 포털 접근 협약을 체결했으며 DOE 인허가 활동에 대한 감사 계획도 수립되었습니다.",
+        "evidence": [
+          "ML26148A339 | 2026-06-05 | Deep Fission - Electronic Reference Portal Information Access Agreemen",
+          "ML26148A254 | 2026-05-28 | Plan for an Observation Audit of the DOE Authorization Activities for ",
+          "ML26133A255 | 2026-05-21 | Electronic Reference Portal Information Access Agreement Between the N",
+          "ML26112A158 | 2026-04-30 | Deep Fission, Inc., Submittal of Deep Fission, Inc., White Paper, \"Con",
+          "ML26112A159 | 2026-04-30 | Deep Fission, Inc., Conceptual Design Description of the Gravity React",
+          "ML26111A382 | 2026-04-29 | Enclosure: DF-LIC-PLN-001, Rev. 0, NRC Regulatory Engagement Plan",
+          "ML26111A381 | 2026-04-29 | Submittal of Deep Fission, Inc., \"NRC Regulatory Engagement Plan,\" DF-"
+        ]
+      },
+      "stage_signal_line": "사전신청 7 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML26148A339",
+          "date": "2026-06-05",
+          "title": "Deep Fission - Electronic Reference Portal Information Access Agreement"
+        },
+        {
+          "accession_number": "ML26148A254",
+          "date": "2026-05-28",
+          "title": "Plan for an Observation Audit of the DOE Authorization Activities for the Deep Fission Gravity Reactor"
+        },
+        {
+          "accession_number": "ML26133A255",
+          "date": "2026-05-21",
+          "title": "Electronic Reference Portal Information Access Agreement Between the Nuclear Regulatory Commission and Deep Fission"
+        },
+        {
+          "accession_number": "ML26112A158",
+          "date": "2026-04-30",
+          "title": "Deep Fission, Inc., Submittal of Deep Fission, Inc., White Paper, \"Conceptual Design Review of the Gravity Reactor,\" DF-"
+        },
+        {
+          "accession_number": "ML26112A159",
+          "date": "2026-04-30",
+          "title": "Deep Fission, Inc., Conceptual Design Description of the Gravity Reactor"
+        }
+      ],
+      "kakao_summary": "[Deep Fission Gravity Reactor] / 사전신청 단계 / 최근 활동: Deep Fission은 중력 반응로 개념 설계 백서와 NRC 규제 참여 계획을 제출하고, NRC와 전자 참조 포털 접근 협약을 체결했으며 DOE 인허가 활동에 대한 감사 계획도 수립되었습니다. / 단계: 사전신청 7 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+    },
+    {
+      "id": "last_energy_pwr20",
+      "name": "Last Energy PWR-20",
+      "total_docs": 14,
+      "doc_date_range": {
+        "earliest": "2025-02-11",
+        "latest": "2026-04-30"
+      },
+      "track_labels": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "사전신청 단계",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "NRC와 Last Energy 간 밀폐 격납 백서 검토, 환경 보고서 공개 회의, 기술 사전 신청 회의 등 기술·행정 교류가 활발히 진행되었습니다.",
+        "evidence": [
+          "ML26120A094 | 2026-04-30 | 06/11/2026 NRC-Last Energy initial technical pre-application meeting [",
+          "ML25163A036 | 2025-06-25 | NRC Feedback on Last Energy White Paper Hermetically Sealed Containmen",
+          "ML25146A001 | 2025-06-03 | Last Energy White Paper: Hermetically Sealed Containment, Revision 1",
+          "ML25108A002 | 2025-05-07 | 04/09/2025 Summary of Public Meeting with Last Energy to Hear Progress",
+          "ML25106A008 | 2025-05-06 | Last Energy Containment White Paper Feedback Letter."
+        ]
+      },
+      "stage_signal_line": "사전신청 5 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML26120A094",
+          "date": "2026-04-30",
+          "title": "06/11/2026 NRC-Last Energy initial technical pre-application meeting [closed]"
+        },
+        {
+          "accession_number": "ML25357A046",
+          "date": "2025-12-29",
+          "title": "Project Manager Reassignment - Last Energy December 2025."
+        },
+        {
+          "accession_number": "ML25163A036",
+          "date": "2025-06-25",
+          "title": "NRC Feedback on Last Energy White Paper Hermetically Sealed Containment Revision 1"
+        },
+        {
+          "accession_number": "ML25153A043",
+          "date": "2025-06-12",
+          "title": "Project Manager Reassignment - Last Energy, June 2025"
+        },
+        {
+          "accession_number": "ML25146A001",
+          "date": "2025-06-03",
+          "title": "Last Energy White Paper: Hermetically Sealed Containment, Revision 1"
+        }
+      ],
+      "kakao_summary": "[Last Energy PWR-20] / 사전신청 단계 / 최근 활동: NRC와 Last Energy 간 밀폐 격납 백서 검토, 환경 보고서 공개 회의, 기술 사전 신청 회의 등 기술·행정 교류가 활발히 진행되었습니다. / 단계: 사전신청 5 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+    },
+    {
+      "id": "natura_resources_acu_msrr",
+      "name": "Natura Resources / Abilene Christian University MSRR (MSR-1)",
+      "total_docs": 225,
+      "doc_date_range": {
+        "earliest": "2020-07-31",
+        "latest": "2026-06-24"
+      },
+      "track_labels": [
+        "Part 50 (CP/OL)"
+      ],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "CP 발급 완료",
+        "bullets": [
+          "2024년 9월 건설허가(CP)가 공식 발급되었습니다.",
+          "근거: ML24243A040 | Abilene Christian University, Construction Permit for the Molten Salt "
+        ],
+        "note_lines": []
+      },
+      "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
+      "recent_activity": {
+        "comment": "Natura Resources가 품질보증 프로그램 설명서를 NRC에 제출하고 온라인 포털 접근 협약을 체결하는 등 규제 참여 활동을 이어가고 있습니다.",
+        "evidence": [
+          "ML26166A407 | 2026-06-24 | Natura Resources - Letter Transmitting Quality Assurance Program Descr",
+          "ML26166A408 | 2026-06-24 | Natura Resources - Quality Assurance Program Description",
+          "ML26111A436 | 2026-04-22 | Enclosure - Natura Resources LLC and U.S NRC Online Portal Agreement",
+          "ML26085A006 | 2026-04-22 | Letter - Natura Resources LLC - Online Portal Information Access Agree"
+        ]
+      },
+      "stage_signal_line": "사전신청 40 | 신청접수 9 | 기술검토 11 | 초안 SE 0 | 최종 2 [현재]",
+      "recent_documents": [
+        {
+          "accession_number": "ML26166A407",
+          "date": "2026-06-24",
+          "title": "Natura Resources - Letter Transmitting Quality Assurance Program Description"
+        },
+        {
+          "accession_number": "ML26166A408",
+          "date": "2026-06-24",
+          "title": "Natura Resources - Quality Assurance Program Description"
+        },
+        {
+          "accession_number": "ML26111A436",
+          "date": "2026-04-22",
+          "title": "Enclosure - Natura Resources LLC and U.S NRC Online Portal Agreement"
+        },
+        {
+          "accession_number": "ML26085A006",
+          "date": "2026-04-22",
+          "title": "Letter - Natura Resources LLC - Online Portal Information Access Agreement"
+        },
+        {
+          "accession_number": "ML26072A237",
+          "date": "2026-03-23",
+          "title": "Abilene Christian University Molten Salt Research Reactor Degradation Management Program Semiannual Status Update"
+        }
+      ],
+      "kakao_summary": "[Natura Resources / Abilene Christian University MSRR (MSR-1)] / CP 발급 완료 / 2024년 9월 건설허가(CP)가 공식 발급되었습니다. / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: Natura Resources가 품질보증 프로그램 설명서를 NRC에 제출하고 온라인 포털 접근 협약을 체결하는 등 규제 참여 활동을 이어가고 있습니다. / 단계: 사전신청 40 | 신청접수 9 | 기술검토 11 | 초안 SE 0 | 최종 2 [현재]"
+    },
+    {
+      "id": "radiant_industries_kaleidos",
+      "name": "Radiant Industries Kaleidos",
+      "total_docs": 94,
+      "doc_date_range": {
+        "earliest": "2022-10-06",
+        "latest": "2026-07-01"
+      },
+      "track_labels": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "NRC 기술검토 중",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
+      "recent_activity": {
+        "comment": "NRC의 환경 검토 관련 추가정보 요청(RAI)에 대해 Radiant가 환경보고서 개정본과 함께 답변서를 제출하였습니다.",
+        "evidence": [
+          "ML26181A043 | 2026-07-01 | Radiant - Environmental RAI Response to NRC letter dated June 24, 2026",
+          "ML26181A047 | 2026-07-01 | Enclosure 2: Radiant Response to NRC Environmental Request for Additio",
+          "ML26181A045 | 2026-07-01 | Enclosure 3: Environmental Report Radiant R-50 Site Oak Ridge, TN (Pub",
+          "ML26168A520 | 2026-06-26 | Request For Additional Information For Environmental Review Of The Rad",
+          "ML26168A519 | 2026-06-26 | Radiant Special Nuclear Material License Environmental RAI - Enclosure"
+        ]
+      },
+      "stage_signal_line": "사전신청 22 | 신청접수 4 | 기술검토 3 [현재] | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML26181A043",
+          "date": "2026-07-01",
+          "title": "Radiant - Environmental RAI Response to NRC letter dated June 24, 2026, to R-50 Special Nuclear Materials License Applic"
+        },
+        {
+          "accession_number": "ML26181A047",
+          "date": "2026-07-01",
+          "title": "Enclosure 2: Radiant Response to NRC Environmental Request for Additional Information"
+        },
+        {
+          "accession_number": "ML26181A045",
+          "date": "2026-07-01",
+          "title": "Enclosure 3: Environmental Report Radiant R-50 Site Oak Ridge, TN (Public)"
+        },
+        {
+          "accession_number": "ML26181A044",
+          "date": "2026-07-01",
+          "title": "Enclosure 1: Affidavit for Withholding Proprietary Information"
+        },
+        {
+          "accession_number": "ML26168A520",
+          "date": "2026-06-26",
+          "title": "Request For Additional Information For Environmental Review Of The Radiant R-50 Special Nuclear Material License Applica"
+        }
+      ],
+      "kakao_summary": "[Radiant Industries Kaleidos] / NRC 기술검토 중 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: NRC의 환경 검토 관련 추가정보 요청(RAI)에 대해 Radiant가 환경보고서 개정본과 함께 답변서를 제출하였습니다. / 단계: 사전신청 22 | 신청접수 4 | 기술검토 3 [현재] | 초안 SE 0 | 최종 0"
+    },
+    {
+      "id": "terrestrial_energy_imsr",
+      "name": "Terrestrial Energy IMSR (Project TETRA)",
+      "total_docs": 188,
+      "doc_date_range": {
+        "earliest": "2019-12-18",
+        "latest": "2026-05-15"
+      },
+      "track_labels": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "사전신청 단계",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
+      "recent_activity": {
+        "comment": "IMSR 포스튤레이티드 개시사건(PIE) 토피컬 리포트에 대한 규제 감사 및 최종 안전평가가 완료되었고, 심층방어 전략 토피컬 리포트와 규제계획 비공개 정보 처리 요청도 제출되었습니다.",
+        "evidence": [
+          "ML26113A374 | 2026-05-01 | Topical Report TR 251024, \"Strategy for Establishing Defense in Depth ",
+          "ML26119A831 | 2026-04-30 | Email - Update on Schedule for PIE Topical Report",
+          "ML26110A298 | 2026-04-29 | TEUSA IMSR PIE TR FINAL SE Cover Letter",
+          "ML26117A170 | 2026-04-29 | Enclosure 1 TEUSA IMSR PIE TR Final SE (Public)",
+          "ML26098A167 | 2026-04-28 | Enclosure TEUSA Audit Report for PIE Topical Report RevC",
+          "ML26098A169 | 2026-04-28 | Terrestrial Energy USA, Inc., Report For The Regulatory Audit Of The T",
+          "ML26091A372 | 2026-05-15 | Request for Withholding Proprietary Information Terrestrial Energy Reg"
+        ]
+      },
+      "stage_signal_line": "사전신청 55 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML26091A372",
+          "date": "2026-05-15",
+          "title": "Request for Withholding Proprietary Information Terrestrial Energy Regulatory Plan Version 9 Submitted on March 17, 2026"
+        },
+        {
+          "accession_number": "ML26113A374",
+          "date": "2026-05-01",
+          "title": "Topical Report TR 251024, \"Strategy for Establishing Defense in Depth for IMSR Structures Systems, and Components,\" Revi"
+        },
+        {
+          "accession_number": "ML26119A831",
+          "date": "2026-04-30",
+          "title": "Email - Update on Schedule for PIE Topical Report"
+        },
+        {
+          "accession_number": "ML26110A298",
+          "date": "2026-04-29",
+          "title": "TEUSA IMSR PIE TR FINAL SE Cover Letter"
+        },
+        {
+          "accession_number": "ML26117A170",
+          "date": "2026-04-29",
+          "title": "Enclosure 1 TEUSA IMSR PIE TR Final SE (Public)"
+        }
+      ],
+      "kakao_summary": "[Terrestrial Energy IMSR (Project TETRA)] / 사전신청 단계 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: IMSR 포스튤레이티드 개시사건(PIE) 토피컬 리포트에 대한 규제 감사 및 최종 안전평가가 완료되었고, 심층방어 전략 토피컬 리포트와 규제계획 비공개 정보 처리 요청도 제출되었습니다. / 단계: 사전신청 55 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
     }
   ]
 }
