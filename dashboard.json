@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09T23:35:12Z",
+  "generated_at": "2026-07-09T23:45:35Z",
   "last_checked": "2026-07-09",
-  "total_docs": 8904,
+  "total_docs": 8966,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -612,6 +612,61 @@
         }
       ],
       "kakao_summary": "[Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)] / NRC 기술검토 중 / 최근 활동: NRC가 Holtec SMR-300 CP·LWA 관련 Section 106 절차를 개시하며 ACHP, Michigan SHPO, 여러 원주민 부족에 통보 서한을 발송하고 EIS 범위 설정 의견도 접수되었습니다. / 단계: 사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0"
+    },
+    {
+      "id": "xenergy_xenith",
+      "name": "X-energy XENITH",
+      "total_docs": 63,
+      "doc_date_range": {
+        "earliest": "2023-11-20",
+        "latest": "2026-07-09"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "사전신청 단계",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "X-energy가 XENITH 관련 분석 방법(Rev.3), 주요 설계 기준(Rev.5), 파라메트릭 선원항(Rev.2) 세 건의 인허가 토피컬 보고서를 NRC에 제출하였습니다.",
+        "evidence": [
+          "ML26181A206 | 2026-07-09 | Submittal of X Energy, LLC (X-energy) XENITH Topical Report, Analytica",
+          "ML26181A259 | 2026-07-09 | Submittal of X-Energy, LLC (X-energy) XENITH Topical Report, Principal",
+          "ML26181A310 | 2026-07-09 | Submittal of X Energy, LLC (X-Energy) XENITH Topical Report on Paramet"
+        ]
+      },
+      "stage_signal_line": "사전신청 12 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML26181A206",
+          "date": "2026-07-09",
+          "title": "Submittal of X Energy, LLC (X-energy) XENITH Topical Report, Analytical Methods, Revision 3"
+        },
+        {
+          "accession_number": "ML26181A312",
+          "date": "2026-07-09",
+          "title": "Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)"
+        },
+        {
+          "accession_number": "ML26181A259",
+          "date": "2026-07-09",
+          "title": "Submittal of X-Energy, LLC (X-energy) XENITH Topical Report, Principal Design Criteria, Revision 5"
+        },
+        {
+          "accession_number": "ML26181A207",
+          "date": "2026-07-09",
+          "title": "Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)"
+        },
+        {
+          "accession_number": "ML26181A208",
+          "date": "2026-07-09",
+          "title": "Enclosure 2: MRA-00-412-RPT-2000526, Rev. 3, \"XENITH Analytical Methods Licensing Topical Report\" - Redacted"
+        }
+      ],
+      "kakao_summary": "[X-energy XENITH] / 사전신청 단계 / 최근 활동: X-energy가 XENITH 관련 분석 방법(Rev.3), 주요 설계 기준(Rev.5), 파라메트릭 선원항(Rev.2) 세 건의 인허가 토피컬 보고서를 NRC에 제출하였습니다. / 단계: 사전신청 12 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
     },
     {
       "id": "aalo_atomics_aalox",
