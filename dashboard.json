@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T04:50:58Z",
-  "last_checked": "2026-07-08",
-  "total_docs": 8901,
+  "generated_at": "2026-07-09T03:32:01Z",
+  "last_checked": "2026-07-09",
+  "total_docs": 8904,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -417,10 +417,10 @@
     {
       "id": "oklo_aurora",
       "name": "Oklo Aurora Powerhouse",
-      "total_docs": 500,
+      "total_docs": 501,
       "doc_date_range": {
         "earliest": "2018-02-27",
-        "latest": "2026-07-01"
+        "latest": "2026-07-08"
       },
       "track_labels": [],
       "track_caveat": null,
@@ -436,17 +436,20 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "Oklo가 Aurora Powerhouse 주요 설계 기준 토피컬 보고서(Rev. 1)를 제출하고, NRC가 이를 검토·접수하며 비공개 요청 및 인허가 프로젝트 계획 업데이트도 함께 이루어졌습니다.",
+        "comment": "Oklo Aurora Powerhouse 관련 주설계기준 토피컬보고서 비공개 요청 및 검증, 인허가 프로젝트 계획 Q3 업데이트 제출 등 인허가 절차가 진행되었습니다.",
         "evidence": [
-          "ML26132A434 | 2026-06-23 | Oklo, Inc., Principal Design Criteria for the Aurora Powerhouse, Topic",
           "ML26173A195 | 2026-07-01 | NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical Repor",
-          "ML26173A194 | 2026-07-01 | Email - NRC Form 896 -A Topical Report Verification of Oklo Inc. Topic",
           "ML26173A186 | 2026-06-30 | NRC Form 897 - Request for Withholding from Public Disclosure - Oklo I",
           "ML26178A002 | 2026-06-29 | Oklo, Inc., Letter Submitting Licensing Project Plan for Aurora Powerh"
         ]
       },
       "stage_signal_line": "사전신청 163 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]",
       "recent_documents": [
+        {
+          "accession_number": "ML26176A496",
+          "date": "2026-07-08",
+          "title": "Withholding Proprietary Information From Public Disclosure - Oklo, Inc. Slides For The May 7, 2026, Meeting On Oklo's Au"
+        },
         {
           "accession_number": "ML26173A195",
           "date": "2026-07-01",
@@ -466,14 +469,9 @@
           "accession_number": "ML26173A186",
           "date": "2026-06-30",
           "title": "NRC Form 897 - Request for Withholding from Public Disclosure - Oklo Inc. Topical Report, Oklo-2025-RX-R012-A, \"Principa"
-        },
-        {
-          "accession_number": "ML26173A185",
-          "date": "2026-06-30",
-          "title": "Email - NRC Form 897 - Request for Withholding from Public Disclosure - Oklo Inc. Topical Report, Oklo-2025-RX-R012-A, \""
         }
       ],
-      "kakao_summary": "[Oklo Aurora Powerhouse] / 기존 신청 거부 / COL 신청이 거부되었으며, 면허 발급 이력 없음 / ⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: Oklo가 Aurora Powerhouse 주요 설계 기준 토피컬 보고서(Rev. 1)를 제출하고, NRC가 이를 검토·접수하며 비공개 요청 및 인허가 프로젝트 계획 업데이트도 함께 이루어졌습니다. / 단계: 사전신청 163 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]"
+      "kakao_summary": "[Oklo Aurora Powerhouse] / 기존 신청 거부 / COL 신청이 거부되었으며, 면허 발급 이력 없음 / ⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: Oklo Aurora Powerhouse 관련 주설계기준 토피컬보고서 비공개 요청 및 검증, 인허가 프로젝트 계획 Q3 업데이트 제출 등 인허가 절차가 진행되었습니다. / 단계: 사전신청 163 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]"
     },
     {
       "id": "atomic_alchemy_meitner1",
@@ -537,10 +535,10 @@
     {
       "id": "holtec_smr160",
       "name": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)",
-      "total_docs": 886,
+      "total_docs": 887,
       "doc_date_range": {
         "earliest": "2020-09-28",
-        "latest": "2026-07-07"
+        "latest": "2026-07-08"
       },
       "track_labels": [],
       "track_caveat": null,
@@ -551,20 +549,25 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "NRC가 Holtec SMR-300 CP·LWA 관련 국가역사보전법 106조 절차를 개시하며 여러 부족·기관에 통보하고, EIS 스코핑 의견 및 SHPO의 고고학·건축 조사 동의서가 접수되었다.",
+        "comment": "NRC가 Holtec SMR-300 CP·LWA 관련 Section 106 절차를 개시하며 ACHP, Michigan SHPO, 여러 원주민 부족에 통보 서한을 발송하고 EIS 범위 설정 의견도 접수되었습니다.",
         "evidence": [
+          "ML26189A345 | 2026-07-08 | Letter from J. Loichinger, ACHP, Regarding Palisades SMR, LLC's Phased",
           "ML26188A129 | 2026-07-07 | 6-30-25 Ltr from K. Kolokithas, Michigan SHPO to NRC Concurrence with ",
-          "ML26177A276 | 2026-07-06 | 2026/06/23 - Comment (1) E-mail regarding Pioneer 1 & 2 EIS Scoping",
           "ML26161A005 | 2026-07-01 | Ltr to R. Schumaker, MI SHPO - Holtec SMR 300 CP and LWA - S106 Initia",
           "ML26161A004 | 2026-07-01 | Letter to J. Loichinger, ACHP - Holtec SMR 300 CP and LWA - S106 Initi",
           "ML26176A382 | 2026-06-26 | Letter to Whitney B. Gravelle, Bay Mills Indian Community - Holtec SMR",
           "ML26176A381 | 2026-06-26 | Letter to Virgil Wind, Mille Lacs Band of Ojibwe - Holtec SMR 300 CP a",
           "ML26176A383 | 2026-06-26 | Letter to Winnay J. Wemigwase, Little Traverse Bay Bands of Odawa Indi",
-          "ML26176A369 | 2026-06-26 | Letter to Joey Awonohopay, Menominee Indian Tribe of Wisconsin - Holte"
+          "ML26177A276 | 2026-07-06 | 2026/06/23 - Comment (1) E-mail regarding Pioneer 1 & 2 EIS Scoping"
         ]
       },
       "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": [
+        {
+          "accession_number": "ML26189A345",
+          "date": "2026-07-08",
+          "title": "Letter from J. Loichinger, ACHP, Regarding Palisades SMR, LLC's Phased CP Application, Including a Limited Work Authoriz"
+        },
         {
           "accession_number": "ML26188A129",
           "date": "2026-07-07",
@@ -584,14 +587,9 @@
           "accession_number": "ML26161A004",
           "date": "2026-07-01",
           "title": "Letter to J. Loichinger, ACHP - Holtec SMR 300 CP and LWA - S106 Initiation Letter"
-        },
-        {
-          "accession_number": "ML26176A382",
-          "date": "2026-06-26",
-          "title": "Letter to Whitney B. Gravelle, Bay Mills Indian Community - Holtec SMR 300 CP and LWA - S106 Initiation Letter"
         }
       ],
-      "kakao_summary": "[Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)] / NRC 기술검토 중 / 최근 활동: NRC가 Holtec SMR-300 CP·LWA 관련 국가역사보전법 106조 절차를 개시하며 여러 부족·기관에 통보하고, EIS 스코핑 의견 및 SHPO의 고고학·건축 조사 동의서가 접수되었다. / 단계: 사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0"
+      "kakao_summary": "[Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)] / NRC 기술검토 중 / 최근 활동: NRC가 Holtec SMR-300 CP·LWA 관련 Section 106 절차를 개시하며 ACHP, Michigan SHPO, 여러 원주민 부족에 통보 서한을 발송하고 EIS 범위 설정 의견도 접수되었습니다. / 단계: 사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0"
     },
     {
       "id": "aalo_atomics_aalox",
@@ -878,10 +876,10 @@
     {
       "id": "radiant_industries_kaleidos",
       "name": "Radiant Industries Kaleidos",
-      "total_docs": 94,
+      "total_docs": 95,
       "doc_date_range": {
         "earliest": "2022-10-06",
-        "latest": "2026-07-01"
+        "latest": "2026-07-08"
       },
       "track_labels": [],
       "track_caveat": null,
@@ -892,8 +890,9 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "NRC의 환경 검토 관련 추가정보 요청(RAI)에 대해 Radiant가 환경보고서 개정본과 함께 답변서를 제출하였습니다.",
+        "comment": "NRC의 환경 검토 추가정보 요청에 Radiant가 환경보고서와 답변서를 제출하였고, 이후 역사·문화 평가 초안이 공개 검토용으로 추가 제출되었습니다.",
         "evidence": [
+          "ML26188A258 | 2026-07-08 | Radiant R-50 Special Nuclear Material License Application - DRAFT Hist",
           "ML26181A043 | 2026-07-01 | Radiant - Environmental RAI Response to NRC letter dated June 24, 2026",
           "ML26181A047 | 2026-07-01 | Enclosure 2: Radiant Response to NRC Environmental Request for Additio",
           "ML26181A045 | 2026-07-01 | Enclosure 3: Environmental Report Radiant R-50 Site Oak Ridge, TN (Pub",
@@ -903,6 +902,11 @@
       },
       "stage_signal_line": "사전신청 22 | 신청접수 4 | 기술검토 3 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": [
+        {
+          "accession_number": "ML26188A258",
+          "date": "2026-07-08",
+          "title": "Radiant R-50 Special Nuclear Material License Application - DRAFT Historic and Cultural Evaluation for Public Review"
+        },
         {
           "accession_number": "ML26181A043",
           "date": "2026-07-01",
@@ -922,14 +926,9 @@
           "accession_number": "ML26181A044",
           "date": "2026-07-01",
           "title": "Enclosure 1: Affidavit for Withholding Proprietary Information"
-        },
-        {
-          "accession_number": "ML26168A520",
-          "date": "2026-06-26",
-          "title": "Request For Additional Information For Environmental Review Of The Radiant R-50 Special Nuclear Material License Applica"
         }
       ],
-      "kakao_summary": "[Radiant Industries Kaleidos] / NRC 기술검토 중 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: NRC의 환경 검토 관련 추가정보 요청(RAI)에 대해 Radiant가 환경보고서 개정본과 함께 답변서를 제출하였습니다. / 단계: 사전신청 22 | 신청접수 4 | 기술검토 3 [현재] | 초안 SE 0 | 최종 0"
+      "kakao_summary": "[Radiant Industries Kaleidos] / NRC 기술검토 중 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: NRC의 환경 검토 추가정보 요청에 Radiant가 환경보고서와 답변서를 제출하였고, 이후 역사·문화 평가 초안이 공개 검토용으로 추가 제출되었습니다. / 단계: 사전신청 22 | 신청접수 4 | 기술검토 3 [현재] | 초안 SE 0 | 최종 0"
     },
     {
       "id": "terrestrial_energy_imsr",
