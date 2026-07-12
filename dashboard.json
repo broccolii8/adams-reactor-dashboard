@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-09T23:45:35Z",
-  "last_checked": "2026-07-09",
-  "total_docs": 8966,
+  "generated_at": "2026-07-12T23:01:04Z",
+  "last_checked": "2026-07-12",
+  "total_docs": 8968,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -363,10 +363,10 @@
     {
       "id": "nuscale_us460",
       "name": "NuScale US460 SDA",
-      "total_docs": 1201,
+      "total_docs": 1203,
       "doc_date_range": {
         "earliest": "2019-09-19",
-        "latest": "2026-06-05"
+        "latest": "2026-07-10"
       },
       "track_labels": [
         "Part 52 (COL)",
@@ -383,20 +383,29 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "최근 NuScale은 보호 시스템 설계 관련 심사보고서 보충본을 제출하고 감사 질의에 대한 RAI 답변 다수를 제출하였으며, 비공개 정보 보호 요청도 이루어졌습니다.",
+        "comment": "NuScale NPM-20 관련 EECS·ERO 토픽 보고서 일정 변경 이메일과 비공개 정보 보호 요청, RAI 응답 등 여러 인허가 문서가 제출되었습니다.",
         "evidence": [
-          "ML25353A608 | 2026-04-29 | NuScale Power, LLC Submittal of Topical Report Supplement Entitled \"Su",
+          "ML26177A241 | 2026-07-10 | 2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale EECS Topic",
+          "ML26177A240 | 2026-07-10 | 2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale ERO Topica",
+          "ML26142A075 | 2026-06-05 | 2026/05/22 NuScale NPM-20 - NuScale - Request for Withholding Informat",
+          "ML25246B399 | 2026-06-03 | Request for Withholding Information from Public Disclosure for NuScale",
           "ML26089A372 | 2026-04-10 | Response to NuScale Topical Report Audit Question No. A-ERO.LTR-08",
           "ML26089A376 | 2026-04-10 | Response to NuScale Topical Report Audit Question No. A-ERO.LTR-12",
-          "ML26089A375 | 2026-04-10 | Response to NuScale Topical Report Audit Question No. A-ERO.LTR-11",
-          "ML26089A373 | 2026-04-10 | Response to NuScale Topical Report Audit Question No. A-ERO.LTR-09",
-          "ML26089A377 | 2026-04-10 | Response to NuScale Topical Report Audit Question No. A-ERO.LTR-13",
-          "ML26142A075 | 2026-06-05 | 2026/05/22 NuScale NPM-20 - NuScale - Request for Withholding Informat",
-          "ML25246B399 | 2026-06-03 | Request for Withholding Information from Public Disclosure for NuScale"
+          "ML26089A375 | 2026-04-10 | Response to NuScale Topical Report Audit Question No. A-ERO.LTR-11"
         ]
       },
       "stage_signal_line": "사전신청 452 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]",
       "recent_documents": [
+        {
+          "accession_number": "ML26177A241",
+          "date": "2026-07-10",
+          "title": "2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale EECS Topical Report TR-182845"
+        },
+        {
+          "accession_number": "ML26177A240",
+          "date": "2026-07-10",
+          "title": "2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale ERO Topical Report TR-183101"
+        },
         {
           "accession_number": "ML26142A075",
           "date": "2026-06-05",
@@ -411,19 +420,9 @@
           "accession_number": "ML25353A608",
           "date": "2026-04-29",
           "title": "NuScale Power, LLC Submittal of Topical Report Supplement Entitled \"Supplement 1 to TR-1015-18653-P-A, \"Design of the Hi"
-        },
-        {
-          "accession_number": "ML26089A372",
-          "date": "2026-04-10",
-          "title": "Response to NuScale Topical Report Audit Question No. A-ERO.LTR-08"
-        },
-        {
-          "accession_number": "ML26089A376",
-          "date": "2026-04-10",
-          "title": "Response to NuScale Topical Report Audit Question No. A-ERO.LTR-12"
         }
       ],
-      "kakao_summary": "[NuScale US460 SDA] / FSER 발행 완료 / COL 미발급 / 근거: ML25129A004 | Standard Design Approval SDA for the NuScale US460 Power Plant Design / 최근 활동: 최근 NuScale은 보호 시스템 설계 관련 심사보고서 보충본을 제출하고 감사 질의에 대한 RAI 답변 다수를 제출하였으며, 비공개 정보 보호 요청도 이루어졌습니다. / 단계: 사전신청 452 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
+      "kakao_summary": "[NuScale US460 SDA] / FSER 발행 완료 / COL 미발급 / 근거: ML25129A004 | Standard Design Approval SDA for the NuScale US460 Power Plant Design / 최근 활동: NuScale NPM-20 관련 EECS·ERO 토픽 보고서 일정 변경 이메일과 비공개 정보 보호 요청, RAI 응답 등 여러 인허가 문서가 제출되었습니다. / 단계: 사전신청 452 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
     },
     {
       "id": "oklo_aurora",
