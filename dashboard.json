@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-12T23:01:04Z",
+  "generated_at": "2026-07-13T00:47:30Z",
   "last_checked": "2026-07-12",
-  "total_docs": 8968,
+  "total_docs": 11267,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -666,6 +666,178 @@
         }
       ],
       "kakao_summary": "[X-energy XENITH] / 사전신청 단계 / 최근 활동: X-energy가 XENITH 관련 분석 방법(Rev.3), 주요 설계 기준(Rev.5), 파라메트릭 선원항(Rev.2) 세 건의 인허가 토피컬 보고서를 NRC에 제출하였습니다. / 단계: 사전신청 12 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+    },
+    {
+      "id": "xenergy_trisox",
+      "name": "TRISO-X Fuel Fabrication Facility (TX-1)",
+      "total_docs": 2157,
+      "doc_date_range": {
+        "earliest": "2018-08-14",
+        "latest": "2026-06-12"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "NRC 최종 안전성평가(FSER/SER) 완료 — 실제 License 문서는 아직 미확인",
+        "bullets": [
+          "근거: ML25289A022 | 2026-02-23 11:13 | Enclosure 3 - Safety Evaluation Report for the TRISO X LLC. Fuel Fabrication Facility Lice"
+        ],
+        "note_lines": [
+          "⚠️ AI 판단과 불일치 — AI 의견: 인허가(CP/OL) 발급 확인, 확신도 high",
+          "AI 판단 사유: ML25289A030 문서 제목이 'NRC Issuance of License SNM-7007 for the TRISO-X, LLC. Fuel Fabrication Facility'로 면허 발급 자체를 명시하고 있으며, 동일 날짜에 ML25289A013(면허 본문 NRC Form 374)과 ML25289A022(Safety Evaluation Report)도 함께 등록되어 있어 SER 완료 후 면허가 발급된 것이 확인된다. 또한 2026-02-13에 Final EIS 발행, 2026-02-17에 Record of Decision, 2026-03-17에 Application Approval FRN이 순차적으로 등록되어 정상적인 인허가 절차가 완료되었음을 뒷받침한다."
+        ]
+      },
+      "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
+      "recent_activity": {
+        "comment": "TRISO-X 연료 제조 시설은 최근 라이선스 발급 승인, 환경 보고서 보완 제출, 점검 보고서 및 위반 사항 통보 등 인허가 후속 절차가 활발히 진행되고 있습니다.",
+        "evidence": [
+          "ML26152A036 | 2026-06-12 | TRISO-X, LLC - NRC Inspection Report 07007027/2026006 And Apparent Vio",
+          "ML26125A222 | 2026-05-11 | Triso-X Fuel Fabrication Facility Integrated Inspection Report 0700702",
+          "ML26029A122 | 2026-04-01 | TX0-REG-LTR-0105 ER Supplement Letter",
+          "ML26029A123 | 2026-04-01 | TX0-REG-LTR-0105 Enc1 ER Supplement",
+          "ML26029A124 | 2026-04-01 | TX0-REG-LTR-0105 Enc2 ER Updates",
+          "ML26056A053 | 2026-03-17 | TRISO-X Application Approval and License Issuance - FRN"
+        ]
+      },
+      "stage_signal_line": "사전신청 118 | 신청접수 9 | 기술검토 56 | 초안 SE 2 | 최종 2 [현재]",
+      "recent_documents": [
+        {
+          "accession_number": "ML26152A036",
+          "date": "2026-06-12",
+          "title": "TRISO-X, LLC - NRC Inspection Report 07007027/2026006 And Apparent Violation"
+        },
+        {
+          "accession_number": "ML26125A222",
+          "date": "2026-05-11",
+          "title": "Triso-X Fuel Fabrication Facility Integrated Inspection Report 07007027/2026001"
+        },
+        {
+          "accession_number": "ML26029A122",
+          "date": "2026-04-01",
+          "title": "TX0-REG-LTR-0105 ER Supplement Letter"
+        },
+        {
+          "accession_number": "ML26029A124",
+          "date": "2026-04-01",
+          "title": "TX0-REG-LTR-0105 Enc2 ER Updates"
+        },
+        {
+          "accession_number": "ML26029A123",
+          "date": "2026-04-01",
+          "title": "TX0-REG-LTR-0105 Enc1 ER Supplement"
+        }
+      ],
+      "kakao_summary": "[TRISO-X Fuel Fabrication Facility (TX-1)] / NRC 최종 안전성평가(FSER/SER) 완료 — 실제 License 문서는 아직 미확인 / 근거: ML25289A022 | 2026-02-23 11:13 | Enclosure 3 - Safety Evaluation Report for the TRISO X LLC. Fuel Fabrication Facility Lice / ⚠️ AI 판단과 불일치 — AI 의견: 인허가(CP/OL) 발급 확인, 확신도 high / AI 판단 사유: ML25289A030 문서 제목이 'NRC Issuance of License SNM-7007 for the TRISO-X, LLC. Fuel Fabrication Facility'로 면허 발급 자체를 명시하고 있으며, 동일 날짜에 ML25289A013(면허 본문 NRC Form 374)과 ML25289A022(Safety Evaluation Report)도 함께 등록되어 있어 SER 완료 후 면허가 발급된 것이 확인된다. 또한 2026-02-13에 Final EIS 발행, 2026-02-17에 Record of Decision, 2026-03-17에 Application Approval FRN이 순차적으로 등록되어 정상적인 인허가 절차가 완료되었음을 뒷받침한다. / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: TRISO-X 연료 제조 시설은 최근 라이선스 발급 승인, 환경 보고서 보완 제출, 점검 보고서 및 위반 사항 통보 등 인허가 후속 절차가 활발히 진행되고 …"
+    },
+    {
+      "id": "terrapower_natrium_fuel_facility",
+      "name": "Natrium Fuel Fabrication Facility (GNF-A)",
+      "total_docs": 11,
+      "doc_date_range": {
+        "earliest": "2021-10-19",
+        "latest": "2026-03-17"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "신청서 접수 단계",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "2026년 4월 NRC와 GNF-A 간 Natrium 프로젝트 현황 업데이트 회의가 예정되어 있습니다.",
+        "evidence": [
+          "ML26076A192 | 2026-03-17 | 04/08/2026 Meeting with Global Nuclear Fuels  Americas (GNF-A): Natriu"
+        ]
+      },
+      "stage_signal_line": "사전신청 6 | 신청접수 1 [현재] | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML26076A192",
+          "date": "2026-03-17",
+          "title": "04/08/2026 Meeting with Global Nuclear Fuels  Americas (GNF-A): Natrium Project Update"
+        },
+        {
+          "accession_number": "ML25108A155",
+          "date": "2025-05-01",
+          "title": "Summary of March 25, 2025 Closed Meeting with Global Nuclear Fuel - Americas Regarding Natrium Fuel Fabrication Facility"
+        },
+        {
+          "accession_number": "ML24156A203",
+          "date": "2024-06-05",
+          "title": "GNF-A Natrium Fuel Fabrication Facility Pre-Application - Meeting Slides"
+        },
+        {
+          "accession_number": "ML24155A203",
+          "date": "2024-06-03",
+          "title": "06/13/2024 Natrium Fuel License Amendment Request Pre-application call with GNF-A"
+        },
+        {
+          "accession_number": "ML24047A320",
+          "date": "2024-02-27",
+          "title": "01/30/2024 Summary of Closed Meeting Regarding Impacts of Potential Off-Specification Sources of HALEU on Planned NATRIU"
+        }
+      ],
+      "kakao_summary": "[Natrium Fuel Fabrication Facility (GNF-A)] / 신청서 접수 단계 / 최근 활동: 2026년 4월 NRC와 GNF-A 간 Natrium 프로젝트 현황 업데이트 회의가 예정되어 있습니다. / 단계: 사전신청 6 | 신청접수 1 [현재] | 기술검토 0 | 초안 SE 0 | 최종 0"
+    },
+    {
+      "id": "oklo_fuel_recycling",
+      "name": "Oklo Fuel Recycling Facility (Advanced Fuel Center)",
+      "total_docs": 131,
+      "doc_date_range": {
+        "earliest": "2022-12-30",
+        "latest": "2026-07-10"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "사전신청 단계",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "Oklo의 재처리 시설 인허가 전 사전 참여가 지속되고 있으며, 규제 접근법·물리적 보안·부지 요건 등을 논의하는 회의 및 문서 교환이 이루어졌습니다.",
+        "evidence": [
+          "ML26190A383 | 2026-07-10 | Oklo Pre-Licensing Engagement to Discuss Siting Requirements for a Rep",
+          "ML26107A254 | 2026-04-17 | 04/21/2026 Pre-Application Engagement for Feedback on Oklo Fuel Reproc",
+          "ML26070A133 | 2026-04-16 | 01/22/2026 Summary Pre-Application Meeting With Oklo, Inc., to Discuss",
+          "ML26058A468 | 2026-04-01 | 1.  Memorandum For Summary Of December 18, 2025, Pre-Licensing Meeting"
+        ]
+      },
+      "stage_signal_line": "사전신청 27 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": [
+        {
+          "accession_number": "ML26190A383",
+          "date": "2026-07-10",
+          "title": "Oklo Pre-Licensing Engagement to Discuss Siting Requirements for a Reprocessing Facility 07/29/2026"
+        },
+        {
+          "accession_number": "ML26110A103",
+          "date": "2026-04-24",
+          "title": "E-mail Forwarding Draft Observations (Public)"
+        },
+        {
+          "accession_number": "ML26110A104",
+          "date": "2026-04-24",
+          "title": "NRC-Oklo Signed Portal Agreement (Public)"
+        },
+        {
+          "accession_number": "ML26107A254",
+          "date": "2026-04-17",
+          "title": "04/21/2026 Pre-Application Engagement for Feedback on Oklo Fuel Reprocessing Section Drafts"
+        },
+        {
+          "accession_number": "ML26070A049",
+          "date": "2026-04-16",
+          "title": "Enclosure 1 - List of Attendees"
+        }
+      ],
+      "kakao_summary": "[Oklo Fuel Recycling Facility (Advanced Fuel Center)] / 사전신청 단계 / 최근 활동: Oklo의 재처리 시설 인허가 전 사전 참여가 지속되고 있으며, 규제 접근법·물리적 보안·부지 요건 등을 논의하는 회의 및 문서 교환이 이루어졌습니다. / 단계: 사전신청 27 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
     },
     {
       "id": "aalo_atomics_aalox",
