@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T00:47:30Z",
+  "generated_at": "2026-07-13T06:28:55Z",
   "last_checked": "2026-07-12",
   "total_docs": 11267,
   "reactors": [
@@ -36,34 +36,42 @@
         ]
       },
       "stage_signal_line": "사전신청 269 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]",
-      "recent_documents": [
-        {
-          "accession_number": "ML26085A078",
-          "date": "2026-05-18",
-          "title": "Final FRN Hermes 1 Extension Order"
-        },
-        {
-          "accession_number": "ML26085A142",
-          "date": "2026-05-13",
-          "title": "Attachment 1: Issuance of a Permit for the Construction of the Facility"
-        },
-        {
-          "accession_number": "ML26085A117",
-          "date": "2026-05-13",
-          "title": "Final Amendment Hermes 1 CP to Extend Construction Completion"
-        },
-        {
-          "accession_number": "ML26085A108",
-          "date": "2026-05-13",
-          "title": "Final Transmittal Letter to Amend Hermes 1 CP to Extend Construction Completion"
-        },
-        {
-          "accession_number": "ML26085A103",
-          "date": "2026-05-13",
-          "title": "Final Safety Evaluation to Amend Hermes 1 CP to Extend Construction Completion"
-        }
-      ],
-      "kakao_summary": "[Kairos Hermes] / CP 발급 완료 / 2023년 12월 15일 Hermes 시험원자로 건설허가(CP)가 정식 발급됨. / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: Hermes 1 건설완료 기한 연장을 위한 건설허가(CP) 개정이 최종 승인되고 관련 연방관보 고시가 발행되었다. / 단계: 사전신청 269 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26085A078",
+            "date": "05/18",
+            "title": "Final FRN Hermes 1 Extension Order",
+            "url": "https://www.nrc.gov/docs/ML2608/ML26085A078.pdf"
+          },
+          {
+            "accession_number": "ML26085A142",
+            "date": "05/13",
+            "title": "Attachment 1: Issuance of a Permit for the Construction of the F…",
+            "url": "https://www.nrc.gov/docs/ML2608/ML26085A142.pdf"
+          },
+          {
+            "accession_number": "ML26085A117",
+            "date": "05/13",
+            "title": "Final Amendment Hermes 1 CP to Extend Construction Completion",
+            "url": "https://www.nrc.gov/docs/ML2608/ML26085A117.pdf"
+          },
+          {
+            "accession_number": "ML26085A108",
+            "date": "05/13",
+            "title": "Final Transmittal Letter to Amend Hermes 1 CP to Extend Construc…",
+            "url": "https://www.nrc.gov/docs/ML2608/ML26085A108.pdf"
+          },
+          {
+            "accession_number": "ML26085A103",
+            "date": "05/13",
+            "title": "Final Safety Evaluation to Amend Hermes 1 CP to Extend Construct…",
+            "url": "https://www.nrc.gov/docs/ML2608/ML26085A103.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Kairos Hermes\nCP 발급 완료\n2023년 12월 15일 Hermes 시험원자로 건설허가(CP)가 정식 발급됨.\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Hermes 1 건설완료 기한 연장을 위한 건설허가(CP) 개정이 최종 승인되고 관련 연방관보 고시가 발행되었다.\n\n단계: 사전신청 269 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]"
     },
     {
       "id": "kairos_hermes2",
@@ -97,34 +105,42 @@
         ]
       },
       "stage_signal_line": "사전신청 233 | 신청접수 18 | 기술검토 13 | 초안 SE 0 | 최종 5 [현재]",
-      "recent_documents": [
-        {
-          "accession_number": "ML26119A913",
-          "date": "2026-05-06",
-          "title": "2026/04/29 Kairos Power Pre-App Doc - FW Kairos - Hermes Site Characteristics and Geologic Mapping Condition Draft Audit"
-        },
-        {
-          "accession_number": "ML26119A912",
-          "date": "2026-05-06",
-          "title": "2026/04/29 Kairos Power Pre-App Doc - Kairos - Hermes Site Characteristics and Geologic Mapping Condition Draft Audit Re"
-        },
-        {
-          "accession_number": "ML26117A087",
-          "date": "2026-05-04",
-          "title": "2026/04/27 Kairos Power Pre-App Doc - Kairos - Hermes Site Characteristics and Geologic Mapping Condition Draft Audit Re"
-        },
-        {
-          "accession_number": "ML26085A071",
-          "date": "2026-04-21",
-          "title": "FRN: Notice of Issuance of EA and FONSI for Hermes 1 Construction Extension"
-        },
-        {
-          "accession_number": "ML26096A488",
-          "date": "2026-04-14",
-          "title": "Kairos Power LLC, Request for NRC to Designate Kairos Power Reviewing Official for 10 CFR Part 73"
-        }
-      ],
-      "kakao_summary": "[Kairos Hermes 2] / CP 발급 완료 / Hermes 2 Unit 1·2 건설허가(CP)가 2024년 12월 17일 공식 발급됨 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: 최근 Hermes 부지 특성 및 지질 매핑 조건 감사 보고서 관련 이메일이 여러 차례 접수되었고, Hermes 1 건설 연장에 대한 EA 및 FONSI 발급 공고도 이루어졌습니다. / 단계: 사전신청 233 | 신청접수 18 | 기술검토 13 | 초안 SE 0 | 최종 5 [현재]"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26119A913",
+            "date": "05/06",
+            "title": "2026/04/29 Kairos Power Pre-App Doc - FW Kairos - Hermes Site Ch…",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26119A913.pdf"
+          },
+          {
+            "accession_number": "ML26119A912",
+            "date": "05/06",
+            "title": "2026/04/29 Kairos Power Pre-App Doc - Kairos - Hermes Site Chara…",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26119A912.pdf"
+          },
+          {
+            "accession_number": "ML26117A087",
+            "date": "05/04",
+            "title": "2026/04/27 Kairos Power Pre-App Doc - Kairos - Hermes Site Chara…",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26117A087.pdf"
+          },
+          {
+            "accession_number": "ML26085A071",
+            "date": "04/21",
+            "title": "FRN: Notice of Issuance of EA and FONSI for Hermes 1 Constructio…",
+            "url": "https://www.nrc.gov/docs/ML2608/ML26085A071.pdf"
+          },
+          {
+            "accession_number": "ML26096A488",
+            "date": "04/14",
+            "title": "Kairos Power LLC, Request for NRC to Designate Kairos Power Revi…",
+            "url": "https://www.nrc.gov/docs/ML2609/ML26096A488.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Kairos Hermes 2\nCP 발급 완료\nHermes 2 Unit 1·2 건설허가(CP)가 2024년 12월 17일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최근 Hermes 부지 특성 및 지질 매핑 조건 감사 보고서 관련 이메일이 여러 차례 접수되었고, Hermes 1 건설 연장에 대한 EA 및 FONSI 발급 공고도 이루어졌습니다.\n\n단계: 사전신청 233 | 신청접수 18 | 기술검토 13 | 최종 5 [현재]"
     },
     {
       "id": "bwrx300_clinch_river",
@@ -155,34 +171,42 @@
         ]
       },
       "stage_signal_line": "사전신청 58 | 신청접수 14 | 기술검토 13 | 초안 SE 0 | 최종 15 [현재]",
-      "recent_documents": [
-        {
-          "accession_number": "ML26167A149",
-          "date": "2026-07-07",
-          "title": "FRN - TVA CP Hearing Notice"
-        },
-        {
-          "accession_number": "ML26168A505",
-          "date": "2026-06-25",
-          "title": "FSER, TVA Construction Permit Application (Clinch River Nuclear Site, Unit 1) [Public]"
-        },
-        {
-          "accession_number": "ML26160A308",
-          "date": "2026-06-22",
-          "title": "Clinch River Nuclear Site, Unit 1, Construction Permit Application Review Status"
-        },
-        {
-          "accession_number": "ML26149A490",
-          "date": "2026-06-12",
-          "title": "2026/05/29 Clinch River CP Saf Docs - Availability of Advance Safety Evaluation Report (ASER) Chapters, Clinch River Con"
-        },
-        {
-          "accession_number": "ML25175A059",
-          "date": "2026-06-05",
-          "title": "Federal Register Notice, Docketing and Opportunity for Hearing, Tennessee Valley Authority's CP application (Clinch Rive"
-        }
-      ],
-      "kakao_summary": "[BWRX-300 / Clinch River Unit 1] / FSER 발행 완료 / CP 미발급 / 근거: ML26168A505 | FSER, TVA Construction Permit Application (Clinch River Nuclear Site,  / 최근 활동: TVA 클린치 리버 원자력 부지 1호기 건설허가 신청에 대한 최종안전평가보고서(FSER)가 발급되고 연방관보에 청문회 공고가 게재되었습니다. / 단계: 사전신청 58 | 신청접수 14 | 기술검토 13 | 초안 SE 0 | 최종 15 [현재]"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26167A149",
+            "date": "07/07",
+            "title": "FRN - TVA CP Hearing Notice",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26167A149.pdf"
+          },
+          {
+            "accession_number": "ML26168A505",
+            "date": "06/25",
+            "title": "FSER, TVA Construction Permit Application (Clinch River Nuclear …",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26168A505.pdf"
+          },
+          {
+            "accession_number": "ML26160A308",
+            "date": "06/22",
+            "title": "Clinch River Nuclear Site, Unit 1, Construction Permit Applicati…",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26160A308.pdf"
+          },
+          {
+            "accession_number": "ML26149A490",
+            "date": "06/12",
+            "title": "2026/05/29 Clinch River CP Saf Docs - Availability of Advance Sa…",
+            "url": "https://www.nrc.gov/docs/ML2614/ML26149A490.pdf"
+          },
+          {
+            "accession_number": "ML25175A059",
+            "date": "06/05",
+            "title": "Federal Register Notice, Docketing and Opportunity for Hearing, …",
+            "url": "https://www.nrc.gov/docs/ML2517/ML25175A059.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "BWRX-300 / Clinch River Unit 1\nFSER 발행 완료 / CP 미발급\n근거: ML26168A505 | FSER, TVA Construction Permit Application (Clinch River Nuclear Site, \n\n최근 활동: TVA 클린치 리버 원자력 부지 1호기 건설허가 신청에 대한 최종안전평가보고서(FSER)가 발급되고 연방관보에 청문회 공고가 게재되었습니다.\n\n단계: 사전신청 58 | 신청접수 14 | 기술검토 13 | 최종 15 [현재]"
     },
     {
       "id": "bwrx300_aep_rockport",
@@ -211,29 +235,36 @@
         ]
       },
       "stage_signal_line": "사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML26177A167",
-          "date": "2026-07-07",
-          "title": "Response Letter to Acknowledgement of Interest in Applicant-Prepared National Environmental Policy Act Document Pilot Pr"
-        },
-        {
-          "accession_number": "ML26160A348",
-          "date": "2026-06-18",
-          "title": "Advanced Nuclear Power Project Two, Acknowledgment of Interest in Applicant Prepared NEPA Document Pilot Program (Docket"
-        },
-        {
-          "accession_number": "ML26119A910",
-          "date": "2026-05-07",
-          "title": "Enclosure 1: Affidavit"
-        },
-        {
-          "accession_number": "ML26119A911",
-          "date": "2026-05-07",
-          "title": "Enclosure 2: AEP-ND-2026-002: Regulatory Engagement Plant Initial Activities for AEP Advanced Nuclear Project Two"
-        }
-      ],
-      "kakao_summary": "[BWRX-300 / AEP Rockport (Indiana Michigan Power)] / 판단 불가 — 단계 신호 문서 없음 / 최근 활동: AEP의 고급 원자력 프로젝트 2를 위해 NEPA 문서 파일럿 프로그램 참여 및 규제 초기 활동 관련 서한과 선서서가 접수되었습니다. / 단계: 사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26177A167",
+            "date": "07/07",
+            "title": "Response Letter to Acknowledgement of Interest in Applicant-Prep…",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26177A167.pdf"
+          },
+          {
+            "accession_number": "ML26160A348",
+            "date": "06/18",
+            "title": "Advanced Nuclear Power Project Two, Acknowledgment of Interest i…",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26160A348.pdf"
+          },
+          {
+            "accession_number": "ML26119A910",
+            "date": "05/07",
+            "title": "Enclosure 1: Affidavit",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26119A910.pdf"
+          },
+          {
+            "accession_number": "ML26119A911",
+            "date": "05/07",
+            "title": "Enclosure 2: AEP-ND-2026-002: Regulatory Engagement Plant Initia…",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26119A911.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "BWRX-300 / AEP Rockport (Indiana Michigan Power)\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: AEP의 고급 원자력 프로젝트 2를 위해 NEPA 문서 파일럿 프로그램 참여 및 규제 초기 활동 관련 서한과 선서서가 접수되었습니다.\n\n단계: 진행 신호 없음"
     },
     {
       "id": "terrapower_natrium_kemmerer",
@@ -268,34 +299,42 @@
         ]
       },
       "stage_signal_line": "사전신청 330 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]",
-      "recent_documents": [
-        {
-          "accession_number": "ML26162A207",
-          "date": "2026-07-06",
-          "title": "Audit Plan - TerraPower -  Generic Dual Unit - NAT-21522"
-        },
-        {
-          "accession_number": "ML26149A339",
-          "date": "2026-06-26",
-          "title": "NRC Form 898 - Completeness Determination for the TerraPower, LLC  \"Emergency Action Level Methodology Topical Report\" R"
-        },
-        {
-          "accession_number": "ML26140A305",
-          "date": "2026-06-17",
-          "title": "Terrapower, LLC - Audit Plan for the Topical Report Nat-16856, \"Comprehensive Vibration Assessment Program,\" Revision 1"
-        },
-        {
-          "accession_number": "ML26149A292",
-          "date": "2026-06-09",
-          "title": "TerraPower, LLC - Transmits NAT-22075, Rev. 0, \"Emergency Action Level Methodology Topical Report\""
-        },
-        {
-          "accession_number": "ML26106A226",
-          "date": "2026-04-30",
-          "title": "Nuclear Regulatory Commission Inspection Report of TerraPower, LLC, No. 99902100/2026-201"
-        }
-      ],
-      "kakao_summary": "[TerraPower Natrium / Kemmerer Unit 1] / CP 발급 완료 / 건설허가(CP)가 2026년 3월 9일 공식 발급됨 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: 비상조치수준 방법론 토픽보고서 제출 및 완전성 결정, 진동평가·이중호기 감사계획 수립, 운영허가 규제참여계획 개정 등 인허가 관련 활동이 활발히 진행되었습니다. / 단계: 사전신청 330 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26162A207",
+            "date": "07/06",
+            "title": "Audit Plan - TerraPower -  Generic Dual Unit - NAT-21522",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26162A207.pdf"
+          },
+          {
+            "accession_number": "ML26149A339",
+            "date": "06/26",
+            "title": "NRC Form 898 - Completeness Determination for the TerraPower, LL…",
+            "url": "https://www.nrc.gov/docs/ML2614/ML26149A339.pdf"
+          },
+          {
+            "accession_number": "ML26140A305",
+            "date": "06/17",
+            "title": "Terrapower, LLC - Audit Plan for the Topical Report Nat-16856, \"…",
+            "url": "https://www.nrc.gov/docs/ML2614/ML26140A305.pdf"
+          },
+          {
+            "accession_number": "ML26149A292",
+            "date": "06/09",
+            "title": "TerraPower, LLC - Transmits NAT-22075, Rev. 0, \"Emergency Action…",
+            "url": "https://www.nrc.gov/docs/ML2614/ML26149A292.pdf"
+          },
+          {
+            "accession_number": "ML26106A226",
+            "date": "04/30",
+            "title": "Nuclear Regulatory Commission Inspection Report of TerraPower, L…",
+            "url": "https://www.nrc.gov/docs/ML2610/ML26106A226.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "TerraPower Natrium / Kemmerer Unit 1\nCP 발급 완료\n건설허가(CP)가 2026년 3월 9일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 비상조치수준 방법론 토픽보고서 제출 및 완전성 결정, 진동평가·이중호기 감사계획 수립, 운영허가 규제참여계획 개정 등 인허가 관련 활동이 활발히 진행되었습니다.\n\n단계: 사전신청 330 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]"
     },
     {
       "id": "xenergy_xe100",
@@ -331,34 +370,42 @@
         ]
       },
       "stage_signal_line": "사전신청 283 | 신청접수 19 | 기술검토 8 [현재] | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML26167A098",
-          "date": "2026-06-30",
-          "title": "2026/06/16 Project Long Mott Docs - EAFONSI Long Mott Generating Station ADAMS No. ML26112A016"
-        },
-        {
-          "accession_number": "ML26176A482",
-          "date": "2026-06-26",
-          "title": "Memorandum (Notice Regarding Issuance of Decisions on Intervenor's Motion to Amend Contention 3B, Applicant's Motion to "
-        },
-        {
-          "accession_number": "ML26176A352",
-          "date": "2026-06-25",
-          "title": "Transcript of Long Mott Energy, LLC, Hearing, May 12, 2026 Hearing, Pages 396-492 (Redacted)"
-        },
-        {
-          "accession_number": "ML26176A349",
-          "date": "2026-06-25",
-          "title": "Memorandum and Order (Correcting May 12, 2026, Prehearing Conference Transcript)"
-        },
-        {
-          "accession_number": "ML26141A199",
-          "date": "2026-06-25",
-          "title": "NRC Form 897 Topical Report Withholding Determination - Xe-100 Graphite Core Assembly Material Qualification and Design "
-        }
-      ],
-      "kakao_summary": "[X-energy Xe-100] / NRC 기술검토 중 / 쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음 / 최근 활동: 최근 Xe-100 흑연 노심 집합체 관련 토피컬 보고서 검토·비밀 지정 결정이 완료되었고, Long Mott 허가 청문 및 법적 결정도 진행되었습니다. / 단계: 사전신청 283 | 신청접수 19 | 기술검토 8 [현재] | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26167A098",
+            "date": "06/30",
+            "title": "2026/06/16 Project Long Mott Docs - EAFONSI Long Mott Generating…",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26167A098.pdf"
+          },
+          {
+            "accession_number": "ML26176A482",
+            "date": "06/26",
+            "title": "Memorandum (Notice Regarding Issuance of Decisions on Intervenor…",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26176A482.pdf"
+          },
+          {
+            "accession_number": "ML26176A352",
+            "date": "06/25",
+            "title": "Transcript of Long Mott Energy, LLC, Hearing, May 12, 2026 Heari…",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26176A352.pdf"
+          },
+          {
+            "accession_number": "ML26176A349",
+            "date": "06/25",
+            "title": "Memorandum and Order (Correcting May 12, 2026, Prehearing Confer…",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26176A349.pdf"
+          },
+          {
+            "accession_number": "ML26141A199",
+            "date": "06/25",
+            "title": "NRC Form 897 Topical Report Withholding Determination - Xe-100 G…",
+            "url": "https://www.nrc.gov/docs/ML2614/ML26141A199.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "X-energy Xe-100\nNRC 기술검토 중\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: 최근 Xe-100 흑연 노심 집합체 관련 토피컬 보고서 검토·비밀 지정 결정이 완료되었고, Long Mott 허가 청문 및 법적 결정도 진행되었습니다.\n\n단계: 사전신청 283 | 신청접수 19 | 기술검토 8 [현재]"
     },
     {
       "id": "nuscale_us460",
@@ -395,34 +442,42 @@
         ]
       },
       "stage_signal_line": "사전신청 452 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]",
-      "recent_documents": [
-        {
-          "accession_number": "ML26177A241",
-          "date": "2026-07-10",
-          "title": "2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale EECS Topical Report TR-182845"
-        },
-        {
-          "accession_number": "ML26177A240",
-          "date": "2026-07-10",
-          "title": "2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale ERO Topical Report TR-183101"
-        },
-        {
-          "accession_number": "ML26142A075",
-          "date": "2026-06-05",
-          "title": "2026/05/22 NuScale NPM-20 - NuScale - Request for Withholding Information from Public Disclosure"
-        },
-        {
-          "accession_number": "ML25246B399",
-          "date": "2026-06-03",
-          "title": "Request for Withholding Information from Public Disclosure for NuScale Power, LLC"
-        },
-        {
-          "accession_number": "ML25353A608",
-          "date": "2026-04-29",
-          "title": "NuScale Power, LLC Submittal of Topical Report Supplement Entitled \"Supplement 1 to TR-1015-18653-P-A, \"Design of the Hi"
-        }
-      ],
-      "kakao_summary": "[NuScale US460 SDA] / FSER 발행 완료 / COL 미발급 / 근거: ML25129A004 | Standard Design Approval SDA for the NuScale US460 Power Plant Design / 최근 활동: NuScale NPM-20 관련 EECS·ERO 토픽 보고서 일정 변경 이메일과 비공개 정보 보호 요청, RAI 응답 등 여러 인허가 문서가 제출되었습니다. / 단계: 사전신청 452 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26177A241",
+            "date": "07/10",
+            "title": "2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale EECS…",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26177A241.pdf"
+          },
+          {
+            "accession_number": "ML26177A240",
+            "date": "07/10",
+            "title": "2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale ERO …",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26177A240.pdf"
+          },
+          {
+            "accession_number": "ML26142A075",
+            "date": "06/05",
+            "title": "2026/05/22 NuScale NPM-20 - NuScale - Request for Withholding In…",
+            "url": "https://www.nrc.gov/docs/ML2614/ML26142A075.pdf"
+          },
+          {
+            "accession_number": "ML25246B399",
+            "date": "06/03",
+            "title": "Request for Withholding Information from Public Disclosure for N…",
+            "url": "https://www.nrc.gov/docs/ML2524/ML25246B399.pdf"
+          },
+          {
+            "accession_number": "ML25353A608",
+            "date": "04/29",
+            "title": "NuScale Power, LLC Submittal of Topical Report Supplement Entitl…",
+            "url": "https://www.nrc.gov/docs/ML2535/ML25353A608.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "NuScale US460 SDA\nFSER 발행 완료 / COL 미발급\n근거: ML25129A004 | Standard Design Approval SDA for the NuScale US460 Power Plant Design\n\n최근 활동: NuScale NPM-20 관련 EECS·ERO 토픽 보고서 일정 변경 이메일과 비공개 정보 보호 요청, RAI 응답 등 여러 인허가 문서가 제출되었습니다.\n\n단계: 사전신청 452 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
     },
     {
       "id": "oklo_aurora",
@@ -459,34 +514,42 @@
         ]
       },
       "stage_signal_line": "사전신청 163 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]",
-      "recent_documents": [
-        {
-          "accession_number": "ML26176A496",
-          "date": "2026-07-08",
-          "title": "Withholding Proprietary Information From Public Disclosure - Oklo, Inc. Slides For The May 7, 2026, Meeting On Oklo's Au"
-        },
-        {
-          "accession_number": "ML26173A195",
-          "date": "2026-07-01",
-          "title": "NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical Report, Oklo-2025-RX-R012-A, \"Principal Design Criteria"
-        },
-        {
-          "accession_number": "ML26173A194",
-          "date": "2026-07-01",
-          "title": "Email - NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical Report, Oklo-2025-RX-R012-A, \"Principal Design "
-        },
-        {
-          "accession_number": "ML26173A203",
-          "date": "2026-07-01",
-          "title": "RE_ Question regarding -A versions for \"Principal Design Criteria for the Aurora Powerhouse,\" Revision 1"
-        },
-        {
-          "accession_number": "ML26173A186",
-          "date": "2026-06-30",
-          "title": "NRC Form 897 - Request for Withholding from Public Disclosure - Oklo Inc. Topical Report, Oklo-2025-RX-R012-A, \"Principa"
-        }
-      ],
-      "kakao_summary": "[Oklo Aurora Powerhouse] / 기존 신청 거부 / COL 신청이 거부되었으며, 면허 발급 이력 없음 / ⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: Oklo Aurora Powerhouse 관련 주설계기준 토피컬보고서 비공개 요청 및 검증, 인허가 프로젝트 계획 Q3 업데이트 제출 등 인허가 절차가 진행되었습니다. / 단계: 사전신청 163 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26176A496",
+            "date": "07/08",
+            "title": "Withholding Proprietary Information From Public Disclosure - Okl…",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26176A496.pdf"
+          },
+          {
+            "accession_number": "ML26173A195",
+            "date": "07/01",
+            "title": "NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical…",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26173A195.pdf"
+          },
+          {
+            "accession_number": "ML26173A194",
+            "date": "07/01",
+            "title": "Email - NRC Form 896 -A Topical Report Verification of Oklo Inc.…",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26173A194.pdf"
+          },
+          {
+            "accession_number": "ML26173A203",
+            "date": "07/01",
+            "title": "RE_ Question regarding -A versions for \"Principal Design Criteri…",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26173A203.pdf"
+          },
+          {
+            "accession_number": "ML26173A186",
+            "date": "06/30",
+            "title": "NRC Form 897 - Request for Withholding from Public Disclosure - …",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26173A186.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Oklo Aurora Powerhouse\n기존 신청 거부\nCOL 신청이 거부되었으며, 면허 발급 이력 없음\n⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Oklo Aurora Powerhouse 관련 주설계기준 토피컬보고서 비공개 요청 및 검증, 인허가 프로젝트 계획 Q3 업데이트 제출 등 인허가 절차가 진행되었습니다.\n\n단계: 사전신청 163 | 신청접수 2 | 기술검토 16 | 최종 1 [확인 불가]"
     },
     {
       "id": "atomic_alchemy_meitner1",
@@ -519,34 +582,42 @@
         ]
       },
       "stage_signal_line": "사전신청 20 | 신청접수 13 | 기술검토 13 | 초안 SE 0 | 최종 1 [신청 철회]",
-      "recent_documents": [
-        {
-          "accession_number": "ML26008A028",
-          "date": "2026-02-04",
-          "title": "Response to CPA Withdrawal Letter"
-        },
-        {
-          "accession_number": "ML26008A029",
-          "date": "2026-01-29",
-          "title": "FRN CPA Withdrawn"
-        },
-        {
-          "accession_number": "ML25353A630",
-          "date": "2026-01-02",
-          "title": "Meitner-1 Construction Permit Application Withdrawal Following Atomic Alchem's Slection for the Department of Energy's R"
-        },
-        {
-          "accession_number": "ML25325A231",
-          "date": "2025-12-02",
-          "title": "2025/11/21 NRR E-mail Capture - Atomic Alchemy Operators LLC - Acknowledgement of Receipt of the First Part of Construct"
-        },
-        {
-          "accession_number": "ML25255A200",
-          "date": "2025-11-20",
-          "title": "Atomic Alchemy, Inc., Construction Permit Application for the Meitner-1 Non-Power Production or Utilization Facility"
-        }
-      ],
-      "kakao_summary": "[Atomic Alchemy Meitner-1] / 인허가 신청 철회 / 근거: ML25353A630 | Meitner-1 Construction Permit Application Withdrawal Following Atomic  / 표기된 최고 단계는 과거 도달 단계이며, 현재 신청은 철회 상태. / 최근 활동: Atomic Alchemy는 2025년 11월 Meitner-1 건설허가 신청서를 제출하였으나, 2026년 1월 DOE 원자로 파일럿 프로그램 선정을 이유로 해당 신청을 철회하였습니다. / 단계: 사전신청 20 | 신청접수 13 | 기술검토 13 | 초안 SE 0 | 최종 1 [신청 철회]"
+      "recent_documents": {
+        "header": "최근 문서 (2025~26)",
+        "items": [
+          {
+            "accession_number": "ML26008A028",
+            "date": "02/04",
+            "title": "Response to CPA Withdrawal Letter",
+            "url": "https://www.nrc.gov/docs/ML2600/ML26008A028.pdf"
+          },
+          {
+            "accession_number": "ML26008A029",
+            "date": "01/29",
+            "title": "FRN CPA Withdrawn",
+            "url": "https://www.nrc.gov/docs/ML2600/ML26008A029.pdf"
+          },
+          {
+            "accession_number": "ML25353A630",
+            "date": "01/02",
+            "title": "Meitner-1 Construction Permit Application Withdrawal Following A…",
+            "url": "https://www.nrc.gov/docs/ML2535/ML25353A630.pdf"
+          },
+          {
+            "accession_number": "ML25325A231",
+            "date": "12/02",
+            "title": "2025/11/21 NRR E-mail Capture - Atomic Alchemy Operators LLC - A…",
+            "url": "https://www.nrc.gov/docs/ML2532/ML25325A231.pdf"
+          },
+          {
+            "accession_number": "ML25255A200",
+            "date": "11/20",
+            "title": "Atomic Alchemy, Inc., Construction Permit Application for the Me…",
+            "url": "https://www.nrc.gov/docs/ML2525/ML25255A200.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Atomic Alchemy Meitner-1\n인허가 신청 철회\n근거: ML25353A630 | Meitner-1 Construction Permit Application Withdrawal Following Atomic \n표기된 최고 단계는 과거 도달 단계이며, 현재 신청은 철회 상태.\n\n최근 활동: Atomic Alchemy는 2025년 11월 Meitner-1 건설허가 신청서를 제출하였으나, 2026년 1월 DOE 원자로 파일럿 프로그램 선정을 이유로 해당 신청을 철회하였습니다.\n\n단계: 사전신청 20 | 신청접수 13 | 기술검토 13 | 최종 1 [신청 철회]"
     },
     {
       "id": "holtec_smr160",
@@ -583,34 +654,42 @@
         ]
       },
       "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML26189A345",
-          "date": "2026-07-08",
-          "title": "Letter from J. Loichinger, ACHP, Regarding Palisades SMR, LLC's Phased CP Application, Including a Limited Work Authoriz"
-        },
-        {
-          "accession_number": "ML26188A129",
-          "date": "2026-07-07",
-          "title": "6-30-25 Ltr from K. Kolokithas, Michigan SHPO to NRC Concurrence with Archaeological and Architectural Surveys PNP 55-Ac"
-        },
-        {
-          "accession_number": "ML26177A276",
-          "date": "2026-07-06",
-          "title": "2026/06/23 - Comment (1) E-mail regarding Pioneer 1 & 2 EIS Scoping"
-        },
-        {
-          "accession_number": "ML26161A005",
-          "date": "2026-07-01",
-          "title": "Ltr to R. Schumaker, MI SHPO - Holtec SMR 300 CP and LWA - S106 Initiation Letter"
-        },
-        {
-          "accession_number": "ML26161A004",
-          "date": "2026-07-01",
-          "title": "Letter to J. Loichinger, ACHP - Holtec SMR 300 CP and LWA - S106 Initiation Letter"
-        }
-      ],
-      "kakao_summary": "[Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)] / NRC 기술검토 중 / 최근 활동: NRC가 Holtec SMR-300 CP·LWA 관련 Section 106 절차를 개시하며 ACHP, Michigan SHPO, 여러 원주민 부족에 통보 서한을 발송하고 EIS 범위 설정 의견도 접수되었습니다. / 단계: 사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26189A345",
+            "date": "07/08",
+            "title": "Letter from J. Loichinger, ACHP, Regarding Palisades SMR, LLC's …",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26189A345.pdf"
+          },
+          {
+            "accession_number": "ML26188A129",
+            "date": "07/07",
+            "title": "6-30-25 Ltr from K. Kolokithas, Michigan SHPO to NRC Concurrence…",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26188A129.pdf"
+          },
+          {
+            "accession_number": "ML26177A276",
+            "date": "07/06",
+            "title": "2026/06/23 - Comment (1) E-mail regarding Pioneer 1 & 2 EIS Scop…",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26177A276.pdf"
+          },
+          {
+            "accession_number": "ML26161A005",
+            "date": "07/01",
+            "title": "Ltr to R. Schumaker, MI SHPO - Holtec SMR 300 CP and LWA - S106 …",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26161A005.pdf"
+          },
+          {
+            "accession_number": "ML26161A004",
+            "date": "07/01",
+            "title": "Letter to J. Loichinger, ACHP - Holtec SMR 300 CP and LWA - S106…",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26161A004.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: NRC가 Holtec SMR-300 CP·LWA 관련 Section 106 절차를 개시하며 ACHP, Michigan SHPO, 여러 원주민 부족에 통보 서한을 발송하고 EIS 범위 설정 의견도 접수되었습니다.\n\n단계: 사전신청 360 | 기술검토 1 [현재]"
     },
     {
       "id": "xenergy_xenith",
@@ -638,34 +717,42 @@
         ]
       },
       "stage_signal_line": "사전신청 12 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML26181A206",
-          "date": "2026-07-09",
-          "title": "Submittal of X Energy, LLC (X-energy) XENITH Topical Report, Analytical Methods, Revision 3"
-        },
-        {
-          "accession_number": "ML26181A312",
-          "date": "2026-07-09",
-          "title": "Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)"
-        },
-        {
-          "accession_number": "ML26181A259",
-          "date": "2026-07-09",
-          "title": "Submittal of X-Energy, LLC (X-energy) XENITH Topical Report, Principal Design Criteria, Revision 5"
-        },
-        {
-          "accession_number": "ML26181A207",
-          "date": "2026-07-09",
-          "title": "Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)"
-        },
-        {
-          "accession_number": "ML26181A208",
-          "date": "2026-07-09",
-          "title": "Enclosure 2: MRA-00-412-RPT-2000526, Rev. 3, \"XENITH Analytical Methods Licensing Topical Report\" - Redacted"
-        }
-      ],
-      "kakao_summary": "[X-energy XENITH] / 사전신청 단계 / 최근 활동: X-energy가 XENITH 관련 분석 방법(Rev.3), 주요 설계 기준(Rev.5), 파라메트릭 선원항(Rev.2) 세 건의 인허가 토피컬 보고서를 NRC에 제출하였습니다. / 단계: 사전신청 12 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26181A206",
+            "date": "07/09",
+            "title": "Submittal of X Energy, LLC (X-energy) XENITH Topical Report, Ana…",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26181A206.pdf"
+          },
+          {
+            "accession_number": "ML26181A312",
+            "date": "07/09",
+            "title": "Enclosure 1: Affidavit Supporting Request for Withholding from P…",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26181A312.pdf"
+          },
+          {
+            "accession_number": "ML26181A259",
+            "date": "07/09",
+            "title": "Submittal of X-Energy, LLC (X-energy) XENITH Topical Report, Pri…",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26181A259.pdf"
+          },
+          {
+            "accession_number": "ML26181A207",
+            "date": "07/09",
+            "title": "Enclosure 1: Affidavit Supporting Request for Withholding from P…",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26181A207.pdf"
+          },
+          {
+            "accession_number": "ML26181A208",
+            "date": "07/09",
+            "title": "Enclosure 2: MRA-00-412-RPT-2000526, Rev. 3, \"XENITH Analytical …",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26181A208.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "X-energy XENITH\n사전신청 단계\n\n최근 활동: X-energy가 XENITH 관련 분석 방법(Rev.3), 주요 설계 기준(Rev.5), 파라메트릭 선원항(Rev.2) 세 건의 인허가 토피컬 보고서를 NRC에 제출하였습니다.\n\n단계: 사전신청 12 [현재]"
     },
     {
       "id": "xenergy_trisox",
@@ -701,34 +788,42 @@
         ]
       },
       "stage_signal_line": "사전신청 118 | 신청접수 9 | 기술검토 56 | 초안 SE 2 | 최종 2 [현재]",
-      "recent_documents": [
-        {
-          "accession_number": "ML26152A036",
-          "date": "2026-06-12",
-          "title": "TRISO-X, LLC - NRC Inspection Report 07007027/2026006 And Apparent Violation"
-        },
-        {
-          "accession_number": "ML26125A222",
-          "date": "2026-05-11",
-          "title": "Triso-X Fuel Fabrication Facility Integrated Inspection Report 07007027/2026001"
-        },
-        {
-          "accession_number": "ML26029A122",
-          "date": "2026-04-01",
-          "title": "TX0-REG-LTR-0105 ER Supplement Letter"
-        },
-        {
-          "accession_number": "ML26029A124",
-          "date": "2026-04-01",
-          "title": "TX0-REG-LTR-0105 Enc2 ER Updates"
-        },
-        {
-          "accession_number": "ML26029A123",
-          "date": "2026-04-01",
-          "title": "TX0-REG-LTR-0105 Enc1 ER Supplement"
-        }
-      ],
-      "kakao_summary": "[TRISO-X Fuel Fabrication Facility (TX-1)] / NRC 최종 안전성평가(FSER/SER) 완료 — 실제 License 문서는 아직 미확인 / 근거: ML25289A022 | 2026-02-23 11:13 | Enclosure 3 - Safety Evaluation Report for the TRISO X LLC. Fuel Fabrication Facility Lice / ⚠️ AI 판단과 불일치 — AI 의견: 인허가(CP/OL) 발급 확인, 확신도 high / AI 판단 사유: ML25289A030 문서 제목이 'NRC Issuance of License SNM-7007 for the TRISO-X, LLC. Fuel Fabrication Facility'로 면허 발급 자체를 명시하고 있으며, 동일 날짜에 ML25289A013(면허 본문 NRC Form 374)과 ML25289A022(Safety Evaluation Report)도 함께 등록되어 있어 SER 완료 후 면허가 발급된 것이 확인된다. 또한 2026-02-13에 Final EIS 발행, 2026-02-17에 Record of Decision, 2026-03-17에 Application Approval FRN이 순차적으로 등록되어 정상적인 인허가 절차가 완료되었음을 뒷받침한다. / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: TRISO-X 연료 제조 시설은 최근 라이선스 발급 승인, 환경 보고서 보완 제출, 점검 보고서 및 위반 사항 통보 등 인허가 후속 절차가 활발히 진행되고 …"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26152A036",
+            "date": "06/12",
+            "title": "TRISO-X, LLC - NRC Inspection Report 07007027/2026006 And Appare…",
+            "url": "https://www.nrc.gov/docs/ML2615/ML26152A036.pdf"
+          },
+          {
+            "accession_number": "ML26125A222",
+            "date": "05/11",
+            "title": "Triso-X Fuel Fabrication Facility Integrated Inspection Report 0…",
+            "url": "https://www.nrc.gov/docs/ML2612/ML26125A222.pdf"
+          },
+          {
+            "accession_number": "ML26029A122",
+            "date": "04/01",
+            "title": "TX0-REG-LTR-0105 ER Supplement Letter",
+            "url": "https://www.nrc.gov/docs/ML2602/ML26029A122.pdf"
+          },
+          {
+            "accession_number": "ML26029A124",
+            "date": "04/01",
+            "title": "TX0-REG-LTR-0105 Enc2 ER Updates",
+            "url": "https://www.nrc.gov/docs/ML2602/ML26029A124.pdf"
+          },
+          {
+            "accession_number": "ML26029A123",
+            "date": "04/01",
+            "title": "TX0-REG-LTR-0105 Enc1 ER Supplement",
+            "url": "https://www.nrc.gov/docs/ML2602/ML26029A123.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "TRISO-X Fuel Fabrication Facility (TX-1)\nNRC 최종 안전성평가(FSER/SER) 완료 — 실제 License 문서는 아직 미확인\n근거: ML25289A022 | 2026-02-23 11:13 | Enclosure 3 - Safety Evaluation Report for the TRISO X LLC. Fuel Fabrication Facility Lice\n⚠️ AI 판단과 불일치 — AI 의견: 인허가(CP/OL) 발급 확인, 확신도 high\nAI 판단 사유: ML25289A030 문서 제목이 'NRC Issuance of License SNM-7007 for the TRISO-X, LLC. Fuel Fabrication Facility'로 면허 발급 자체를 명시하고 있으며, 동일 날짜에 ML25289A013(면허 본문 NRC Form 374)과 ML25289A022(Safety Evaluation Report)도 함께 등록되어 있어 SER 완료 후 면허가 발급된 것이 확인된다. 또한 2026-02-13에 Final EIS 발행, 2026-02-17에 Record of Decision, 2026-03-17에 Application Approval FRN이 순차적으로 등록되어 정상적인 인허가 절차가 완료되었음을 뒷받침한다.\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: TRISO-X 연료 제조 시설은 최근 라이선스 발급 승인, 환경 보고서 보완 제출, 점검 보고서 및 위반 사항 통보 등 인허가 후속 절차가 활발히 진행되고 있습니다.\n\n단계: 사전…"
     },
     {
       "id": "terrapower_natrium_fuel_facility",
@@ -754,34 +849,42 @@
         ]
       },
       "stage_signal_line": "사전신청 6 | 신청접수 1 [현재] | 기술검토 0 | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML26076A192",
-          "date": "2026-03-17",
-          "title": "04/08/2026 Meeting with Global Nuclear Fuels  Americas (GNF-A): Natrium Project Update"
-        },
-        {
-          "accession_number": "ML25108A155",
-          "date": "2025-05-01",
-          "title": "Summary of March 25, 2025 Closed Meeting with Global Nuclear Fuel - Americas Regarding Natrium Fuel Fabrication Facility"
-        },
-        {
-          "accession_number": "ML24156A203",
-          "date": "2024-06-05",
-          "title": "GNF-A Natrium Fuel Fabrication Facility Pre-Application - Meeting Slides"
-        },
-        {
-          "accession_number": "ML24155A203",
-          "date": "2024-06-03",
-          "title": "06/13/2024 Natrium Fuel License Amendment Request Pre-application call with GNF-A"
-        },
-        {
-          "accession_number": "ML24047A320",
-          "date": "2024-02-27",
-          "title": "01/30/2024 Summary of Closed Meeting Regarding Impacts of Potential Off-Specification Sources of HALEU on Planned NATRIU"
-        }
-      ],
-      "kakao_summary": "[Natrium Fuel Fabrication Facility (GNF-A)] / 신청서 접수 단계 / 최근 활동: 2026년 4월 NRC와 GNF-A 간 Natrium 프로젝트 현황 업데이트 회의가 예정되어 있습니다. / 단계: 사전신청 6 | 신청접수 1 [현재] | 기술검토 0 | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2024~26)",
+        "items": [
+          {
+            "accession_number": "ML26076A192",
+            "date": "03/17",
+            "title": "04/08/2026 Meeting with Global Nuclear Fuels  Americas (GNF-A): …",
+            "url": "https://www.nrc.gov/docs/ML2607/ML26076A192.pdf"
+          },
+          {
+            "accession_number": "ML25108A155",
+            "date": "05/01",
+            "title": "Summary of March 25, 2025 Closed Meeting with Global Nuclear Fue…",
+            "url": "https://www.nrc.gov/docs/ML2510/ML25108A155.pdf"
+          },
+          {
+            "accession_number": "ML24156A203",
+            "date": "06/05",
+            "title": "GNF-A Natrium Fuel Fabrication Facility Pre-Application - Meetin…",
+            "url": "https://www.nrc.gov/docs/ML2415/ML24156A203.pdf"
+          },
+          {
+            "accession_number": "ML24155A203",
+            "date": "06/03",
+            "title": "06/13/2024 Natrium Fuel License Amendment Request Pre-applicatio…",
+            "url": "https://www.nrc.gov/docs/ML2415/ML24155A203.pdf"
+          },
+          {
+            "accession_number": "ML24047A320",
+            "date": "02/27",
+            "title": "01/30/2024 Summary of Closed Meeting Regarding Impacts of Potent…",
+            "url": "https://www.nrc.gov/docs/ML2404/ML24047A320.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Natrium Fuel Fabrication Facility (GNF-A)\n신청서 접수 단계\n\n최근 활동: 2026년 4월 NRC와 GNF-A 간 Natrium 프로젝트 현황 업데이트 회의가 예정되어 있습니다.\n\n단계: 사전신청 6 | 신청접수 1 [현재]"
     },
     {
       "id": "oklo_fuel_recycling",
@@ -810,34 +913,42 @@
         ]
       },
       "stage_signal_line": "사전신청 27 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML26190A383",
-          "date": "2026-07-10",
-          "title": "Oklo Pre-Licensing Engagement to Discuss Siting Requirements for a Reprocessing Facility 07/29/2026"
-        },
-        {
-          "accession_number": "ML26110A103",
-          "date": "2026-04-24",
-          "title": "E-mail Forwarding Draft Observations (Public)"
-        },
-        {
-          "accession_number": "ML26110A104",
-          "date": "2026-04-24",
-          "title": "NRC-Oklo Signed Portal Agreement (Public)"
-        },
-        {
-          "accession_number": "ML26107A254",
-          "date": "2026-04-17",
-          "title": "04/21/2026 Pre-Application Engagement for Feedback on Oklo Fuel Reprocessing Section Drafts"
-        },
-        {
-          "accession_number": "ML26070A049",
-          "date": "2026-04-16",
-          "title": "Enclosure 1 - List of Attendees"
-        }
-      ],
-      "kakao_summary": "[Oklo Fuel Recycling Facility (Advanced Fuel Center)] / 사전신청 단계 / 최근 활동: Oklo의 재처리 시설 인허가 전 사전 참여가 지속되고 있으며, 규제 접근법·물리적 보안·부지 요건 등을 논의하는 회의 및 문서 교환이 이루어졌습니다. / 단계: 사전신청 27 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26190A383",
+            "date": "07/10",
+            "title": "Oklo Pre-Licensing Engagement to Discuss Siting Requirements for…",
+            "url": "https://www.nrc.gov/docs/ML2619/ML26190A383.pdf"
+          },
+          {
+            "accession_number": "ML26110A103",
+            "date": "04/24",
+            "title": "E-mail Forwarding Draft Observations (Public)",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26110A103.pdf"
+          },
+          {
+            "accession_number": "ML26110A104",
+            "date": "04/24",
+            "title": "NRC-Oklo Signed Portal Agreement (Public)",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26110A104.pdf"
+          },
+          {
+            "accession_number": "ML26107A254",
+            "date": "04/17",
+            "title": "04/21/2026 Pre-Application Engagement for Feedback on Oklo Fuel …",
+            "url": "https://www.nrc.gov/docs/ML2610/ML26107A254.pdf"
+          },
+          {
+            "accession_number": "ML26070A049",
+            "date": "04/16",
+            "title": "Enclosure 1 - List of Attendees",
+            "url": "https://www.nrc.gov/docs/ML2607/ML26070A049.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Oklo Fuel Recycling Facility (Advanced Fuel Center)\n사전신청 단계\n\n최근 활동: Oklo의 재처리 시설 인허가 전 사전 참여가 지속되고 있으며, 규제 접근법·물리적 보안·부지 요건 등을 논의하는 회의 및 문서 교환이 이루어졌습니다.\n\n단계: 사전신청 27 [현재]"
     },
     {
       "id": "aalo_atomics_aalox",
@@ -869,34 +980,42 @@
         ]
       },
       "stage_signal_line": "사전신청 16 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML26175A267",
-          "date": "2026-06-24",
-          "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026"
-        },
-        {
-          "accession_number": "ML26174A022",
-          "date": "2026-06-23",
-          "title": "Aalo-1 Thermal Spectrum Materials Challenges- Public"
-        },
-        {
-          "accession_number": "ML26166A042",
-          "date": "2026-06-15",
-          "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026"
-        },
-        {
-          "accession_number": "ML26161A356",
-          "date": "2026-06-10",
-          "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026"
-        },
-        {
-          "accession_number": "ML26131A191",
-          "date": "2026-05-11",
-          "title": "E-mail - Aalo Holdings, Inc - Request to Withhold Information from Public Disclosure"
-        }
-      ],
-      "kakao_summary": "[Aalo Atomics Aalo-X] / 사전신청 단계 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: 최근 Aalo-1의 열스펙트럼 재료 과제 관련 회의가 2026년 6월 24일에 개최되었으며, 이에 앞서 CAF 최종 설계 검토 및 QAPD 안전 평가 관련 문서도 제출되었습니다. / 단계: 사전신청 16 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26175A267",
+            "date": "06/24",
+            "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/…",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26175A267.pdf"
+          },
+          {
+            "accession_number": "ML26174A022",
+            "date": "06/23",
+            "title": "Aalo-1 Thermal Spectrum Materials Challenges- Public",
+            "url": "https://www.nrc.gov/docs/ML2617/ML26174A022.pdf"
+          },
+          {
+            "accession_number": "ML26166A042",
+            "date": "06/15",
+            "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/…",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26166A042.pdf"
+          },
+          {
+            "accession_number": "ML26161A356",
+            "date": "06/10",
+            "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/…",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26161A356.pdf"
+          },
+          {
+            "accession_number": "ML26131A191",
+            "date": "05/11",
+            "title": "E-mail - Aalo Holdings, Inc - Request to Withhold Information fr…",
+            "url": "https://www.nrc.gov/docs/ML2613/ML26131A191.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최근 Aalo-1의 열스펙트럼 재료 과제 관련 회의가 2026년 6월 24일에 개최되었으며, 이에 앞서 CAF 최종 설계 검토 및 QAPD 안전 평가 관련 문서도 제출되었습니다.\n\n단계: 사전신청 16 [현재]"
     },
     {
       "id": "antares_nuclear_mark0",
@@ -925,29 +1044,36 @@
         ]
       },
       "stage_signal_line": "사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML25269A181",
-          "date": "2025-11-24",
-          "title": "Request For Withholding Proprietary Information Antares, Inc., Regulatory Engagement Plan Submitted On July 25, 2025"
-        },
-        {
-          "accession_number": "ML25219A163",
-          "date": "2025-08-22",
-          "title": "Antares Nuclear, Inc.,  Assignment Of Project Number and Explanation of Billing and Fees"
-        },
-        {
-          "accession_number": "ML25212A105",
-          "date": "2025-08-08",
-          "title": "Antares Nuclear, Inc., Submittal of Pre-Application Engagement Plan"
-        },
-        {
-          "accession_number": "ML25212A106",
-          "date": "2025-08-08",
-          "title": "Enclosure 1: Antares Proprietary Affidavit, GC-25-01"
-        }
-      ],
-      "kakao_summary": "[Antares Nuclear Mark-0] / 판단 불가 — 단계 신호 문서 없음 / 최근 활동: Antares Nuclear, Inc.가 사전 신청 참여 계획을 제출하고 프로젝트 번호를 배정받았으며, 제출 자료의 영업비밀 보호 요청 및 선서진술서가 접수되었습니다. / 단계: 사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2025)",
+        "items": [
+          {
+            "accession_number": "ML25269A181",
+            "date": "11/24",
+            "title": "Request For Withholding Proprietary Information Antares, Inc., R…",
+            "url": "https://www.nrc.gov/docs/ML2526/ML25269A181.pdf"
+          },
+          {
+            "accession_number": "ML25219A163",
+            "date": "08/22",
+            "title": "Antares Nuclear, Inc.,  Assignment Of Project Number and Explana…",
+            "url": "https://www.nrc.gov/docs/ML2521/ML25219A163.pdf"
+          },
+          {
+            "accession_number": "ML25212A105",
+            "date": "08/08",
+            "title": "Antares Nuclear, Inc., Submittal of Pre-Application Engagement P…",
+            "url": "https://www.nrc.gov/docs/ML2521/ML25212A105.pdf"
+          },
+          {
+            "accession_number": "ML25212A106",
+            "date": "08/08",
+            "title": "Enclosure 1: Antares Proprietary Affidavit, GC-25-01",
+            "url": "https://www.nrc.gov/docs/ML2521/ML25212A106.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Antares Nuclear Mark-0\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: Antares Nuclear, Inc.가 사전 신청 참여 계획을 제출하고 프로젝트 번호를 배정받았으며, 제출 자료의 영업비밀 보호 요청 및 선서진술서가 접수되었습니다.\n\n단계: 진행 신호 없음"
     },
     {
       "id": "deep_fission_gravity",
@@ -979,34 +1105,42 @@
         ]
       },
       "stage_signal_line": "사전신청 7 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML26148A339",
-          "date": "2026-06-05",
-          "title": "Deep Fission - Electronic Reference Portal Information Access Agreement"
-        },
-        {
-          "accession_number": "ML26148A254",
-          "date": "2026-05-28",
-          "title": "Plan for an Observation Audit of the DOE Authorization Activities for the Deep Fission Gravity Reactor"
-        },
-        {
-          "accession_number": "ML26133A255",
-          "date": "2026-05-21",
-          "title": "Electronic Reference Portal Information Access Agreement Between the Nuclear Regulatory Commission and Deep Fission"
-        },
-        {
-          "accession_number": "ML26112A158",
-          "date": "2026-04-30",
-          "title": "Deep Fission, Inc., Submittal of Deep Fission, Inc., White Paper, \"Conceptual Design Review of the Gravity Reactor,\" DF-"
-        },
-        {
-          "accession_number": "ML26112A159",
-          "date": "2026-04-30",
-          "title": "Deep Fission, Inc., Conceptual Design Description of the Gravity Reactor"
-        }
-      ],
-      "kakao_summary": "[Deep Fission Gravity Reactor] / 사전신청 단계 / 최근 활동: Deep Fission은 중력 반응로 개념 설계 백서와 NRC 규제 참여 계획을 제출하고, NRC와 전자 참조 포털 접근 협약을 체결했으며 DOE 인허가 활동에 대한 감사 계획도 수립되었습니다. / 단계: 사전신청 7 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26148A339",
+            "date": "06/05",
+            "title": "Deep Fission - Electronic Reference Portal Information Access Ag…",
+            "url": "https://www.nrc.gov/docs/ML2614/ML26148A339.pdf"
+          },
+          {
+            "accession_number": "ML26148A254",
+            "date": "05/28",
+            "title": "Plan for an Observation Audit of the DOE Authorization Activitie…",
+            "url": "https://www.nrc.gov/docs/ML2614/ML26148A254.pdf"
+          },
+          {
+            "accession_number": "ML26133A255",
+            "date": "05/21",
+            "title": "Electronic Reference Portal Information Access Agreement Between…",
+            "url": "https://www.nrc.gov/docs/ML2613/ML26133A255.pdf"
+          },
+          {
+            "accession_number": "ML26112A158",
+            "date": "04/30",
+            "title": "Deep Fission, Inc., Submittal of Deep Fission, Inc., White Paper…",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26112A158.pdf"
+          },
+          {
+            "accession_number": "ML26112A159",
+            "date": "04/30",
+            "title": "Deep Fission, Inc., Conceptual Design Description of the Gravity…",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26112A159.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Deep Fission Gravity Reactor\n사전신청 단계\n\n최근 활동: Deep Fission은 중력 반응로 개념 설계 백서와 NRC 규제 참여 계획을 제출하고, NRC와 전자 참조 포털 접근 협약을 체결했으며 DOE 인허가 활동에 대한 감사 계획도 수립되었습니다.\n\n단계: 사전신청 7 [현재]"
     },
     {
       "id": "last_energy_pwr20",
@@ -1036,34 +1170,42 @@
         ]
       },
       "stage_signal_line": "사전신청 5 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML26120A094",
-          "date": "2026-04-30",
-          "title": "06/11/2026 NRC-Last Energy initial technical pre-application meeting [closed]"
-        },
-        {
-          "accession_number": "ML25357A046",
-          "date": "2025-12-29",
-          "title": "Project Manager Reassignment - Last Energy December 2025."
-        },
-        {
-          "accession_number": "ML25163A036",
-          "date": "2025-06-25",
-          "title": "NRC Feedback on Last Energy White Paper Hermetically Sealed Containment Revision 1"
-        },
-        {
-          "accession_number": "ML25153A043",
-          "date": "2025-06-12",
-          "title": "Project Manager Reassignment - Last Energy, June 2025"
-        },
-        {
-          "accession_number": "ML25146A001",
-          "date": "2025-06-03",
-          "title": "Last Energy White Paper: Hermetically Sealed Containment, Revision 1"
-        }
-      ],
-      "kakao_summary": "[Last Energy PWR-20] / 사전신청 단계 / 최근 활동: NRC와 Last Energy 간 밀폐 격납 백서 검토, 환경 보고서 공개 회의, 기술 사전 신청 회의 등 기술·행정 교류가 활발히 진행되었습니다. / 단계: 사전신청 5 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2025~26)",
+        "items": [
+          {
+            "accession_number": "ML26120A094",
+            "date": "04/30",
+            "title": "06/11/2026 NRC-Last Energy initial technical pre-application mee…",
+            "url": "https://www.nrc.gov/docs/ML2612/ML26120A094.pdf"
+          },
+          {
+            "accession_number": "ML25357A046",
+            "date": "12/29",
+            "title": "Project Manager Reassignment - Last Energy December 2025.",
+            "url": "https://www.nrc.gov/docs/ML2535/ML25357A046.pdf"
+          },
+          {
+            "accession_number": "ML25163A036",
+            "date": "06/25",
+            "title": "NRC Feedback on Last Energy White Paper Hermetically Sealed Cont…",
+            "url": "https://www.nrc.gov/docs/ML2516/ML25163A036.pdf"
+          },
+          {
+            "accession_number": "ML25153A043",
+            "date": "06/12",
+            "title": "Project Manager Reassignment - Last Energy, June 2025",
+            "url": "https://www.nrc.gov/docs/ML2515/ML25153A043.pdf"
+          },
+          {
+            "accession_number": "ML25146A001",
+            "date": "06/03",
+            "title": "Last Energy White Paper: Hermetically Sealed Containment, Revisi…",
+            "url": "https://www.nrc.gov/docs/ML2514/ML25146A001.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Last Energy PWR-20\n사전신청 단계\n\n최근 활동: NRC와 Last Energy 간 밀폐 격납 백서 검토, 환경 보고서 공개 회의, 기술 사전 신청 회의 등 기술·행정 교류가 활발히 진행되었습니다.\n\n단계: 사전신청 5 [현재]"
     },
     {
       "id": "natura_resources_acu_msrr",
@@ -1097,34 +1239,42 @@
         ]
       },
       "stage_signal_line": "사전신청 40 | 신청접수 9 | 기술검토 11 | 초안 SE 0 | 최종 2 [현재]",
-      "recent_documents": [
-        {
-          "accession_number": "ML26166A407",
-          "date": "2026-06-24",
-          "title": "Natura Resources - Letter Transmitting Quality Assurance Program Description"
-        },
-        {
-          "accession_number": "ML26166A408",
-          "date": "2026-06-24",
-          "title": "Natura Resources - Quality Assurance Program Description"
-        },
-        {
-          "accession_number": "ML26111A436",
-          "date": "2026-04-22",
-          "title": "Enclosure - Natura Resources LLC and U.S NRC Online Portal Agreement"
-        },
-        {
-          "accession_number": "ML26085A006",
-          "date": "2026-04-22",
-          "title": "Letter - Natura Resources LLC - Online Portal Information Access Agreement"
-        },
-        {
-          "accession_number": "ML26072A237",
-          "date": "2026-03-23",
-          "title": "Abilene Christian University Molten Salt Research Reactor Degradation Management Program Semiannual Status Update"
-        }
-      ],
-      "kakao_summary": "[Natura Resources / Abilene Christian University MSRR (MSR-1)] / CP 발급 완료 / 2024년 9월 건설허가(CP)가 공식 발급되었습니다. / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: Natura Resources가 품질보증 프로그램 설명서를 NRC에 제출하고 온라인 포털 접근 협약을 체결하는 등 규제 참여 활동을 이어가고 있습니다. / 단계: 사전신청 40 | 신청접수 9 | 기술검토 11 | 초안 SE 0 | 최종 2 [현재]"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26166A407",
+            "date": "06/24",
+            "title": "Natura Resources - Letter Transmitting Quality Assurance Program…",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26166A407.pdf"
+          },
+          {
+            "accession_number": "ML26166A408",
+            "date": "06/24",
+            "title": "Natura Resources - Quality Assurance Program Description",
+            "url": "https://www.nrc.gov/docs/ML2616/ML26166A408.pdf"
+          },
+          {
+            "accession_number": "ML26111A436",
+            "date": "04/22",
+            "title": "Enclosure - Natura Resources LLC and U.S NRC Online Portal Agree…",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26111A436.pdf"
+          },
+          {
+            "accession_number": "ML26085A006",
+            "date": "04/22",
+            "title": "Letter - Natura Resources LLC - Online Portal Information Access…",
+            "url": "https://www.nrc.gov/docs/ML2608/ML26085A006.pdf"
+          },
+          {
+            "accession_number": "ML26072A237",
+            "date": "03/23",
+            "title": "Abilene Christian University Molten Salt Research Reactor Degrad…",
+            "url": "https://www.nrc.gov/docs/ML2607/ML26072A237.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Natura Resources / Abilene Christian University MSRR (MSR-1)\nCP 발급 완료\n2024년 9월 건설허가(CP)가 공식 발급되었습니다.\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Natura Resources가 품질보증 프로그램 설명서를 NRC에 제출하고 온라인 포털 접근 협약을 체결하는 등 규제 참여 활동을 이어가고 있습니다.\n\n단계: 사전신청 40 | 신청접수 9 | 기술검토 11 | 최종 2 [현재]"
     },
     {
       "id": "radiant_industries_kaleidos",
@@ -1155,34 +1305,42 @@
         ]
       },
       "stage_signal_line": "사전신청 22 | 신청접수 4 | 기술검토 3 [현재] | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML26188A258",
-          "date": "2026-07-08",
-          "title": "Radiant R-50 Special Nuclear Material License Application - DRAFT Historic and Cultural Evaluation for Public Review"
-        },
-        {
-          "accession_number": "ML26181A043",
-          "date": "2026-07-01",
-          "title": "Radiant - Environmental RAI Response to NRC letter dated June 24, 2026, to R-50 Special Nuclear Materials License Applic"
-        },
-        {
-          "accession_number": "ML26181A047",
-          "date": "2026-07-01",
-          "title": "Enclosure 2: Radiant Response to NRC Environmental Request for Additional Information"
-        },
-        {
-          "accession_number": "ML26181A045",
-          "date": "2026-07-01",
-          "title": "Enclosure 3: Environmental Report Radiant R-50 Site Oak Ridge, TN (Public)"
-        },
-        {
-          "accession_number": "ML26181A044",
-          "date": "2026-07-01",
-          "title": "Enclosure 1: Affidavit for Withholding Proprietary Information"
-        }
-      ],
-      "kakao_summary": "[Radiant Industries Kaleidos] / NRC 기술검토 중 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: NRC의 환경 검토 추가정보 요청에 Radiant가 환경보고서와 답변서를 제출하였고, 이후 역사·문화 평가 초안이 공개 검토용으로 추가 제출되었습니다. / 단계: 사전신청 22 | 신청접수 4 | 기술검토 3 [현재] | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26188A258",
+            "date": "07/08",
+            "title": "Radiant R-50 Special Nuclear Material License Application - DRAF…",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26188A258.pdf"
+          },
+          {
+            "accession_number": "ML26181A043",
+            "date": "07/01",
+            "title": "Radiant - Environmental RAI Response to NRC letter dated June 24…",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26181A043.pdf"
+          },
+          {
+            "accession_number": "ML26181A047",
+            "date": "07/01",
+            "title": "Enclosure 2: Radiant Response to NRC Environmental Request for A…",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26181A047.pdf"
+          },
+          {
+            "accession_number": "ML26181A045",
+            "date": "07/01",
+            "title": "Enclosure 3: Environmental Report Radiant R-50 Site Oak Ridge, T…",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26181A045.pdf"
+          },
+          {
+            "accession_number": "ML26181A044",
+            "date": "07/01",
+            "title": "Enclosure 1: Affidavit for Withholding Proprietary Information",
+            "url": "https://www.nrc.gov/docs/ML2618/ML26181A044.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Radiant Industries Kaleidos\nNRC 기술검토 중\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: NRC의 환경 검토 추가정보 요청에 Radiant가 환경보고서와 답변서를 제출하였고, 이후 역사·문화 평가 초안이 공개 검토용으로 추가 제출되었습니다.\n\n단계: 사전신청 22 | 신청접수 4 | 기술검토 3 [현재]"
     },
     {
       "id": "terrestrial_energy_imsr",
@@ -1214,34 +1372,42 @@
         ]
       },
       "stage_signal_line": "사전신청 55 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
-      "recent_documents": [
-        {
-          "accession_number": "ML26091A372",
-          "date": "2026-05-15",
-          "title": "Request for Withholding Proprietary Information Terrestrial Energy Regulatory Plan Version 9 Submitted on March 17, 2026"
-        },
-        {
-          "accession_number": "ML26113A374",
-          "date": "2026-05-01",
-          "title": "Topical Report TR 251024, \"Strategy for Establishing Defense in Depth for IMSR Structures Systems, and Components,\" Revi"
-        },
-        {
-          "accession_number": "ML26119A831",
-          "date": "2026-04-30",
-          "title": "Email - Update on Schedule for PIE Topical Report"
-        },
-        {
-          "accession_number": "ML26110A298",
-          "date": "2026-04-29",
-          "title": "TEUSA IMSR PIE TR FINAL SE Cover Letter"
-        },
-        {
-          "accession_number": "ML26117A170",
-          "date": "2026-04-29",
-          "title": "Enclosure 1 TEUSA IMSR PIE TR Final SE (Public)"
-        }
-      ],
-      "kakao_summary": "[Terrestrial Energy IMSR (Project TETRA)] / 사전신청 단계 / 의무 심리(uncontested hearing) 관련 문서 존재 / 최근 활동: IMSR 포스튤레이티드 개시사건(PIE) 토피컬 리포트에 대한 규제 감사 및 최종 안전평가가 완료되었고, 심층방어 전략 토피컬 리포트와 규제계획 비공개 정보 처리 요청도 제출되었습니다. / 단계: 사전신청 55 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0"
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26091A372",
+            "date": "05/15",
+            "title": "Request for Withholding Proprietary Information Terrestrial Ener…",
+            "url": "https://www.nrc.gov/docs/ML2609/ML26091A372.pdf"
+          },
+          {
+            "accession_number": "ML26113A374",
+            "date": "05/01",
+            "title": "Topical Report TR 251024, \"Strategy for Establishing Defense in …",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26113A374.pdf"
+          },
+          {
+            "accession_number": "ML26119A831",
+            "date": "04/30",
+            "title": "Email - Update on Schedule for PIE Topical Report",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26119A831.pdf"
+          },
+          {
+            "accession_number": "ML26110A298",
+            "date": "04/29",
+            "title": "TEUSA IMSR PIE TR FINAL SE Cover Letter",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26110A298.pdf"
+          },
+          {
+            "accession_number": "ML26117A170",
+            "date": "04/29",
+            "title": "Enclosure 1 TEUSA IMSR PIE TR Final SE (Public)",
+            "url": "https://www.nrc.gov/docs/ML2611/ML26117A170.pdf"
+          }
+        ]
+      },
+      "kakao_summary": "Terrestrial Energy IMSR (Project TETRA)\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: IMSR 포스튤레이티드 개시사건(PIE) 토피컬 리포트에 대한 규제 감사 및 최종 안전평가가 완료되었고, 심층방어 전략 토피컬 리포트와 규제계획 비공개 정보 처리 요청도 제출되었습니다.\n\n단계: 사전신청 55 [현재]"
     }
   ]
 }
