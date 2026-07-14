@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-13T08:02:12Z",
-  "last_checked": "2026-07-12",
-  "total_docs": 11267,
+  "generated_at": "2026-07-14T23:02:46Z",
+  "last_checked": "2026-07-14",
+  "total_docs": 11273,
   "reactors": [
     {
       "id": "kairos_hermes",
       "name": "Kairos Hermes",
-      "total_docs": 1106,
+      "total_docs": 1107,
       "doc_date_range": {
         "earliest": "2018-03-29",
-        "latest": "2026-05-18"
+        "latest": "2026-07-13"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -19,26 +19,33 @@
       "current_status": {
         "headline": "CP 발급 완료",
         "bullets": [
-          "2023년 12월 15일 Hermes 시험원자로 건설허가(CP)가 정식 발급됨.",
+          "2023년 12월 15일 Hermes 시험원자로 건설허가(CP)가 공식 발급됨",
           "근거: ML23338A258 | Kairos Power LLC - Construction Permit for Hermes Test Reactor"
         ],
         "note_lines": []
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "2026년 5월 13일 NRC는 Hermes 1 건설허가(CPTR-6) 공사완료 최종기한을 기존 2026년 12월 31일에서 2029년 4월 30일로 약 2년 4개월 연장하는 Amendment No. 1을 공식 발급하였으며, 이는 공사 일정 지연을 공식화한 것으로 프로젝트가 지속 진행 중이나 계획 대비 유의미한 일정 차질이 발생한 상태임을 나타냄.",
+        "comment": "2026년 5월 CP 공사 완료 기한이 2026년 12월 31일에서 2029년 4월 30일로 연장(Amendment No.1)되었고, 2025년 12월 외부사건 설계기준 사전제출 회의에서 항공교통 위험 제외 및 설계기준 홍수 수위 상향(759.9→763.1ft msl) 등 기술 쟁점이 논의되는 등, 공사 일정 지연이 공식화되었으나 설계 심사 활동은 지속적으로 진행 중입니다.",
         "evidence": [
           "ML26085A078 | 2026-05-18 | Final FRN Hermes 1 Extension Order",
-          "ML26085A142 | 2026-05-13 | Attachment 1: Issuance of a Permit for the Construction of the Facilit",
           "ML26085A117 | 2026-05-13 | Final Amendment Hermes 1 CP to Extend Construction Completion",
-          "ML26085A108 | 2026-05-13 | Final Transmittal Letter to Amend Hermes 1 CP to Extend Construction C",
-          "ML26085A080 | 2026-05-13 | Final Order Hermes 1 Extension of Construction Completion"
+          "ML26085A103 | 2026-05-13 | Final Safety Evaluation to Amend Hermes 1 CP to Extend Construction Co",
+          "ML26085A080 | 2026-05-13 | Final Order Hermes 1 Extension of Construction Completion",
+          "ML26085A142 | 2026-05-13 | Attachment 1: Issuance of a Permit for the Construction of the Facilit",
+          "ML26190A376 | 2026-07-13 | 12/18/2025 Summary Of Pre-Submittal Meeting With Kairos On Hermes Exte"
         ]
       },
-      "stage_signal_line": "사전신청 269 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]",
+      "stage_signal_line": "사전신청 270 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26190A376",
+            "date": "07/13",
+            "title": "12/18/2025 Summary Of Pre-Submittal Meeting With Kairos On Herme…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26190A376%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26085A078",
             "date": "05/18",
@@ -62,16 +69,10 @@
             "date": "05/13",
             "title": "Final Transmittal Letter to Amend Hermes 1 CP to Extend Construc…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26085A108%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26085A103",
-            "date": "05/13",
-            "title": "Final Safety Evaluation to Amend Hermes 1 CP to Extend Construct…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26085A103%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
-      "kakao_summary": "Kairos Hermes\nCP 발급 완료\n2023년 12월 15일 Hermes 시험원자로 건설허가(CP)가 정식 발급됨.\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 5월 13일 NRC는 Hermes 1 건설허가(CPTR-6) 공사완료 최종기한을 기존 2026년 12월 31일에서 2029년 4월 30일로 약 2년 4개월 연장하는 Amendment No. 1을 공식 발급하였으며, 이는 공사 일정 지연을 공식화한 것으로 프로젝트가 지속 진행 중이나 계획 대비 유의미한 일정 차질이 발생한 상태임을 나타냄.\n\n단계: 사전신청 269 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]"
+      "kakao_summary": "Kairos Hermes\nCP 발급 완료\n2023년 12월 15일 Hermes 시험원자로 건설허가(CP)가 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 5월 CP 공사 완료 기한이 2026년 12월 31일에서 2029년 4월 30일로 연장(Amendment No.1)되었고, 2025년 12월 외부사건 설계기준 사전제출 회의에서 항공교통 위험 제외 및 설계기준 홍수 수위 상향(759.9→763.1ft msl) 등 기술 쟁점이 논의되는 등, 공사 일정 지연이 공식화되었으나 설계 심사 활동은 지속적으로 진행 중입니다.\n\n단계: 사전신청 270 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]"
     },
     {
       "id": "kairos_hermes2",
@@ -145,10 +146,10 @@
     {
       "id": "bwrx300_clinch_river",
       "name": "BWRX-300 / Clinch River Unit 1",
-      "total_docs": 512,
+      "total_docs": 514,
       "doc_date_range": {
         "earliest": "2022-03-04",
-        "latest": "2026-07-07"
+        "latest": "2026-07-14"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -164,17 +165,30 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "FSER가 2026년 6월 발급 완료(당초 예정 2026년 11월 대비 5개월 조기 완료, 소요 인력도 25,000시간→16,500시간으로 축소)되었고, 2026년 8월 13일 공개 비경쟁 청문회(Uncontested Hearing)가 예고되어 CP 발급을 향한 최종 단계에 진입한 상태로, 직전 확인 시점 대비 프로젝트는 매우 빠르게 진전되고 있음.",
+        "comment": "FSER 발행(ML26168A505) 후 FRN을 통한 공청회 공고(ML26167A149)와 2026년 8월 13일 테네시주 오크리지에서의 의무청문회 일정 확정(ML26195A171), QA 점검 결과 위반 없음 확인(ML26187A365) 등 CP 발급을 향한 마지막 절차들이 빠르게 진행되고 있어 프로젝트는 매우 활발히 진전 중입니다.",
         "evidence": [
+          "ML26195A171 | 2026-07-14 | Mandatory Hearing for Tennessee Valley Authority's Construction Permit",
+          "ML26167A149 | 2026-07-07 | FRN - TVA CP Hearing Notice",
           "ML26168A505 | 2026-06-25 | FSER, TVA Construction Permit Application (Clinch River Nuclear Site, ",
-          "ML26160A308 | 2026-06-22 | Clinch River Nuclear Site, Unit 1, Construction Permit Application Rev",
-          "ML26167A149 | 2026-07-07 | FRN - TVA CP Hearing Notice"
+          "ML26187A365 | 2026-07-13 | Nuclear Regulatory Commission Inspection Report Of Tennessee Valley Au"
         ]
       },
-      "stage_signal_line": "사전신청 58 | 신청접수 14 | 기술검토 13 | 초안 SE 0 | 최종 15 [현재]",
+      "stage_signal_line": "사전신청 59 | 신청접수 14 | 기술검토 13 | 초안 SE 0 | 최종 15 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26195A171",
+            "date": "07/14",
+            "title": "Mandatory Hearing for Tennessee Valley Authority's Construction …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26195A171%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26187A365",
+            "date": "07/13",
+            "title": "Nuclear Regulatory Commission Inspection Report Of Tennessee Val…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26187A365%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26167A149",
             "date": "07/07",
@@ -192,22 +206,10 @@
             "date": "06/22",
             "title": "Clinch River Nuclear Site, Unit 1, Construction Permit Applicati…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26160A308%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26149A490",
-            "date": "06/12",
-            "title": "2026/05/29 Clinch River CP Saf Docs - Availability of Advance Sa…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26149A490%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML25175A059",
-            "date": "06/05",
-            "title": "Federal Register Notice, Docketing and Opportunity for Hearing, …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML25175A059%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
-      "kakao_summary": "BWRX-300 / Clinch River Unit 1\nFSER 발행 완료 / CP 미발급\n근거: ML26168A505 | FSER, TVA Construction Permit Application (Clinch River Nuclear Site, \n\n최근 활동: FSER가 2026년 6월 발급 완료(당초 예정 2026년 11월 대비 5개월 조기 완료, 소요 인력도 25,000시간→16,500시간으로 축소)되었고, 2026년 8월 13일 공개 비경쟁 청문회(Uncontested Hearing)가 예고되어 CP 발급을 향한 최종 단계에 진입한 상태로, 직전 확인 시점 대비 프로젝트는 매우 빠르게 진전되고 있음.\n\n단계: 사전신청 58 | 신청접수 14 | 기술검토 13 | 최종 15 [현재]"
+      "kakao_summary": "BWRX-300 / Clinch River Unit 1\nFSER 발행 완료 / CP 미발급\n근거: ML26168A505 | FSER, TVA Construction Permit Application (Clinch River Nuclear Site, \n\n최근 활동: FSER 발행(ML26168A505) 후 FRN을 통한 공청회 공고(ML26167A149)와 2026년 8월 13일 테네시주 오크리지에서의 의무청문회 일정 확정(ML26195A171), QA 점검 결과 위반 없음 확인(ML26187A365) 등 CP 발급을 향한 마지막 절차들이 빠르게 진행되고 있어 프로젝트는 매우 활발히 진전 중입니다.\n\n단계: 사전신청 59 | 신청접수 14 | 기술검토 13 | 최종 15 [현재]"
     },
     {
       "id": "bwrx300_aep_rockport",
@@ -619,10 +621,10 @@
     {
       "id": "holtec_smr160",
       "name": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)",
-      "total_docs": 887,
+      "total_docs": 888,
       "doc_date_range": {
         "earliest": "2020-09-28",
-        "latest": "2026-07-08"
+        "latest": "2026-07-14"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -638,22 +640,28 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "2026년 6~7월 중 NRC는 Section 106(국가역사보존법) 절차를 NEPA(EIS) 프로세스에 통합하는 방식으로 진행하며 ACHP·미시간 SHPO·원주민 부족 등 관계 기관에 협의 개시 서한을 발송했고, 미시간 EGLE은 EIS 스코핑에 참여하는 등 환경·역사보존 검토가 다각도로 병행 진행 중으로, 직전 확인 시점 대비 실질적인 진전이 확인된다.",
+        "comment": "SOE 벽체 면제 요청에 대한 환경평가(역사·문화자원 예비결정 '영향 없음'), ACHP의 Section 106 통합 절차 확인 서한, 미시간 SHPO의 55에이커 부지 고고·건축 조사 동의 등 규제기관·자문기관과의 NHPA Section 106 협의 절차가 집중적으로 진행되며, EIS 스코핑 공청회 코멘트도 접수되는 등 CP/LWA 심사가 활발히 진행 중이다.",
         "evidence": [
+          "ML26194A201 | 2026-07-14 | Enclosure - Preliminary Determination and Draft Historic and Cultural ",
           "ML26189A345 | 2026-07-08 | Letter from J. Loichinger, ACHP, Regarding Palisades SMR, LLC's Phased",
           "ML26188A129 | 2026-07-07 | 6-30-25 Ltr from K. Kolokithas, Michigan SHPO to NRC Concurrence with ",
           "ML26177A276 | 2026-07-06 | 2026/06/23 - Comment (1) E-mail regarding Pioneer 1 & 2 EIS Scoping",
           "ML26161A005 | 2026-07-01 | Ltr to R. Schumaker, MI SHPO - Holtec SMR 300 CP and LWA - S106 Initia",
           "ML26161A004 | 2026-07-01 | Letter to J. Loichinger, ACHP - Holtec SMR 300 CP and LWA - S106 Initi",
-          "ML26176A381 | 2026-06-26 | Letter to Virgil Wind, Mille Lacs Band of Ojibwe - Holtec SMR 300 CP a",
           "ML26176A382 | 2026-06-26 | Letter to Whitney B. Gravelle, Bay Mills Indian Community - Holtec SMR",
-          "ML26176A383 | 2026-06-26 | Letter to Winnay J. Wemigwase, Little Traverse Bay Bands of Odawa Indi"
+          "ML26176A381 | 2026-06-26 | Letter to Virgil Wind, Mille Lacs Band of Ojibwe - Holtec SMR 300 CP a"
         ]
       },
-      "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 2 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26194A201",
+            "date": "07/14",
+            "title": "Enclosure - Preliminary Determination and Draft Historic and Cul…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26194A201%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26189A345",
             "date": "07/08",
@@ -677,16 +685,10 @@
             "date": "07/01",
             "title": "Ltr to R. Schumaker, MI SHPO - Holtec SMR 300 CP and LWA - S106 …",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26161A005%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26161A004",
-            "date": "07/01",
-            "title": "Letter to J. Loichinger, ACHP - Holtec SMR 300 CP and LWA - S106…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26161A004%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
-      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: 2026년 6~7월 중 NRC는 Section 106(국가역사보존법) 절차를 NEPA(EIS) 프로세스에 통합하는 방식으로 진행하며 ACHP·미시간 SHPO·원주민 부족 등 관계 기관에 협의 개시 서한을 발송했고, 미시간 EGLE은 EIS 스코핑에 참여하는 등 환경·역사보존 검토가 다각도로 병행 진행 중으로, 직전 확인 시점 대비 실질적인 진전이 확인된다.\n\n단계: 사전신청 360 | 기술검토 1 [현재]"
+      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: SOE 벽체 면제 요청에 대한 환경평가(역사·문화자원 예비결정 '영향 없음'), ACHP의 Section 106 통합 절차 확인 서한, 미시간 SHPO의 55에이커 부지 고고·건축 조사 동의 등 규제기관·자문기관과의 NHPA Section 106 협의 절차가 집중적으로 진행되며, EIS 스코핑 공청회 코멘트도 접수되는 등 CP/LWA 심사가 활발히 진행 중이다.\n\n단계: 사전신청 360 | 기술검토 2 [현재]"
     },
     {
       "id": "xenergy_xenith",
@@ -1211,10 +1213,10 @@
     {
       "id": "natura_resources_acu_msrr",
       "name": "Natura Resources / Abilene Christian University MSRR (MSR-1)",
-      "total_docs": 225,
+      "total_docs": 227,
       "doc_date_range": {
         "earliest": "2020-07-31",
-        "latest": "2026-06-24"
+        "latest": "2026-07-13"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -1231,18 +1233,30 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "2026년 상반기 동안 Natura Resources는 QA 프로그램 설명서(QAPD)를 NRC에 토픽 리포트로 공식 제출하고, NRC와 온라인 포털 접근 협약을 체결하는 등 CP 발급 이후 OL 심사 준비를 위한 인프라 구축이 활발히 진행 중이며, 단순 행정 절차를 넘어 실질적인 품질보증 체계 확립 단계로 전진하고 있어 프로젝트는 정체 없이 진행 중인 것으로 평가됨.",
+        "comment": "2026년 6월 Natura Resources가 QAPD(품질보증 프로그램 설명서)를 토픽 리포트(NR-RPT-0002-R0)로 NRC에 제출하였고, 7월 13일 NRC가 완전성 검토를 완료해 정식 기술 검토 착수를 승인(Form 898)했으며, 초안 SE는 2026년 11월, 최종 SE는 12월 완료 예정으로 CP 이후 OL 준비를 위한 핵심 행정 절차가 활발히 진행 중입니다.",
         "evidence": [
+          "ML26177A032 | 2026-07-13 | NRC Form 898 - Natura Resources Quality Assurance Program Description",
+          "ML26177A033 | 2026-07-13 | Transmittal - Natura Resources LLC QAPD TR Form 898",
           "ML26166A407 | 2026-06-24 | Natura Resources - Letter Transmitting Quality Assurance Program Descr",
-          "ML26166A408 | 2026-06-24 | Natura Resources - Quality Assurance Program Description",
-          "ML26111A436 | 2026-04-22 | Enclosure - Natura Resources LLC and U.S NRC Online Portal Agreement",
-          "ML26085A006 | 2026-04-22 | Letter - Natura Resources LLC - Online Portal Information Access Agree"
+          "ML26166A408 | 2026-06-24 | Natura Resources - Quality Assurance Program Description"
         ]
       },
-      "stage_signal_line": "사전신청 40 | 신청접수 9 | 기술검토 11 | 초안 SE 0 | 최종 2 [현재]",
+      "stage_signal_line": "사전신청 41 | 신청접수 9 | 기술검토 11 | 초안 SE 0 | 최종 2 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26177A032",
+            "date": "07/13",
+            "title": "NRC Form 898 - Natura Resources Quality Assurance Program Descri…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26177A032%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26177A033",
+            "date": "07/13",
+            "title": "Transmittal - Natura Resources LLC QAPD TR Form 898",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26177A033%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26166A407",
             "date": "06/24",
@@ -1260,22 +1274,10 @@
             "date": "04/22",
             "title": "Enclosure - Natura Resources LLC and U.S NRC Online Portal Agree…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26111A436%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26085A006",
-            "date": "04/22",
-            "title": "Letter - Natura Resources LLC - Online Portal Information Access…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26085A006%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26072A237",
-            "date": "03/23",
-            "title": "Abilene Christian University Molten Salt Research Reactor Degrad…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26072A237%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
-      "kakao_summary": "Natura Resources / Abilene Christian University MSRR (MSR-1)\nCP 발급 완료\n2024년 9월 건설허가(CP)가 공식 발급되었습니다.\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 상반기 동안 Natura Resources는 QA 프로그램 설명서(QAPD)를 NRC에 토픽 리포트로 공식 제출하고, NRC와 온라인 포털 접근 협약을 체결하는 등 CP 발급 이후 OL 심사 준비를 위한 인프라 구축이 활발히 진행 중이며, 단순 행정 절차를 넘어 실질적인 품질보증 체계 확립 단계로 전진하고 있어 프로젝트는 정체 없이 진행 중인 것으로 평가됨.\n\n단계: 사전신청 40 | 신청접수 9 | 기술검토 11 | 최종 2 [현재]"
+      "kakao_summary": "Natura Resources / Abilene Christian University MSRR (MSR-1)\nCP 발급 완료\n2024년 9월 건설허가(CP)가 공식 발급되었습니다.\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 6월 Natura Resources가 QAPD(품질보증 프로그램 설명서)를 토픽 리포트(NR-RPT-0002-R0)로 NRC에 제출하였고, 7월 13일 NRC가 완전성 검토를 완료해 정식 기술 검토 착수를 승인(Form 898)했으며, 초안 SE는 2026년 11월, 최종 SE는 12월 완료 예정으로 CP 이후 OL 준비를 위한 핵심 행정 절차가 활발히 진행 중입니다.\n\n단계: 사전신청 41 | 신청접수 9 | 기술검토 11 | 최종 2 [현재]"
     },
     {
       "id": "radiant_industries_kaleidos",
