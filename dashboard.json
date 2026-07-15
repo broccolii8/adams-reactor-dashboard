@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T23:02:46Z",
+  "generated_at": "2026-07-15T02:14:24Z",
   "last_checked": "2026-07-14",
-  "total_docs": 11273,
+  "total_docs": 11275,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -1409,6 +1409,50 @@
         ]
       },
       "kakao_summary": "Terrestrial Energy IMSR (Project TETRA)\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: PIE 토픽 보고서에 대한 최종 안전평가(SE)가 2026년 4월 말 발행 완료되었고, 규제 참여 계획 버전 9의 독점정보 비공개 승인도 이루어졌으나, 10 CFR Part 53 최종 규칙 공포를 이유로 심층방어(Defense in Depth) 토픽 보고서가 자진 철회되는 등 기술 전략 재검토가 병행되고 있어, 프로젝트는 사전신청 단계에서 규제 검토가 활발히 진행 중이지만 일부 핵심 보고서의 재정비가 필요한 과도기적 상황으로 평가됨.\n\n단계: 사전신청 55 [현재]"
+    },
+    {
+      "id": "fanco_eagl1",
+      "name": "First American Nuclear EAGL-1",
+      "total_docs": 2,
+      "doc_date_range": {
+        "earliest": "2026-02-25",
+        "latest": "2026-02-25"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "판단 불가 — 단계 신호 문서 없음",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "2026년 2월 25일 1st American Nuclear Co.가 NRC에 EAGL-1 액체 중금속 고속로(Liquid Heavy Metal Fast Reactor)에 대한 규제 참여 계획(Regulatory Engagement Plan) 버전 001을 최초 제출하였으며, 10 CFR Part 50 프로토타입 경로를 통한 인허가 전략 및 사전 협의 일정을 포함한 18페이지 문서를 공식 접수시켜 프로젝트가 NRC와의 본격적인 사전 인허가 단계에 진입하였음을 확인할 수 있습니다.",
+        "evidence": [
+          "ML26048A511 | 2026-02-25 | 1st American Nuclear Co., Regulatory Engagement Plan Version 001, Cove",
+          "ML26048A512 | 2026-02-25 | 1st American Nuclear Co., Regulatory Engagement Plan, EAGL-1 Liquid He"
+        ]
+      },
+      "stage_signal_line": "사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26048A511",
+            "date": "02/25",
+            "title": "1st American Nuclear Co., Regulatory Engagement Plan Version 001…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26048A511%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26048A512",
+            "date": "02/25",
+            "title": "1st American Nuclear Co., Regulatory Engagement Plan, EAGL-1 Liq…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26048A512%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "kakao_summary": "First American Nuclear EAGL-1\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: 2026년 2월 25일 1st American Nuclear Co.가 NRC에 EAGL-1 액체 중금속 고속로(Liquid Heavy Metal Fast Reactor)에 대한 규제 참여 계획(Regulatory Engagement Plan) 버전 001을 최초 제출하였으며, 10 CFR Part 50 프로토타입 경로를 통한 인허가 전략 및 사전 협의 일정을 포함한 18페이지 문서를 공식 접수시켜 프로젝트가 NRC와의 본격적인 사전 인허가 단계에 진입하였음을 확인할 수 있습니다.\n\n단계: 진행 신호 없음"
     }
   ]
 }
