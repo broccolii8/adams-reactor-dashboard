@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T02:14:24Z",
+  "generated_at": "2026-07-15T03:48:14Z",
   "last_checked": "2026-07-14",
-  "total_docs": 11275,
+  "total_docs": 11276,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -1453,6 +1453,43 @@
         ]
       },
       "kakao_summary": "First American Nuclear EAGL-1\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: 2026년 2월 25일 1st American Nuclear Co.가 NRC에 EAGL-1 액체 중금속 고속로(Liquid Heavy Metal Fast Reactor)에 대한 규제 참여 계획(Regulatory Engagement Plan) 버전 001을 최초 제출하였으며, 10 CFR Part 50 프로토타입 경로를 통한 인허가 전략 및 사전 협의 일정을 포함한 18페이지 문서를 공식 접수시켜 프로젝트가 NRC와의 본격적인 사전 인허가 단계에 진입하였음을 확인할 수 있습니다.\n\n단계: 진행 신호 없음"
+    },
+    {
+      "id": "blykalla_sealer",
+      "name": "Blykalla SEALER",
+      "total_docs": 1,
+      "doc_date_range": {
+        "earliest": "2026-06-17",
+        "latest": "2026-06-17"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "판단 불가 — 단계 신호 문서 없음",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "2026년 5월 Blykalla의 요청에 따라 NRC가 프로젝트 번호(99902169)를 부여하고 사전신청 활동 관련 비용 청구 체계를 안내하였으며, 이는 Blykalla의 납냉각 소형 모듈 고속로에 대한 NRC 사전신청 인허가 절차가 공식적으로 시작된 것을 의미하는 초기 단계 진입으로 평가됨.",
+        "evidence": [
+          "ML26159A396 | 2026-06-17 | Blykalla Reactor, Inc. - Assignment of Project Number and Explanation "
+        ]
+      },
+      "stage_signal_line": "사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26159A396",
+            "date": "06/17",
+            "title": "Blykalla Reactor, Inc. - Assignment of Project Number and Explan…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26159A396%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "kakao_summary": "Blykalla SEALER\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: 2026년 5월 Blykalla의 요청에 따라 NRC가 프로젝트 번호(99902169)를 부여하고 사전신청 활동 관련 비용 청구 체계를 안내하였으며, 이는 Blykalla의 납냉각 소형 모듈 고속로에 대한 NRC 사전신청 인허가 절차가 공식적으로 시작된 것을 의미하는 초기 단계 진입으로 평가됨.\n\n단계: 진행 신호 없음"
     }
   ]
 }
