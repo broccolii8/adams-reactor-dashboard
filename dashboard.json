@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T07:21:44Z",
+  "generated_at": "2026-07-15T07:27:45Z",
   "last_checked": "2026-07-14",
   "total_docs": 11276,
   "reactors": [
@@ -76,7 +76,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": null,
+        "as_of": "2026-07-15",
         "recent_filings": []
       },
       "kakao_summary": "Kairos Hermes\nCP 발급 완료\n2023년 12월 15일 Hermes 시험원자로 건설허가(CP)가 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 5월 CP 공사 완료 기한이 2026년 12월 31일에서 2029년 4월 30일로 연장(Amendment No.1)되었고, 2025년 12월 외부사건 설계기준 사전제출 회의에서 항공교통 위험 제외 및 설계기준 홍수 수위 상향(759.9→763.1ft msl) 등 기술 쟁점이 논의되는 등, 공사 일정 지연이 공식화되었으나 설계 심사 활동은 지속적으로 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 270 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]"
@@ -152,7 +152,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": null,
+        "as_of": "2026-07-15",
         "recent_filings": []
       },
       "kakao_summary": "Kairos Hermes 2\nCP 발급 완료\nHermes 2 Unit 1·2 건설허가(CP)가 2024년 12월 17일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2024년 8월 착수된 Hermes CP 조건 중 하나인 부지 지질 매핑 감사가 완료되어, NRC가 2026년 4월 27일 초안 감사보고서를 Kairos에 제공하고 4월 28일 비공개 정보 없음을 확인받았으며, Hermes 1 CP 기한 연장 EA/FONSI 발급 및 토픽 보고서 검증 완료 등 복수의 규제 활동이 병행 진행 중으로 프로젝트는 CP 조건 이행 단계에서 활발히 진행되고 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 233 | 신청접수 18 | 기술검토 13 | 최종 5 [현재]"
@@ -227,7 +227,7 @@
         "headline": "SEC 공시 기업 (Tennessee Valley Authority)",
         "short_label": "SEC 공시 기업",
         "scope_note": null,
-        "as_of": "2026-05-28",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-05-28",
@@ -323,7 +323,7 @@
         "headline": "상장사 (NYSE:AEP)",
         "short_label": "상장사",
         "scope_note": null,
-        "as_of": "2026-05-14",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-05-14",
@@ -433,7 +433,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": null,
+        "as_of": "2026-07-15",
         "recent_filings": []
       },
       "kakao_summary": "TerraPower Natrium / Kemmerer Unit 1\nCP 발급 완료\n건설허가(CP)가 2026년 3월 9일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: CP 발급 이후 OL 신청 준비 단계로서 복수의 토피컬 리포트(EAL 방법론, 진동평가, 이중유닛 설계 등)에 대한 NRC 감사 계획 수립과 완전성 검토가 활발히 진행 중이며, EAL TR(NAT-22075)은 완전성 검토에서 비수락 판정을 받아 보완 제출이 요구되는 등 기술 심사 쟁점도 가시화되고 있어 프로젝트는 OL 심사 기반 구축 단계에서 비교적 활발히 진행 중이나 일부 기술 문서의 재작업 필요성이 확인됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 330 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]"
@@ -508,7 +508,7 @@
         "headline": "상장사 (Nasdaq:XE)",
         "short_label": "상장사",
         "scope_note": "X-Energy, Inc.의 전사(全社) 재무 정보 — xenergy_xenith, xenergy_trisox와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-06-04",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-06-04",
@@ -614,7 +614,7 @@
         "headline": "상장사 (NYSE:SMR)",
         "short_label": "상장사",
         "scope_note": null,
-        "as_of": "2026-06-02",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-06-02",
@@ -725,7 +725,7 @@
         "headline": "상장사 (NYSE:OKLO)",
         "short_label": "상장사",
         "scope_note": "Oklo Inc.의 전사(全社) 재무 정보 — atomic_alchemy_meitner1, oklo_fuel_recycling와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-06-17",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-06-17",
@@ -831,7 +831,7 @@
         "headline": "상장사 (NYSE:OKLO)",
         "short_label": "상장사",
         "scope_note": "Oklo Inc.의 전사(全社) 재무 정보 — oklo_aurora, oklo_fuel_recycling와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-06-17",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-06-17",
@@ -941,7 +941,7 @@
         "headline": "상장 추진 중 — S-1 제출 2026-07-10",
         "short_label": "상장 추진 중",
         "scope_note": null,
-        "as_of": "2026-07-10",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-07-10",
@@ -1037,7 +1037,7 @@
         "headline": "상장사 (Nasdaq:XE)",
         "short_label": "상장사",
         "scope_note": "X-Energy, Inc.의 전사(全社) 재무 정보 — xenergy_xe100, xenergy_trisox와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-06-04",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-06-04",
@@ -1143,7 +1143,7 @@
         "headline": "상장사 (Nasdaq:XE)",
         "short_label": "상장사",
         "scope_note": "X-Energy, Inc.의 전사(全社) 재무 정보 — xenergy_xe100, xenergy_xenith와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-06-04",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-06-04",
@@ -1245,7 +1245,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": null,
+        "as_of": "2026-07-15",
         "recent_filings": []
       },
       "kakao_summary": "Natrium Fuel Fabrication Facility (GNF-A)\n신청서 접수 단계\n\n최근 활동: GNF-A는 2025년 3월 자연현상위험(NPH) 방법론 설계 검토 회의를 거쳐 2026년 4월에도 Natrium 연료제조시설 프로젝트 현황 업데이트 회의를 예정하는 등 pre-application 단계에서 기술적 설계 논의가 지속적으로 이루어지고 있으며, 라이선스 신청 전 단계이나 NRC와의 정기적 교류가 이어지는 활발한 진행 상태로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 6 | 신청접수 1 [현재]"
@@ -1318,7 +1318,7 @@
         "headline": "상장사 (NYSE:OKLO)",
         "short_label": "상장사",
         "scope_note": "Oklo Inc.의 전사(全社) 재무 정보 — oklo_aurora, atomic_alchemy_meitner1와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-06-17",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-06-17",
@@ -1424,7 +1424,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": null,
+        "as_of": "2026-07-15",
         "recent_filings": []
       },
       "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Aalo Atomics는 2026년 5월~6월 중 QAPD 안전평가 승인, CAF 최종설계검토 관련 NRC 의견서 접수, PDSA 제출 등 실질적 인허가 활동이 집중적으로 이루어졌으며, 6월 24일에는 나트륨-흑연 상호작용 및 조사된 스테인리스강 등 Aalo-1(30MWth 나트륨 열스펙트럼 원자로)의 핵심 재료 기술 현안을 NRC와 공개·비공개 병행 회의로 심도 있게 논의하는 등 사전신청 단계에서 설계인허가 신청 전 단계로 빠르게 진전되고 있는 것으로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 16 [현재]"
@@ -1489,7 +1489,7 @@
         "headline": "비상장 · 사모 조달 3회 (2023~2025) — 최근 $51,045,266 조달 / 목표 $79,534,995",
         "short_label": "비상장 · 사모 조달 중",
         "scope_note": null,
-        "as_of": "2025-09-19",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2025-09-19",
@@ -1582,7 +1582,7 @@
         "headline": "상장사 (Nasdaq:FISN)",
         "short_label": "상장사",
         "scope_note": null,
-        "as_of": "2026-06-22",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-06-22",
@@ -1685,7 +1685,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": null,
+        "as_of": "2026-07-15",
         "recent_filings": []
       },
       "kakao_summary": "Last Energy PWR-20\n사전신청 단계\n\n최근 활동: Last Energy는 밀봉형 격납 백서에 대한 NRC 피드백 수령, PM 재배정(Allen Fetter), 그리고 2026년 6월 최초 기술 사전신청 회의 일정 확정 등 사전신청 단계에서 꾸준하고 구체적인 활동이 이어지고 있으며, 환경 보고서 논의 및 텍사스 Haskell 부지 언급 등 실질적 진전이 확인된다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 5 [현재]"
@@ -1761,7 +1761,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": null,
+        "as_of": "2026-07-15",
         "recent_filings": []
       },
       "kakao_summary": "Natura Resources / Abilene Christian University MSRR (MSR-1)\nCP 발급 완료\n2024년 9월 건설허가(CP)가 공식 발급되었습니다.\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 6월 Natura Resources가 QAPD(품질보증 프로그램 설명서)를 토픽 리포트(NR-RPT-0002-R0)로 NRC에 제출하였고, 7월 13일 NRC가 완전성 검토를 완료해 정식 기술 검토 착수를 승인(Form 898)했으며, 초안 SE는 2026년 11월, 최종 SE는 12월 완료 예정으로 CP 이후 OL 준비를 위한 핵심 행정 절차가 활발히 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 41 | 신청접수 9 | 기술검토 11 | 최종 2 [현재]"
@@ -1833,7 +1833,7 @@
         "headline": "비상장 · 사모 조달 5회 (2022~2025) — 최근 $268,805,033 조달 / 목표 $350,000,018",
         "short_label": "비상장 · 사모 조달 중",
         "scope_note": null,
-        "as_of": "2025-12-30",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2025-12-30",
@@ -1937,7 +1937,7 @@
         "headline": "상장사 (Nasdaq:IMSR)",
         "short_label": "상장사",
         "scope_note": null,
-        "as_of": "2026-06-12",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2026-06-12",
@@ -2019,7 +2019,7 @@
         "headline": "비상장 · 사모 조달 4회 (2025) — 최근 $1,417,050 조달 / 목표 $1,417,050",
         "short_label": "비상장 · 사모 조달 중",
         "scope_note": null,
-        "as_of": "2025-12-22",
+        "as_of": "2026-07-15",
         "recent_filings": [
           {
             "date": "2025-12-22",
@@ -2088,7 +2088,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": null,
+        "as_of": "2026-07-15",
         "recent_filings": []
       },
       "kakao_summary": "Blykalla SEALER\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: 2026년 5월 Blykalla의 요청에 따라 NRC가 프로젝트 번호(99902169)를 부여하고 사전신청 활동 관련 비용 청구 체계를 안내하였으며, 이는 Blykalla의 납냉각 소형 모듈 고속로에 대한 NRC 사전신청 인허가 절차가 공식적으로 시작된 것을 의미하는 초기 단계 진입으로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 진행 신호 없음"
