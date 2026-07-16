@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T00:55:23Z",
+  "generated_at": "2026-07-16T03:11:27Z",
   "last_checked": "2026-07-14",
   "total_docs": 11279,
   "reactors": [
@@ -79,7 +79,9 @@
         "as_of": "2026-07-15",
         "recent_filings": [],
         "assessment": null,
-        "signal": null
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
       },
       "kakao_summary": "Kairos Hermes\nCP 발급 완료\n2023년 12월 15일 Hermes 시험원자로 건설허가(CP)가 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 5월 CP 공사 완료 기한이 2026년 12월 31일에서 2029년 4월 30일로 연장(Amendment No.1)되었고, 2025년 12월 외부사건 설계기준 사전제출 회의에서 항공교통 위험 제외 및 설계기준 홍수 수위 상향(759.9→763.1ft msl) 등 기술 쟁점이 논의되는 등, 공사 일정 지연이 공식화되었으나 설계 심사 활동은 지속적으로 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 270 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]"
     },
@@ -157,7 +159,9 @@
         "as_of": "2026-07-15",
         "recent_filings": [],
         "assessment": null,
-        "signal": null
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
       },
       "kakao_summary": "Kairos Hermes 2\nCP 발급 완료\nHermes 2 Unit 1·2 건설허가(CP)가 2024년 12월 17일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2024년 8월 착수된 Hermes CP 조건 중 하나인 부지 지질 매핑 감사가 완료되어, NRC가 2026년 4월 27일 초안 감사보고서를 Kairos에 제공하고 4월 28일 비공개 정보 없음을 확인받았으며, Hermes 1 CP 기한 연장 EA/FONSI 발급 및 토픽 보고서 검증 완료 등 복수의 규제 활동이 병행 진행 중으로 프로젝트는 CP 조건 이행 단계에서 활발히 진행되고 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 233 | 신청접수 18 | 기술검토 13 | 최종 5 [현재]"
     },
@@ -270,7 +274,9 @@
           }
         ],
         "assessment": "TVA는 커벌랜드 발전소 30년 리스-매입 계약 체결로 인프라 확장을 지속하고 있으나, 단기간 내 CEO 은퇴·퇴직 합의·임시 CEO 선임이 연속 발생해 리더십 불안정이 뚜렷한 경고 신호로 작용하고 있다.",
-        "signal": "warning"
+        "signal": "warning",
+        "status_tag": "public_reporting",
+        "form_d_round_count": null
       },
       "kakao_summary": "BWRX-300 / Clinch River Unit 1\nFSER 발행 완료 / CP 미발급\n근거: ML26168A505 | FSER, TVA Construction Permit Application (Clinch River Nuclear Site, \n\n최근 활동: FSER 발행(ML26168A505) 후 FRN을 통한 공청회 공고(ML26167A149)와 2026년 8월 13일 테네시주 오크리지에서의 의무청문회 일정 확정(ML26195A171), QA 점검 결과 위반 없음 확인(ML26187A365) 등 CP 발급을 향한 마지막 절차들이 빠르게 진행되고 있어 프로젝트는 매우 활발히 진전 중입니다.\n\n💰 자금조달: SEC 공시 기업 (Tennessee Valley Authority)\n📊 진척도: ⚠️ TVA는 커벌랜드 발전소 30년 리스-매입 계약 체결로 인프라 확장을 지속하고 있으나, 단기간 내 CEO 은퇴·퇴직 합의·임시 CEO 선임이 연속 발생해 리더십 불안정이 뚜렷한 경고 신호로 작용하고 있다.\n\n단계별 문서: 사전신청 59 | 신청접수 14 | 기술검토 13 | 최종 15 [현재]"
     },
@@ -373,7 +379,9 @@
           }
         ],
         "assessment": "AEP는 2,354만 주 선도매도계약 체결, 수권주식 9억 주로 증가 등 적극적인 자본조달을 추진 중이며, 1분기 실적 공시도 정상적으로 이루어져 사업 진척은 안정적으로 평가된다. 다만 대규모 주식 희석 가능성은 기존 주주 관점에서 주의가 필요하다.",
-        "signal": "neutral"
+        "signal": "neutral",
+        "status_tag": "public_reporting",
+        "form_d_round_count": null
       },
       "kakao_summary": "BWRX-300 / AEP Rockport (Indiana Michigan Power)\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: AEP는 2026년 5월~7월 사이 NRC의 신청자 주도 환경영향평가(EIS) 파일럿 프로그램 참여를 공식 확정하고, 환경 문서 작성을 위해 Enercon을 외부 계약사로 선정·이해충돌 확인까지 완료하였으며, 규제참여 초기활동 계획도 제출(일부 비공개)하는 등 COLA 제출 전단계 환경검토 준비가 구체적으로 진행되고 있어 직전의 '단계 신호 없음' 상태에서 명확히 전진한 것으로 평가됨.\n\n💰 자금조달: 상장사 (NYSE:AEP)\n📊 진척도: AEP는 2,354만 주 선도매도계약 체결, 수권주식 9억 주로 증가 등 적극적인 자본조달을 추진 중이며, 1분기 실적 공시도 정상적으로 이루어져 사업 진척은 안정적으로 평가된다. 다만 대규모 주식 희석 가능성은 기존 주주 관점에서 주의가 필요하다.\n\n단계별 문서: 진행 신호 없음"
     },
@@ -454,7 +462,9 @@
         "as_of": "2026-07-15",
         "recent_filings": [],
         "assessment": null,
-        "signal": null
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
       },
       "kakao_summary": "TerraPower Natrium / Kemmerer Unit 1\nCP 발급 완료\n건설허가(CP)가 2026년 3월 9일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: CP 발급 이후 OL 신청 준비 단계로서 복수의 토피컬 리포트(EAL 방법론, 진동평가, 이중유닛 설계 등)에 대한 NRC 감사 계획 수립과 완전성 검토가 활발히 진행 중이며, EAL TR(NAT-22075)은 완전성 검토에서 비수락 판정을 받아 보완 제출이 요구되는 등 기술 심사 쟁점도 가시화되고 있어 프로젝트는 OL 심사 기반 구축 단계에서 비교적 활발히 진행 중이나 일부 기술 문서의 재작업 필요성이 확인됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 330 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]"
     },
@@ -567,7 +577,9 @@
           }
         ],
         "assessment": "X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주)를 완료해 자금조달을 성공적으로 마쳤으며, 1분기 실적 공시와 투자자 프레젠테이션 등 상장 후 공시 활동도 정상적으로 진행되고 있어 전반적인 사업 진척은 양호한 편이나, 락업 조기 해제 일정 공개는 주가 압박 요인으로 주시가 필요합니다.",
-        "signal": "neutral"
+        "signal": "neutral",
+        "status_tag": "public_reporting",
+        "form_d_round_count": null
       },
       "kakao_summary": "X-energy Xe-100\nNRC 기술검토 중\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: Long Mott 발전소(Xe-100 기반, Docket 50-614-CP)의 ASLB 청문 절차에서 재정 적격성 관련 Contention 3B가 Dow와의 FSA 체결로 모의(moot) 처리돼 기각되고 신규 Contention 3C 추가도 거부되면서 ASLB 절차가 종결됐으며, 흑연 코어 토피컬 리포트 Rev.2의 -A버전 검토도 완료돼 기술검토와 인허가 절차 양면에서 의미 있는 진전이 확인됨.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주)를 완료해 자금조달을 성공적으로 마쳤으며, 1분기 실적 공시와 투자자 프레젠테이션 등 상장 후 공시 활동도 정상적으로 진행되고 있어 전반적인 사업 진척은 양호한 편이나, 락업 조기 해제 일정 공개는 주가 압박 요인으로 주시가 필요합니다.\n\n단계별 문서: 사전신청 283 | 신청접수 19 | 기술검토 8 [현재]"
     },
@@ -680,7 +692,9 @@
           }
         ],
         "assessment": "최근 공시는 정기 주총, 분기 실적 발표 등 일상적 공시에 그치며 신규 계약·파트너십·자금조달 등 사업 진척을 나타내는 이벤트가 없어 뚜렷한 성장 모멘텀이 확인되지 않는다.",
-        "signal": "neutral"
+        "signal": "neutral",
+        "status_tag": "public_reporting",
+        "form_d_round_count": null
       },
       "kakao_summary": "NuScale US460 SDA\nFSER 발행 완료 / COL 미발급\n근거: ML25129A004 | Standard Design Approval SDA for the NuScale US460 Power Plant Design\n\n최근 활동: 비상계획 관련 토픽 보고서 2건(EECS TR-182845 Rev.1 및 ERO TR-183101)의 NRC 심사 일정이 2026년 6월 기준 초안 안전평가 완료 목표일이 6/30으로 수정되고 감사 기간이 7/30까지 연장되었으며, NuScale은 7월 9일 감사 질문에 대한 대응을 반영한 TR-182845 Rev.1을 공식 제출하는 등 비상계획 분야 심사가 활발히 진행 중이나 COL 발급까지는 아직 상당한 단계가 남아 있는 상태임.\n\n💰 자금조달: 상장사 (NYSE:SMR)\n📊 진척도: 최근 공시는 정기 주총, 분기 실적 발표 등 일상적 공시에 그치며 신규 계약·파트너십·자금조달 등 사업 진척을 나타내는 이벤트가 없어 뚜렷한 성장 모멘텀이 확인되지 않는다.\n\n단계별 문서: 사전신청 453 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
     },
@@ -798,7 +812,9 @@
           }
         ],
         "assessment": "Oklo는 최대 10억 달러 규모 ATM 프로그램 개시로 자금조달 여력을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부통제 측면에서 경미한 우려 신호로 볼 수 있어 전반적으로 중립적 진척 수준이다.",
-        "signal": "neutral"
+        "signal": "neutral",
+        "status_tag": "public_reporting",
+        "form_d_round_count": null
       },
       "kakao_summary": "Oklo Aurora Powerhouse\n기존 신청 거부\nCOL 신청이 거부되었으며, 면허 발급 이력 없음\n⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: NRC가 Oklo의 'Principal Design Criteria for the Aurora Powerhouse' 토피컬 리포트(Oklo-2025-RX-R012-A Rev.1)를 승인(-A 버전 검증 완료)하고, RIM 프로그램 관련 독점정보 비공개도 승인하는 등 기존 신청 거부 이후 새로운 규제 트랙(토피컬 리포트 방식)에서 실질적 진전이 확인되며, 프로젝트는 활발히 재개·진행 중으로 평가됨.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모 ATM 프로그램 개시로 자금조달 여력을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부통제 측면에서 경미한 우려 신호로 볼 수 있어 전반적으로 중립적 진척 수준이다.\n\n단계별 문서: 사전신청 163 | 신청접수 2 | 기술검토 16 | 최종 1 [확인 불가]"
     },
@@ -911,7 +927,9 @@
           }
         ],
         "assessment": "Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락으로 인한 10-Q 정정 공시는 내부 통제 관련 경미한 우려 신호로 볼 수 있다.",
-        "signal": "neutral"
+        "signal": "neutral",
+        "status_tag": "public_reporting",
+        "form_d_round_count": null
       },
       "kakao_summary": "Atomic Alchemy Meitner-1\n인허가 신청 철회\n근거: ML25353A630 | Meitner-1 Construction Permit Application Withdrawal Following Atomic \n표기된 최고 단계는 과거 도달 단계이며, 현재 신청은 철회 상태.\n\n최근 활동: Atomic Alchemy는 2025년 12월 19일 DOE의 Reactor Pilot Program(RPP) 선정을 이유로 Meitner-1 건설허가 신청을 공식 철회하였고, NRC는 2026년 1월 28일 이를 수리하여 모든 검토 활동을 중단하였습니다. 직전 상태(철회/미확인)와 일치하나, RPP 참여를 통한 설계 보완 후 재신청을 예고하고 있어 프로젝트 자체는 잠정 중단 상태이나 완전 폐기는 아닌 것으로 판단됩니다.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락으로 인한 10-Q 정정 공시는 내부 통제 관련 경미한 우려 신호로 볼 수 있다.\n\n단계별 문서: 사전신청 20 | 신청접수 13 | 기술검토 13 | 최종 1 [신청 철회]"
     },
@@ -1020,7 +1038,9 @@
           }
         ],
         "assessment": "홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.",
-        "signal": "positive"
+        "signal": "positive",
+        "status_tag": "ipo_pending",
+        "form_d_round_count": null
       },
       "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: NRC는 2026년 7월 초 Section 106 협의를 개시한 데 이어, 7월 15일에는 LWA 이전 SOE 벽체 시공을 허용하는 Exemption 1에 대해 MI SHPO 및 ACHP에 '역사재산 영향 없음' 예비결정을 통보하고 8월 14일까지 의견을 요청하는 등 환경·문화자원 검토가 빠르게 병행 진행되고 있어, CP/LWA 인허가 프로세스가 활발히 가속 중인 것으로 평가됨.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 2 [현재]"
     },
@@ -1129,7 +1149,9 @@
           }
         ],
         "assessment": "X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 완료하며 자금조달에 성공했고, 이후 분기 실적 공시와 투자자 프레젠테이션을 통해 사업 진척을 꾸준히 공개하고 있으나, 락업 조기 해제 일정 공개는 주가 희석 압력으로 작용할 수 있어 주의가 필요하다.",
-        "signal": "neutral"
+        "signal": "neutral",
+        "status_tag": "public_reporting",
+        "form_d_round_count": null
       },
       "kakao_summary": "X-energy XENITH\n사전신청 단계\n\n최근 활동: 2026년 6월 30일, X-energy는 DoD SCO의 신규 Pele 보안 분류 지침(2025.9.9)에 따라 CUI 표시를 제거한 XENITH 핵심 설계 기준(Rev.5), 분석 방법(Rev.3), 매개변수 선원항(Rev.2) 등 3종의 라이선싱 토피컬 보고서를 NRC에 일괄 제출하며 1개월 내 검토 완료를 요청했으며, 기술 내용 변경 없이 행정적 분류 해제만 이루어진 점에서 인허가 사전신청 단계가 NRC 토피컬 보고서 승인 단계로 실질적으로 진전된 것으로 평가된다.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 완료하며 자금조달에 성공했고, 이후 분기 실적 공시와 투자자 프레젠테이션을 통해 사업 진척을 꾸준히 공개하고 있으나, 락업 조기 해제 일정 공개는 주가 희석 압력으로 작용할 수 있어 주의가 필요하다.\n\n단계별 문서: 사전신청 12 [현재]"
     },
@@ -1242,7 +1264,9 @@
           }
         ],
         "assessment": "X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 성공적으로 완료하고 분기 실적 공시 및 투자자 프레젠테이션을 이어가며 상장 후 공개 행보를 본격화하고 있으나, 락업 조기 해제 일정 공개는 단기 매도 압력 가능성을 시사하는 주의 요소로 판단된다.",
-        "signal": "neutral"
+        "signal": "neutral",
+        "status_tag": "public_reporting",
+        "form_d_round_count": null
       },
       "kakao_summary": "TRISO-X Fuel Fabrication Facility (TX-1)\nNRC 최종 안전성평가(FSER/SER) 완료 — 실제 License 문서는 아직 미확인\n근거: ML25289A022 | 2026-02-23 11:13 | Enclosure 3 - Safety Evaluation Report for the TRISO X LLC. Fuel Fabrication Facility Lice\n⚠️ AI 판단과 불일치 — AI 의견: 인허가(CP/OL) 발급 확인, 확신도 high\nAI 판단 사유: ML25289A030 문서 제목이 'NRC Issuance of License SNM-7007 for the TR…\n\n최근 활동: 2026년 2월 10일 SNM-7007 면허가 정식 발급되어 현재 Oak Ridge 현장에서 TX-1 공정건물 기초 타설 및 철골 공사가 진행 중이나, 3월 점검에서 주요 하중저항시스템(MFRS) 설계관리 절차 미준수로 위반사항이 확인되어 escalated enforcement 절차가 개시된 상태로, 면허 취득 이후에도 시공 품질 관리 리스크가 남아 있어 주시가 필요합니다.\n\n💰 자금조달: 상장사\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 성공적으로 완료하고 분기 실적 공시 및 투자자 프레젠테이션을 이어가며 상장 후 공개 행보를 본격화하고 있으나, 락업 조기 해제 일정 공개는 단기 매도 압력 가능성을 시사하는 주의 요소로 판단된다.\n\n단계별 문서: 사전신청 118 | 신청접수 9 | 기술검토 56 | 초안 SE 2 | 최종 2 [현재]"
     },
@@ -1315,7 +1339,9 @@
         "as_of": "2026-07-15",
         "recent_filings": [],
         "assessment": null,
-        "signal": null
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
       },
       "kakao_summary": "Natrium Fuel Fabrication Facility (GNF-A)\n신청서 접수 단계\n\n최근 활동: GNF-A는 2025년 3월 자연현상위험(NPH) 방법론 설계 검토 회의를 거쳐 2026년 4월에도 Natrium 연료제조시설 프로젝트 현황 업데이트 회의를 예정하는 등 pre-application 단계에서 기술적 설계 논의가 지속적으로 이루어지고 있으며, 라이선스 신청 전 단계이나 NRC와의 정기적 교류가 이어지는 활발한 진행 상태로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 6 | 신청접수 1 [현재]"
     },
@@ -1426,7 +1452,9 @@
           }
         ],
         "assessment": "Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부 통제 취약성을 시사하는 경고 신호로 주목할 필요가 있다.",
-        "signal": "neutral"
+        "signal": "neutral",
+        "status_tag": "public_reporting",
+        "form_d_round_count": null
       },
       "kakao_summary": "Oklo Fuel Recycling Facility (Advanced Fuel Center)\n사전신청 단계\n\n최근 활동: Oklo는 테네시주 오크리지 소재 전기화학적 재처리 시설을 위해 NRC와 사전신청 단계 전방위 교류를 활발히 진행 중으로, 허가신청서 초안 Chapter 1 검토·피드백, 정보접근 포털 협약 체결, 물리적 보안, 부지 선정(지질·수문·지반·지진) 등 다양한 기술 분야 비공개 회의가 2025년 말부터 2026년 7월까지 연속적으로 이뤄지며 사전신청 단계가 심화되고 있음.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부 통제 취약성을 시사하는 경고 신호로 주목할 필요가 있다.\n\n단계별 문서: 사전신청 27 [현재]"
     },
@@ -1503,7 +1531,9 @@
         "as_of": "2026-07-15",
         "recent_filings": [],
         "assessment": null,
-        "signal": null
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
       },
       "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Aalo Atomics는 2026년 5월~6월 중 QAPD 안전평가 승인, CAF 최종설계검토 관련 NRC 의견서 접수, PDSA 제출 등 실질적 인허가 활동이 집중적으로 이루어졌으며, 6월 24일에는 나트륨-흑연 상호작용 및 조사된 스테인리스강 등 Aalo-1(30MWth 나트륨 열스펙트럼 원자로)의 핵심 재료 기술 현안을 NRC와 공개·비공개 병행 회의로 심도 있게 논의하는 등 사전신청 단계에서 설계인허가 신청 전 단계로 빠르게 진전되고 있는 것으로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 16 [현재]"
     },
@@ -1592,7 +1622,9 @@
           }
         ],
         "assessment": "라운드별 조달액이 $811만 → $2,753만 → $5,105만으로 뚜렷한 증가 추세이나, 2025년 라운드는 목표액 $7,953만 대비 64% 수준에 그쳐 미달 상태이며 추가 모집이 진행 중인 것으로 판단됩니다.",
-        "signal": "neutral"
+        "signal": "neutral",
+        "status_tag": "form_d",
+        "form_d_round_count": 3
       },
       "kakao_summary": "Antares Nuclear Mark-0\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: Antares Nuclear은 2025년 7~8월 중 R1 마이크로리액터 사전신청 참여계획(RP-25-01)을 NRC에 제출하고, NRC로부터 프로젝트 번호(99902149) 및 과금체계 안내를 받았으며, 독점정보 비공개 처리도 승인되어 Pre-Application 단계가 본격적으로 개시된 것으로 평가됨.\n\n💰 자금조달: 비상장 · 사모 조달 3회 (2023~2025) — 누적 $86,691,732 조달 (최근 라운드 $51,045,266 / 목표 $79,534,995)\n📊 진척도: 라운드별 조달액이 $811만 → $2,753만 → $5,105만으로 뚜렷한 증가 추세이나, 2025년 라운드는 목표액 $7,953만 대비 64% 수준에 그쳐 미달 상태이며 추가 모집이 진행 중인 것으로 판단됩니다.\n\n단계별 문서: 진행 신호 없음"
     },
@@ -1704,7 +1736,9 @@
           }
         ],
         "assessment": "딥피션은 2026년 6월 나스닥 IPO를 통해 주당 16달러, 250만주 공모로 약 400억 규모 자금조달에 성공하며 상장을 완료했고, 현재 공시된 경고 신호(임원 이탈·소송·계속기업 불확실성 등)는 확인되지 않아 초기 사업 진척은 긍정적으로 평가된다.",
-        "signal": "positive"
+        "signal": "positive",
+        "status_tag": "public_reporting",
+        "form_d_round_count": null
       },
       "kakao_summary": "Deep Fission Gravity Reactor\n사전신청 단계\n\n최근 활동: Deep Fission은 2026년 4~6월 사이 캔자스주 파슨스 부지의 Gravity Reactor에 대해 개념설계 백서 및 규제참여계획(REP)을 NRC에 제출하고, DOE 인허가 활동 관찰을 위한 전자열람실(eRR) 접근협약을 체결하며 NRC 감사계획까지 수립하는 등 사전신청 단계에서 매우 활발한 진전을 보이고 있으며, DOE Reactor Pilot Program 선정(2025년 8월)을 기반으로 DOE→NRC 순차 인허가 경로를 구체화하고 있다.\n\n💰 자금조달: 상장사 (Nasdaq:FISN)\n📊 진척도: 딥피션은 2026년 6월 나스닥 IPO를 통해 주당 16달러, 250만주 공모로 약 400억 규모 자금조달에 성공하며 상장을 완료했고, 현재 공시된 경고 신호(임원 이탈·소송·계속기업 불확실성 등)는 확인되지 않아 초기 사업 진척은 긍정적으로 평가된다.\n\n단계별 문서: 사전신청 7 [현재]"
     },
@@ -1778,7 +1812,9 @@
         "as_of": "2026-07-15",
         "recent_filings": [],
         "assessment": null,
-        "signal": null
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
       },
       "kakao_summary": "Last Energy PWR-20\n사전신청 단계\n\n최근 활동: Last Energy는 밀봉형 격납 백서에 대한 NRC 피드백 수령, PM 재배정(Allen Fetter), 그리고 2026년 6월 최초 기술 사전신청 회의 일정 확정 등 사전신청 단계에서 꾸준하고 구체적인 활동이 이어지고 있으며, 환경 보고서 논의 및 텍사스 Haskell 부지 언급 등 실질적 진전이 확인된다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 5 [현재]"
     },
@@ -1856,7 +1892,9 @@
         "as_of": "2026-07-15",
         "recent_filings": [],
         "assessment": null,
-        "signal": null
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
       },
       "kakao_summary": "Natura Resources / Abilene Christian University MSRR (MSR-1)\nCP 발급 완료\n2024년 9월 건설허가(CP)가 공식 발급되었습니다.\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 6월 Natura Resources가 QAPD(품질보증 프로그램 설명서)를 토픽 리포트(NR-RPT-0002-R0)로 NRC에 제출하였고, 7월 13일 NRC가 완전성 검토를 완료해 정식 기술 검토 착수를 승인(Form 898)했으며, 초안 SE는 2026년 11월, 최종 SE는 12월 완료 예정으로 CP 이후 OL 준비를 위한 핵심 행정 절차가 활발히 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 41 | 신청접수 9 | 기술검토 11 | 최종 2 [현재]"
     },
@@ -1966,7 +2004,9 @@
           }
         ],
         "assessment": "라운드별 조달 규모가 $1,260만→$4,070만→$1억→$6,600만→$2억6,880만으로 전반적 증가 추세이며, 2025-12-30 라운드를 제외한 나머지는 목표액을 100% 달성했으나, 최근 라운드는 목표 $3.5억 대비 약 76.8% 조달에 그쳐 소폭 미달 중이고 경고 신호는 확인되지 않아 전반적으로 긍정적이나 주의 관찰이 필요합니다.",
-        "signal": "positive"
+        "signal": "positive",
+        "status_tag": "form_d",
+        "form_d_round_count": 5
       },
       "kakao_summary": "Radiant Industries Kaleidos\nNRC 기술검토 중\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 6월~7월 중 NRC의 환경 RAI에 대해 Radiant가 신속히 응답(대기질·생태·건설일정 등 세부 기술쟁점 포함)하였고, NRC는 문화유산 평가 초안을 공개 검토에 회부(의견 마감 8월 20일)하는 등 환경검토가 본격 진행 중으로, 직전 대비 활발히 전진하고 있음.\n\n💰 자금조달: 비상장 · 사모 조달 5회 (2022~2025) — 누적 $488,189,973 조달 (최근 라운드 $268,805,033 / 목표 $350,000,018)\n📊 진척도: 라운드별 조달 규모가 $1,260만→$4,070만→$1억→$6,600만→$2억6,880만으로 전반적 증가 추세이며, 2025-12-30 라운드를 제외한 나머지는 목표액을 100% 달성했으나, 최근 라운드는 목표 $3.5억 대비 약 76.8% 조달에 그쳐 소폭 미달 중이고 경고 신호는 확인되지 않아 전반적으로 긍정적이나 주의 관찰이 필요합니다.\n\n단계별 문서: 사전신청 22 | 신청접수 4 | 기술검토 3 [현재]"
     },
@@ -2077,7 +2117,9 @@
           }
         ],
         "assessment": "상장기업으로 별도 자금조달 라운드 이력은 없으며, 최근 공시는 1분기 실적 발표와 정기 주총 의안 처리 등 통상적인 운영 활동에 한정되어 있어 사업 개발상 특별한 진전이나 경고 신호는 확인되지 않는 중립적 상태임.",
-        "signal": "neutral"
+        "signal": "neutral",
+        "status_tag": "public_reporting",
+        "form_d_round_count": null
       },
       "kakao_summary": "Terrestrial Energy IMSR (Project TETRA)\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: PIE 토픽 보고서에 대한 최종 안전평가(SE)가 2026년 4월 말 발행 완료되었고, 규제 참여 계획 버전 9의 독점정보 비공개 승인도 이루어졌으나, 10 CFR Part 53 최종 규칙 공포를 이유로 심층방어(Defense in Depth) 토픽 보고서가 자진 철회되는 등 기술 전략 재검토가 병행되고 있어, 프로젝트는 사전신청 단계에서 규제 검토가 활발히 진행 중이지만 일부 핵심 보고서의 재정비가 필요한 과도기적 상황으로 평가됨.\n\n💰 자금조달: 상장사 (Nasdaq:IMSR)\n📊 진척도: 상장기업으로 별도 자금조달 라운드 이력은 없으며, 최근 공시는 1분기 실적 발표와 정기 주총 의안 처리 등 통상적인 운영 활동에 한정되어 있어 사업 개발상 특별한 진전이나 경고 신호는 확인되지 않는 중립적 상태임.\n\n단계별 문서: 사전신청 55 [현재]"
     },
@@ -2159,7 +2201,9 @@
           }
         ],
         "assessment": "2025년 하반기에 4차례 사모 조달을 실시하며 활동이 집중되었고, 특히 12월에는 두 건 모두 목표액을 100% 달성했으나, 8월 공시에서 $20,000 조달(목표 $5,000,000 대비 0.4%)로 극심한 미달이 확인되어 조달 규모의 일관성이 결여되어 있음.",
-        "signal": "neutral"
+        "signal": "neutral",
+        "status_tag": "form_d",
+        "form_d_round_count": 4
       },
       "kakao_summary": "First American Nuclear EAGL-1\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: 2026년 2월 25일 1st American Nuclear Co.가 NRC에 EAGL-1 액체 중금속 고속로(Liquid Heavy Metal Fast Reactor)에 대한 규제 참여 계획(Regulatory Engagement Plan) 버전 001을 최초 제출하였으며, 10 CFR Part 50 프로토타입 경로를 통한 인허가 전략 및 사전 협의 일정을 포함한 18페이지 문서를 공식 접수시켜 프로젝트가 NRC와의 본격적인 사전 인허가 단계에 진입하였음을 확인할 수 있습니다.\n\n💰 자금조달: 비상장 · 사모 조달 4회 (2025) — 누적 $12,687,050 조달 (최근 라운드 $1,417,050 / 목표 $1,417,050)\n📊 진척도: 2025년 하반기에 4차례 사모 조달을 실시하며 활동이 집중되었고, 특히 12월에는 두 건 모두 목표액을 100% 달성했으나, 8월 공시에서 $20,000 조달(목표 $5,000,000 대비 0.4%)로 극심한 미달이 확인되어 조달 규모의 일관성이 결여되어 있음.\n\n단계별 문서: 진행 신호 없음"
     },
@@ -2205,7 +2249,9 @@
         "as_of": "2026-07-15",
         "recent_filings": [],
         "assessment": null,
-        "signal": null
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
       },
       "kakao_summary": "Blykalla SEALER\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: 2026년 5월 Blykalla의 요청에 따라 NRC가 프로젝트 번호(99902169)를 부여하고 사전신청 활동 관련 비용 청구 체계를 안내하였으며, 이는 Blykalla의 납냉각 소형 모듈 고속로에 대한 NRC 사전신청 인허가 절차가 공식적으로 시작된 것을 의미하는 초기 단계 진입으로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 진행 신호 없음"
     }
