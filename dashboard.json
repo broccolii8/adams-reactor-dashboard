@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T03:11:27Z",
-  "last_checked": "2026-07-14",
-  "total_docs": 11279,
+  "generated_at": "2026-07-19T23:01:55Z",
+  "last_checked": "2026-07-19",
+  "total_docs": 11339,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -936,10 +936,10 @@
     {
       "id": "holtec_smr160",
       "name": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)",
-      "total_docs": 890,
+      "total_docs": 925,
       "doc_date_range": {
         "earliest": "2020-09-28",
-        "latest": "2026-07-15"
+        "latest": "2026-07-16"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -955,15 +955,16 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "NRC는 2026년 7월 초 Section 106 협의를 개시한 데 이어, 7월 15일에는 LWA 이전 SOE 벽체 시공을 허용하는 Exemption 1에 대해 MI SHPO 및 ACHP에 '역사재산 영향 없음' 예비결정을 통보하고 8월 14일까지 의견을 요청하는 등 환경·문화자원 검토가 빠르게 병행 진행되고 있어, CP/LWA 인허가 프로세스가 활발히 가속 중인 것으로 평가됨.",
+        "comment": "2026년 7월 15일, NRC는 Palisades SMR 면제 요청(SOE 벽 선행 시공)과 관련하여 8개 원주민 부족에 NHPA Section 106 협의를 개시하고 '역사자산 영향 없음' 예비 결정을 통보했으며, EA는 2026년 8월 발행 예정으로 환경 검토 절차가 CP 본심사와 병행하여 활발히 진행 중임.",
         "evidence": [
-          "ML26194A199 | 2026-07-15 | Ltr to R. Schumaker, MI SHPO - Palisades SMR Exemption Request.",
-          "ML26194A200 | 2026-07-15 | Ltr to J. Loichinger, ACHP - Palisades SMR Exemption Request.",
-          "ML26194A201 | 2026-07-14 | Enclosure - Preliminary Determination and Draft Historic and Cultural ",
-          "ML26189A345 | 2026-07-08 | Letter from J. Loichinger, ACHP, Regarding Palisades SMR, LLC's Phased",
-          "ML26188A129 | 2026-07-07 | 6-30-25 Ltr from K. Kolokithas, Michigan SHPO to NRC Concurrence with ",
-          "ML26161A005 | 2026-07-01 | Ltr to R. Schumaker, MI SHPO - Holtec SMR 300 CP and LWA - S106 Initia",
-          "ML26161A004 | 2026-07-01 | Letter to J. Loichinger, ACHP - Holtec SMR 300 CP and LWA - S106 Initi"
+          "ML26194A326 | 2026-07-16 | Ltr to L. Arbuckle, Bad River Band of the Lake Superior Tribe of Chipp",
+          "ML26196A224 | 2026-07-16 | Letter to John Barrett, Citizen Potawatomi Nation, Initiation of Secti",
+          "ML26196A226 | 2026-07-16 | Letter to Jamie Azure, Turtle Mountain Band of Chippewa Indians (North",
+          "ML26196A241 | 2026-07-16 | Letter to Winnay J. Wemigwase, Little Traverse Bay Bands of Odawa Indi",
+          "ML26196A222 | 2026-07-16 | Letter to Joseph Rupnick, Prairie Band Potawatomi Nation, Initiation o",
+          "ML26196A244 | 2026-07-16 | Letter to Sandra Witherspoon, Grand Traverse Band of Ottawa and Chippe",
+          "ML26196A221 | 2026-07-16 | Letter to Kenneth Meshigaud, Hannahville Indian Community, Initiation ",
+          "ML26196A234 | 2026-07-16 | Letter to Conrad St. John, St. Croix Chippewa Indians of Wisconsin - P"
         ]
       },
       "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 2 [현재] | 초안 SE 0 | 최종 0",
@@ -971,34 +972,34 @@
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26194A199",
-            "date": "07/15",
-            "title": "Ltr to R. Schumaker, MI SHPO - Palisades SMR Exemption Request.",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26194A199%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26194A326",
+            "date": "07/16",
+            "title": "Ltr to L. Arbuckle, Bad River Band of the Lake Superior Tribe of…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26194A326%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26194A200",
-            "date": "07/15",
-            "title": "Ltr to J. Loichinger, ACHP - Palisades SMR Exemption Request.",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26194A200%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A224",
+            "date": "07/16",
+            "title": "Letter to John Barrett, Citizen Potawatomi Nation, Initiation of…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A224%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26194A201",
-            "date": "07/14",
-            "title": "Enclosure - Preliminary Determination and Draft Historic and Cul…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26194A201%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A226",
+            "date": "07/16",
+            "title": "Letter to Jamie Azure, Turtle Mountain Band of Chippewa Indians …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A226%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26189A345",
-            "date": "07/08",
-            "title": "Letter from J. Loichinger, ACHP, Regarding Palisades SMR, LLC's …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26189A345%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A241",
+            "date": "07/16",
+            "title": "Letter to Winnay J. Wemigwase, Little Traverse Bay Bands of Odaw…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A241%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26188A129",
-            "date": "07/07",
-            "title": "6-30-25 Ltr from K. Kolokithas, Michigan SHPO to NRC Concurrence…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26188A129%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A222",
+            "date": "07/16",
+            "title": "Letter to Joseph Rupnick, Prairie Band Potawatomi Nation, Initia…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A222%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1042,7 +1043,7 @@
         "status_tag": "ipo_pending",
         "form_d_round_count": null
       },
-      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: NRC는 2026년 7월 초 Section 106 협의를 개시한 데 이어, 7월 15일에는 LWA 이전 SOE 벽체 시공을 허용하는 Exemption 1에 대해 MI SHPO 및 ACHP에 '역사재산 영향 없음' 예비결정을 통보하고 8월 14일까지 의견을 요청하는 등 환경·문화자원 검토가 빠르게 병행 진행되고 있어, CP/LWA 인허가 프로세스가 활발히 가속 중인 것으로 평가됨.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 2 [현재]"
+      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: 2026년 7월 15일, NRC는 Palisades SMR 면제 요청(SOE 벽 선행 시공)과 관련하여 8개 원주민 부족에 NHPA Section 106 협의를 개시하고 '역사자산 영향 없음' 예비 결정을 통보했으며, EA는 2026년 8월 발행 예정으로 환경 검토 절차가 CP 본심사와 병행하여 활발히 진행 중임.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 2 [현재]"
     },
     {
       "id": "xenergy_xenith",
@@ -1461,10 +1462,10 @@
     {
       "id": "aalo_atomics_aalox",
       "name": "Aalo Atomics Aalo-X",
-      "total_docs": 40,
+      "total_docs": 41,
       "doc_date_range": {
         "earliest": "2024-07-11",
-        "latest": "2026-06-24"
+        "latest": "2026-07-17"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1476,22 +1477,25 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "Aalo Atomics는 2026년 5월~6월 중 QAPD 안전평가 승인, CAF 최종설계검토 관련 NRC 의견서 접수, PDSA 제출 등 실질적 인허가 활동이 집중적으로 이루어졌으며, 6월 24일에는 나트륨-흑연 상호작용 및 조사된 스테인리스강 등 Aalo-1(30MWth 나트륨 열스펙트럼 원자로)의 핵심 재료 기술 현안을 NRC와 공개·비공개 병행 회의로 심도 있게 논의하는 등 사전신청 단계에서 설계인허가 신청 전 단계로 빠르게 진전되고 있는 것으로 평가됨.",
+        "comment": "Aalo는 2026년 7월 텍사스 A&M RELLIS 캠퍼스 부지에 대해 10 CFR Part 53 기반 조기부지허가(ESP) 신청 의향서를 제출하고 Q4 2026 신청·2030년 상업운전을 목표로 명시했으며, 6월에는 소듐-흑연 상호작용 및 조사된 스테인리스강 등 Aalo-1(XMR, 30MWth 소듐 열스펙트럼 반응로) 핵심 기술 난제를 NRC와 공개·비공개 병행 회의로 논의하는 등 사전신청 단계에서 부지·기술 양 측면에서 뚜렷한 진전을 보이고 있다.",
         "evidence": [
+          "ML26190A374 | 2026-07-17 | Letter of Intent to Pursue an Early Site Permit for an Aalo Reactor at",
           "ML26175A267 | 2026-06-24 | Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026",
           "ML26174A022 | 2026-06-23 | Aalo-1 Thermal Spectrum Materials Challenges- Public",
-          "ML26166A042 | 2026-06-15 | Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026",
-          "ML26161A356 | 2026-06-10 | Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026",
-          "ML26131A191 | 2026-05-11 | E-mail - Aalo Holdings, Inc - Request to Withhold Information from Pub",
-          "ML26078A140 | 2026-05-07 | Letter - NRC Staff Observations on Aalo CAF Final Design Review and PD",
           "ML26085A030 | 2026-05-07 | Enclosure 1 - NRC Observations on Aalo CAF Final Design Review and PDS",
-          "ML26117A142 | 2026-05-06 | Enclosure - Aalo QAPD Topical Report Safety Evaluation"
+          "ML26131A191 | 2026-05-11 | E-mail - Aalo Holdings, Inc - Request to Withhold Information from Pub"
         ]
       },
       "stage_signal_line": "사전신청 16 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26190A374",
+            "date": "07/17",
+            "title": "Letter of Intent to Pursue an Early Site Permit for an Aalo Reac…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26190A374%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26175A267",
             "date": "06/24",
@@ -1515,12 +1519,6 @@
             "date": "06/10",
             "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26161A356%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26131A191",
-            "date": "05/11",
-            "title": "E-mail - Aalo Holdings, Inc - Request to Withhold Information fr…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26131A191%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1535,7 +1533,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Aalo Atomics는 2026년 5월~6월 중 QAPD 안전평가 승인, CAF 최종설계검토 관련 NRC 의견서 접수, PDSA 제출 등 실질적 인허가 활동이 집중적으로 이루어졌으며, 6월 24일에는 나트륨-흑연 상호작용 및 조사된 스테인리스강 등 Aalo-1(30MWth 나트륨 열스펙트럼 원자로)의 핵심 재료 기술 현안을 NRC와 공개·비공개 병행 회의로 심도 있게 논의하는 등 사전신청 단계에서 설계인허가 신청 전 단계로 빠르게 진전되고 있는 것으로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 16 [현재]"
+      "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Aalo는 2026년 7월 텍사스 A&M RELLIS 캠퍼스 부지에 대해 10 CFR Part 53 기반 조기부지허가(ESP) 신청 의향서를 제출하고 Q4 2026 신청·2030년 상업운전을 목표로 명시했으며, 6월에는 소듐-흑연 상호작용 및 조사된 스테인리스강 등 Aalo-1(XMR, 30MWth 소듐 열스펙트럼 반응로) 핵심 기술 난제를 NRC와 공개·비공개 병행 회의로 논의하는 등 사전신청 단계에서 부지·기술 양 측면에서 뚜렷한 진전을 보이고 있다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 16 [현재]"
     },
     {
       "id": "antares_nuclear_mark0",
@@ -1901,10 +1899,10 @@
     {
       "id": "radiant_industries_kaleidos",
       "name": "Radiant Industries Kaleidos",
-      "total_docs": 95,
+      "total_docs": 116,
       "doc_date_range": {
         "earliest": "2022-10-06",
-        "latest": "2026-07-08"
+        "latest": "2026-07-17"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1916,48 +1914,51 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "2026년 6월~7월 중 NRC의 환경 RAI에 대해 Radiant가 신속히 응답(대기질·생태·건설일정 등 세부 기술쟁점 포함)하였고, NRC는 문화유산 평가 초안을 공개 검토에 회부(의견 마감 8월 20일)하는 등 환경검토가 본격 진행 중으로, 직전 대비 활발히 전진하고 있음.",
+        "comment": "NRC가 2026년 7월 16일자로 여러 부족 대표 및 SHPO·NPS에 Section 106 협의 서한을 일괄 발송하였으며, 역사·문화자원에 대한 '악영향 없음' 판정을 통보하고 30일 내 의견 제출을 요청한 상태로, 환경평가(EA) 절차가 구체적으로 진행 중임을 확인할 수 있어 직전 대비 환경검토 단계에서 의미 있는 진전이 있었다.",
         "evidence": [
-          "ML26188A258 | 2026-07-08 | Radiant R-50 Special Nuclear Material License Application - DRAFT Hist",
-          "ML26181A043 | 2026-07-01 | Radiant - Environmental RAI Response to NRC letter dated June 24, 2026",
-          "ML26181A047 | 2026-07-01 | Enclosure 2: Radiant Response to NRC Environmental Request for Additio",
-          "ML26168A520 | 2026-06-26 | Request For Additional Information For Environmental Review Of The Rad",
-          "ML26168A519 | 2026-06-26 | Radiant Special Nuclear Material License Environmental RAI - Enclosure"
+          "ML26196A345 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Stephanie Bryan",
+          "ML26196A336 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Libby Rogers",
+          "ML26196A344 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Sena M. Yesslith",
+          "ML26196A342 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Ryan Morrow",
+          "ML26196A347 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Michell Hicks",
+          "ML26190A217 | 2026-07-17 | SHPO Re Radiant Section 106 Consultation Letter to Miranda Montgomery",
+          "ML26196A337 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Glenna Wallace",
+          "ML26190A216 | 2026-07-17 | NPS RE: Radiant Section 106 Consultation Letter to Niki Nicholas"
         ]
       },
-      "stage_signal_line": "사전신청 22 | 신청접수 4 | 기술검토 3 [현재] | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 22 | 신청접수 4 | 기술검토 4 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26188A258",
-            "date": "07/08",
-            "title": "Radiant R-50 Special Nuclear Material License Application - DRAF…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26188A258%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A345",
+            "date": "07/17",
+            "title": "Radiant Section 106 Consultation Tribal Letter to Stephanie Bryan",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A345%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26181A043",
-            "date": "07/01",
-            "title": "Radiant - Environmental RAI Response to NRC letter dated June 24…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A043%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A336",
+            "date": "07/17",
+            "title": "Radiant Section 106 Consultation Tribal Letter to Libby Rogers",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A336%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26181A047",
-            "date": "07/01",
-            "title": "Enclosure 2: Radiant Response to NRC Environmental Request for A…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A047%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A344",
+            "date": "07/17",
+            "title": "Radiant Section 106 Consultation Tribal Letter to Sena M. Yessli…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A344%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26181A045",
-            "date": "07/01",
-            "title": "Enclosure 3: Environmental Report Radiant R-50 Site Oak Ridge, T…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A045%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A342",
+            "date": "07/17",
+            "title": "Radiant Section 106 Consultation Tribal Letter to Ryan Morrow",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A342%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26181A044",
-            "date": "07/01",
-            "title": "Enclosure 1: Affidavit for Withholding Proprietary Information",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A044%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A347",
+            "date": "07/17",
+            "title": "Radiant Section 106 Consultation Tribal Letter to Michell Hicks",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A347%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -2008,15 +2009,15 @@
         "status_tag": "form_d",
         "form_d_round_count": 5
       },
-      "kakao_summary": "Radiant Industries Kaleidos\nNRC 기술검토 중\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 6월~7월 중 NRC의 환경 RAI에 대해 Radiant가 신속히 응답(대기질·생태·건설일정 등 세부 기술쟁점 포함)하였고, NRC는 문화유산 평가 초안을 공개 검토에 회부(의견 마감 8월 20일)하는 등 환경검토가 본격 진행 중으로, 직전 대비 활발히 전진하고 있음.\n\n💰 자금조달: 비상장 · 사모 조달 5회 (2022~2025) — 누적 $488,189,973 조달 (최근 라운드 $268,805,033 / 목표 $350,000,018)\n📊 진척도: 라운드별 조달 규모가 $1,260만→$4,070만→$1억→$6,600만→$2억6,880만으로 전반적 증가 추세이며, 2025-12-30 라운드를 제외한 나머지는 목표액을 100% 달성했으나, 최근 라운드는 목표 $3.5억 대비 약 76.8% 조달에 그쳐 소폭 미달 중이고 경고 신호는 확인되지 않아 전반적으로 긍정적이나 주의 관찰이 필요합니다.\n\n단계별 문서: 사전신청 22 | 신청접수 4 | 기술검토 3 [현재]"
+      "kakao_summary": "Radiant Industries Kaleidos\nNRC 기술검토 중\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: NRC가 2026년 7월 16일자로 여러 부족 대표 및 SHPO·NPS에 Section 106 협의 서한을 일괄 발송하였으며, 역사·문화자원에 대한 '악영향 없음' 판정을 통보하고 30일 내 의견 제출을 요청한 상태로, 환경평가(EA) 절차가 구체적으로 진행 중임을 확인할 수 있어 직전 대비 환경검토 단계에서 의미 있는 진전이 있었다.\n\n💰 자금조달: 비상장 · 사모 조달 5회 (2022~2025) — 누적 $488,189,973 조달 (최근 라운드 $268,805,033 / 목표 $350,000,018)\n📊 진척도: 라운드별 조달 규모가 $1,260만→$4,070만→$1억→$6,600만→$2억6,880만으로 전반적 증가 추세이며, 2025-12-30 라운드를 제외한 나머지는 목표액을 100% 달성했으나, 최근 라운드는 목표 $3.5억 대비 약 76.8% 조달에 그쳐 소폭 미달 중이고 경고 신호는 확인되지 않아 전반적으로 긍정적이나 주의 관찰이 필요합니다.\n\n단계별 문서: 사전신청 22 | 신청접수 4 | 기술검토 4 [현재]"
     },
     {
       "id": "terrestrial_energy_imsr",
       "name": "Terrestrial Energy IMSR (Project TETRA)",
-      "total_docs": 188,
+      "total_docs": 191,
       "doc_date_range": {
         "earliest": "2019-12-18",
-        "latest": "2026-05-15"
+        "latest": "2026-07-16"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -2028,20 +2029,39 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "PIE 토픽 보고서에 대한 최종 안전평가(SE)가 2026년 4월 말 발행 완료되었고, 규제 참여 계획 버전 9의 독점정보 비공개 승인도 이루어졌으나, 10 CFR Part 53 최종 규칙 공포를 이유로 심층방어(Defense in Depth) 토픽 보고서가 자진 철회되는 등 기술 전략 재검토가 병행되고 있어, 프로젝트는 사전신청 단계에서 규제 검토가 활발히 진행 중이지만 일부 핵심 보고서의 재정비가 필요한 과도기적 상황으로 평가됨.",
+        "comment": "2026년 4월 NRC의 PIE 토픽 보고서 최종 안전평가 완료 후, Terrestrial Energy는 규정에 따라 3개월 이내에 '-A' 버전 토픽 보고서(TR251231-A)를 제출 완료(2026-06-30)하였으며, 동시에 모기업 TEDI가 NRC 사전인허가 업무를 직접 수행하는 구조로 전환됨. 또한 Defense-in-Depth 전략 TR 및 규제 계획 v9 제출 등 복수의 기술 문서가 단기간 내 집중 제출되어 프로젝트는 사전신청 단계에서 매우 활발하게 진행 중인 것으로 평가됨.",
         "evidence": [
-          "ML26091A372 | 2026-05-15 | Request for Withholding Proprietary Information Terrestrial Energy Reg",
-          "ML26113A374 | 2026-05-01 | Topical Report TR 251024, \"Strategy for Establishing Defense in Depth ",
-          "ML26119A831 | 2026-04-30 | Email - Update on Schedule for PIE Topical Report",
-          "ML26110A298 | 2026-04-29 | TEUSA IMSR PIE TR FINAL SE Cover Letter",
+          "ML26189A299 | 2026-07-16 | Terrestrial Energy USA Inc. Postulated Initiating Events Topical Repor",
+          "ML26189A297 | 2026-07-16 | Enclosure 2: Topical Report TR251231-NP-A, Revision 0, \"Postulated Ini",
+          "ML26189A298 | 2026-07-16 | Enclosure 3: Affidavit Supporting Request for Withholding Public Discl",
           "ML26117A170 | 2026-04-29 | Enclosure 1 TEUSA IMSR PIE TR Final SE (Public)",
-          "ML26098A167 | 2026-04-28 | Enclosure TEUSA Audit Report for PIE Topical Report RevC"
+          "ML26110A298 | 2026-04-29 | TEUSA IMSR PIE TR FINAL SE Cover Letter",
+          "ML26113A374 | 2026-05-01 | Topical Report TR 251024, \"Strategy for Establishing Defense in Depth ",
+          "ML26091A372 | 2026-05-15 | Request for Withholding Proprietary Information Terrestrial Energy Reg"
         ]
       },
-      "stage_signal_line": "사전신청 55 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 56 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26189A298",
+            "date": "07/16",
+            "title": "Enclosure 3: Affidavit Supporting Request for Withholding Public…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26189A298%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26189A299",
+            "date": "07/16",
+            "title": "Terrestrial Energy USA Inc. Postulated Initiating Events Topical…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26189A299%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26189A297",
+            "date": "07/16",
+            "title": "Enclosure 2: Topical Report TR251231-NP-A, Revision 0, \"Postulat…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26189A297%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26091A372",
             "date": "05/15",
@@ -2053,24 +2073,6 @@
             "date": "05/01",
             "title": "Topical Report TR 251024, \"Strategy for Establishing Defense in …",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26113A374%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26119A831",
-            "date": "04/30",
-            "title": "Email - Update on Schedule for PIE Topical Report",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26119A831%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26110A298",
-            "date": "04/29",
-            "title": "TEUSA IMSR PIE TR FINAL SE Cover Letter",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26110A298%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26117A170",
-            "date": "04/29",
-            "title": "Enclosure 1 TEUSA IMSR PIE TR Final SE (Public)",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26117A170%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -2121,7 +2123,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Terrestrial Energy IMSR (Project TETRA)\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: PIE 토픽 보고서에 대한 최종 안전평가(SE)가 2026년 4월 말 발행 완료되었고, 규제 참여 계획 버전 9의 독점정보 비공개 승인도 이루어졌으나, 10 CFR Part 53 최종 규칙 공포를 이유로 심층방어(Defense in Depth) 토픽 보고서가 자진 철회되는 등 기술 전략 재검토가 병행되고 있어, 프로젝트는 사전신청 단계에서 규제 검토가 활발히 진행 중이지만 일부 핵심 보고서의 재정비가 필요한 과도기적 상황으로 평가됨.\n\n💰 자금조달: 상장사 (Nasdaq:IMSR)\n📊 진척도: 상장기업으로 별도 자금조달 라운드 이력은 없으며, 최근 공시는 1분기 실적 발표와 정기 주총 의안 처리 등 통상적인 운영 활동에 한정되어 있어 사업 개발상 특별한 진전이나 경고 신호는 확인되지 않는 중립적 상태임.\n\n단계별 문서: 사전신청 55 [현재]"
+      "kakao_summary": "Terrestrial Energy IMSR (Project TETRA)\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 4월 NRC의 PIE 토픽 보고서 최종 안전평가 완료 후, Terrestrial Energy는 규정에 따라 3개월 이내에 '-A' 버전 토픽 보고서(TR251231-A)를 제출 완료(2026-06-30)하였으며, 동시에 모기업 TEDI가 NRC 사전인허가 업무를 직접 수행하는 구조로 전환됨. 또한 Defense-in-Depth 전략 TR 및 규제 계획 v9 제출 등 복수의 기술 문서가 단기간 내 집중 제출되어 프로젝트는 사전신청 단계에서 매우 활발하게 진행 중인 것으로 평가됨.\n\n💰 자금조달: 상장사 (Nasdaq:IMSR)\n📊 진척도: 상장기업으로 별도 자금조달 라운드 이력은 없으며, 최근 공시는 1분기 실적 발표와 정기 주총 의안 처리 등 통상적인 운영 활동에 한정되어 있어 사업 개발상 특별한 진전이나 경고 신호는 확인되지 않는 중립적 상태임.\n\n단계별 문서: 사전신청 56 [현재]"
     },
     {
       "id": "fanco_eagl1",
