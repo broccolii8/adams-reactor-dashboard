@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T23:14:10Z",
-  "last_checked": "2026-07-19",
-  "total_docs": 11339,
+  "generated_at": "2026-07-20T23:01:11Z",
+  "last_checked": "2026-07-20",
+  "total_docs": 11342,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -701,10 +701,10 @@
     {
       "id": "oklo_aurora",
       "name": "Oklo Aurora Powerhouse",
-      "total_docs": 501,
+      "total_docs": 504,
       "doc_date_range": {
         "earliest": "2018-02-27",
-        "latest": "2026-07-08"
+        "latest": "2026-07-20"
       },
       "track_labels": [
         "Part 52 (COL)"
@@ -725,18 +725,38 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "NRC가 Oklo의 'Principal Design Criteria for the Aurora Powerhouse' 토피컬 리포트(Oklo-2025-RX-R012-A Rev.1)를 승인(-A 버전 검증 완료)하고, RIM 프로그램 관련 독점정보 비공개도 승인하는 등 기존 신청 거부 이후 새로운 규제 트랙(토피컬 리포트 방식)에서 실질적 진전이 확인되며, 프로젝트는 활발히 재개·진행 중으로 평가됨.",
+        "comment": "Oklo는 2026년 6월 말~7월 초에 Aurora 설계기준(PDC) 토픽 보고서 Rev.1 및 품질보증프로그램(N-QAP) 토픽 보고서 Rev.0을 NRC에 신규 제출하고 독점정보 비공개 요청까지 완료하는 등, 기존 신청 거부 이후 새로운 규제 기반 문서를 적극적으로 정비·제출하며 재신청 준비가 활발히 진행 중인 것으로 평가됨.",
         "evidence": [
+          "ML26179A003 | 2026-07-20 | Submittal of Oklo, Inc. - \"Nuclear Quality Assurance Program (N-QAP) f",
+          "ML26179A004 | 2026-07-20 | Enclosure 1: Affidavit and Request for Withholding",
+          "ML26179A006 | 2026-07-20 | Enclosure 3: AUR-PDD-001, Revision 0, \"Nuclear Quality Assurance Progr",
           "ML26173A195 | 2026-07-01 | NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical Repor",
           "ML26173A194 | 2026-07-01 | Email - NRC Form 896 -A Topical Report Verification of Oklo Inc. Topic",
-          "ML26176A496 | 2026-07-08 | Withholding Proprietary Information From Public Disclosure - Oklo, Inc",
-          "ML26178A002 | 2026-06-29 | Oklo, Inc., Letter Submitting Licensing Project Plan for Aurora Powerh"
+          "ML26173A186 | 2026-06-30 | NRC Form 897 - Request for Withholding from Public Disclosure - Oklo I"
         ]
       },
       "stage_signal_line": "사전신청 163 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26179A004",
+            "date": "07/20",
+            "title": "Enclosure 1: Affidavit and Request for Withholding",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26179A004%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26179A006",
+            "date": "07/20",
+            "title": "Enclosure 3: AUR-PDD-001, Revision 0, \"Nuclear Quality Assurance…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26179A006%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26179A003",
+            "date": "07/20",
+            "title": "Submittal of Oklo, Inc. - \"Nuclear Quality Assurance Program (N-…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26179A003%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26176A496",
             "date": "07/08",
@@ -748,24 +768,6 @@
             "date": "07/01",
             "title": "NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26173A195%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26173A194",
-            "date": "07/01",
-            "title": "Email - NRC Form 896 -A Topical Report Verification of Oklo Inc.…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26173A194%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26173A203",
-            "date": "07/01",
-            "title": "RE_ Question regarding -A versions for \"Principal Design Criteri…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26173A203%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26173A186",
-            "date": "06/30",
-            "title": "NRC Form 897 - Request for Withholding from Public Disclosure - …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26173A186%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -816,7 +818,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Oklo Aurora Powerhouse\n기존 신청 거부\nCOL 신청이 거부되었으며, 면허 발급 이력 없음\n⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: NRC가 Oklo의 'Principal Design Criteria for the Aurora Powerhouse' 토피컬 리포트(Oklo-2025-RX-R012-A Rev.1)를 승인(-A 버전 검증 완료)하고, RIM 프로그램 관련 독점정보 비공개도 승인하는 등 기존 신청 거부 이후 새로운 규제 트랙(토피컬 리포트 방식)에서 실질적 진전이 확인되며, 프로젝트는 활발히 재개·진행 중으로 평가됨.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모 ATM 프로그램 개시로 자금조달 여력을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부통제 측면에서 경미한 우려 신호로 볼 수 있어 전반적으로 중립적 진척 수준이다.\n\n단계별 문서: 사전신청 163 | 신청접수 2 | 기술검토 16 | 최종 1 [확인 불가]"
+      "kakao_summary": "Oklo Aurora Powerhouse\n기존 신청 거부\nCOL 신청이 거부되었으며, 면허 발급 이력 없음\n⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Oklo는 2026년 6월 말~7월 초에 Aurora 설계기준(PDC) 토픽 보고서 Rev.1 및 품질보증프로그램(N-QAP) 토픽 보고서 Rev.0을 NRC에 신규 제출하고 독점정보 비공개 요청까지 완료하는 등, 기존 신청 거부 이후 새로운 규제 기반 문서를 적극적으로 정비·제출하며 재신청 준비가 활발히 진행 중인 것으로 평가됨.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모 ATM 프로그램 개시로 자금조달 여력을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부통제 측면에서 경미한 우려 신호로 볼 수 있어 전반적으로 중립적 진척 수준이다.\n\n단계별 문서: 사전신청 163 | 신청접수 2 | 기술검토 16 | 최종 1 [확인 불가]"
     },
     {
       "id": "atomic_alchemy_meitner1",
