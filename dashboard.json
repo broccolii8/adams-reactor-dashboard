@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T23:01:11Z",
-  "last_checked": "2026-07-20",
-  "total_docs": 11342,
+  "generated_at": "2026-07-22T04:28:28Z",
+  "last_checked": "2026-07-22",
+  "total_docs": 11343,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -938,10 +938,10 @@
     {
       "id": "holtec_smr160",
       "name": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)",
-      "total_docs": 925,
+      "total_docs": 926,
       "doc_date_range": {
         "earliest": "2020-09-28",
-        "latest": "2026-07-16"
+        "latest": "2026-07-21"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -957,7 +957,7 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "2026년 7월 15일, NRC는 Palisades SMR 면제 요청(SOE 벽 선행 시공)과 관련하여 8개 원주민 부족에 NHPA Section 106 협의를 개시하고 '역사자산 영향 없음' 예비 결정을 통보했으며, EA는 2026년 8월 발행 예정으로 환경 검토 절차가 CP 본심사와 병행하여 활발히 진행 중임.",
+        "comment": "NRC는 2026년 7월 중순, LWA 발급 전 굴착 지지벽(SOE) 선행 시공을 허용하는 면제 요청(Exemption 1)에 대해 다수 원주민 부족에게 Section 106 협의를 개시하고 '역사적 자산 영향 없음' 예비판정을 통보했으며, EIS 범위 설정 공개의견도 접수 중으로 프로젝트는 환경·인허가 절차에서 구체적 단계로 활발히 진행되고 있습니다.",
         "evidence": [
           "ML26194A326 | 2026-07-16 | Ltr to L. Arbuckle, Bad River Band of the Lake Superior Tribe of Chipp",
           "ML26196A224 | 2026-07-16 | Letter to John Barrett, Citizen Potawatomi Nation, Initiation of Secti",
@@ -966,13 +966,19 @@
           "ML26196A222 | 2026-07-16 | Letter to Joseph Rupnick, Prairie Band Potawatomi Nation, Initiation o",
           "ML26196A244 | 2026-07-16 | Letter to Sandra Witherspoon, Grand Traverse Band of Ottawa and Chippe",
           "ML26196A221 | 2026-07-16 | Letter to Kenneth Meshigaud, Hannahville Indian Community, Initiation ",
-          "ML26196A234 | 2026-07-16 | Letter to Conrad St. John, St. Croix Chippewa Indians of Wisconsin - P"
+          "ML26195A322 | 2026-07-21 | Comment (2) of Connie McAllister on Palisades SMR, LLC; Pioneer Units "
         ]
       },
       "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 2 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26195A322",
+            "date": "07/21",
+            "title": "Comment (2) of Connie McAllister on Palisades SMR, LLC; Pioneer …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26195A322%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26194A326",
             "date": "07/16",
@@ -996,12 +1002,6 @@
             "date": "07/16",
             "title": "Letter to Winnay J. Wemigwase, Little Traverse Bay Bands of Odaw…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A241%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26196A222",
-            "date": "07/16",
-            "title": "Letter to Joseph Rupnick, Prairie Band Potawatomi Nation, Initia…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A222%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1045,7 +1045,7 @@
         "status_tag": "ipo_pending",
         "form_d_round_count": null
       },
-      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: 2026년 7월 15일, NRC는 Palisades SMR 면제 요청(SOE 벽 선행 시공)과 관련하여 8개 원주민 부족에 NHPA Section 106 협의를 개시하고 '역사자산 영향 없음' 예비 결정을 통보했으며, EA는 2026년 8월 발행 예정으로 환경 검토 절차가 CP 본심사와 병행하여 활발히 진행 중임.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 2 [현재]"
+      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: NRC는 2026년 7월 중순, LWA 발급 전 굴착 지지벽(SOE) 선행 시공을 허용하는 면제 요청(Exemption 1)에 대해 다수 원주민 부족에게 Section 106 협의를 개시하고 '역사적 자산 영향 없음' 예비판정을 통보했으며, EIS 범위 설정 공개의견도 접수 중으로 프로젝트는 환경·인허가 절차에서 구체적 단계로 활발히 진행되고 있습니다.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 2 [현재]"
     },
     {
       "id": "xenergy_xenith",
