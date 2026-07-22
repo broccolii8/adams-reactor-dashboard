@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-22T23:05:54Z",
+  "generated_at": "2026-07-22T23:09:35Z",
   "last_checked": "2026-07-22",
-  "total_docs": 11343,
+  "total_docs": 11344,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -388,10 +388,10 @@
     {
       "id": "terrapower_natrium_kemmerer",
       "name": "TerraPower Natrium / Kemmerer Unit 1",
-      "total_docs": 2103,
+      "total_docs": 2104,
       "doc_date_range": {
         "earliest": "2020-08-13",
-        "latest": "2026-07-06"
+        "latest": "2026-07-22"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -408,21 +408,24 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "CP 발급 이후 OL 신청 준비 단계로서 복수의 토피컬 리포트(EAL 방법론, 진동평가, 이중유닛 설계 등)에 대한 NRC 감사 계획 수립과 완전성 검토가 활발히 진행 중이며, EAL TR(NAT-22075)은 완전성 검토에서 비수락 판정을 받아 보완 제출이 요구되는 등 기술 심사 쟁점도 가시화되고 있어 프로젝트는 OL 심사 기반 구축 단계에서 비교적 활발히 진행 중이나 일부 기술 문서의 재작업 필요성이 확인됨.",
+        "comment": "CP 발급 이후 OL 신청을 향한 기술검토가 다방면으로 활발히 진행 중이다. Type 1A 연료 자격인증 토픽 리포트 보완 제출(ML26198A134), 비상조치수준(EAL) 방법론 TR의 충분성 검토 미승인(RAI 예정일 2026-11-20, 안전평가 완료 예상 2027-06-04, ML26149A339), 이중유닛(NGDU) 설계 TR 감사계획 수립(ML26162A207) 등 복수의 기술 토픽 리포트가 병렬로 NRC 심사 단계에 있어, 프로젝트는 OL 신청 준비를 위해 규제참여계획(ML26062A104) 하에 정체 없이 광범위하게 진전되고 있다.",
         "evidence": [
-          "ML26162A207 | 2026-07-06 | Audit Plan - TerraPower -  Generic Dual Unit - NAT-21522",
+          "ML26198A134 | 2026-07-22 | Replacement Files for Submittal of TerraPower, LLC, Topical Report, \"T",
           "ML26149A339 | 2026-06-26 | NRC Form 898 - Completeness Determination for the TerraPower, LLC  \"Em",
-          "ML26140A305 | 2026-06-17 | Terrapower, LLC - Audit Plan for the Topical Report Nat-16856, \"Compre",
-          "ML26149A292 | 2026-06-09 | TerraPower, LLC - Transmits NAT-22075, Rev. 0, \"Emergency Action Level",
-          "ML26106A226 | 2026-04-30 | Nuclear Regulatory Commission Inspection Report of TerraPower, LLC, No",
-          "ML26106A057 | 2026-04-30 | Nuclear Regulatory Commission Inspection Report of US SFR Owner, LLC, ",
+          "ML26162A207 | 2026-07-06 | Audit Plan - TerraPower -  Generic Dual Unit - NAT-21522",
           "ML26062A104 | 2026-04-28 | TerraPower, LLC, NAT-9408, Revision 1, \"Regulatory Engagement Plan for"
         ]
       },
-      "stage_signal_line": "사전신청 330 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]",
+      "stage_signal_line": "사전신청 331 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26198A134",
+            "date": "07/22",
+            "title": "Replacement Files for Submittal of TerraPower, LLC, Topical Repo…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26198A134%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26162A207",
             "date": "07/06",
@@ -446,12 +449,6 @@
             "date": "06/09",
             "title": "TerraPower, LLC - Transmits NAT-22075, Rev. 0, \"Emergency Action…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26149A292%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26106A226",
-            "date": "04/30",
-            "title": "Nuclear Regulatory Commission Inspection Report of TerraPower, L…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26106A226%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -466,7 +463,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "TerraPower Natrium / Kemmerer Unit 1\nCP 발급 완료\n건설허가(CP)가 2026년 3월 9일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: CP 발급 이후 OL 신청 준비 단계로서 복수의 토피컬 리포트(EAL 방법론, 진동평가, 이중유닛 설계 등)에 대한 NRC 감사 계획 수립과 완전성 검토가 활발히 진행 중이며, EAL TR(NAT-22075)은 완전성 검토에서 비수락 판정을 받아 보완 제출이 요구되는 등 기술 심사 쟁점도 가시화되고 있어 프로젝트는 OL 심사 기반 구축 단계에서 비교적 활발히 진행 중이나 일부 기술 문서의 재작업 필요성이 확인됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 330 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]"
+      "kakao_summary": "TerraPower Natrium / Kemmerer Unit 1\nCP 발급 완료\n건설허가(CP)가 2026년 3월 9일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: CP 발급 이후 OL 신청을 향한 기술검토가 다방면으로 활발히 진행 중이다. Type 1A 연료 자격인증 토픽 리포트 보완 제출(ML26198A134), 비상조치수준(EAL) 방법론 TR의 충분성 검토 미승인(RAI 예정일 2026-11-20, 안전평가 완료 예상 2027-06-04, ML26149A339), 이중유닛(NGDU) 설계 TR 감사계획 수립(ML26162A207) 등 복수의 기술 토픽 리포트가 병렬로 NRC 심사 단계에 있어, 프로젝트는 OL 신청 준비를 위해 규제참여계획(ML26062A104) 하에 정체 없이 광범위하게 진전되고 있다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 331 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]"
     },
     {
       "id": "xenergy_xe100",
