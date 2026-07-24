@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-23T23:00:07Z",
-  "last_checked": "2026-07-22",
-  "total_docs": 11344,
+  "generated_at": "2026-07-24T05:43:32Z",
+  "last_checked": "2026-07-24",
+  "total_docs": 11349,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -935,10 +935,10 @@
     {
       "id": "holtec_smr160",
       "name": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)",
-      "total_docs": 926,
+      "total_docs": 930,
       "doc_date_range": {
         "earliest": "2020-09-28",
-        "latest": "2026-07-21"
+        "latest": "2026-07-23"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -954,16 +954,16 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "NRC는 2026년 7월 중순, LWA 발급 전 굴착 지지벽(SOE) 선행 시공을 허용하는 면제 요청(Exemption 1)에 대해 다수 원주민 부족에게 Section 106 협의를 개시하고 '역사적 자산 영향 없음' 예비판정을 통보했으며, EIS 범위 설정 공개의견도 접수 중으로 프로젝트는 환경·인허가 절차에서 구체적 단계로 활발히 진행되고 있습니다.",
+        "comment": "2026년 6월 15일 연방관보 게재(91 FR 36018)에 따른 Pioneer 1&2 EIS 스코핑 공개 의견 수렴(마감 7월 15일)이 진행 중이며, 반대·지지 양측 시민 의견서 접수와 함께 부족 협의(Section 106) 개시 서한 발송 등 환경·규제 절차가 복수 트랙에서 동시에 활발히 진행 중이다.",
         "evidence": [
+          "ML26202A017 | 2026-07-23 | Comment (4) of Kevin Kamps on Palisades SMR, LLC; Pioneer Units 1 and ",
+          "ML26197A205 | 2026-07-23 | Comment (3) of TerryAnn Towers Saint Amand on Palisades SMR, LLC; Pion",
+          "ML26194A336 | 2026-07-23 | 2026/07/07 - Comment (2) E-mail regarding Pioneer 1 & 2 EIS Scoping",
+          "ML26194A337 | 2026-07-23 | 2026/07/06 - Comment (3) E-mail regarding Pioneer 1 & 2 EIS Scoping",
+          "ML26195A322 | 2026-07-21 | Comment (2) of Connie McAllister on Palisades SMR, LLC; Pioneer Units ",
           "ML26194A326 | 2026-07-16 | Ltr to L. Arbuckle, Bad River Band of the Lake Superior Tribe of Chipp",
           "ML26196A224 | 2026-07-16 | Letter to John Barrett, Citizen Potawatomi Nation, Initiation of Secti",
-          "ML26196A226 | 2026-07-16 | Letter to Jamie Azure, Turtle Mountain Band of Chippewa Indians (North",
-          "ML26196A241 | 2026-07-16 | Letter to Winnay J. Wemigwase, Little Traverse Bay Bands of Odawa Indi",
-          "ML26196A222 | 2026-07-16 | Letter to Joseph Rupnick, Prairie Band Potawatomi Nation, Initiation o",
-          "ML26196A244 | 2026-07-16 | Letter to Sandra Witherspoon, Grand Traverse Band of Ottawa and Chippe",
-          "ML26196A221 | 2026-07-16 | Letter to Kenneth Meshigaud, Hannahville Indian Community, Initiation ",
-          "ML26195A322 | 2026-07-21 | Comment (2) of Connie McAllister on Palisades SMR, LLC; Pioneer Units "
+          "ML26196A226 | 2026-07-16 | Letter to Jamie Azure, Turtle Mountain Band of Chippewa Indians (North"
         ]
       },
       "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 2 [현재] | 초안 SE 0 | 최종 0",
@@ -971,34 +971,34 @@
         "header": "최근 문서 (2026)",
         "items": [
           {
+            "accession_number": "ML26202A017",
+            "date": "07/23",
+            "title": "Comment (4) of Kevin Kamps on Palisades SMR, LLC; Pioneer Units …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26202A017%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26197A205",
+            "date": "07/23",
+            "title": "Comment (3) of TerryAnn Towers Saint Amand on Palisades SMR, LLC…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26197A205%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26194A336",
+            "date": "07/23",
+            "title": "2026/07/07 - Comment (2) E-mail regarding Pioneer 1 & 2 EIS Scop…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26194A336%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26194A337",
+            "date": "07/23",
+            "title": "2026/07/06 - Comment (3) E-mail regarding Pioneer 1 & 2 EIS Scop…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26194A337%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
             "accession_number": "ML26195A322",
             "date": "07/21",
             "title": "Comment (2) of Connie McAllister on Palisades SMR, LLC; Pioneer …",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26195A322%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26194A326",
-            "date": "07/16",
-            "title": "Ltr to L. Arbuckle, Bad River Band of the Lake Superior Tribe of…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26194A326%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26196A224",
-            "date": "07/16",
-            "title": "Letter to John Barrett, Citizen Potawatomi Nation, Initiation of…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A224%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26196A226",
-            "date": "07/16",
-            "title": "Letter to Jamie Azure, Turtle Mountain Band of Chippewa Indians …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A226%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26196A241",
-            "date": "07/16",
-            "title": "Letter to Winnay J. Wemigwase, Little Traverse Bay Bands of Odaw…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A241%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1042,7 +1042,7 @@
         "status_tag": "ipo_pending",
         "form_d_round_count": null
       },
-      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: NRC는 2026년 7월 중순, LWA 발급 전 굴착 지지벽(SOE) 선행 시공을 허용하는 면제 요청(Exemption 1)에 대해 다수 원주민 부족에게 Section 106 협의를 개시하고 '역사적 자산 영향 없음' 예비판정을 통보했으며, EIS 범위 설정 공개의견도 접수 중으로 프로젝트는 환경·인허가 절차에서 구체적 단계로 활발히 진행되고 있습니다.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 2 [현재]"
+      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: 2026년 6월 15일 연방관보 게재(91 FR 36018)에 따른 Pioneer 1&2 EIS 스코핑 공개 의견 수렴(마감 7월 15일)이 진행 중이며, 반대·지지 양측 시민 의견서 접수와 함께 부족 협의(Section 106) 개시 서한 발송 등 환경·규제 절차가 복수 트랙에서 동시에 활발히 진행 중이다.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 2 [현재]"
     },
     {
       "id": "xenergy_xenith",
@@ -1348,10 +1348,10 @@
     {
       "id": "oklo_fuel_recycling",
       "name": "Oklo Fuel Recycling Facility (Advanced Fuel Center)",
-      "total_docs": 131,
+      "total_docs": 132,
       "doc_date_range": {
         "earliest": "2022-12-30",
-        "latest": "2026-07-10"
+        "latest": "2026-07-23"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1363,8 +1363,9 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "Oklo는 테네시주 오크리지 소재 전기화학적 재처리 시설을 위해 NRC와 사전신청 단계 전방위 교류를 활발히 진행 중으로, 허가신청서 초안 Chapter 1 검토·피드백, 정보접근 포털 협약 체결, 물리적 보안, 부지 선정(지질·수문·지반·지진) 등 다양한 기술 분야 비공개 회의가 2025년 말부터 2026년 7월까지 연속적으로 이뤄지며 사전신청 단계가 심화되고 있음.",
+        "comment": "Oklo는 테네시주 오크리지 전기화학 재처리시설에 대해 NRC와 사전인허가 협의를 활발히 진행 중으로, 허가신청서 초안 챕터 1 검토 피드백(4월), 물리보안 회의 요약(1월), 부지선정(구조·지진·지질·수문) 관련 비공개 회의(7월 20·29일)까지 다수의 기술 분야 논의가 이어지고 있어 직전 '미확인' 상태 대비 뚜렷하게 진전된 사전신청 단계가 확인된다.",
         "evidence": [
+          "ML26204A329 | 2026-07-23 | Oklo Pre-Licensing Engagement to Discuss Siting Requirements for a Rep",
           "ML26190A383 | 2026-07-10 | Oklo Pre-Licensing Engagement to Discuss Siting Requirements for a Rep",
           "ML26110A103 | 2026-04-24 | E-mail Forwarding Draft Observations (Public)",
           "ML26110A104 | 2026-04-24 | NRC-Oklo Signed Portal Agreement (Public)",
@@ -1373,10 +1374,16 @@
           "ML26058A468 | 2026-04-01 | 1.  Memorandum For Summary Of December 18, 2025, Pre-Licensing Meeting"
         ]
       },
-      "stage_signal_line": "사전신청 27 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 28 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26204A329",
+            "date": "07/23",
+            "title": "Oklo Pre-Licensing Engagement to Discuss Siting Requirements for…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26204A329%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26190A383",
             "date": "07/10",
@@ -1400,12 +1407,6 @@
             "date": "04/17",
             "title": "04/21/2026 Pre-Application Engagement for Feedback on Oklo Fuel …",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26107A254%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26070A049",
-            "date": "04/16",
-            "title": "Enclosure 1 - List of Attendees",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26070A049%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1456,7 +1457,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Oklo Fuel Recycling Facility (Advanced Fuel Center)\n사전신청 단계\n\n최근 활동: Oklo는 테네시주 오크리지 소재 전기화학적 재처리 시설을 위해 NRC와 사전신청 단계 전방위 교류를 활발히 진행 중으로, 허가신청서 초안 Chapter 1 검토·피드백, 정보접근 포털 협약 체결, 물리적 보안, 부지 선정(지질·수문·지반·지진) 등 다양한 기술 분야 비공개 회의가 2025년 말부터 2026년 7월까지 연속적으로 이뤄지며 사전신청 단계가 심화되고 있음.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부 통제 취약성을 시사하는 경고 신호로 주목할 필요가 있다.\n\n단계별 문서: 사전신청 27 [현재]"
+      "kakao_summary": "Oklo Fuel Recycling Facility (Advanced Fuel Center)\n사전신청 단계\n\n최근 활동: Oklo는 테네시주 오크리지 전기화학 재처리시설에 대해 NRC와 사전인허가 협의를 활발히 진행 중으로, 허가신청서 초안 챕터 1 검토 피드백(4월), 물리보안 회의 요약(1월), 부지선정(구조·지진·지질·수문) 관련 비공개 회의(7월 20·29일)까지 다수의 기술 분야 논의가 이어지고 있어 직전 '미확인' 상태 대비 뚜렷하게 진전된 사전신청 단계가 확인된다.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부 통제 취약성을 시사하는 경고 신호로 주목할 필요가 있다.\n\n단계별 문서: 사전신청 28 [현재]"
     },
     {
       "id": "aalo_atomics_aalox",
