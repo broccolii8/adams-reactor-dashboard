@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T05:43:32Z",
-  "last_checked": "2026-07-24",
-  "total_docs": 11349,
+  "generated_at": "2026-07-26T23:01:23Z",
+  "last_checked": "2026-07-26",
+  "total_docs": 11498,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -1047,10 +1047,10 @@
     {
       "id": "xenergy_xenith",
       "name": "X-energy XENITH",
-      "total_docs": 63,
+      "total_docs": 69,
       "doc_date_range": {
         "earliest": "2023-11-20",
-        "latest": "2026-07-09"
+        "latest": "2026-07-24"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1062,47 +1062,47 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "2026년 6월 30일, X-energy는 DoD SCO의 신규 Pele 보안 분류 지침(2025.9.9)에 따라 CUI 표시를 제거한 XENITH 핵심 설계 기준(Rev.5), 분석 방법(Rev.3), 매개변수 선원항(Rev.2) 등 3종의 라이선싱 토피컬 보고서를 NRC에 일괄 제출하며 1개월 내 검토 완료를 요청했으며, 기술 내용 변경 없이 행정적 분류 해제만 이루어진 점에서 인허가 사전신청 단계가 NRC 토피컬 보고서 승인 단계로 실질적으로 진전된 것으로 평가된다.",
+        "comment": "2026년 7월 X-energy는 XENITH 마이크로원자로 관련 핵심 라이선싱 토피컬 보고서 3종(주요설계기준 Rev.5, 분석방법론 Rev.3, 선원항 Rev.2)을 NRC에 제출하였으며, NRC는 2026-07-24 이 모두에 대해 10 CFR 2.390에 따른 영업비밀 비공개 요청을 승인함으로써 사전신청 단계에서 토피컬 보고서 심사 단계로 진입이 확인되어 프로젝트가 활발히 진행 중임을 보여줌.",
         "evidence": [
-          "ML26181A206 | 2026-07-09 | Submittal of X Energy, LLC (X-energy) XENITH Topical Report, Analytica",
-          "ML26181A259 | 2026-07-09 | Submittal of X-Energy, LLC (X-energy) XENITH Topical Report, Principal",
-          "ML26181A310 | 2026-07-09 | Submittal of X Energy, LLC (X-Energy) XENITH Topical Report on Paramet",
-          "ML26181A312 | 2026-07-09 | Enclosure 1: Affidavit Supporting Request for Withholding from Public "
+          "ML26196A319 | 2026-07-24 | MRA-00-412-RPT-2000526, Revision 3, \"XENITH Microreactor Analytical Me",
+          "ML26198A113 | 2026-07-24 | MRA-00-220-RPT-2000582, Rev. 2, \"XENITH Parametric Source Term Topical",
+          "ML26196A380 | 2026-07-24 | MRA-00-200-RPT-2000520, Revision 5, \"XENITH Principal Design Criteria ",
+          "ML26181A206 | 2026-07-09 | Submittal of X Energy, LLC (X-energy) XENITH Topical Report, Analytica"
         ]
       },
-      "stage_signal_line": "사전신청 12 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 15 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26181A206",
-            "date": "07/09",
-            "title": "Submittal of X Energy, LLC (X-energy) XENITH Topical Report, Ana…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A206%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A319",
+            "date": "07/24",
+            "title": "MRA-00-412-RPT-2000526, Revision 3, \"XENITH Microreactor Analyti…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A319%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26181A312",
-            "date": "07/09",
-            "title": "Enclosure 1: Affidavit Supporting Request for Withholding from P…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A312%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26198A113",
+            "date": "07/24",
+            "title": "MRA-00-220-RPT-2000582, Rev. 2, \"XENITH Parametric Source Term T…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26198A113%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26181A259",
-            "date": "07/09",
-            "title": "Submittal of X-Energy, LLC (X-energy) XENITH Topical Report, Pri…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A259%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A380",
+            "date": "07/24",
+            "title": "MRA-00-200-RPT-2000520, Revision 5, \"XENITH Principal Design Cri…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A380%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26181A207",
-            "date": "07/09",
-            "title": "Enclosure 1: Affidavit Supporting Request for Withholding from P…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A207%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26198A109",
+            "date": "07/24",
+            "title": "Email Submitting Withholding Determination for, \"X-Energy LLC Su…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26198A109%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26181A208",
-            "date": "07/09",
-            "title": "Enclosure 2: MRA-00-412-RPT-2000526, Rev. 3, \"XENITH Analytical …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A208%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26196A308",
+            "date": "07/24",
+            "title": "Email Submitting Withholding Determination for, \"X-Energy LLC Su…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A308%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1153,7 +1153,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "X-energy XENITH\n사전신청 단계\n\n최근 활동: 2026년 6월 30일, X-energy는 DoD SCO의 신규 Pele 보안 분류 지침(2025.9.9)에 따라 CUI 표시를 제거한 XENITH 핵심 설계 기준(Rev.5), 분석 방법(Rev.3), 매개변수 선원항(Rev.2) 등 3종의 라이선싱 토피컬 보고서를 NRC에 일괄 제출하며 1개월 내 검토 완료를 요청했으며, 기술 내용 변경 없이 행정적 분류 해제만 이루어진 점에서 인허가 사전신청 단계가 NRC 토피컬 보고서 승인 단계로 실질적으로 진전된 것으로 평가된다.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 완료하며 자금조달에 성공했고, 이후 분기 실적 공시와 투자자 프레젠테이션을 통해 사업 진척을 꾸준히 공개하고 있으나, 락업 조기 해제 일정 공개는 주가 희석 압력으로 작용할 수 있어 주의가 필요하다.\n\n단계별 문서: 사전신청 12 [현재]"
+      "kakao_summary": "X-energy XENITH\n사전신청 단계\n\n최근 활동: 2026년 7월 X-energy는 XENITH 마이크로원자로 관련 핵심 라이선싱 토피컬 보고서 3종(주요설계기준 Rev.5, 분석방법론 Rev.3, 선원항 Rev.2)을 NRC에 제출하였으며, NRC는 2026-07-24 이 모두에 대해 10 CFR 2.390에 따른 영업비밀 비공개 요청을 승인함으로써 사전신청 단계에서 토피컬 보고서 심사 단계로 진입이 확인되어 프로젝트가 활발히 진행 중임을 보여줌.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 완료하며 자금조달에 성공했고, 이후 분기 실적 공시와 투자자 프레젠테이션을 통해 사업 진척을 꾸준히 공개하고 있으나, 락업 조기 해제 일정 공개는 주가 희석 압력으로 작용할 수 있어 주의가 필요하다.\n\n단계별 문서: 사전신청 15 [현재]"
     },
     {
       "id": "xenergy_trisox",
@@ -2256,6 +2256,81 @@
         "form_d_round_count": null
       },
       "kakao_summary": "Blykalla SEALER\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: 2026년 5월 Blykalla의 요청에 따라 NRC가 프로젝트 번호(99902169)를 부여하고 사전신청 활동 관련 비용 청구 체계를 안내하였으며, 이는 Blykalla의 납냉각 소형 모듈 고속로에 대한 NRC 사전신청 인허가 절차가 공식적으로 시작된 것을 의미하는 초기 단계 진입으로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 진행 신호 없음"
+    },
+    {
+      "id": "arc_clean_technology_arc100",
+      "name": "ARC Clean Technology ARC-100",
+      "total_docs": 143,
+      "doc_date_range": {
+        "earliest": "2022-10-04",
+        "latest": "2026-07-24"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "사전신청 단계",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
+      "recent_activity": {
+        "comment": "ARC는 2026년 4월 회의에서 기능적 격납, 전자기 펌프, 나트륨 화재 등 핵심 기술 주제를 NRC와 논의했으며, 7월 Rev.2 규제참여계획을 통해 10 CFR 53 기반 허가 신청 방침을 공식 확정하고 2026년 하반기 월별 기술 발표 일정(확률론적 안전분석, 연료 검증, 불확실성 분석 등)을 구체화하는 등 사전 인허가 활동이 활발하게 진행 중입니다.",
+        "evidence": [
+          "ML26121A130 | 2026-07-24 | 04/14/2026 Summary Of Partially Closed Meeting With Arc Clean Technolo",
+          "ML26197A263 | 2026-07-24 | Summary of the April 14, 2026, Partially Closed Meeting with ARC Clean",
+          "ML26203A176 | 2026-07-23 | ARC Clean Technology, Regulatory Engagement Plan, Rev. 2, Slide Presen",
+          "ML26203A173 | 2026-07-23 | ARC Clean Technology, ARC-100 Advanced Small Modular Reactor, Transiti"
+        ]
+      },
+      "stage_signal_line": "사전신청 59 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26121A130",
+            "date": "07/24",
+            "title": "04/14/2026 Summary Of Partially Closed Meeting With Arc Clean Te…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26121A130%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26197A263",
+            "date": "07/24",
+            "title": "Summary of the April 14, 2026, Partially Closed Meeting with ARC…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26197A263%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26203A176",
+            "date": "07/23",
+            "title": "ARC Clean Technology, Regulatory Engagement Plan, Rev. 2, Slide …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26203A176%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26203A173",
+            "date": "07/23",
+            "title": "ARC Clean Technology, ARC-100 Advanced Small Modular Reactor, Tr…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26203A173%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26196A341",
+            "date": "07/15",
+            "title": "ARC Public Meeting 07/27/2026",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A341%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "funding": {
+        "headline": "SEC 공시 미확인",
+        "short_label": "SEC 공시 미확인",
+        "scope_note": null,
+        "as_of": "2026-07-15",
+        "recent_filings": [],
+        "assessment": null,
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
+      },
+      "kakao_summary": "ARC Clean Technology ARC-100\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: ARC는 2026년 4월 회의에서 기능적 격납, 전자기 펌프, 나트륨 화재 등 핵심 기술 주제를 NRC와 논의했으며, 7월 Rev.2 규제참여계획을 통해 10 CFR 53 기반 허가 신청 방침을 공식 확정하고 2026년 하반기 월별 기술 발표 일정(확률론적 안전분석, 연료 검증, 불확실성 분석 등)을 구체화하는 등 사전 인허가 활동이 활발하게 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 59 [현재]"
     }
   ]
 }
