@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T23:01:23Z",
-  "last_checked": "2026-07-26",
-  "total_docs": 11498,
+  "generated_at": "2026-07-27T23:02:00Z",
+  "last_checked": "2026-07-27",
+  "total_docs": 11509,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -36,7 +36,7 @@
           "ML26190A376 | 2026-07-13 | 12/18/2025 Summary Of Pre-Submittal Meeting With Kairos On Hermes Exte"
         ]
       },
-      "stage_signal_line": "사전신청 270 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]",
+      "stage_signal_line": "사전신청 270 | 신청접수 53 | 기술검토 21 | 초안 SE 13 | 최종 7 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
@@ -83,7 +83,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Kairos Hermes\nCP 발급 완료\n2023년 12월 15일 Hermes 시험원자로 건설허가(CP)가 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 5월 CP 공사 완료 기한이 2026년 12월 31일에서 2029년 4월 30일로 연장(Amendment No.1)되었고, 2025년 12월 외부사건 설계기준 사전제출 회의에서 항공교통 위험 제외 및 설계기준 홍수 수위 상향(759.9→763.1ft msl) 등 기술 쟁점이 논의되는 등, 공사 일정 지연이 공식화되었으나 설계 심사 활동은 지속적으로 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 270 | 신청접수 53 | 기술검토 25 | 초안 SE 13 | 최종 7 [현재]"
+      "kakao_summary": "Kairos Hermes\nCP 발급 완료\n2023년 12월 15일 Hermes 시험원자로 건설허가(CP)가 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 5월 CP 공사 완료 기한이 2026년 12월 31일에서 2029년 4월 30일로 연장(Amendment No.1)되었고, 2025년 12월 외부사건 설계기준 사전제출 회의에서 항공교통 위험 제외 및 설계기준 홍수 수위 상향(759.9→763.1ft msl) 등 기술 쟁점이 논의되는 등, 공사 일정 지연이 공식화되었으나 설계 심사 활동은 지속적으로 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 270 | 신청접수 53 | 기술검토 21 | 초안 SE 13 | 최종 7 [현재]"
     },
     {
       "id": "kairos_hermes2",
@@ -116,7 +116,7 @@
           "ML26078A073 | 2026-04-10 | NRC 896 -A Topical Report Verification (KP-TR-012-A, Rev 4)"
         ]
       },
-      "stage_signal_line": "사전신청 233 | 신청접수 18 | 기술검토 13 | 초안 SE 0 | 최종 5 [현재]",
+      "stage_signal_line": "사전신청 233 | 신청접수 18 | 기술검토 9 | 초안 SE 0 | 최종 5 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
@@ -163,7 +163,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Kairos Hermes 2\nCP 발급 완료\nHermes 2 Unit 1·2 건설허가(CP)가 2024년 12월 17일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2024년 8월 착수된 Hermes CP 조건 중 하나인 부지 지질 매핑 감사가 완료되어, NRC가 2026년 4월 27일 초안 감사보고서를 Kairos에 제공하고 4월 28일 비공개 정보 없음을 확인받았으며, Hermes 1 CP 기한 연장 EA/FONSI 발급 및 토픽 보고서 검증 완료 등 복수의 규제 활동이 병행 진행 중으로 프로젝트는 CP 조건 이행 단계에서 활발히 진행되고 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 233 | 신청접수 18 | 기술검토 13 | 최종 5 [현재]"
+      "kakao_summary": "Kairos Hermes 2\nCP 발급 완료\nHermes 2 Unit 1·2 건설허가(CP)가 2024년 12월 17일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2024년 8월 착수된 Hermes CP 조건 중 하나인 부지 지질 매핑 감사가 완료되어, NRC가 2026년 4월 27일 초안 감사보고서를 Kairos에 제공하고 4월 28일 비공개 정보 없음을 확인받았으며, Hermes 1 CP 기한 연장 EA/FONSI 발급 및 토픽 보고서 검증 완료 등 복수의 규제 활동이 병행 진행 중으로 프로젝트는 CP 조건 이행 단계에서 활발히 진행되고 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 233 | 신청접수 18 | 기술검토 9 | 최종 5 [현재]"
     },
     {
       "id": "bwrx300_clinch_river",
@@ -195,7 +195,7 @@
           "ML26187A365 | 2026-07-13 | Nuclear Regulatory Commission Inspection Report Of Tennessee Valley Au"
         ]
       },
-      "stage_signal_line": "사전신청 59 | 신청접수 14 | 기술검토 13 | 초안 SE 0 | 최종 15 [현재]",
+      "stage_signal_line": "사전신청 59 | 신청접수 14 | 기술검토 10 | 초안 SE 0 | 최종 15 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
@@ -278,7 +278,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "BWRX-300 / Clinch River Unit 1\nFSER 발행 완료 / CP 미발급\n근거: ML26168A505 | FSER, TVA Construction Permit Application (Clinch River Nuclear Site, \n\n최근 활동: FSER 발행(ML26168A505) 후 FRN을 통한 공청회 공고(ML26167A149)와 2026년 8월 13일 테네시주 오크리지에서의 의무청문회 일정 확정(ML26195A171), QA 점검 결과 위반 없음 확인(ML26187A365) 등 CP 발급을 향한 마지막 절차들이 빠르게 진행되고 있어 프로젝트는 매우 활발히 진전 중입니다.\n\n💰 자금조달: SEC 공시 기업 (Tennessee Valley Authority)\n📊 진척도: ⚠️ TVA는 커벌랜드 발전소 30년 리스-매입 계약 체결로 인프라 확장을 지속하고 있으나, 단기간 내 CEO 은퇴·퇴직 합의·임시 CEO 선임이 연속 발생해 리더십 불안정이 뚜렷한 경고 신호로 작용하고 있다.\n\n단계별 문서: 사전신청 59 | 신청접수 14 | 기술검토 13 | 최종 15 [현재]"
+      "kakao_summary": "BWRX-300 / Clinch River Unit 1\nFSER 발행 완료 / CP 미발급\n근거: ML26168A505 | FSER, TVA Construction Permit Application (Clinch River Nuclear Site, \n\n최근 활동: FSER 발행(ML26168A505) 후 FRN을 통한 공청회 공고(ML26167A149)와 2026년 8월 13일 테네시주 오크리지에서의 의무청문회 일정 확정(ML26195A171), QA 점검 결과 위반 없음 확인(ML26187A365) 등 CP 발급을 향한 마지막 절차들이 빠르게 진행되고 있어 프로젝트는 매우 활발히 진전 중입니다.\n\n💰 자금조달: SEC 공시 기업 (Tennessee Valley Authority)\n📊 진척도: ⚠️ TVA는 커벌랜드 발전소 30년 리스-매입 계약 체결로 인프라 확장을 지속하고 있으나, 단기간 내 CEO 은퇴·퇴직 합의·임시 CEO 선임이 연속 발생해 리더십 불안정이 뚜렷한 경고 신호로 작용하고 있다.\n\n단계별 문서: 사전신청 59 | 신청접수 14 | 기술검토 10 | 최종 15 [현재]"
     },
     {
       "id": "bwrx300_aep_rockport",
@@ -416,7 +416,7 @@
           "ML26062A104 | 2026-04-28 | TerraPower, LLC, NAT-9408, Revision 1, \"Regulatory Engagement Plan for"
         ]
       },
-      "stage_signal_line": "사전신청 331 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]",
+      "stage_signal_line": "사전신청 331 | 신청접수 6 | 기술검토 8 | 초안 SE 8 | 최종 3 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
@@ -463,15 +463,15 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "TerraPower Natrium / Kemmerer Unit 1\nCP 발급 완료\n건설허가(CP)가 2026년 3월 9일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: CP 발급 이후 OL 신청을 향한 기술검토가 다방면으로 활발히 진행 중이다. Type 1A 연료 자격인증 토픽 리포트 보완 제출(ML26198A134), 비상조치수준(EAL) 방법론 TR의 충분성 검토 미승인(RAI 예정일 2026-11-20, 안전평가 완료 예상 2027-06-04, ML26149A339), 이중유닛(NGDU) 설계 TR 감사계획 수립(ML26162A207) 등 복수의 기술 토픽 리포트가 병렬로 NRC 심사 단계에 있어, 프로젝트는 OL 신청 준비를 위해 규제참여계획(ML26062A104) 하에 정체 없이 광범위하게 진전되고 있다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 331 | 신청접수 6 | 기술검토 9 | 초안 SE 8 | 최종 3 [현재]"
+      "kakao_summary": "TerraPower Natrium / Kemmerer Unit 1\nCP 발급 완료\n건설허가(CP)가 2026년 3월 9일 공식 발급됨\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: CP 발급 이후 OL 신청을 향한 기술검토가 다방면으로 활발히 진행 중이다. Type 1A 연료 자격인증 토픽 리포트 보완 제출(ML26198A134), 비상조치수준(EAL) 방법론 TR의 충분성 검토 미승인(RAI 예정일 2026-11-20, 안전평가 완료 예상 2027-06-04, ML26149A339), 이중유닛(NGDU) 설계 TR 감사계획 수립(ML26162A207) 등 복수의 기술 토픽 리포트가 병렬로 NRC 심사 단계에 있어, 프로젝트는 OL 신청 준비를 위해 규제참여계획(ML26062A104) 하에 정체 없이 광범위하게 진전되고 있다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 331 | 신청접수 6 | 기술검토 8 | 초안 SE 8 | 최종 3 [현재]"
     },
     {
       "id": "xenergy_xe100",
       "name": "X-energy Xe-100",
-      "total_docs": 1661,
+      "total_docs": 1668,
       "doc_date_range": {
         "earliest": "2018-11-21",
-        "latest": "2026-06-30"
+        "latest": "2026-07-27"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -487,47 +487,48 @@
       },
       "legal_note": "쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음",
       "recent_activity": {
-        "comment": "Long Mott 발전소(Xe-100 기반, Docket 50-614-CP)의 ASLB 청문 절차에서 재정 적격성 관련 Contention 3B가 Dow와의 FSA 체결로 모의(moot) 처리돼 기각되고 신규 Contention 3C 추가도 거부되면서 ASLB 절차가 종결됐으며, 흑연 코어 토피컬 리포트 Rev.2의 -A버전 검토도 완료돼 기술검토와 인허가 절차 양면에서 의미 있는 진전이 확인됨.",
+        "comment": "2026년 7월 X-energy의 Xe-100 TRISO 펠렛 연료 자격인증 방법론 Rev.4 토픽 보고서에 대해 NRC가 완전성 검토를 완료하고 상세 기술검토를 개시했으며(초안 안전평가 목표: 2027년 2월 15일, RAI 발행 시한: 2026년 10월 23일, 소요 인력 450시간 추정), 비공개 처리 결정도 완료됨. 또한 2026 규제 참여 계획(REP) Rev.2 제출까지 확인되어 프로젝트는 기술검토 단계에서 구체적 일정을 갖추며 활발히 진행 중.",
         "evidence": [
-          "ML26176A482 | 2026-06-26 | Memorandum (Notice Regarding Issuance of Decisions on Intervenor's Mot",
-          "ML26141A199 | 2026-06-25 | NRC Form 897 Topical Report Withholding Determination - Xe-100 Graphit",
-          "ML26148A416 | 2026-06-25 | NRC Form 896 -A Topical Report Verification for X Energy, LLC Xe-100 G",
-          "ML26167A098 | 2026-06-30 | 2026/06/16 Project Long Mott Docs - EAFONSI Long Mott Generating Stati"
+          "ML26181A296 | 2026-07-27 | Completeness Determination for X Energy, LLC (X-energy) \"Xe-100 TRISO ",
+          "ML26181A327 | 2026-07-27 | Withholding Determination for X Energy, LLC (X-energy) Xe-100 TRISO Pe",
+          "ML26181A334 | 2026-07-27 | 000633, \"Xe-100 TRISO Pebble Fuel Qualification Methodology, Revision ",
+          "ML26198A156 | 2026-07-27 | Submittal of X Energy, LLC (X-energy), Xe-100 U.S. Regulatory Engageme",
+          "ML26198A158 | 2026-07-27 | Enclosure 2: Xe-100 U.S. Regulatory Engagement Plan (REP) 2026 - Non-P"
         ]
       },
-      "stage_signal_line": "사전신청 283 | 신청접수 19 | 기술검토 8 [현재] | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 285 | 신청접수 19 | 기술검토 5 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26167A098",
-            "date": "06/30",
-            "title": "2026/06/16 Project Long Mott Docs - EAFONSI Long Mott Generating…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26167A098%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26181A296",
+            "date": "07/27",
+            "title": "Completeness Determination for X Energy, LLC (X-energy) \"Xe-100 …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A296%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26176A482",
-            "date": "06/26",
-            "title": "Memorandum (Notice Regarding Issuance of Decisions on Intervenor…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26176A482%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26181A327",
+            "date": "07/27",
+            "title": "Withholding Determination for X Energy, LLC (X-energy) Xe-100 TR…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A327%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26176A352",
-            "date": "06/25",
-            "title": "Transcript of Long Mott Energy, LLC, Hearing, May 12, 2026 Heari…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26176A352%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26181A334",
+            "date": "07/27",
+            "title": "000633, \"Xe-100 TRISO Pebble Fuel Qualification Methodology, Rev…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A334%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26176A349",
-            "date": "06/25",
-            "title": "Memorandum and Order (Correcting May 12, 2026, Prehearing Confer…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26176A349%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26181A299",
+            "date": "07/27",
+            "title": "000633, \"Xe-100 TRISO Pebble Fuel Qualification Methodology, Rev…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A299%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26141A199",
-            "date": "06/25",
-            "title": "NRC Form 897 Topical Report Withholding Determination - Xe-100 G…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26141A199%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26198A157",
+            "date": "07/27",
+            "title": "Enclosure 1: Affidavit Supporting Request for Withholding from P…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26198A157%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -578,7 +579,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "X-energy Xe-100\nNRC 기술검토 중\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: Long Mott 발전소(Xe-100 기반, Docket 50-614-CP)의 ASLB 청문 절차에서 재정 적격성 관련 Contention 3B가 Dow와의 FSA 체결로 모의(moot) 처리돼 기각되고 신규 Contention 3C 추가도 거부되면서 ASLB 절차가 종결됐으며, 흑연 코어 토피컬 리포트 Rev.2의 -A버전 검토도 완료돼 기술검토와 인허가 절차 양면에서 의미 있는 진전이 확인됨.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주)를 완료해 자금조달을 성공적으로 마쳤으며, 1분기 실적 공시와 투자자 프레젠테이션 등 상장 후 공시 활동도 정상적으로 진행되고 있어 전반적인 사업 진척은 양호한 편이나, 락업 조기 해제 일정 공개는 주가 압박 요인으로 주시가 필요합니다.\n\n단계별 문서: 사전신청 283 | 신청접수 19 | 기술검토 8 [현재]"
+      "kakao_summary": "X-energy Xe-100\nNRC 기술검토 중\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: 2026년 7월 X-energy의 Xe-100 TRISO 펠렛 연료 자격인증 방법론 Rev.4 토픽 보고서에 대해 NRC가 완전성 검토를 완료하고 상세 기술검토를 개시했으며(초안 안전평가 목표: 2027년 2월 15일, RAI 발행 시한: 2026년 10월 23일, 소요 인력 450시간 추정), 비공개 처리 결정도 완료됨. 또한 2026 규제 참여 계획(REP) Rev.2 제출까지 확인되어 프로젝트는 기술검토 단계에서 구체적 일정을 갖추며 활발히 진행 중.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주)를 완료해 자금조달을 성공적으로 마쳤으며, 1분기 실적 공시와 투자자 프레젠테이션 등 상장 후 공시 활동도 정상적으로 진행되고 있어 전반적인 사업 진척은 양호한 편이나, 락업 조기 해제 일정 공개는 주가 압박 요인으로 주시가 필요합니다.\n\n단계별 문서: 사전신청 285 | 신청접수 19 | 기술검토 5 [현재]"
     },
     {
       "id": "nuscale_us460",
@@ -698,10 +699,10 @@
     {
       "id": "oklo_aurora",
       "name": "Oklo Aurora Powerhouse",
-      "total_docs": 504,
+      "total_docs": 505,
       "doc_date_range": {
         "earliest": "2018-02-27",
-        "latest": "2026-07-20"
+        "latest": "2026-07-27"
       },
       "track_labels": [
         "Part 52 (COL)"
@@ -722,20 +723,25 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "Oklo는 2026년 6월 말~7월 초에 Aurora 설계기준(PDC) 토픽 보고서 Rev.1 및 품질보증프로그램(N-QAP) 토픽 보고서 Rev.0을 NRC에 신규 제출하고 독점정보 비공개 요청까지 완료하는 등, 기존 신청 거부 이후 새로운 규제 기반 문서를 적극적으로 정비·제출하며 재신청 준비가 활발히 진행 중인 것으로 평가됨.",
+        "comment": "Oklo는 2026년 7월 20일 Aurora 발전소용 핵품질보증프로그램(N-QAP) 토피컬 리포트(Rev.0)를 NRC에 공식 제출하였으며, 5월 회의에서 논의된 NRC 피드백을 반영해 약 1~1.5개월 내 제출하겠다고 예고한 일정을 실제로 이행한 것으로 확인됨. 아울러 주설계기준(PDC) 토피컬 리포트 검증 및 QA 관련 회의 요약이 연이어 접수되는 등, 기존 신청 거부 이후 COL 재신청을 위한 기술 기반 구축 활동이 활발하게 진행 중임.",
         "evidence": [
+          "ML26181A395 | 2026-07-27 | 05/19/2026 Summary of Partially Closed Meeting with Oklo to Discuss a ",
           "ML26179A003 | 2026-07-20 | Submittal of Oklo, Inc. - \"Nuclear Quality Assurance Program (N-QAP) f",
           "ML26179A004 | 2026-07-20 | Enclosure 1: Affidavit and Request for Withholding",
           "ML26179A006 | 2026-07-20 | Enclosure 3: AUR-PDD-001, Revision 0, \"Nuclear Quality Assurance Progr",
-          "ML26173A195 | 2026-07-01 | NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical Repor",
-          "ML26173A194 | 2026-07-01 | Email - NRC Form 896 -A Topical Report Verification of Oklo Inc. Topic",
-          "ML26173A186 | 2026-06-30 | NRC Form 897 - Request for Withholding from Public Disclosure - Oklo I"
+          "ML26173A195 | 2026-07-01 | NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical Repor"
         ]
       },
-      "stage_signal_line": "사전신청 163 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]",
+      "stage_signal_line": "사전신청 164 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26181A395",
+            "date": "07/27",
+            "title": "05/19/2026 Summary of Partially Closed Meeting with Oklo to Disc…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A395%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26179A004",
             "date": "07/20",
@@ -759,12 +765,6 @@
             "date": "07/08",
             "title": "Withholding Proprietary Information From Public Disclosure - Okl…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26176A496%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26173A195",
-            "date": "07/01",
-            "title": "NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26173A195%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -815,7 +815,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Oklo Aurora Powerhouse\n기존 신청 거부\nCOL 신청이 거부되었으며, 면허 발급 이력 없음\n⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Oklo는 2026년 6월 말~7월 초에 Aurora 설계기준(PDC) 토픽 보고서 Rev.1 및 품질보증프로그램(N-QAP) 토픽 보고서 Rev.0을 NRC에 신규 제출하고 독점정보 비공개 요청까지 완료하는 등, 기존 신청 거부 이후 새로운 규제 기반 문서를 적극적으로 정비·제출하며 재신청 준비가 활발히 진행 중인 것으로 평가됨.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모 ATM 프로그램 개시로 자금조달 여력을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부통제 측면에서 경미한 우려 신호로 볼 수 있어 전반적으로 중립적 진척 수준이다.\n\n단계별 문서: 사전신청 163 | 신청접수 2 | 기술검토 16 | 최종 1 [확인 불가]"
+      "kakao_summary": "Oklo Aurora Powerhouse\n기존 신청 거부\nCOL 신청이 거부되었으며, 면허 발급 이력 없음\n⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Oklo는 2026년 7월 20일 Aurora 발전소용 핵품질보증프로그램(N-QAP) 토피컬 리포트(Rev.0)를 NRC에 공식 제출하였으며, 5월 회의에서 논의된 NRC 피드백을 반영해 약 1~1.5개월 내 제출하겠다고 예고한 일정을 실제로 이행한 것으로 확인됨. 아울러 주설계기준(PDC) 토피컬 리포트 검증 및 QA 관련 회의 요약이 연이어 접수되는 등, 기존 신청 거부 이후 COL 재신청을 위한 기술 기반 구축 활동이 활발하게 진행 중임.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모 ATM 프로그램 개시로 자금조달 여력을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부통제 측면에서 경미한 우려 신호로 볼 수 있어 전반적으로 중립적 진척 수준이다.\n\n단계별 문서: 사전신청 164 | 신청접수 2 | 기술검토 16 | 최종 1 [확인 불가]"
     },
     {
       "id": "atomic_alchemy_meitner1",
@@ -935,10 +935,10 @@
     {
       "id": "holtec_smr160",
       "name": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)",
-      "total_docs": 930,
+      "total_docs": 932,
       "doc_date_range": {
         "earliest": "2020-09-28",
-        "latest": "2026-07-23"
+        "latest": "2026-07-27"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -954,22 +954,34 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "2026년 6월 15일 연방관보 게재(91 FR 36018)에 따른 Pioneer 1&2 EIS 스코핑 공개 의견 수렴(마감 7월 15일)이 진행 중이며, 반대·지지 양측 시민 의견서 접수와 함께 부족 협의(Section 106) 개시 서한 발송 등 환경·규제 절차가 복수 트랙에서 동시에 활발히 진행 중이다.",
+        "comment": "2026년 7월 중순 Pioneer 1&2 EIS 스코핑 공개의견 수렴(미시간 DNR 등 기관 참여)과 함께 Holtec이 RG 1.26 Rev.6 Quality Group D 분류 기준에 대한 기술적 해석을 NRC에 질의하고 답변을 받는 등 환경검토·기술검토가 동시에 활발히 진행 중이며, 시민단체의 반대의견 및 절차 연장 요구도 접수되어 직전 대비 진행은 이어지고 있으나 공중 이의제기가 본격화되는 양상이다.",
         "evidence": [
+          "ML26196A394 | 2026-07-27 | 2026/07/15 - Comment (4) E-mail regarding Pioneer 1 & 2 EIS Scoping",
+          "ML26198A217 | 2026-07-27 | Email to S. Hanson, Holtec, Subject \"Response to Request for Clarifica",
           "ML26202A017 | 2026-07-23 | Comment (4) of Kevin Kamps on Palisades SMR, LLC; Pioneer Units 1 and ",
           "ML26197A205 | 2026-07-23 | Comment (3) of TerryAnn Towers Saint Amand on Palisades SMR, LLC; Pion",
           "ML26194A336 | 2026-07-23 | 2026/07/07 - Comment (2) E-mail regarding Pioneer 1 & 2 EIS Scoping",
           "ML26194A337 | 2026-07-23 | 2026/07/06 - Comment (3) E-mail regarding Pioneer 1 & 2 EIS Scoping",
           "ML26195A322 | 2026-07-21 | Comment (2) of Connie McAllister on Palisades SMR, LLC; Pioneer Units ",
-          "ML26194A326 | 2026-07-16 | Ltr to L. Arbuckle, Bad River Band of the Lake Superior Tribe of Chipp",
-          "ML26196A224 | 2026-07-16 | Letter to John Barrett, Citizen Potawatomi Nation, Initiation of Secti",
-          "ML26196A226 | 2026-07-16 | Letter to Jamie Azure, Turtle Mountain Band of Chippewa Indians (North"
+          "ML26194A326 | 2026-07-16 | Ltr to L. Arbuckle, Bad River Band of the Lake Superior Tribe of Chipp"
         ]
       },
-      "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 2 [현재] | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26196A394",
+            "date": "07/27",
+            "title": "2026/07/15 - Comment (4) E-mail regarding Pioneer 1 & 2 EIS Scop…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A394%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26198A217",
+            "date": "07/27",
+            "title": "Email to S. Hanson, Holtec, Subject \"Response to Request for Cla…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26198A217%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26202A017",
             "date": "07/23",
@@ -987,18 +999,6 @@
             "date": "07/23",
             "title": "2026/07/07 - Comment (2) E-mail regarding Pioneer 1 & 2 EIS Scop…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26194A336%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26194A337",
-            "date": "07/23",
-            "title": "2026/07/06 - Comment (3) E-mail regarding Pioneer 1 & 2 EIS Scop…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26194A337%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26195A322",
-            "date": "07/21",
-            "title": "Comment (2) of Connie McAllister on Palisades SMR, LLC; Pioneer …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26195A322%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1042,7 +1042,7 @@
         "status_tag": "ipo_pending",
         "form_d_round_count": null
       },
-      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: 2026년 6월 15일 연방관보 게재(91 FR 36018)에 따른 Pioneer 1&2 EIS 스코핑 공개 의견 수렴(마감 7월 15일)이 진행 중이며, 반대·지지 양측 시민 의견서 접수와 함께 부족 협의(Section 106) 개시 서한 발송 등 환경·규제 절차가 복수 트랙에서 동시에 활발히 진행 중이다.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 2 [현재]"
+      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nNRC 기술검토 중\n\n최근 활동: 2026년 7월 중순 Pioneer 1&2 EIS 스코핑 공개의견 수렴(미시간 DNR 등 기관 참여)과 함께 Holtec이 RG 1.26 Rev.6 Quality Group D 분류 기준에 대한 기술적 해석을 NRC에 질의하고 답변을 받는 등 환경검토·기술검토가 동시에 활발히 진행 중이며, 시민단체의 반대의견 및 절차 연장 요구도 접수되어 직전 대비 진행은 이어지고 있으나 공중 이의제기가 본격화되는 양상이다.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 1 [현재]"
     },
     {
       "id": "xenergy_xenith",
@@ -1185,7 +1185,7 @@
           "ML26056A053 | 2026-03-17 | TRISO-X Application Approval and License Issuance - FRN"
         ]
       },
-      "stage_signal_line": "사전신청 118 | 신청접수 9 | 기술검토 56 | 초안 SE 2 | 최종 2 [현재]",
+      "stage_signal_line": "사전신청 118 | 신청접수 9 | 기술검토 51 | 초안 SE 2 | 최종 2 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
@@ -1268,7 +1268,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "TRISO-X Fuel Fabrication Facility (TX-1)\nNRC 최종 안전성평가(FSER/SER) 완료 — 실제 License 문서는 아직 미확인\n근거: ML25289A022 | 2026-02-23 11:13 | Enclosure 3 - Safety Evaluation Report for the TRISO X LLC. Fuel Fabrication Facility Lice\n⚠️ AI 판단과 불일치 — AI 의견: 인허가(CP/OL) 발급 확인, 확신도 high\nAI 판단 사유: ML25289A030 문서 제목이 'NRC Issuance of License SNM-7007 for the TR…\n\n최근 활동: 2026년 2월 10일 SNM-7007 면허가 정식 발급되어 현재 Oak Ridge 현장에서 TX-1 공정건물 기초 타설 및 철골 공사가 진행 중이나, 3월 점검에서 주요 하중저항시스템(MFRS) 설계관리 절차 미준수로 위반사항이 확인되어 escalated enforcement 절차가 개시된 상태로, 면허 취득 이후에도 시공 품질 관리 리스크가 남아 있어 주시가 필요합니다.\n\n💰 자금조달: 상장사\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 성공적으로 완료하고 분기 실적 공시 및 투자자 프레젠테이션을 이어가며 상장 후 공개 행보를 본격화하고 있으나, 락업 조기 해제 일정 공개는 단기 매도 압력 가능성을 시사하는 주의 요소로 판단된다.\n\n단계별 문서: 사전신청 118 | 신청접수 9 | 기술검토 56 | 초안 SE 2 | 최종 2 [현재]"
+      "kakao_summary": "TRISO-X Fuel Fabrication Facility (TX-1)\nNRC 최종 안전성평가(FSER/SER) 완료 — 실제 License 문서는 아직 미확인\n근거: ML25289A022 | 2026-02-23 11:13 | Enclosure 3 - Safety Evaluation Report for the TRISO X LLC. Fuel Fabrication Facility Lice\n⚠️ AI 판단과 불일치 — AI 의견: 인허가(CP/OL) 발급 확인, 확신도 high\nAI 판단 사유: ML25289A030 문서 제목이 'NRC Issuance of License SNM-7007 for the TR…\n\n최근 활동: 2026년 2월 10일 SNM-7007 면허가 정식 발급되어 현재 Oak Ridge 현장에서 TX-1 공정건물 기초 타설 및 철골 공사가 진행 중이나, 3월 점검에서 주요 하중저항시스템(MFRS) 설계관리 절차 미준수로 위반사항이 확인되어 escalated enforcement 절차가 개시된 상태로, 면허 취득 이후에도 시공 품질 관리 리스크가 남아 있어 주시가 필요합니다.\n\n💰 자금조달: 상장사\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 성공적으로 완료하고 분기 실적 공시 및 투자자 프레젠테이션을 이어가며 상장 후 공개 행보를 본격화하고 있으나, 락업 조기 해제 일정 공개는 단기 매도 압력 가능성을 시사하는 주의 요소로 판단된다.\n\n단계별 문서: 사전신청 118 | 신청접수 9 | 기술검토 51 | 초안 SE 2 | 최종 2 [현재]"
     },
     {
       "id": "terrapower_natrium_fuel_facility",
@@ -1462,10 +1462,10 @@
     {
       "id": "aalo_atomics_aalox",
       "name": "Aalo Atomics Aalo-X",
-      "total_docs": 41,
+      "total_docs": 42,
       "doc_date_range": {
         "earliest": "2024-07-11",
-        "latest": "2026-07-17"
+        "latest": "2026-07-27"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1477,19 +1477,24 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "Aalo는 2026년 7월 텍사스 A&M RELLIS 캠퍼스 부지에 대해 10 CFR Part 53 기반 조기부지허가(ESP) 신청 의향서를 제출하고 Q4 2026 신청·2030년 상업운전을 목표로 명시했으며, 6월에는 소듐-흑연 상호작용 및 조사된 스테인리스강 등 Aalo-1(XMR, 30MWth 소듐 열스펙트럼 반응로) 핵심 기술 난제를 NRC와 공개·비공개 병행 회의로 논의하는 등 사전신청 단계에서 부지·기술 양 측면에서 뚜렷한 진전을 보이고 있다.",
+        "comment": "Aalo Atomics는 2026년 7월 Texas A&M RELLIS 캠퍼스에 대한 조기부지허가(ESP) 신청 의향서를 제출하고(Q4 2026 신청, 2030년 상업운전 목표), PPE Topical Report 사전제출 논의 및 열스펙트럼 재료 도전과제(나트륨-흑연 상호작용) 회의를 연속 진행하는 등 사전신청 단계에서 인허가 경로(10 CFR Part 53)와 기술 현안 해소를 병행하며 활발히 전진하고 있음.",
         "evidence": [
+          "ML26208A255 | 2026-07-27 | NRC Public Meeting with Aalo Atomics to discuss PPE Topical Report Pre",
           "ML26190A374 | 2026-07-17 | Letter of Intent to Pursue an Early Site Permit for an Aalo Reactor at",
           "ML26175A267 | 2026-06-24 | Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026",
-          "ML26174A022 | 2026-06-23 | Aalo-1 Thermal Spectrum Materials Challenges- Public",
-          "ML26085A030 | 2026-05-07 | Enclosure 1 - NRC Observations on Aalo CAF Final Design Review and PDS",
-          "ML26131A191 | 2026-05-11 | E-mail - Aalo Holdings, Inc - Request to Withhold Information from Pub"
+          "ML26174A022 | 2026-06-23 | Aalo-1 Thermal Spectrum Materials Challenges- Public"
         ]
       },
-      "stage_signal_line": "사전신청 16 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 17 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26208A255",
+            "date": "07/27",
+            "title": "NRC Public Meeting with Aalo Atomics to discuss PPE Topical Repo…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26208A255%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26190A374",
             "date": "07/17",
@@ -1513,12 +1518,6 @@
             "date": "06/15",
             "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26166A042%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26161A356",
-            "date": "06/10",
-            "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26161A356%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1533,7 +1532,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Aalo는 2026년 7월 텍사스 A&M RELLIS 캠퍼스 부지에 대해 10 CFR Part 53 기반 조기부지허가(ESP) 신청 의향서를 제출하고 Q4 2026 신청·2030년 상업운전을 목표로 명시했으며, 6월에는 소듐-흑연 상호작용 및 조사된 스테인리스강 등 Aalo-1(XMR, 30MWth 소듐 열스펙트럼 반응로) 핵심 기술 난제를 NRC와 공개·비공개 병행 회의로 논의하는 등 사전신청 단계에서 부지·기술 양 측면에서 뚜렷한 진전을 보이고 있다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 16 [현재]"
+      "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Aalo Atomics는 2026년 7월 Texas A&M RELLIS 캠퍼스에 대한 조기부지허가(ESP) 신청 의향서를 제출하고(Q4 2026 신청, 2030년 상업운전 목표), PPE Topical Report 사전제출 논의 및 열스펙트럼 재료 도전과제(나트륨-흑연 상호작용) 회의를 연속 진행하는 등 사전신청 단계에서 인허가 경로(10 CFR Part 53)와 기술 현안 해소를 병행하며 활발히 전진하고 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 17 [현재]"
     },
     {
       "id": "antares_nuclear_mark0",
@@ -1847,7 +1846,7 @@
           "ML26166A408 | 2026-06-24 | Natura Resources - Quality Assurance Program Description"
         ]
       },
-      "stage_signal_line": "사전신청 41 | 신청접수 9 | 기술검토 11 | 초안 SE 0 | 최종 2 [현재]",
+      "stage_signal_line": "사전신청 41 | 신청접수 9 | 기술검토 10 | 초안 SE 0 | 최종 2 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
@@ -1894,7 +1893,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Natura Resources / Abilene Christian University MSRR (MSR-1)\nCP 발급 완료\n2024년 9월 건설허가(CP)가 공식 발급되었습니다.\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 6월 Natura Resources가 QAPD(품질보증 프로그램 설명서)를 토픽 리포트(NR-RPT-0002-R0)로 NRC에 제출하였고, 7월 13일 NRC가 완전성 검토를 완료해 정식 기술 검토 착수를 승인(Form 898)했으며, 초안 SE는 2026년 11월, 최종 SE는 12월 완료 예정으로 CP 이후 OL 준비를 위한 핵심 행정 절차가 활발히 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 41 | 신청접수 9 | 기술검토 11 | 최종 2 [현재]"
+      "kakao_summary": "Natura Resources / Abilene Christian University MSRR (MSR-1)\nCP 발급 완료\n2024년 9월 건설허가(CP)가 공식 발급되었습니다.\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 6월 Natura Resources가 QAPD(품질보증 프로그램 설명서)를 토픽 리포트(NR-RPT-0002-R0)로 NRC에 제출하였고, 7월 13일 NRC가 완전성 검토를 완료해 정식 기술 검토 착수를 승인(Form 898)했으며, 초안 SE는 2026년 11월, 최종 SE는 12월 완료 예정으로 CP 이후 OL 준비를 위한 핵심 행정 절차가 활발히 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 41 | 신청접수 9 | 기술검토 10 | 최종 2 [현재]"
     },
     {
       "id": "radiant_industries_kaleidos",
