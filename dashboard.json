@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T23:01:03Z",
+  "generated_at": "2026-07-30T00:38:49Z",
   "last_checked": "2026-07-28",
-  "total_docs": 11509,
+  "total_docs": 11540,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -1472,7 +1472,10 @@
       "track_caveat": null,
       "current_status": {
         "headline": "사전신청 단계",
-        "bullets": [],
+        "bullets": [
+          "DOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)",
+          "⚠️ DOE 인가 경로로 실제 임계(criticality) 달성 확인됨 — 토픽리포트 승인 개수만으론 안 보이는 물리적 이정표"
+        ],
         "note_lines": []
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
@@ -1532,7 +1535,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Aalo Atomics는 2026년 7월 Texas A&M RELLIS 캠퍼스에 대한 조기부지허가(ESP) 신청 의향서를 제출하고(Q4 2026 신청, 2030년 상업운전 목표), PPE Topical Report 사전제출 논의 및 열스펙트럼 재료 도전과제(나트륨-흑연 상호작용) 회의를 연속 진행하는 등 사전신청 단계에서 인허가 경로(10 CFR Part 53)와 기술 현안 해소를 병행하며 활발히 전진하고 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 17 [현재]"
+      "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Aalo Atomics는 2026년 7월 Texas A&M RELLIS 캠퍼스에 대한 조기부지허가(ESP) 신청 의향서를 제출하고(Q4 2026 신청, 2030년 상업운전 목표), PPE Topical Report 사전제출 논의 및 열스펙트럼 재료 도전과제(나트륨-흑연 상호작용) 회의를 연속 진행하는 등 사전신청 단계에서 인허가 경로(10 CFR Part 53)와 기술 현안 해소를 병행하며 활발히 전진하고 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 17 [현재]"
     },
     {
       "id": "antares_nuclear_mark0",
@@ -1547,7 +1550,10 @@
       "track_caveat": null,
       "current_status": {
         "headline": "판단 불가 — 단계 신호 문서 없음",
-        "bullets": [],
+        "bullets": [
+          "DOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)",
+          "⚠️ DOE 인가 경로로 실제 임계(criticality) 달성 확인됨 — 토픽리포트 승인 개수만으론 안 보이는 물리적 이정표"
+        ],
         "note_lines": []
       },
       "legal_note": null,
@@ -1623,7 +1629,87 @@
         "status_tag": "form_d",
         "form_d_round_count": 3
       },
-      "kakao_summary": "Antares Nuclear Mark-0\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: Antares Nuclear은 2025년 7~8월 중 R1 마이크로리액터 사전신청 참여계획(RP-25-01)을 NRC에 제출하고, NRC로부터 프로젝트 번호(99902149) 및 과금체계 안내를 받았으며, 독점정보 비공개 처리도 승인되어 Pre-Application 단계가 본격적으로 개시된 것으로 평가됨.\n\n💰 자금조달: 비상장 · 사모 조달 3회 (2023~2025) — 누적 $86,691,732 조달 (최근 라운드 $51,045,266 / 목표 $79,534,995)\n📊 진척도: 라운드별 조달액이 $811만 → $2,753만 → $5,105만으로 뚜렷한 증가 추세이나, 2025년 라운드는 목표액 $7,953만 대비 64% 수준에 그쳐 미달 상태이며 추가 모집이 진행 중인 것으로 판단됩니다.\n\n단계별 문서: 진행 신호 없음"
+      "kakao_summary": "Antares Nuclear Mark-0\n판단 불가 — 단계 신호 문서 없음\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: Antares Nuclear은 2025년 7~8월 중 R1 마이크로리액터 사전신청 참여계획(RP-25-01)을 NRC에 제출하고, NRC로부터 프로젝트 번호(99902149) 및 과금체계 안내를 받았으며, 독점정보 비공개 처리도 승인되어 Pre-Application 단계가 본격적으로 개시된 것으로 평가됨.\n\n💰 자금조달: 비상장 · 사모 조달 3회 (2023~2025) — 누적 $86,691,732 조달 (최근 라운드 $51,045,266 / 목표 $79,534,995)\n📊 진척도: 라운드별 조달액이 $811만 → $2,753만 → $5,105만으로 뚜렷한 증가 추세이나, 2025년 라운드는 목표액 $7,953만 대비 64% 수준에 그쳐 미달 상태이며 추가 모집이 진행 중인 것으로 판단됩니다.\n\n단계별 문서: 진행 신호 없음"
+    },
+    {
+      "id": "deployable_energy_unity",
+      "name": "Deployable Energy Unity",
+      "total_docs": 31,
+      "doc_date_range": {
+        "earliest": "2025-12-01",
+        "latest": "2026-07-23"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "사전신청 단계",
+        "bullets": [
+          "DOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)",
+          "⚠️ DOE 인가 경로로 실제 임계(criticality) 달성 확인됨 — 토픽리포트 승인 개수만으론 안 보이는 물리적 이정표"
+        ],
+        "note_lines": []
+      },
+      "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
+      "recent_activity": {
+        "comment": "2026년 7월 15일자로 Unity 연료 자격 백서 제출(일부 독점정보 비공개 요청 포함), QAPD 관련 NRC 공개회의록 비삭제 확인, 6월에는 NRC로부터 주요설계기준 및 적용 가능성 백서에 대한 기술 피드백을 수령하는 등 CPA 준비를 위한 사전허가 활동이 빠른 속도로 진행되고 있어 프로젝트는 활발히 가동 중으로 평가됨.",
+        "evidence": [
+          "ML26196A401 | 2026-07-23 | Deployable Energy - Submission of the Unity Fuel Qualification White P",
+          "ML26196A402 | 2026-07-23 | Deployable Energy - Affidavit Supporting Request for Withholding from ",
+          "ML26196A403 | 2026-07-23 | Deployable Energy - Confirmation of Comments for QAPD and Public Meeti",
+          "ML26148A391 | 2026-06-24 | Letter - The U.S. Nuclear Regulatory Commission Staff Feedback regardi",
+          "ML26148A392 | 2026-06-24 | Enclosure 1 - The U.S. Nuclear Regulatory Commission Staff Feedback re",
+          "ML26148A394 | 2026-06-24 | Enclosure 2 - The U.S. Nuclear Regulatory Commission Staff Feedback re"
+        ]
+      },
+      "stage_signal_line": "사전신청 5 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26196A401",
+            "date": "07/23",
+            "title": "Deployable Energy - Submission of the Unity Fuel Qualification W…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A401%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26196A402",
+            "date": "07/23",
+            "title": "Deployable Energy - Affidavit Supporting Request for Withholding…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A402%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26196A403",
+            "date": "07/23",
+            "title": "Deployable Energy - Confirmation of Comments for QAPD and Public…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A403%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26148A394",
+            "date": "06/24",
+            "title": "Enclosure 2 - The U.S. Nuclear Regulatory Commission Staff Feedb…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26148A394%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26148A391",
+            "date": "06/24",
+            "title": "Letter - The U.S. Nuclear Regulatory Commission Staff Feedback r…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26148A391%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "funding": {
+        "headline": "SEC 공시 미확인",
+        "short_label": "SEC 공시 미확인",
+        "scope_note": null,
+        "as_of": "2026-07-15",
+        "recent_filings": [],
+        "assessment": null,
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
+      },
+      "kakao_summary": "Deployable Energy Unity\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 7월 15일자로 Unity 연료 자격 백서 제출(일부 독점정보 비공개 요청 포함), QAPD 관련 NRC 공개회의록 비삭제 확인, 6월에는 NRC로부터 주요설계기준 및 적용 가능성 백서에 대한 기술 피드백을 수령하는 등 CPA 준비를 위한 사전허가 활동이 빠른 속도로 진행되고 있어 프로젝트는 활발히 가동 중으로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 5 [현재]"
     },
     {
       "id": "deep_fission_gravity",
@@ -1638,7 +1724,9 @@
       "track_caveat": null,
       "current_status": {
         "headline": "사전신청 단계",
-        "bullets": [],
+        "bullets": [
+          "DOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)"
+        ],
         "note_lines": []
       },
       "legal_note": null,
@@ -1737,7 +1825,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Deep Fission Gravity Reactor\n사전신청 단계\n\n최근 활동: Deep Fission은 2026년 4~6월 사이 캔자스주 파슨스 부지의 Gravity Reactor에 대해 개념설계 백서 및 규제참여계획(REP)을 NRC에 제출하고, DOE 인허가 활동 관찰을 위한 전자열람실(eRR) 접근협약을 체결하며 NRC 감사계획까지 수립하는 등 사전신청 단계에서 매우 활발한 진전을 보이고 있으며, DOE Reactor Pilot Program 선정(2025년 8월)을 기반으로 DOE→NRC 순차 인허가 경로를 구체화하고 있다.\n\n💰 자금조달: 상장사 (Nasdaq:FISN)\n📊 진척도: 딥피션은 2026년 6월 나스닥 IPO를 통해 주당 16달러, 250만주 공모로 약 400억 규모 자금조달에 성공하며 상장을 완료했고, 현재 공시된 경고 신호(임원 이탈·소송·계속기업 불확실성 등)는 확인되지 않아 초기 사업 진척은 긍정적으로 평가된다.\n\n단계별 문서: 사전신청 7 [현재]"
+      "kakao_summary": "Deep Fission Gravity Reactor\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: Deep Fission은 2026년 4~6월 사이 캔자스주 파슨스 부지의 Gravity Reactor에 대해 개념설계 백서 및 규제참여계획(REP)을 NRC에 제출하고, DOE 인허가 활동 관찰을 위한 전자열람실(eRR) 접근협약을 체결하며 NRC 감사계획까지 수립하는 등 사전신청 단계에서 매우 활발한 진전을 보이고 있으며, DOE Reactor Pilot Program 선정(2025년 8월)을 기반으로 DOE→NRC 순차 인허가 경로를 구체화하고 있다.\n\n💰 자금조달: 상장사 (Nasdaq:FISN)\n📊 진척도: 딥피션은 2026년 6월 나스닥 IPO를 통해 주당 16달러, 250만주 공모로 약 400억 규모 자금조달에 성공하며 상장을 완료했고, 현재 공시된 경고 신호(임원 이탈·소송·계속기업 불확실성 등)는 확인되지 않아 초기 사업 진척은 긍정적으로 평가된다.\n\n단계별 문서: 사전신청 7 [현재]"
     },
     {
       "id": "last_energy_pwr20",
@@ -1752,7 +1840,9 @@
       "track_caveat": null,
       "current_status": {
         "headline": "사전신청 단계",
-        "bullets": [],
+        "bullets": [
+          "DOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)"
+        ],
         "note_lines": []
       },
       "legal_note": null,
@@ -1813,7 +1903,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Last Energy PWR-20\n사전신청 단계\n\n최근 활동: Last Energy는 밀봉형 격납 백서에 대한 NRC 피드백 수령, PM 재배정(Allen Fetter), 그리고 2026년 6월 최초 기술 사전신청 회의 일정 확정 등 사전신청 단계에서 꾸준하고 구체적인 활동이 이어지고 있으며, 환경 보고서 논의 및 텍사스 Haskell 부지 언급 등 실질적 진전이 확인된다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 5 [현재]"
+      "kakao_summary": "Last Energy PWR-20\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: Last Energy는 밀봉형 격납 백서에 대한 NRC 피드백 수령, PM 재배정(Allen Fetter), 그리고 2026년 6월 최초 기술 사전신청 회의 일정 확정 등 사전신청 단계에서 꾸준하고 구체적인 활동이 이어지고 있으며, 환경 보고서 논의 및 텍사스 Haskell 부지 언급 등 실질적 진전이 확인된다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 5 [현재]"
     },
     {
       "id": "natura_resources_acu_msrr",
@@ -1908,7 +1998,9 @@
       "track_caveat": null,
       "current_status": {
         "headline": "NRC 기술검토 중",
-        "bullets": [],
+        "bullets": [
+          "DOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)"
+        ],
         "note_lines": []
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
@@ -2008,7 +2100,7 @@
         "status_tag": "form_d",
         "form_d_round_count": 5
       },
-      "kakao_summary": "Radiant Industries Kaleidos\nNRC 기술검토 중\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: NRC가 2026년 7월 16일자로 여러 부족 대표 및 SHPO·NPS에 Section 106 협의 서한을 일괄 발송하였으며, 역사·문화자원에 대한 '악영향 없음' 판정을 통보하고 30일 내 의견 제출을 요청한 상태로, 환경평가(EA) 절차가 구체적으로 진행 중임을 확인할 수 있어 직전 대비 환경검토 단계에서 의미 있는 진전이 있었다.\n\n💰 자금조달: 비상장 · 사모 조달 5회 (2022~2025) — 누적 $488,189,973 조달 (최근 라운드 $268,805,033 / 목표 $350,000,018)\n📊 진척도: 라운드별 조달 규모가 $1,260만→$4,070만→$1억→$6,600만→$2억6,880만으로 전반적 증가 추세이며, 2025-12-30 라운드를 제외한 나머지는 목표액을 100% 달성했으나, 최근 라운드는 목표 $3.5억 대비 약 76.8% 조달에 그쳐 소폭 미달 중이고 경고 신호는 확인되지 않아 전반적으로 긍정적이나 주의 관찰이 필요합니다.\n\n단계별 문서: 사전신청 22 | 신청접수 4 | 기술검토 4 [현재]"
+      "kakao_summary": "Radiant Industries Kaleidos\nNRC 기술검토 중\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: NRC가 2026년 7월 16일자로 여러 부족 대표 및 SHPO·NPS에 Section 106 협의 서한을 일괄 발송하였으며, 역사·문화자원에 대한 '악영향 없음' 판정을 통보하고 30일 내 의견 제출을 요청한 상태로, 환경평가(EA) 절차가 구체적으로 진행 중임을 확인할 수 있어 직전 대비 환경검토 단계에서 의미 있는 진전이 있었다.\n\n💰 자금조달: 비상장 · 사모 조달 5회 (2022~2025) — 누적 $488,189,973 조달 (최근 라운드 $268,805,033 / 목표 $350,000,018)\n📊 진척도: 라운드별 조달 규모가 $1,260만→$4,070만→$1억→$6,600만→$2억6,880만으로 전반적 증가 추세이며, 2025-12-30 라운드를 제외한 나머지는 목표액을 100% 달성했으나, 최근 라운드는 목표 $3.5억 대비 약 76.8% 조달에 그쳐 소폭 미달 중이고 경고 신호는 확인되지 않아 전반적으로 긍정적이나 주의 관찰이 필요합니다.\n\n단계별 문서: 사전신청 22 | 신청접수 4 | 기술검토 4 [현재]"
     },
     {
       "id": "terrestrial_energy_imsr",
@@ -2023,7 +2115,9 @@
       "track_caveat": null,
       "current_status": {
         "headline": "사전신청 단계",
-        "bullets": [],
+        "bullets": [
+          "DOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)"
+        ],
         "note_lines": []
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
@@ -2122,7 +2216,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Terrestrial Energy IMSR (Project TETRA)\n사전신청 단계\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 4월 NRC의 PIE 토픽 보고서 최종 안전평가 완료 후, Terrestrial Energy는 규정에 따라 3개월 이내에 '-A' 버전 토픽 보고서(TR251231-A)를 제출 완료(2026-06-30)하였으며, 동시에 모기업 TEDI가 NRC 사전인허가 업무를 직접 수행하는 구조로 전환됨. 또한 Defense-in-Depth 전략 TR 및 규제 계획 v9 제출 등 복수의 기술 문서가 단기간 내 집중 제출되어 프로젝트는 사전신청 단계에서 매우 활발하게 진행 중인 것으로 평가됨.\n\n💰 자금조달: 상장사 (Nasdaq:IMSR)\n📊 진척도: 상장기업으로 별도 자금조달 라운드 이력은 없으며, 최근 공시는 1분기 실적 발표와 정기 주총 의안 처리 등 통상적인 운영 활동에 한정되어 있어 사업 개발상 특별한 진전이나 경고 신호는 확인되지 않는 중립적 상태임.\n\n단계별 문서: 사전신청 56 [현재]"
+      "kakao_summary": "Terrestrial Energy IMSR (Project TETRA)\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 4월 NRC의 PIE 토픽 보고서 최종 안전평가 완료 후, Terrestrial Energy는 규정에 따라 3개월 이내에 '-A' 버전 토픽 보고서(TR251231-A)를 제출 완료(2026-06-30)하였으며, 동시에 모기업 TEDI가 NRC 사전인허가 업무를 직접 수행하는 구조로 전환됨. 또한 Defense-in-Depth 전략 TR 및 규제 계획 v9 제출 등 복수의 기술 문서가 단기간 내 집중 제출되어 프로젝트는 사전신청 단계에서 매우 활발하게 진행 중인 것으로 평가됨.\n\n💰 자금조달: 상장사 (Nasdaq:IMSR)\n📊 진척도: 상장기업으로 별도 자금조달 라운드 이력은 없으며, 최근 공시는 1분기 실적 발표와 정기 주총 의안 처리 등 통상적인 운영 활동에 한정되어 있어 사업 개발상 특별한 진전이나 경고 신호는 확인되지 않는 중립적 상태임.\n\n단계별 문서: 사전신청 56 [현재]"
     },
     {
       "id": "fanco_eagl1",

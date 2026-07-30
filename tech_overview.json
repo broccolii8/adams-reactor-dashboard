@@ -142,8 +142,8 @@
       "fuel": "UZrH(우라늄-지르코늄 수소화물)",
       "power": "10 MWe/기(30 MWth) · Pod(5기) 50 MWe",
       "deployment": "데이터센터 전용 모듈러, Idaho National Laboratory",
-      "unique": "INL MARVEL 설계 계승. 2026-06-04 임계 달성, 2026-07-03 자체 시제 노에서 재차 임계 확인.",
-      "summary": "Aalo-X / Aalo-1 — 나트륨냉각 열중성자 마이크로리액터\n냉각재 액체 나트륨 · 감속재 있음 · 연료 UZrH\n출력 10 MWe/기(Pod 5기묶음 50 MWe)\nINL MARVEL 계승, 데이터센터 전용 모듈러 설계."
+      "unique": "INL MARVEL 설계 계승. 2026-07-04 00:20 MT 'Aalo-X Critical Test Reactor'가 INL에서 임계 달성 — DOE 파일럿 프로그램 4번째 임계 달성 사례(Antares·Valar Atomics·Deployable Energy에 이어).",
+      "summary": "Aalo-X / Aalo-1 — 나트륨냉각 열중성자 마이크로리액터\n냉각재 액체 나트륨 · 감속재 있음 · 연료 UZrH\n출력 10 MWe/기(Pod 5기묶음 50 MWe)\nINL MARVEL 계승. 2026-07-04 임계 달성(DOE 파일럿 4번째)."
     },
     "antares_nuclear_mark0": {
       "name": "Antares Mark-0 / Mark-1",
