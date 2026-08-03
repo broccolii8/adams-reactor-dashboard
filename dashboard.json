@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T23:00:11Z",
-  "last_checked": "2026-08-02",
-  "total_docs": 16304,
+  "generated_at": "2026-08-03T23:01:24Z",
+  "last_checked": "2026-08-03",
+  "total_docs": 16305,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -951,10 +951,10 @@
     {
       "id": "holtec_smr160",
       "name": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)",
-      "total_docs": 933,
+      "total_docs": 934,
       "doc_date_range": {
         "earliest": "2020-09-28",
-        "latest": "2026-07-31"
+        "latest": "2026-08-03"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -974,22 +974,27 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "Holtec은 LWA 신청 보충서(굴착 지질 매핑 세부사항)를 제출하고 RG 1.26 Quality Group D 해석 관련 NRC로부터 기술 명확화를 받았으며, EIS 스코핑 공개의견 수렴도 활발히 진행 중으로, 설계·환경검토·부지작업 준비가 동시에 병행되는 등 프로젝트는 다중 트랙에서 실질적으로 진행 중입니다.",
+        "comment": "2026년 7~8월 Pioneer 1&2 프로젝트는 EIS 스코핑 공개의견 수렴(ML26194A336·ML26194A337·ML26196A394·ML26202A017·ML26197A205·ML26204A420)과 함께 Holtec이 LWA 신청 보완서(굴착 지지벽 설치 면제 관련 지질 매핑 계획 추가, ML26204A398)를 제출하는 등 CP/LWA 심사가 환경검토·기술검토 양 트랙에서 동시에 활발히 진행 중이며, 직전 확인 시점 대비 EIS 스코핑 단계로 구체적으로 진전된 상태임.",
         "evidence": [
+          "ML26204A420 | 2026-08-03 | 2026/07/21 - Comment (5) E-mail regarding Pioneer 1 & 2 EIS Scoping",
           "ML26204A398 | 2026-07-31 | Pioneer Units 1 and 2 - Supplement to Limited Work Authorization Appli",
-          "ML26198A217 | 2026-07-27 | Email to S. Hanson, Holtec, Subject \"Response to Request for Clarifica",
           "ML26196A394 | 2026-07-27 | 2026/07/15 - Comment (4) E-mail regarding Pioneer 1 & 2 EIS Scoping",
           "ML26202A017 | 2026-07-23 | Comment (4) of Kevin Kamps on Palisades SMR, LLC; Pioneer Units 1 and ",
           "ML26197A205 | 2026-07-23 | Comment (3) of TerryAnn Towers Saint Amand on Palisades SMR, LLC; Pion",
           "ML26194A336 | 2026-07-23 | 2026/07/07 - Comment (2) E-mail regarding Pioneer 1 & 2 EIS Scoping",
-          "ML26194A337 | 2026-07-23 | 2026/07/06 - Comment (3) E-mail regarding Pioneer 1 & 2 EIS Scoping",
-          "ML26195A322 | 2026-07-21 | Comment (2) of Connie McAllister on Palisades SMR, LLC; Pioneer Units "
+          "ML26194A337 | 2026-07-23 | 2026/07/06 - Comment (3) E-mail regarding Pioneer 1 & 2 EIS Scoping"
         ]
       },
       "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26204A420",
+            "date": "08/03",
+            "title": "2026/07/21 - Comment (5) E-mail regarding Pioneer 1 & 2 EIS Scop…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26204A420%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26204A398",
             "date": "07/31",
@@ -1013,12 +1018,6 @@
             "date": "07/23",
             "title": "Comment (4) of Kevin Kamps on Palisades SMR, LLC; Pioneer Units …",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26202A017%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26197A205",
-            "date": "07/23",
-            "title": "Comment (3) of TerryAnn Towers Saint Amand on Palisades SMR, LLC…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26197A205%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1062,7 +1061,7 @@
         "status_tag": "ipo_pending",
         "form_d_round_count": null
       },
-      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nCP 신청(제목 추정)\nCP: ML26127A325 | 2026-06-15 11:35 | FRN_Palisades SMR, LLC; Pioneer Units 1 and 2; Phased Construction Permit Application; Lim\n\n최근 활동: Holtec은 LWA 신청 보충서(굴착 지질 매핑 세부사항)를 제출하고 RG 1.26 Quality Group D 해석 관련 NRC로부터 기술 명확화를 받았으며, EIS 스코핑 공개의견 수렴도 활발히 진행 중으로, 설계·환경검토·부지작업 준비가 동시에 병행되는 등 프로젝트는 다중 트랙에서 실질적으로 진행 중입니다.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 1 [현재]"
+      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nCP 신청(제목 추정)\nCP: ML26127A325 | 2026-06-15 11:35 | FRN_Palisades SMR, LLC; Pioneer Units 1 and 2; Phased Construction Permit Application; Lim\n\n최근 활동: 2026년 7~8월 Pioneer 1&2 프로젝트는 EIS 스코핑 공개의견 수렴(ML26194A336·ML26194A337·ML26196A394·ML26202A017·ML26197A205·ML26204A420)과 함께 Holtec이 LWA 신청 보완서(굴착 지지벽 설치 면제 관련 지질 매핑 계획 추가, ML26204A398)를 제출하는 등 CP/LWA 심사가 환경검토·기술검토 양 트랙에서 동시에 활발히 진행 중이며, 직전 확인 시점 대비 EIS 스코핑 단계로 구체적으로 진전된 상태임.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 1 [현재]"
     },
     {
       "id": "xenergy_xenith",
