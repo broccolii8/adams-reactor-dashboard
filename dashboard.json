@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T23:18:29Z",
-  "last_checked": "2026-08-03",
-  "total_docs": 16305,
+  "generated_at": "2026-08-07T23:45:25Z",
+  "last_checked": "2026-08-07",
+  "total_docs": 16318,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -480,10 +480,10 @@
     {
       "id": "xenergy_xe100",
       "name": "X-energy Xe-100",
-      "total_docs": 1673,
+      "total_docs": 1676,
       "doc_date_range": {
         "earliest": "2018-11-21",
-        "latest": "2026-07-31"
+        "latest": "2026-08-07"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -504,18 +504,36 @@
       },
       "legal_note": "쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음",
       "recent_activity": {
-        "comment": "최근 문서들은 X-energy Xe-100이 아닌 Long Mott Generating Station(Docket 50-614-CP) 관련 인허가 청문 절차 종결(LBP-26-5) 및 연료 자격 심사 보고서(Topical Report Rev.4) 완전성 판정에 관한 것으로, Xe-100 프로젝트 자체의 진행 상황을 직접 보여주는 문서는 연료 자격 Topical Report 검토 완료 외에 확인되지 않아 기술 심사가 부분적으로 진행 중이나 전반적 모멘텀은 제한적으로 보임.",
+        "comment": "Long Mott 발전소 CP 허가 절차에서 재정자격 관련 Contention 3A·3B가 LME의 CPA 보충 후 모두 무효(moot) 처리되어 Commission이 LME의 항소도 모두 기각했으나, Waterkeeper가 이에 불복해 Commission에 재심청구를 제기하고 새 Contention 3C·6 관련 쟁점도 추가로 다투는 등 인터베너 법적 분쟁이 활발히 지속되고 있어 CP 발급까지는 규제 절차 지연이 예상됨.",
         "evidence": [
-          "ML26181A334 | 2026-07-27 | 000633, \"Xe-100 TRISO Pebble Fuel Qualification Methodology, Revision ",
-          "ML26181A296 | 2026-07-27 | Completeness Determination for X Energy, LLC (X-energy) \"Xe-100 TRISO ",
-          "ML26181A327 | 2026-07-27 | Withholding Determination for X Energy, LLC (X-energy) Xe-100 TRISO Pe",
-          "ML26211A352 | 2026-07-30 | Memorandum and Order (Denying Motion to File New Contention 3C and Ter"
+          "ML26219A174 | 2026-08-07 | Commission Memorandum and Order (CLI-26-10)",
+          "ML26215A495 | 2026-08-04 | Redacted San Antonio Bay Estuarine Waterkeeper's Petition for Review",
+          "ML26211A352 | 2026-07-30 | Memorandum and Order (Denying Motion to File New Contention 3C and Ter",
+          "ML26211A346 | 2026-07-30 | Memorandum and Order (Denying Motion to Amend Contention 3B and Granti"
         ]
       },
       "stage_signal_line": "사전신청 285 | 신청접수 19 | 기술검토 5 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26219A174",
+            "date": "08/07",
+            "title": "Commission Memorandum and Order (CLI-26-10)",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26219A174%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26215A495",
+            "date": "08/04",
+            "title": "Redacted San Antonio Bay Estuarine Waterkeeper's Petition for Re…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26215A495%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26215A403",
+            "date": "08/04",
+            "title": "Notice of Appearance for Amanda K. Leatherman",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26215A403%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26212A422",
             "date": "07/31",
@@ -527,24 +545,6 @@
             "date": "07/31",
             "title": "Termination of Possession Declaration of Gwyneth Lonergan",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26211A387%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26211A352",
-            "date": "07/30",
-            "title": "Memorandum and Order (Denying Motion to File New Contention 3C a…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26211A352%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26211A337",
-            "date": "07/30",
-            "title": "Memorandum (Notice Regarding Public Versions of LBP-26-4 and LBP…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26211A337%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26211A346",
-            "date": "07/30",
-            "title": "Memorandum and Order (Denying Motion to Amend Contention 3B and …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26211A346%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -595,15 +595,15 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "X-energy Xe-100\nCP 신청\nCP: ML25090A058 | 2025-04-28 09:43 | Long Mott Energy, LLC, Submittal of Construction Permit Application for Long Mott Generati\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: 최근 문서들은 X-energy Xe-100이 아닌 Long Mott Generating Station(Docket 50-614-CP) 관련 인허가 청문 절차 종결(LBP-26-5) 및 연료 자격 심사 보고서(Topical Report Rev.4) 완전성 판정에 관한 것으로, Xe-100 프로젝트 자체의 진행 상황을 직접 보여주는 문서는 연료 자격 Topical Report 검토 완료 외에 확인되지 않아 기술 심사가 부분적으로 진행 중이나 전반적 모멘텀은 제한적으로 보임.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주)를 완료해 자금조달을 성공적으로 마쳤으며, 1분기 실적 공시와 투자자 프레젠테이션 등 상장 후 공시 활동도 정상적으로 진행되고 있어 전반적인 사업 진척은 양호한 편이나, 락업 조기 해제 일정 공개는 주가 압박 요인으로 주시가 필요합니다.\n\n단계별 문서: 사전신청 285 | 신청접수 19 | 기술검토 5 [현재]"
+      "kakao_summary": "X-energy Xe-100\nCP 신청\nCP: ML25090A058 | 2025-04-28 09:43 | Long Mott Energy, LLC, Submittal of Construction Permit Application for Long Mott Generati\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: Long Mott 발전소 CP 허가 절차에서 재정자격 관련 Contention 3A·3B가 LME의 CPA 보충 후 모두 무효(moot) 처리되어 Commission이 LME의 항소도 모두 기각했으나, Waterkeeper가 이에 불복해 Commission에 재심청구를 제기하고 새 Contention 3C·6 관련 쟁점도 추가로 다투는 등 인터베너 법적 분쟁이 활발히 지속되고 있어 CP 발급까지는 규제 절차 지연이 예상됨.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주)를 완료해 자금조달을 성공적으로 마쳤으며, 1분기 실적 공시와 투자자 프레젠테이션 등 상장 후 공시 활동도 정상적으로 진행되고 있어 전반적인 사업 진척은 양호한 편이나, 락업 조기 해제 일정 공개는 주가 압박 요인으로 주시가 필요합니다.\n\n단계별 문서: 사전신청 285 | 신청접수 19 | 기술검토 5 [현재]"
     },
     {
       "id": "nuscale_us460",
       "name": "NuScale US460 SDA",
-      "total_docs": 1204,
+      "total_docs": 1206,
       "doc_date_range": {
         "earliest": "2019-09-19",
-        "latest": "2026-07-15"
+        "latest": "2026-08-07"
       },
       "track_labels": [
         "Part 52 (COL)",
@@ -620,17 +620,29 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "비상계획 관련 토픽 보고서 2건(EECS TR-182845 Rev.1 및 ERO TR-183101)의 NRC 심사 일정이 2026년 6월 기준 초안 안전평가 완료 목표일이 6/30으로 수정되고 감사 기간이 7/30까지 연장되었으며, NuScale은 7월 9일 감사 질문에 대한 대응을 반영한 TR-182845 Rev.1을 공식 제출하는 등 비상계획 분야 심사가 활발히 진행 중이나 COL 발급까지는 아직 상당한 단계가 남아 있는 상태임.",
+        "comment": "2026년 7월 비상사건분류체계(TR-182845)와 비상대응조직(TR-183101) 두 토피컬 리포트가 각각 NRC 최종 안전평가(SER)를 통과·승인되어 승인본(TR-182845-A Rev.1, TR-183101-A Rev.0)이 제출 완료됨으로써, 비상계획 관련 핵심 규제 이슈가 일괄 해소되는 의미 있는 진전이 있었으며 프로젝트는 활발히 진행 중임.",
         "evidence": [
-          "ML26190A134 | 2026-07-15 | NuScale Power, LLC - Submittal of Topical Report entitled, \"Emergency ",
-          "ML26177A241 | 2026-07-10 | 2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale EECS Topic",
-          "ML26177A240 | 2026-07-10 | 2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale ERO Topica"
+          "ML26210A346 | 2026-08-07 | NuScale Power, LLC - Submittal of the Approved Version of NuScale Topi",
+          "ML26211A382 | 2026-08-07 | NuScale Power, LLC - Submittal of the Approved Version of NuScale Topi",
+          "ML26190A134 | 2026-07-15 | NuScale Power, LLC - Submittal of Topical Report entitled, \"Emergency "
         ]
       },
-      "stage_signal_line": "사전신청 453 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]",
+      "stage_signal_line": "사전신청 455 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26210A346",
+            "date": "08/07",
+            "title": "NuScale Power, LLC - Submittal of the Approved Version of NuScal…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26210A346%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26211A382",
+            "date": "08/07",
+            "title": "NuScale Power, LLC - Submittal of the Approved Version of NuScal…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26211A382%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26190A134",
             "date": "07/15",
@@ -648,18 +660,6 @@
             "date": "07/10",
             "title": "2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale ERO …",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26177A240%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26142A075",
-            "date": "06/05",
-            "title": "2026/05/22 NuScale NPM-20 - NuScale - Request for Withholding In…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26142A075%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML25246B399",
-            "date": "06/03",
-            "title": "Request for Withholding Information from Public Disclosure for N…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML25246B399%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -710,7 +710,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "NuScale US460 SDA\nSDA 발급\nSDA: ML25129A004 | 2025-05-29 10:31 | Standard Design Approval SDA for the NuScale US460 Power Plant Design\n\n최근 활동: 비상계획 관련 토픽 보고서 2건(EECS TR-182845 Rev.1 및 ERO TR-183101)의 NRC 심사 일정이 2026년 6월 기준 초안 안전평가 완료 목표일이 6/30으로 수정되고 감사 기간이 7/30까지 연장되었으며, NuScale은 7월 9일 감사 질문에 대한 대응을 반영한 TR-182845 Rev.1을 공식 제출하는 등 비상계획 분야 심사가 활발히 진행 중이나 COL 발급까지는 아직 상당한 단계가 남아 있는 상태임.\n\n💰 자금조달: 상장사 (NYSE:SMR)\n📊 진척도: 최근 공시는 정기 주총, 분기 실적 발표 등 일상적 공시에 그치며 신규 계약·파트너십·자금조달 등 사업 진척을 나타내는 이벤트가 없어 뚜렷한 성장 모멘텀이 확인되지 않는다.\n\n단계별 문서: 사전신청 453 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
+      "kakao_summary": "NuScale US460 SDA\nSDA 발급\nSDA: ML25129A004 | 2025-05-29 10:31 | Standard Design Approval SDA for the NuScale US460 Power Plant Design\n\n최근 활동: 2026년 7월 비상사건분류체계(TR-182845)와 비상대응조직(TR-183101) 두 토피컬 리포트가 각각 NRC 최종 안전평가(SER)를 통과·승인되어 승인본(TR-182845-A Rev.1, TR-183101-A Rev.0)이 제출 완료됨으로써, 비상계획 관련 핵심 규제 이슈가 일괄 해소되는 의미 있는 진전이 있었으며 프로젝트는 활발히 진행 중임.\n\n💰 자금조달: 상장사 (NYSE:SMR)\n📊 진척도: 최근 공시는 정기 주총, 분기 실적 발표 등 일상적 공시에 그치며 신규 계약·파트너십·자금조달 등 사업 진척을 나타내는 이벤트가 없어 뚜렷한 성장 모멘텀이 확인되지 않는다.\n\n단계별 문서: 사전신청 455 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
     },
     {
       "id": "oklo_aurora",
@@ -951,10 +951,10 @@
     {
       "id": "holtec_smr160",
       "name": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)",
-      "total_docs": 934,
+      "total_docs": 937,
       "doc_date_range": {
         "earliest": "2020-09-28",
-        "latest": "2026-08-03"
+        "latest": "2026-08-04"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -974,21 +974,37 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "2026년 7~8월 Pioneer 1&2 프로젝트는 EIS 스코핑 공개의견 수렴(ML26194A336·ML26194A337·ML26196A394·ML26202A017·ML26197A205·ML26204A420)과 함께 Holtec이 LWA 신청 보완서(굴착 지지벽 설치 면제 관련 지질 매핑 계획 추가, ML26204A398)를 제출하는 등 CP/LWA 심사가 환경검토·기술검토 양 트랙에서 동시에 활발히 진행 중이며, 직전 확인 시점 대비 EIS 스코핑 단계로 구체적으로 진전된 상태임.",
+        "comment": "2025년 12월 제출된 단계별 CP 신청(Pioneer 1&2, SMR-300)이 환경심사(EIS) RAI 발송, LWA 보충 신청, 공개 의견 수렴, 기술 토픽 보고서 일정 조정 등 복수의 병렬 트랙에서 활발히 진행 중이며, NRC와 Holtec 간 기술·환경 심사가 구체적인 마일스톤과 함께 실질적으로 진전되고 있다.",
         "evidence": [
-          "ML26204A420 | 2026-08-03 | 2026/07/21 - Comment (5) E-mail regarding Pioneer 1 & 2 EIS Scoping",
+          "ML26210A005 | 2026-08-04 | Enclosure - NRC Request for Additional Information/Confirmatory Inform",
+          "ML26210A004 | 2026-08-04 | NRC Letter to S. Mitchell, Holtec, Request for Additional Information ",
+          "ML26209A010 | 2026-08-04 | Email to Holtec Subject \"SMR-300 Time-Domain LS-DYNA Soil Structure In",
           "ML26204A398 | 2026-07-31 | Pioneer Units 1 and 2 - Supplement to Limited Work Authorization Appli",
-          "ML26196A394 | 2026-07-27 | 2026/07/15 - Comment (4) E-mail regarding Pioneer 1 & 2 EIS Scoping",
-          "ML26202A017 | 2026-07-23 | Comment (4) of Kevin Kamps on Palisades SMR, LLC; Pioneer Units 1 and ",
-          "ML26197A205 | 2026-07-23 | Comment (3) of TerryAnn Towers Saint Amand on Palisades SMR, LLC; Pion",
-          "ML26194A336 | 2026-07-23 | 2026/07/07 - Comment (2) E-mail regarding Pioneer 1 & 2 EIS Scoping",
-          "ML26194A337 | 2026-07-23 | 2026/07/06 - Comment (3) E-mail regarding Pioneer 1 & 2 EIS Scoping"
+          "ML26202A017 | 2026-07-23 | Comment (4) of Kevin Kamps on Palisades SMR, LLC; Pioneer Units 1 and "
         ]
       },
-      "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 3 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26210A005",
+            "date": "08/04",
+            "title": "Enclosure - NRC Request for Additional Information/Confirmatory …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26210A005%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26210A004",
+            "date": "08/04",
+            "title": "NRC Letter to S. Mitchell, Holtec, Request for Additional Inform…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26210A004%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26209A010",
+            "date": "08/04",
+            "title": "Email to Holtec Subject \"SMR-300 Time-Domain LS-DYNA Soil Struct…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26209A010%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26204A420",
             "date": "08/03",
@@ -1000,24 +1016,6 @@
             "date": "07/31",
             "title": "Pioneer Units 1 and 2 - Supplement to Limited Work Authorization…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26204A398%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26196A394",
-            "date": "07/27",
-            "title": "2026/07/15 - Comment (4) E-mail regarding Pioneer 1 & 2 EIS Scop…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A394%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26198A217",
-            "date": "07/27",
-            "title": "Email to S. Hanson, Holtec, Subject \"Response to Request for Cla…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26198A217%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26202A017",
-            "date": "07/23",
-            "title": "Comment (4) of Kevin Kamps on Palisades SMR, LLC; Pioneer Units …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26202A017%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1061,7 +1059,7 @@
         "status_tag": "ipo_pending",
         "form_d_round_count": null
       },
-      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nCP 신청(제목 추정)\nCP: ML26127A325 | 2026-06-15 11:35 | FRN_Palisades SMR, LLC; Pioneer Units 1 and 2; Phased Construction Permit Application; Lim\n\n최근 활동: 2026년 7~8월 Pioneer 1&2 프로젝트는 EIS 스코핑 공개의견 수렴(ML26194A336·ML26194A337·ML26196A394·ML26202A017·ML26197A205·ML26204A420)과 함께 Holtec이 LWA 신청 보완서(굴착 지지벽 설치 면제 관련 지질 매핑 계획 추가, ML26204A398)를 제출하는 등 CP/LWA 심사가 환경검토·기술검토 양 트랙에서 동시에 활발히 진행 중이며, 직전 확인 시점 대비 EIS 스코핑 단계로 구체적으로 진전된 상태임.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 1 [현재]"
+      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nCP 신청(제목 추정)\nCP: ML26127A325 | 2026-06-15 11:35 | FRN_Palisades SMR, LLC; Pioneer Units 1 and 2; Phased Construction Permit Application; Lim\n\n최근 활동: 2025년 12월 제출된 단계별 CP 신청(Pioneer 1&2, SMR-300)이 환경심사(EIS) RAI 발송, LWA 보충 신청, 공개 의견 수렴, 기술 토픽 보고서 일정 조정 등 복수의 병렬 트랙에서 활발히 진행 중이며, NRC와 Holtec 간 기술·환경 심사가 구체적인 마일스톤과 함께 실질적으로 진전되고 있다.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 3 [현재]"
     },
     {
       "id": "xenergy_xenith",
@@ -1482,10 +1480,10 @@
     {
       "id": "aalo_atomics_aalox",
       "name": "Aalo Atomics Aalo-X",
-      "total_docs": 42,
+      "total_docs": 46,
       "doc_date_range": {
         "earliest": "2024-07-11",
-        "latest": "2026-07-27"
+        "latest": "2026-08-07"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1501,47 +1499,48 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "Aalo Atomics는 2026년 7월 Texas A&M RELLIS 캠퍼스에 대한 조기부지허가(ESP) 신청 의향서를 제출하고(Q4 2026 신청, 2030년 상업운전 목표), PPE Topical Report 사전제출 논의 및 열스펙트럼 재료 도전과제(나트륨-흑연 상호작용) 회의를 연속 진행하는 등 사전신청 단계에서 인허가 경로(10 CFR Part 53)와 기술 현안 해소를 병행하며 활발히 전진하고 있음.",
+        "comment": "Aalo Atomics는 2026년 6~8월 사이 Aalo-1(30MWth 용융나트륨·흑연 열중성자 원자로) 관련 재료 도전과제 기술 논의, Texas A&M RELLIS 캠퍼스 ESP 추진 의향서 제출, ESP 방법론 백서(10 CFR Part 53 기반) 공식 제출, 그리고 PPE 토피컬 보고서 사전 제출 회의 예정 등 복수의 구체적 진전을 이루며 사전신청 단계에서 ESP 신청 준비 단계로 빠르게 전환 중인 것으로 평가됨.",
         "evidence": [
-          "ML26208A255 | 2026-07-27 | NRC Public Meeting with Aalo Atomics to discuss PPE Topical Report Pre",
+          "ML26212A185 | 2026-08-07 | Meeting Summary of the June 24 2026 Meeting with Aalo on Thermal Spect",
+          "ML26210A323 | 2026-08-06 | AALO Submittal of \"ESP Methodology White Paper,\" WP-AALO-2026-002, Rev",
           "ML26190A374 | 2026-07-17 | Letter of Intent to Pursue an Early Site Permit for an Aalo Reactor at",
-          "ML26175A267 | 2026-06-24 | Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026",
-          "ML26174A022 | 2026-06-23 | Aalo-1 Thermal Spectrum Materials Challenges- Public"
+          "ML26218A199 | 2026-08-06 | Pre-submittal Meeting with Aalo Atomics to discuss PPE Topical Report ",
+          "ML26208A255 | 2026-07-27 | NRC Public Meeting with Aalo Atomics to discuss PPE Topical Report Pre"
         ]
       },
-      "stage_signal_line": "사전신청 17 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 20 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26212A185",
+            "date": "08/07",
+            "title": "Meeting Summary of the June 24 2026 Meeting with Aalo on Thermal…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26212A185%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26218A199",
+            "date": "08/06",
+            "title": "Pre-submittal Meeting with Aalo Atomics to discuss PPE Topical R…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26218A199%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26210A323",
+            "date": "08/06",
+            "title": "AALO Submittal of \"ESP Methodology White Paper,\" WP-AALO-2026-00…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26210A323%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26217A260",
+            "date": "08/06",
+            "title": "Pre-submittal Meeting with Aalo Atomics to discuss PPE Topical R…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26217A260%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26208A255",
             "date": "07/27",
             "title": "NRC Public Meeting with Aalo Atomics to discuss PPE Topical Repo…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26208A255%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26190A374",
-            "date": "07/17",
-            "title": "Letter of Intent to Pursue an Early Site Permit for an Aalo Reac…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26190A374%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26175A267",
-            "date": "06/24",
-            "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26175A267%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26174A022",
-            "date": "06/23",
-            "title": "Aalo-1 Thermal Spectrum Materials Challenges- Public",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26174A022%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26166A042",
-            "date": "06/15",
-            "title": "Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26166A042%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1556,7 +1555,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Aalo Atomics는 2026년 7월 Texas A&M RELLIS 캠퍼스에 대한 조기부지허가(ESP) 신청 의향서를 제출하고(Q4 2026 신청, 2030년 상업운전 목표), PPE Topical Report 사전제출 논의 및 열스펙트럼 재료 도전과제(나트륨-흑연 상호작용) 회의를 연속 진행하는 등 사전신청 단계에서 인허가 경로(10 CFR Part 53)와 기술 현안 해소를 병행하며 활발히 전진하고 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 17 [현재]"
+      "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Aalo Atomics는 2026년 6~8월 사이 Aalo-1(30MWth 용융나트륨·흑연 열중성자 원자로) 관련 재료 도전과제 기술 논의, Texas A&M RELLIS 캠퍼스 ESP 추진 의향서 제출, ESP 방법론 백서(10 CFR Part 53 기반) 공식 제출, 그리고 PPE 토피컬 보고서 사전 제출 회의 예정 등 복수의 구체적 진전을 이루며 사전신청 단계에서 ESP 신청 준비 단계로 빠르게 전환 중인 것으로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 20 [현재]"
     },
     {
       "id": "antares_nuclear_mark0",
@@ -2380,10 +2379,10 @@
     {
       "id": "arc_clean_technology_arc100",
       "name": "ARC Clean Technology ARC-100",
-      "total_docs": 144,
+      "total_docs": 145,
       "doc_date_range": {
         "earliest": "2022-10-04",
-        "latest": "2026-07-30"
+        "latest": "2026-08-07"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -2397,20 +2396,25 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "ARC-100은 사전신청 단계에서 나트륨 화재 모델링, 기능적 격납, 전자기 펌프 등 핵심 기술 쟁점을 NRC와 활발히 논의 중이며, 2026년 6~7월에 규제 참여 계획 Rev.2 제출 및 10 CFR 50→53 전환 검토 슬라이드 공개 등 실질적 진전이 확인되어 프로젝트는 사전신청 단계 내에서 꾸준히 진행 중입니다.",
+        "comment": "ARC-100은 지진격리(3D 스프링 댐퍼 선형 거동, 격리장치 고장 시 구조 응답 등) 및 나트륨 화재 모델링, 기능적 격납, 전자기 펌프 등 복수의 기술 쟁점을 NRC와 활발히 논의 중이며, 주요 분석 결과를 2026년 9월 30일까지 제출 예정으로 사전신청 단계에서 실질적 기술 검토가 집중적으로 진행되고 있어 직전 상태 대비 뚜렷한 활동 심화가 확인됨.",
         "evidence": [
+          "ML26211A391 | 2026-08-07 | ARC Clean Technology, Inc. - Response to NRC feedback on Seismic Isola",
           "ML26203A154 | 2026-07-30 | Modeling Sodium Fires Backup Slides",
           "ML26121A130 | 2026-07-24 | 04/14/2026 Summary Of Partially Closed Meeting With Arc Clean Technolo",
-          "ML26197A263 | 2026-07-24 | Summary of the April 14, 2026, Partially Closed Meeting with ARC Clean",
           "ML26203A176 | 2026-07-23 | ARC Clean Technology, Regulatory Engagement Plan, Rev. 2, Slide Presen",
-          "ML26203A173 | 2026-07-23 | ARC Clean Technology, ARC-100 Advanced Small Modular Reactor, Transiti",
-          "ML26166A130 | 2026-06-24 | ARC Clean Technology Regulatory Engagement Meeting-June 22, 2026 - Mod"
+          "ML26203A173 | 2026-07-23 | ARC Clean Technology, ARC-100 Advanced Small Modular Reactor, Transiti"
         ]
       },
       "stage_signal_line": "사전신청 60 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26211A391",
+            "date": "08/07",
+            "title": "ARC Clean Technology, Inc. - Response to NRC feedback on Seismic…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26211A391%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26203A154",
             "date": "07/30",
@@ -2434,12 +2438,6 @@
             "date": "07/23",
             "title": "ARC Clean Technology, Regulatory Engagement Plan, Rev. 2, Slide …",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26203A176%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26203A173",
-            "date": "07/23",
-            "title": "ARC Clean Technology, ARC-100 Advanced Small Modular Reactor, Tr…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26203A173%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -2454,7 +2452,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "ARC Clean Technology ARC-100\n사전신청 단계\n절차: 의무 심리(uncontested hearing) 관련 문서 존재\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: ARC-100은 사전신청 단계에서 나트륨 화재 모델링, 기능적 격납, 전자기 펌프 등 핵심 기술 쟁점을 NRC와 활발히 논의 중이며, 2026년 6~7월에 규제 참여 계획 Rev.2 제출 및 10 CFR 50→53 전환 검토 슬라이드 공개 등 실질적 진전이 확인되어 프로젝트는 사전신청 단계 내에서 꾸준히 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 60 [현재]"
+      "kakao_summary": "ARC Clean Technology ARC-100\n사전신청 단계\n절차: 의무 심리(uncontested hearing) 관련 문서 존재\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: ARC-100은 지진격리(3D 스프링 댐퍼 선형 거동, 격리장치 고장 시 구조 응답 등) 및 나트륨 화재 모델링, 기능적 격납, 전자기 펌프 등 복수의 기술 쟁점을 NRC와 활발히 논의 중이며, 주요 분석 결과를 2026년 9월 30일까지 제출 예정으로 사전신청 단계에서 실질적 기술 검토가 집중적으로 진행되고 있어 직전 상태 대비 뚜렷한 활동 심화가 확인됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 60 [현재]"
     }
   ]
 }
