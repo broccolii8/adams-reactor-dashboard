@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-07T23:45:25Z",
+  "generated_at": "2026-11-01T23:01:13Z",
   "last_checked": "2026-08-07",
-  "total_docs": 16318,
+  "total_docs": 16530,
   "reactors": [
     {
       "id": "kairos_hermes",
       "name": "Kairos Hermes",
-      "total_docs": 1107,
+      "total_docs": 1108,
       "doc_date_range": {
         "earliest": "2018-03-29",
-        "latest": "2026-07-13"
+        "latest": "2026-09-01"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -29,20 +29,21 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "2026년 5월 CP 공사 완료 기한이 2026년 12월 31일에서 2029년 4월 30일로 연장(Amendment No.1)되었고, 2025년 12월 외부사건 설계기준 사전제출 회의에서 항공교통 위험 제외 및 설계기준 홍수 수위 상향(759.9→763.1ft msl) 등 기술 쟁점이 논의되는 등, 공사 일정 지연이 공식화되었으나 설계 심사 활동은 지속적으로 진행 중입니다.",
+        "comment": "최신 문서: 2026/08/25 Kairos Power Pre-App Doc - RE Topical Report Completeness Determination for KP- (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26085A078 | 2026-05-18 | Final FRN Hermes 1 Extension Order",
-          "ML26085A117 | 2026-05-13 | Final Amendment Hermes 1 CP to Extend Construction Completion",
-          "ML26085A103 | 2026-05-13 | Final Safety Evaluation to Amend Hermes 1 CP to Extend Construction Co",
-          "ML26085A080 | 2026-05-13 | Final Order Hermes 1 Extension of Construction Completion",
-          "ML26085A142 | 2026-05-13 | Attachment 1: Issuance of a Permit for the Construction of the Facilit",
-          "ML26190A376 | 2026-07-13 | 12/18/2025 Summary Of Pre-Submittal Meeting With Kairos On Hermes Exte"
+          "ML26237A284 | 2026-09-01"
         ]
       },
       "stage_signal_line": "사전신청 270 | 신청접수 53 | 기술검토 21 | 초안 SE 13 | 최종 7 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26237A284",
+            "date": "09/01",
+            "title": "2026/08/25 Kairos Power Pre-App Doc - RE Topical Report Complete…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26237A284%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26190A376",
             "date": "07/13",
@@ -66,12 +67,6 @@
             "date": "05/13",
             "title": "Final Amendment Hermes 1 CP to Extend Construction Completion",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26085A117%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26085A108",
-            "date": "05/13",
-            "title": "Final Transmittal Letter to Amend Hermes 1 CP to Extend Construc…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26085A108%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -86,15 +81,15 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Kairos Hermes\nCP 발급 / OL 발급(태그뿐 — 제목 확인 필요)\nCP: ML24030A842 | 2024-01-30 15:59 | CPAF50-07513 - Kairos Hermes Test Reactor Construction Permit - CPTR-6\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 5월 CP 공사 완료 기한이 2026년 12월 31일에서 2029년 4월 30일로 연장(Amendment No.1)되었고, 2025년 12월 외부사건 설계기준 사전제출 회의에서 항공교통 위험 제외 및 설계기준 홍수 수위 상향(759.9→763.1ft msl) 등 기술 쟁점이 논의되는 등, 공사 일정 지연이 공식화되었으나 설계 심사 활동은 지속적으로 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 270 | 신청접수 53 | 기술검토 21 | 초안 SE 13 | 최종 7 [현재]"
+      "kakao_summary": "Kairos Hermes\nCP 발급 / OL 발급(태그뿐 — 제목 확인 필요)\nCP: ML24030A842 | 2024-01-30 15:59 | CPAF50-07513 - Kairos Hermes Test Reactor Construction Permit - CPTR-6\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최신 문서: 2026/08/25 Kairos Power Pre-App Doc - RE Topical Report Completeness Determination for KP- (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 270 | 신청접수 53 | 기술검토 21 | 초안 SE 13 | 최종 7 [현재]"
     },
     {
       "id": "kairos_hermes2",
       "name": "Kairos Hermes 2",
-      "total_docs": 842,
+      "total_docs": 843,
       "doc_date_range": {
         "earliest": "2018-03-29",
-        "latest": "2026-05-06"
+        "latest": "2026-09-01"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -113,18 +108,21 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "2024년 8월 착수된 Hermes CP 조건 중 하나인 부지 지질 매핑 감사가 완료되어, NRC가 2026년 4월 27일 초안 감사보고서를 Kairos에 제공하고 4월 28일 비공개 정보 없음을 확인받았으며, Hermes 1 CP 기한 연장 EA/FONSI 발급 및 토픽 보고서 검증 완료 등 복수의 규제 활동이 병행 진행 중으로 프로젝트는 CP 조건 이행 단계에서 활발히 진행되고 있음.",
+        "comment": "최신 문서: 2026/08/25 Kairos Power Pre-App Doc - RE Topical Report Completeness Determination for KP- (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26119A912 | 2026-05-06 | 2026/04/29 Kairos Power Pre-App Doc - Kairos - Hermes Site Characteris",
-          "ML26117A087 | 2026-05-04 | 2026/04/27 Kairos Power Pre-App Doc - Kairos - Hermes Site Characteris",
-          "ML26085A071 | 2026-04-21 | FRN: Notice of Issuance of EA and FONSI for Hermes 1 Construction Exte",
-          "ML26078A073 | 2026-04-10 | NRC 896 -A Topical Report Verification (KP-TR-012-A, Rev 4)"
+          "ML26237A284 | 2026-09-01"
         ]
       },
       "stage_signal_line": "사전신청 233 | 신청접수 18 | 기술검토 9 | 초안 SE 0 | 최종 5 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26237A284",
+            "date": "09/01",
+            "title": "2026/08/25 Kairos Power Pre-App Doc - RE Topical Report Complete…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26237A284%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26119A913",
             "date": "05/06",
@@ -148,12 +146,6 @@
             "date": "04/21",
             "title": "FRN: Notice of Issuance of EA and FONSI for Hermes 1 Constructio…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26085A071%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26096A488",
-            "date": "04/14",
-            "title": "Kairos Power LLC, Request for NRC to Designate Kairos Power Revi…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26096A488%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -168,15 +160,15 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Kairos Hermes 2\nCP 발급\nCP: ML24352A112 | 2024-12-17 12:48 | CPAF50-00611 - Kairos Power Hermes 2 Test Reactor Unit 1 Construction Permit CPTR-7\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2024년 8월 착수된 Hermes CP 조건 중 하나인 부지 지질 매핑 감사가 완료되어, NRC가 2026년 4월 27일 초안 감사보고서를 Kairos에 제공하고 4월 28일 비공개 정보 없음을 확인받았으며, Hermes 1 CP 기한 연장 EA/FONSI 발급 및 토픽 보고서 검증 완료 등 복수의 규제 활동이 병행 진행 중으로 프로젝트는 CP 조건 이행 단계에서 활발히 진행되고 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 233 | 신청접수 18 | 기술검토 9 | 최종 5 [현재]"
+      "kakao_summary": "Kairos Hermes 2\nCP 발급\nCP: ML24352A112 | 2024-12-17 12:48 | CPAF50-00611 - Kairos Power Hermes 2 Test Reactor Unit 1 Construction Permit CPTR-7\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최신 문서: 2026/08/25 Kairos Power Pre-App Doc - RE Topical Report Completeness Determination for KP- (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 233 | 신청접수 18 | 기술검토 9 | 최종 5 [현재]"
     },
     {
       "id": "bwrx300_clinch_river",
       "name": "BWRX-300 / Clinch River Unit 1",
-      "total_docs": 5264,
+      "total_docs": 5273,
       "doc_date_range": {
         "earliest": "2017-01-12",
-        "latest": "2026-07-14"
+        "latest": "2026-09-29"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -184,59 +176,57 @@
       "track_labels_inferred": [],
       "track_caveat": null,
       "current_status": {
-        "headline": "ESP 발급 / CP 신청",
+        "headline": "ESP 발급 / CP 발급",
         "bullets": [
           "ESP: ML19189A228 | 2019-12-23 08:47 | Issuance of Early Site Permit for the Clinch River Nuclear Site Early Site Permit-006 to t",
-          "CP: ML26007A164 | 2026-04-13 13:33 | Clinch River Nuclear Site Construction Permit Application, Preliminary Safety Analysis Rep",
-          "SER 진행도: FSER 발급 완료, 건설허가(CP) 미발급 — 의무청문 절차 진행 중",
+          "CP: ML26243A056 | 2026-09-29 11:23 | Tennesee Valley Authority, Clinch River Nuclear Unit 1, Construction Permit CPAR-2.",
           "환경검토(EIS/EA): 최종 EIS 완료 — ML26125A411 | 2026-05-13 08:39 | EPA Comments on the Final Supplemental Environmental Impact Statement for a Construction P",
           "절차: 쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음"
         ],
-        "note_lines": []
+        "note_lines": [
+          "AI 교차검증 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\"))"
+        ]
       },
       "legal_note": "쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음",
       "recent_activity": {
-        "comment": "FSER 발행(ML26168A505, 2026-06-25) 이후 FRN 공고(ML26167A149)와 함께 2026-08-13 Oak Ridge에서 의무 청문회(Mandatory Hearing)가 확정·공지되었고, QA 이행 점검에서도 위반 사항이 없어(ML26187A365) CP 발급을 위한 절차가 매우 활발히 진행 중이며, 직전 상태 대비 청문회 단계 진입이라는 실질적이고 의미 있는 진전이 확인된다.",
+        "comment": "최신 문서: Tennesee Valley Authority, Clinch River Nuclear Unit 1, Construction Permit CPAR-2. (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26195A171 | 2026-07-14 | Mandatory Hearing for Tennessee Valley Authority's Construction Permit",
-          "ML26167A149 | 2026-07-07 | FRN - TVA CP Hearing Notice",
-          "ML26187A365 | 2026-07-13 | Nuclear Regulatory Commission Inspection Report Of Tennessee Valley Au",
-          "ML26168A505 | 2026-06-25 | FSER, TVA Construction Permit Application (Clinch River Nuclear Site, "
+          "ML26243A056 | 2026-09-29"
         ]
       },
-      "stage_signal_line": "사전신청 112 | 신청접수 14 | 기술검토 10 | 초안 SE 0 | 최종 15 [현재]",
+      "stage_signal_line": "사전신청 115 | 신청접수 14 | 기술검토 10 | 초안 SE 0 | 최종 16 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26195A171",
-            "date": "07/14",
-            "title": "Mandatory Hearing for Tennessee Valley Authority's Construction …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26195A171%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26243A056",
+            "date": "09/29",
+            "title": "Tennesee Valley Authority, Clinch River Nuclear Unit 1, Construc…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26243A056%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26187A365",
-            "date": "07/13",
-            "title": "Nuclear Regulatory Commission Inspection Report Of Tennessee Val…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26187A365%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26245A346",
+            "date": "09/29",
+            "title": "Clinch River Nuclear Site Unit 1 Construction Permit Record of D…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26245A346%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26167A149",
-            "date": "07/07",
-            "title": "FRN - TVA CP Hearing Notice",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26167A149%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26245A450",
+            "date": "09/29",
+            "title": "Tennessee Valley Authority - Issuance of Construction Permit for…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26245A450%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26168A505",
-            "date": "06/25",
-            "title": "FSER, TVA Construction Permit Application (Clinch River Nuclear …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26168A505%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26253A233",
+            "date": "09/14",
+            "title": "Browns Ferry, Clinch River, Sequoyah, and Watts Bar - Nuclear Qu…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26253A233%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26174A196",
-            "date": "06/23",
-            "title": "Browns Ferry, Units 1, 2, and 3; Clinch River; Sequoyah, Units 1…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26174A196%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26247A158",
+            "date": "09/08",
+            "title": "08/13/2026 Meeting Summary of Mandatory Hearing for Tennessee Va…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26247A158%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -287,15 +277,15 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "BWRX-300 / Clinch River Unit 1\nESP 발급 / CP 신청\nESP: ML19189A228 | 2019-12-23 08:47 | Issuance of Early Site Permit for the Clinch River Nuclear Site Early Site Permit-006 to t\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: FSER 발행(ML26168A505, 2026-06-25) 이후 FRN 공고(ML26167A149)와 함께 2026-08-13 Oak Ridge에서 의무 청문회(Mandatory Hearing)가 확정·공지되었고, QA 이행 점검에서도 위반 사항이 없어(ML26187A365) CP 발급을 위한 절차가 매우 활발히 진행 중이며, 직전 상태 대비 청문회 단계 진입이라는 실질적이고 의미 있는 진전이 확인된다.\n\n💰 자금조달: SEC 공시 기업 (Tennessee Valley Authority)\n📊 진척도: ⚠️ TVA는 커벌랜드 발전소 30년 리스-매입 계약 체결로 인프라 확장을 지속하고 있으나, 단기간 내 CEO 은퇴·퇴직 합의·임시 CEO 선임이 연속 발생해 리더십 불안정이 뚜렷한 경고 신호로 작용하고 있다.\n\n단계별 문서: 사전신청 112 | 신청접수 14 | 기술검토 10 | 최종 15 [현재]"
+      "kakao_summary": "BWRX-300 / Clinch River Unit 1\nESP 발급 / CP 발급\nESP: ML19189A228 | 2019-12-23 08:47 | Issuance of Early Site Permit for the Clinch River Nuclear Site Early Site Permit-006 to t\nAI 교차검증 사용 불가 — AI 호출/응답 파싱 실패: HTTP…\n\n최근 활동: 최신 문서: Tennesee Valley Authority, Clinch River Nuclear Unit 1, Construction Permit CPAR-2. (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: SEC 공시 기업\n📊 진척도: ⚠️ TVA는 커벌랜드 발전소 30년 리스-매입 계약 체결로 인프라 확장을 지속하고 있으나, 단기간 내 CEO 은퇴·퇴직 합의·임시 CEO 선임이 연속 발생해 리더십 불안정이 뚜렷한 경고 신호로 작용하고 있다.\n\n단계별 문서: 사전신청 115 | 신청접수 14 | 기술검토 10 | 최종 16 [현재]"
     },
     {
       "id": "bwrx300_aep_rockport",
       "name": "BWRX-300 / AEP Rockport (Indiana Michigan Power)",
-      "total_docs": 4,
+      "total_docs": 5,
       "doc_date_range": {
         "earliest": "2026-05-07",
-        "latest": "2026-07-07"
+        "latest": "2026-09-17"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -307,18 +297,21 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "AEP는 2026년 5월~7월 사이 NRC의 신청자 주도 환경영향평가(EIS) 파일럿 프로그램 참여를 공식 확정하고, 환경 문서 작성을 위해 Enercon을 외부 계약사로 선정·이해충돌 확인까지 완료하였으며, 규제참여 초기활동 계획도 제출(일부 비공개)하는 등 COLA 제출 전단계 환경검토 준비가 구체적으로 진행되고 있어 직전의 '단계 신호 없음' 상태에서 명확히 전진한 것으로 평가됨.",
+        "comment": "최신 문서: 2026/09/03 AEP ANPT Docs - FW Licensing Pathway Workshop (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26177A167 | 2026-07-07 | Response Letter to Acknowledgement of Interest in Applicant-Prepared N",
-          "ML26160A348 | 2026-06-18 | Advanced Nuclear Power Project Two, Acknowledgment of Interest in Appl",
-          "ML26119A910 | 2026-05-07 | Enclosure 1: Affidavit",
-          "ML26119A911 | 2026-05-07 | Enclosure 2: AEP-ND-2026-002: Regulatory Engagement Plant Initial Acti"
+          "ML26246A092 | 2026-09-17"
         ]
       },
       "stage_signal_line": "사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26246A092",
+            "date": "09/17",
+            "title": "2026/09/03 AEP ANPT Docs - FW Licensing Pathway Workshop",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26246A092%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26177A167",
             "date": "07/07",
@@ -392,15 +385,15 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "BWRX-300 / AEP Rockport (Indiana Michigan Power)\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: AEP는 2026년 5월~7월 사이 NRC의 신청자 주도 환경영향평가(EIS) 파일럿 프로그램 참여를 공식 확정하고, 환경 문서 작성을 위해 Enercon을 외부 계약사로 선정·이해충돌 확인까지 완료하였으며, 규제참여 초기활동 계획도 제출(일부 비공개)하는 등 COLA 제출 전단계 환경검토 준비가 구체적으로 진행되고 있어 직전의 '단계 신호 없음' 상태에서 명확히 전진한 것으로 평가됨.\n\n💰 자금조달: 상장사 (NYSE:AEP)\n📊 진척도: AEP는 2,354만 주 선도매도계약 체결, 수권주식 9억 주로 증가 등 적극적인 자본조달을 추진 중이며, 1분기 실적 공시도 정상적으로 이루어져 사업 진척은 안정적으로 평가된다. 다만 대규모 주식 희석 가능성은 기존 주주 관점에서 주의가 필요하다.\n\n단계별 문서: 진행 신호 없음"
+      "kakao_summary": "BWRX-300 / AEP Rockport (Indiana Michigan Power)\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: 최신 문서: 2026/09/03 AEP ANPT Docs - FW Licensing Pathway Workshop (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: 상장사 (NYSE:AEP)\n📊 진척도: AEP는 2,354만 주 선도매도계약 체결, 수권주식 9억 주로 증가 등 적극적인 자본조달을 추진 중이며, 1분기 실적 공시도 정상적으로 이루어져 사업 진척은 안정적으로 평가된다. 다만 대규모 주식 희석 가능성은 기존 주주 관점에서 주의가 필요하다.\n\n단계별 문서: 진행 신호 없음"
     },
     {
       "id": "terrapower_natrium_kemmerer",
       "name": "TerraPower Natrium / Kemmerer Unit 1",
-      "total_docs": 2105,
+      "total_docs": 2107,
       "doc_date_range": {
         "earliest": "2020-08-13",
-        "latest": "2026-07-30"
+        "latest": "2026-08-13"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -419,19 +412,27 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "TerraPower는 HALEU 연료 MC&A 규제 해석 요청(10 CFR 74.19), Type 1A 연료 자격 토피컬 보고서 보완 제출, 비상조치레벨 방법론 TR 제출 및 완전성 결정, 듀얼유닛 설계 감사계획 수립 등 운영허가 신청을 향한 다각적 기술·규제 활동이 활발히 진행 중이며, CP 발급 이후 OL 준비 단계로 실질적 진전이 확인된다.",
+        "comment": "최신 문서: Type 1A Fuel Email (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26203A216 | 2026-07-30 | TerraPower, LLC, Request For Regulatory Interpretation Of 10 CFR 74.19",
-          "ML26198A134 | 2026-07-22 | Replacement Files for Submittal of TerraPower, LLC, Topical Report, \"T",
-          "ML26162A207 | 2026-07-06 | Audit Plan - TerraPower -  Generic Dual Unit - NAT-21522",
-          "ML26149A339 | 2026-06-26 | NRC Form 898 - Completeness Determination for the TerraPower, LLC  \"Em",
-          "ML26149A292 | 2026-06-09 | TerraPower, LLC - Transmits NAT-22075, Rev. 0, \"Emergency Action Level"
+          "ML26210A331 | 2026-08-13"
         ]
       },
       "stage_signal_line": "사전신청 331 | 신청접수 6 | 기술검토 8 | 초안 SE 8 | 최종 3 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26210A331",
+            "date": "08/13",
+            "title": "Type 1A Fuel Email",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26210A331%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26210A314",
+            "date": "08/13",
+            "title": "Form 898 - Type 1A Addendum to Natrium Topical Report: Fuel and …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26210A314%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26203A216",
             "date": "07/30",
@@ -449,18 +450,6 @@
             "date": "07/06",
             "title": "Audit Plan - TerraPower -  Generic Dual Unit - NAT-21522",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26162A207%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26149A339",
-            "date": "06/26",
-            "title": "NRC Form 898 - Completeness Determination for the TerraPower, LL…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26149A339%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26140A305",
-            "date": "06/17",
-            "title": "Terrapower, LLC - Audit Plan for the Topical Report Nat-16856, \"…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26140A305%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -475,15 +464,15 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "TerraPower Natrium / Kemmerer Unit 1\nCP 발급\nCP: ML26034C169 | 2026-03-09 10:41 | US SFR Owner LLC - Summary Record of Decision\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: TerraPower는 HALEU 연료 MC&A 규제 해석 요청(10 CFR 74.19), Type 1A 연료 자격 토피컬 보고서 보완 제출, 비상조치레벨 방법론 TR 제출 및 완전성 결정, 듀얼유닛 설계 감사계획 수립 등 운영허가 신청을 향한 다각적 기술·규제 활동이 활발히 진행 중이며, CP 발급 이후 OL 준비 단계로 실질적 진전이 확인된다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 331 | 신청접수 6 | 기술검토 8 | 초안 SE 8 | 최종 3 [현재]"
+      "kakao_summary": "TerraPower Natrium / Kemmerer Unit 1\nCP 발급\nCP: ML26034C169 | 2026-03-09 10:41 | US SFR Owner LLC - Summary Record of Decision\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최신 문서: Type 1A Fuel Email (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 331 | 신청접수 6 | 기술검토 8 | 초안 SE 8 | 최종 3 [현재]"
     },
     {
       "id": "xenergy_xe100",
       "name": "X-energy Xe-100",
-      "total_docs": 1676,
+      "total_docs": 1713,
       "doc_date_range": {
         "earliest": "2018-11-21",
-        "latest": "2026-08-07"
+        "latest": "2026-09-25"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -504,47 +493,44 @@
       },
       "legal_note": "쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음",
       "recent_activity": {
-        "comment": "Long Mott 발전소 CP 허가 절차에서 재정자격 관련 Contention 3A·3B가 LME의 CPA 보충 후 모두 무효(moot) 처리되어 Commission이 LME의 항소도 모두 기각했으나, Waterkeeper가 이에 불복해 Commission에 재심청구를 제기하고 새 Contention 3C·6 관련 쟁점도 추가로 다투는 등 인터베너 법적 분쟁이 활발히 지속되고 있어 CP 발급까지는 규제 절차 지연이 예상됨.",
+        "comment": "최신 문서: Confirmatory Information Regarding 95th Percentile Consequences for the Long Mott Generati (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26219A174 | 2026-08-07 | Commission Memorandum and Order (CLI-26-10)",
-          "ML26215A495 | 2026-08-04 | Redacted San Antonio Bay Estuarine Waterkeeper's Petition for Review",
-          "ML26211A352 | 2026-07-30 | Memorandum and Order (Denying Motion to File New Contention 3C and Ter",
-          "ML26211A346 | 2026-07-30 | Memorandum and Order (Denying Motion to Amend Contention 3B and Granti"
+          "ML26260C204 | 2026-09-25"
         ]
       },
-      "stage_signal_line": "사전신청 285 | 신청접수 19 | 기술검토 5 [현재] | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 291 | 신청접수 21 | 기술검토 8 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26219A174",
-            "date": "08/07",
-            "title": "Commission Memorandum and Order (CLI-26-10)",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26219A174%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26260C204",
+            "date": "09/25",
+            "title": "Confirmatory Information Regarding 95th Percentile Consequences …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26260C204%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26215A495",
-            "date": "08/04",
-            "title": "Redacted San Antonio Bay Estuarine Waterkeeper's Petition for Re…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26215A495%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26253A123",
+            "date": "09/24",
+            "title": "2026/09/10 Project Long Mott Docs - RE Submittal of documentatio…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26253A123%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26215A403",
-            "date": "08/04",
-            "title": "Notice of Appearance for Amanda K. Leatherman",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26215A403%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26261A427",
+            "date": "09/22",
+            "title": "Long Mott Energy, LLC, Rev. 1, Construction Permit Application, …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26261A427%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26212A422",
-            "date": "07/31",
-            "title": "Notice of Withdrawal for Sherwin E. Turk",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26212A422%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26261A428",
+            "date": "09/22",
+            "title": "Long Mott Energy, LLC, Rev. 1, Construction Permit Application, …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26261A428%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26211A387",
-            "date": "07/31",
-            "title": "Termination of Possession Declaration of Gwyneth Lonergan",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26211A387%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26261A420",
+            "date": "09/22",
+            "title": "Submittal of Revision 1 to the Long Mott Energy, LLC, Constructi…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26261A420%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -595,22 +581,23 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "X-energy Xe-100\nCP 신청\nCP: ML25090A058 | 2025-04-28 09:43 | Long Mott Energy, LLC, Submittal of Construction Permit Application for Long Mott Generati\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: Long Mott 발전소 CP 허가 절차에서 재정자격 관련 Contention 3A·3B가 LME의 CPA 보충 후 모두 무효(moot) 처리되어 Commission이 LME의 항소도 모두 기각했으나, Waterkeeper가 이에 불복해 Commission에 재심청구를 제기하고 새 Contention 3C·6 관련 쟁점도 추가로 다투는 등 인터베너 법적 분쟁이 활발히 지속되고 있어 CP 발급까지는 규제 절차 지연이 예상됨.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주)를 완료해 자금조달을 성공적으로 마쳤으며, 1분기 실적 공시와 투자자 프레젠테이션 등 상장 후 공시 활동도 정상적으로 진행되고 있어 전반적인 사업 진척은 양호한 편이나, 락업 조기 해제 일정 공개는 주가 압박 요인으로 주시가 필요합니다.\n\n단계별 문서: 사전신청 285 | 신청접수 19 | 기술검토 5 [현재]"
+      "kakao_summary": "X-energy Xe-100\nCP 신청\nCP: ML25090A058 | 2025-04-28 09:43 | Long Mott Energy, LLC, Submittal of Construction Permit Application for Long Mott Generati\n쟁송형(contes…\n\n최근 활동: 최신 문서: Confirmatory Information Regarding 95th Percentile Consequences for the Long Mott Generati (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: 상장사\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주)를 완료해 자금조달을 성공적으로 마쳤으며, 1분기 실적 공시와 투자자 프레젠테이션 등 상장 후 공시 활동도 정상적으로 진행되고 있어 전반적인 사업 진척은 양호한 편이나, 락업 조기 해제 일정 공개는 주가 압박 요인으로 주시가 필요합니다.\n\n단계별 문서: 사전신청 291 | 신청접수 21 | 기술검토 8 [현재]"
     },
     {
       "id": "nuscale_us460",
       "name": "NuScale US460 SDA",
-      "total_docs": 1206,
+      "total_docs": 1211,
       "doc_date_range": {
         "earliest": "2019-09-19",
-        "latest": "2026-08-07"
+        "latest": "2026-08-27"
       },
       "track_labels": [
-        "Part 52 (COL)",
-        "설계인증(DC)"
+        "Part 52 (COL)"
       ],
-      "track_labels_inferred": [],
-      "track_caveat": "SDA 전용 태그가 없어 DC/COL 문서군에 함께 표시됨 — 실제 신청 유형은 문서 제목으로 확인 필요.",
+      "track_labels_inferred": [
+        "Part 52 (COL)"
+      ],
+      "track_caveat": "Part 52 (COL)는 명시적 문서 태그가 아니라 시설 도켓 번호 형식으로 추정된 트랙.",
       "current_status": {
         "headline": "SDA 발급",
         "bullets": [
@@ -620,46 +607,44 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "2026년 7월 비상사건분류체계(TR-182845)와 비상대응조직(TR-183101) 두 토피컬 리포트가 각각 NRC 최종 안전평가(SER)를 통과·승인되어 승인본(TR-182845-A Rev.1, TR-183101-A Rev.0)이 제출 완료됨으로써, 비상계획 관련 핵심 규제 이슈가 일괄 해소되는 의미 있는 진전이 있었으며 프로젝트는 활발히 진행 중임.",
+        "comment": "최신 문서: Audit Summary for NuScale Emergency Planning Topical Reports (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26210A346 | 2026-08-07 | NuScale Power, LLC - Submittal of the Approved Version of NuScale Topi",
-          "ML26211A382 | 2026-08-07 | NuScale Power, LLC - Submittal of the Approved Version of NuScale Topi",
-          "ML26190A134 | 2026-07-15 | NuScale Power, LLC - Submittal of Topical Report entitled, \"Emergency "
+          "ML26190A228 | 2026-08-27"
         ]
       },
-      "stage_signal_line": "사전신청 455 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]",
+      "stage_signal_line": "사전신청 458 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26210A346",
-            "date": "08/07",
-            "title": "NuScale Power, LLC - Submittal of the Approved Version of NuScal…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26210A346%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26190A228",
+            "date": "08/27",
+            "title": "Audit Summary for NuScale Emergency Planning Topical Reports",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26190A228%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26211A382",
-            "date": "08/07",
-            "title": "NuScale Power, LLC - Submittal of the Approved Version of NuScal…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26211A382%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26214A004",
+            "date": "08/14",
+            "title": "NRC Form 896 for -A Version Verification for NuScale TR-183101, …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26214A004%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26190A134",
-            "date": "07/15",
-            "title": "NuScale Power, LLC - Submittal of Topical Report entitled, \"Emer…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26190A134%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26215A008",
+            "date": "08/14",
+            "title": "Email Transmitting -A Topical Report Verification - NuScale EECS…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26215A008%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26177A241",
-            "date": "07/10",
-            "title": "2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale EECS…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26177A241%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26214A003",
+            "date": "08/14",
+            "title": "Email Transmitting -A Topical Report Verification - NuScale ERO …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26214A003%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26177A240",
-            "date": "07/10",
-            "title": "2026/06/26 NuScale NPM-20 - FW Revised Schedule for NuScale ERO …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26177A240%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26215A009",
+            "date": "08/10",
+            "title": "NRC Form 896 for -A Version Verification of NuScale Topical Repo…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26215A009%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -710,15 +695,15 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "NuScale US460 SDA\nSDA 발급\nSDA: ML25129A004 | 2025-05-29 10:31 | Standard Design Approval SDA for the NuScale US460 Power Plant Design\n\n최근 활동: 2026년 7월 비상사건분류체계(TR-182845)와 비상대응조직(TR-183101) 두 토피컬 리포트가 각각 NRC 최종 안전평가(SER)를 통과·승인되어 승인본(TR-182845-A Rev.1, TR-183101-A Rev.0)이 제출 완료됨으로써, 비상계획 관련 핵심 규제 이슈가 일괄 해소되는 의미 있는 진전이 있었으며 프로젝트는 활발히 진행 중임.\n\n💰 자금조달: 상장사 (NYSE:SMR)\n📊 진척도: 최근 공시는 정기 주총, 분기 실적 발표 등 일상적 공시에 그치며 신규 계약·파트너십·자금조달 등 사업 진척을 나타내는 이벤트가 없어 뚜렷한 성장 모멘텀이 확인되지 않는다.\n\n단계별 문서: 사전신청 455 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
+      "kakao_summary": "NuScale US460 SDA\nSDA 발급\nSDA: ML25129A004 | 2025-05-29 10:31 | Standard Design Approval SDA for the NuScale US460 Power Plant Design\n\n최근 활동: 최신 문서: Audit Summary for NuScale Emergency Planning Topical Reports (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: 상장사 (NYSE:SMR)\n📊 진척도: 최근 공시는 정기 주총, 분기 실적 발표 등 일상적 공시에 그치며 신규 계약·파트너십·자금조달 등 사업 진척을 나타내는 이벤트가 없어 뚜렷한 성장 모멘텀이 확인되지 않는다.\n\n단계별 문서: 사전신청 458 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
     },
     {
       "id": "oklo_aurora",
       "name": "Oklo Aurora Powerhouse",
-      "total_docs": 509,
+      "total_docs": 515,
       "doc_date_range": {
         "earliest": "2018-02-27",
-        "latest": "2026-07-31"
+        "latest": "2026-09-21"
       },
       "track_labels": [
         "Part 52 (COL)"
@@ -740,47 +725,44 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "Oklo는 2026년 7월 20일 Aurora 원자로 품질보증 프로그램 주제보고서(AUR-PDD-001)를 제출했고, NRC는 7월 28일 완전성 심사를 통과시켜 상세 기술심사를 개시했으며 초안 안전평가 2027년 4월, 최종 2027년 5월 완료 예정(심사시간 800시간)을 제시했다. 직전 상태인 COL 신청 거부 이후 별도 주제보고서 경로로 전환해 적극적으로 진행 중이나, NRC가 10 CFR Part 21, 상업등급 헌신, 비안전등급 SSC 품질보증 등 여러 기술적 쟁점을 예고해 RAI 및 잠재적 ACRS 심사로 인한 일정 변동 가능성이 존재한다.",
+        "comment": "최신 문서: Expectations Regarding Construction Activities Associated with the Proposed OKLO, IN. Auro (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26204A299 | 2026-07-31 | NRC Form 898 - Completeness Determination - Oklo Inc. Topical Report A",
-          "ML26204A298 | 2026-07-31 | Transmittal Email for Completeness Determination - Oklo Inc. Topical R",
-          "ML26197A290 | 2026-07-29 | Email - NRC Form 897 - Request for Withholding from Public Disclosure ",
-          "ML26179A003 | 2026-07-20 | Submittal of Oklo, Inc. - \"Nuclear Quality Assurance Program (N-QAP) f"
+          "ML26259A330 | 2026-09-21"
         ]
       },
-      "stage_signal_line": "사전신청 165 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]",
+      "stage_signal_line": "사전신청 168 | 신청접수 2 | 기술검토 16 | 초안 SE 0 | 최종 1 [확인 불가]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26204A299",
-            "date": "07/31",
-            "title": "NRC Form 898 - Completeness Determination - Oklo Inc. Topical Re…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26204A299%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26259A330",
+            "date": "09/21",
+            "title": "Expectations Regarding Construction Activities Associated with t…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26259A330%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26204A298",
-            "date": "07/31",
-            "title": "Transmittal Email for Completeness Determination - Oklo Inc. Top…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26204A298%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26236A323",
+            "date": "09/15",
+            "title": "07/30/2026 Summary Of Partially Closed Public Meeting To Discuss…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26236A323%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26197A290",
-            "date": "07/29",
-            "title": "Email - NRC Form 897 - Request for Withholding from Public Discl…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26197A290%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26232A227",
+            "date": "09/01",
+            "title": "Enclosure 3: Affidavit and Request for Withholding",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26232A227%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26197A291",
-            "date": "07/29",
-            "title": "NRC Form 897 - Request for Withholding from Public Disclosure - …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26197A291%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26232A224",
+            "date": "09/01",
+            "title": "Oklo, Inc. - Transmittal of Meeting Materials for the July 30, 2…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26232A224%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26181A395",
-            "date": "07/27",
-            "title": "05/19/2026 Summary of Partially Closed Meeting with Oklo to Disc…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26181A395%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26232A226",
+            "date": "09/01",
+            "title": "Enclosure 2: Aurora Fuel Qualification Slides (Public)",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26232A226%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -831,7 +813,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Oklo Aurora Powerhouse\n기존 신청 거부\nCOL 신청이 거부되었으며, 면허 발급 이력 없음\n⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Oklo는 2026년 7월 20일 Aurora 원자로 품질보증 프로그램 주제보고서(AUR-PDD-001)를 제출했고, NRC는 7월 28일 완전성 심사를 통과시켜 상세 기술심사를 개시했으며 초안 안전평가 2027년 4월, 최종 2027년 5월 완료 예정(심사시간 800시간)을 제시했다. 직전 상태인 COL 신청 거부 이후 별도 주제보고서 경로로 전환해 적극적으로 진행 중이나, NRC가 10 CFR Part 21, 상업등급 헌신, 비안전등급 SSC 품질보증 등 여러 기술적 쟁점을 예고해 RAI 및 잠재적 ACRS 심사로 인한 일정 변동 가능성이 존재한다.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모 ATM 프로그램 개시로 자금조달 여력을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부통제 측면에서 경미한 우려 신호로 볼 수 있어 전반적으로 중립적 진척 수준이다.\n\n단계별 문서: 사전신청 165 | 신청접수 2 | 기술검토 16 | 최종 1 [확인 불가]"
+      "kakao_summary": "Oklo Aurora Powerhouse\n기존 신청 거부\nCOL 신청이 거부되었으며, 면허 발급 이력 없음\n⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최신 문서: Expectations Regarding Construction Activities Associated with the Proposed OKLO, IN. Auro (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모 ATM 프로그램 개시로 자금조달 여력을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부통제 측면에서 경미한 우려 신호로 볼 수 있어 전반적으로 중립적 진척 수준이다.\n\n단계별 문서: 사전신청 168 | 신청접수 2 | 기술검토 16 | 최종 1 [확인 불가]"
     },
     {
       "id": "atomic_alchemy_meitner1",
@@ -951,10 +933,10 @@
     {
       "id": "holtec_smr160",
       "name": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)",
-      "total_docs": 937,
+      "total_docs": 1007,
       "doc_date_range": {
         "earliest": "2020-09-28",
-        "latest": "2026-08-04"
+        "latest": "2026-09-29"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -968,54 +950,50 @@
         "bullets": [
           "CP: ML26127A325 | 2026-06-15 11:35 | FRN_Palisades SMR, LLC; Pioneer Units 1 and 2; Phased Construction Permit Application; Lim",
           "SER 진행도: NRC 기술검토 중",
-          "환경검토(EIS/EA): 스코핑 착수 — ML26202A017 | 2026-07-23 08:27 | Comment (4) of Kevin Kamps on Palisades SMR, LLC; Pioneer Units 1 and 2; Phased Constructi"
+          "환경검토(EIS/EA): EA/FONSI 완료 (경량 트랙 — 전체 EIS 불필요 결론) — ML26245A463 | 2026-09-11 08:36 | Notification of the Issuance of Environmental Assessment And Finding of No Significant Imp"
         ],
         "note_lines": []
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "2025년 12월 제출된 단계별 CP 신청(Pioneer 1&2, SMR-300)이 환경심사(EIS) RAI 발송, LWA 보충 신청, 공개 의견 수렴, 기술 토픽 보고서 일정 조정 등 복수의 병렬 트랙에서 활발히 진행 중이며, NRC와 Holtec 간 기술·환경 심사가 구체적인 마일스톤과 함께 실질적으로 진전되고 있다.",
+        "comment": "최신 문서: Letter to Holtec Subject \"U.S. Nuclear Regulatory Commission Establishing Fixed Fee Cap fo (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26210A005 | 2026-08-04 | Enclosure - NRC Request for Additional Information/Confirmatory Inform",
-          "ML26210A004 | 2026-08-04 | NRC Letter to S. Mitchell, Holtec, Request for Additional Information ",
-          "ML26209A010 | 2026-08-04 | Email to Holtec Subject \"SMR-300 Time-Domain LS-DYNA Soil Structure In",
-          "ML26204A398 | 2026-07-31 | Pioneer Units 1 and 2 - Supplement to Limited Work Authorization Appli",
-          "ML26202A017 | 2026-07-23 | Comment (4) of Kevin Kamps on Palisades SMR, LLC; Pioneer Units 1 and "
+          "ML26266A012 | 2026-09-29"
         ]
       },
-      "stage_signal_line": "사전신청 360 | 신청접수 0 | 기술검토 3 [현재] | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 364 | 신청접수 0 | 기술검토 7 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26210A005",
-            "date": "08/04",
-            "title": "Enclosure - NRC Request for Additional Information/Confirmatory …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26210A005%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26266A012",
+            "date": "09/29",
+            "title": "Letter to Holtec Subject \"U.S. Nuclear Regulatory Commission Est…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26266A012%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26210A004",
-            "date": "08/04",
-            "title": "NRC Letter to S. Mitchell, Holtec, Request for Additional Inform…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26210A004%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26261A435",
+            "date": "09/28",
+            "title": "Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Info…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26261A435%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26209A010",
-            "date": "08/04",
-            "title": "Email to Holtec Subject \"SMR-300 Time-Domain LS-DYNA Soil Struct…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26209A010%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26261A432",
+            "date": "09/28",
+            "title": "Holtec International - Submittal of the SMR-300 Time-Domain LS-D…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26261A432%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26204A420",
-            "date": "08/03",
-            "title": "2026/07/21 - Comment (5) E-mail regarding Pioneer 1 & 2 EIS Scop…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26204A420%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26264A265",
+            "date": "09/28",
+            "title": "Enclosure 2: SSI LTR Audit Question Responses for Docketing (Non…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26264A265%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26204A398",
-            "date": "07/31",
-            "title": "Pioneer Units 1 and 2 - Supplement to Limited Work Authorization…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26204A398%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26266A034",
+            "date": "09/28",
+            "title": "Email to Holtec Subject \"SMR-300 CSS Structures LTR - Schedule a…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26266A034%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1059,15 +1037,15 @@
         "status_tag": "ipo_pending",
         "form_d_round_count": null
       },
-      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nCP 신청(제목 추정)\nCP: ML26127A325 | 2026-06-15 11:35 | FRN_Palisades SMR, LLC; Pioneer Units 1 and 2; Phased Construction Permit Application; Lim\n\n최근 활동: 2025년 12월 제출된 단계별 CP 신청(Pioneer 1&2, SMR-300)이 환경심사(EIS) RAI 발송, LWA 보충 신청, 공개 의견 수렴, 기술 토픽 보고서 일정 조정 등 복수의 병렬 트랙에서 활발히 진행 중이며, NRC와 Holtec 간 기술·환경 심사가 구체적인 마일스톤과 함께 실질적으로 진전되고 있다.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 360 | 기술검토 3 [현재]"
+      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nCP 신청(제목 추정)\nCP: ML26127A325 | 2026-06-15 11:35 | FRN_Palisades SMR, LLC; Pioneer Units 1 and 2; Phased Construction Permit Application; Lim\n\n최근 활동: 최신 문서: Letter to Holtec Subject \"U.S. Nuclear Regulatory Commission Establishing Fixed Fee Cap fo (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 364 | 기술검토 7 [현재]"
     },
     {
       "id": "xenergy_xenith",
       "name": "X-energy XENITH",
-      "total_docs": 69,
+      "total_docs": 70,
       "doc_date_range": {
         "earliest": "2023-11-20",
-        "latest": "2026-07-24"
+        "latest": "2026-09-30"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1079,18 +1057,21 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "2026년 7월 X-energy는 XENITH 마이크로원자로 관련 핵심 라이선싱 토피컬 보고서 3종(주요설계기준 Rev.5, 분석방법론 Rev.3, 선원항 Rev.2)을 NRC에 제출하였으며, NRC는 2026-07-24 이 모두에 대해 10 CFR 2.390에 따른 영업비밀 비공개 요청을 승인함으로써 사전신청 단계에서 토피컬 보고서 심사 단계로 진입이 확인되어 프로젝트가 활발히 진행 중임을 보여줌.",
+        "comment": "최신 문서: Resumption of X-Energy, LLC, XENITHtm Microreactor Licensing Topical Report Reviews (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26196A319 | 2026-07-24 | MRA-00-412-RPT-2000526, Revision 3, \"XENITH Microreactor Analytical Me",
-          "ML26198A113 | 2026-07-24 | MRA-00-220-RPT-2000582, Rev. 2, \"XENITH Parametric Source Term Topical",
-          "ML26196A380 | 2026-07-24 | MRA-00-200-RPT-2000520, Revision 5, \"XENITH Principal Design Criteria ",
-          "ML26181A206 | 2026-07-09 | Submittal of X Energy, LLC (X-energy) XENITH Topical Report, Analytica"
+          "ML26265A317 | 2026-09-30"
         ]
       },
       "stage_signal_line": "사전신청 15 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26265A317",
+            "date": "09/30",
+            "title": "Resumption of X-Energy, LLC, XENITHtm Microreactor Licensing Top…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26265A317%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26196A319",
             "date": "07/24",
@@ -1114,12 +1095,6 @@
             "date": "07/24",
             "title": "Email Submitting Withholding Determination for, \"X-Energy LLC Su…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26198A109%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26196A308",
-            "date": "07/24",
-            "title": "Email Submitting Withholding Determination for, \"X-Energy LLC Su…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A308%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1170,7 +1145,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "X-energy XENITH\n사전신청 단계\n\n최근 활동: 2026년 7월 X-energy는 XENITH 마이크로원자로 관련 핵심 라이선싱 토피컬 보고서 3종(주요설계기준 Rev.5, 분석방법론 Rev.3, 선원항 Rev.2)을 NRC에 제출하였으며, NRC는 2026-07-24 이 모두에 대해 10 CFR 2.390에 따른 영업비밀 비공개 요청을 승인함으로써 사전신청 단계에서 토피컬 보고서 심사 단계로 진입이 확인되어 프로젝트가 활발히 진행 중임을 보여줌.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 완료하며 자금조달에 성공했고, 이후 분기 실적 공시와 투자자 프레젠테이션을 통해 사업 진척을 꾸준히 공개하고 있으나, 락업 조기 해제 일정 공개는 주가 희석 압력으로 작용할 수 있어 주의가 필요하다.\n\n단계별 문서: 사전신청 15 [현재]"
+      "kakao_summary": "X-energy XENITH\n사전신청 단계\n\n최근 활동: 최신 문서: Resumption of X-Energy, LLC, XENITHtm Microreactor Licensing Topical Report Reviews (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 완료하며 자금조달에 성공했고, 이후 분기 실적 공시와 투자자 프레젠테이션을 통해 사업 진척을 꾸준히 공개하고 있으나, 락업 조기 해제 일정 공개는 주가 희석 압력으로 작용할 수 있어 주의가 필요하다.\n\n단계별 문서: 사전신청 15 [현재]"
     },
     {
       "id": "xenergy_trisox",
@@ -1366,10 +1341,10 @@
     {
       "id": "oklo_fuel_recycling",
       "name": "Oklo Fuel Recycling Facility (Advanced Fuel Center)",
-      "total_docs": 132,
+      "total_docs": 134,
       "doc_date_range": {
         "earliest": "2022-12-30",
-        "latest": "2026-07-23"
+        "latest": "2026-08-20"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1381,21 +1356,27 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "Oklo는 테네시주 오크리지 전기화학 재처리시설에 대해 NRC와 사전인허가 협의를 활발히 진행 중으로, 허가신청서 초안 챕터 1 검토 피드백(4월), 물리보안 회의 요약(1월), 부지선정(구조·지진·지질·수문) 관련 비공개 회의(7월 20·29일)까지 다수의 기술 분야 논의가 이어지고 있어 직전 '미확인' 상태 대비 뚜렷하게 진전된 사전신청 단계가 확인된다.",
+        "comment": "최신 문서: Enclosure 4: Affidavit (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26204A329 | 2026-07-23 | Oklo Pre-Licensing Engagement to Discuss Siting Requirements for a Rep",
-          "ML26190A383 | 2026-07-10 | Oklo Pre-Licensing Engagement to Discuss Siting Requirements for a Rep",
-          "ML26110A103 | 2026-04-24 | E-mail Forwarding Draft Observations (Public)",
-          "ML26110A104 | 2026-04-24 | NRC-Oklo Signed Portal Agreement (Public)",
-          "ML26107A254 | 2026-04-17 | 04/21/2026 Pre-Application Engagement for Feedback on Oklo Fuel Reproc",
-          "ML26070A133 | 2026-04-16 | 01/22/2026 Summary Pre-Application Meeting With Oklo, Inc., to Discuss",
-          "ML26058A468 | 2026-04-01 | 1.  Memorandum For Summary Of December 18, 2025, Pre-Licensing Meeting"
+          "ML26231A184 | 2026-08-20"
         ]
       },
       "stage_signal_line": "사전신청 28 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26231A184",
+            "date": "08/20",
+            "title": "Enclosure 4: Affidavit",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26231A184%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26231A183",
+            "date": "08/20",
+            "title": "Oklo Inc. - Transmittal of Presentation Slides and supporting in…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26231A183%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26204A329",
             "date": "07/23",
@@ -1413,18 +1394,6 @@
             "date": "04/24",
             "title": "E-mail Forwarding Draft Observations (Public)",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26110A103%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26110A104",
-            "date": "04/24",
-            "title": "NRC-Oklo Signed Portal Agreement (Public)",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26110A104%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26107A254",
-            "date": "04/17",
-            "title": "04/21/2026 Pre-Application Engagement for Feedback on Oklo Fuel …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26107A254%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1475,15 +1444,15 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Oklo Fuel Recycling Facility (Advanced Fuel Center)\n사전신청 단계\n\n최근 활동: Oklo는 테네시주 오크리지 전기화학 재처리시설에 대해 NRC와 사전인허가 협의를 활발히 진행 중으로, 허가신청서 초안 챕터 1 검토 피드백(4월), 물리보안 회의 요약(1월), 부지선정(구조·지진·지질·수문) 관련 비공개 회의(7월 20·29일)까지 다수의 기술 분야 논의가 이어지고 있어 직전 '미확인' 상태 대비 뚜렷하게 진전된 사전신청 단계가 확인된다.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부 통제 취약성을 시사하는 경고 신호로 주목할 필요가 있다.\n\n단계별 문서: 사전신청 28 [현재]"
+      "kakao_summary": "Oklo Fuel Recycling Facility (Advanced Fuel Center)\n사전신청 단계\n\n최근 활동: 최신 문서: Enclosure 4: Affidavit (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부 통제 취약성을 시사하는 경고 신호로 주목할 필요가 있다.\n\n단계별 문서: 사전신청 28 [현재]"
     },
     {
       "id": "aalo_atomics_aalox",
       "name": "Aalo Atomics Aalo-X",
-      "total_docs": 46,
+      "total_docs": 51,
       "doc_date_range": {
         "earliest": "2024-07-11",
-        "latest": "2026-08-07"
+        "latest": "2026-09-23"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1499,13 +1468,9 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "Aalo Atomics는 2026년 6~8월 사이 Aalo-1(30MWth 용융나트륨·흑연 열중성자 원자로) 관련 재료 도전과제 기술 논의, Texas A&M RELLIS 캠퍼스 ESP 추진 의향서 제출, ESP 방법론 백서(10 CFR Part 53 기반) 공식 제출, 그리고 PPE 토피컬 보고서 사전 제출 회의 예정 등 복수의 구체적 진전을 이루며 사전신청 단계에서 ESP 신청 준비 단계로 빠르게 전환 중인 것으로 평가됨.",
+        "comment": "최신 문서: Submittal of \"Regulatory Engagement Plan for the Aalo R-COLA,\" PLN-AALO-2026-008, Revision (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26212A185 | 2026-08-07 | Meeting Summary of the June 24 2026 Meeting with Aalo on Thermal Spect",
-          "ML26210A323 | 2026-08-06 | AALO Submittal of \"ESP Methodology White Paper,\" WP-AALO-2026-002, Rev",
-          "ML26190A374 | 2026-07-17 | Letter of Intent to Pursue an Early Site Permit for an Aalo Reactor at",
-          "ML26218A199 | 2026-08-06 | Pre-submittal Meeting with Aalo Atomics to discuss PPE Topical Report ",
-          "ML26208A255 | 2026-07-27 | NRC Public Meeting with Aalo Atomics to discuss PPE Topical Report Pre"
+          "ML26258A190 | 2026-09-23"
         ]
       },
       "stage_signal_line": "사전신청 20 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
@@ -1513,34 +1478,34 @@
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26212A185",
-            "date": "08/07",
-            "title": "Meeting Summary of the June 24 2026 Meeting with Aalo on Thermal…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26212A185%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26258A190",
+            "date": "09/23",
+            "title": "Submittal of \"Regulatory Engagement Plan for the Aalo R-COLA,\" P…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26258A190%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26218A199",
-            "date": "08/06",
-            "title": "Pre-submittal Meeting with Aalo Atomics to discuss PPE Topical R…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26218A199%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26237A205",
+            "date": "09/02",
+            "title": "Submittal of Approved Aalo Holdings, Inc. Topical Report, Qualit…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26237A205%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26210A323",
-            "date": "08/06",
-            "title": "AALO Submittal of \"ESP Methodology White Paper,\" WP-AALO-2026-00…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26210A323%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26233A093",
+            "date": "08/31",
+            "title": "Submittal of Aalo Holdings, Inc. Presentation on the Aalo Design…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26233A093%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26217A260",
-            "date": "08/06",
-            "title": "Pre-submittal Meeting with Aalo Atomics to discuss PPE Topical R…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26217A260%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26228A000",
+            "date": "08/24",
+            "title": "Submittal of Aalo Holdings, Inc., Public Presentation on the Pla…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26228A000%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26208A255",
-            "date": "07/27",
-            "title": "NRC Public Meeting with Aalo Atomics to discuss PPE Topical Repo…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26208A255%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26224A503",
+            "date": "08/20",
+            "title": "Submittal of Aalo Holdings, Inc. Presentation, Aalo XMR Thermal …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26224A503%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1555,7 +1520,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Aalo Atomics는 2026년 6~8월 사이 Aalo-1(30MWth 용융나트륨·흑연 열중성자 원자로) 관련 재료 도전과제 기술 논의, Texas A&M RELLIS 캠퍼스 ESP 추진 의향서 제출, ESP 방법론 백서(10 CFR Part 53 기반) 공식 제출, 그리고 PPE 토피컬 보고서 사전 제출 회의 예정 등 복수의 구체적 진전을 이루며 사전신청 단계에서 ESP 신청 준비 단계로 빠르게 전환 중인 것으로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 20 [현재]"
+      "kakao_summary": "Aalo Atomics Aalo-X\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최신 문서: Submittal of \"Regulatory Engagement Plan for the Aalo R-COLA,\" PLN-AALO-2026-008, Revision (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 20 [현재]"
     },
     {
       "id": "antares_nuclear_mark0",
@@ -1654,10 +1619,10 @@
     {
       "id": "deployable_energy_unity",
       "name": "Deployable Energy Unity",
-      "total_docs": 33,
+      "total_docs": 44,
       "doc_date_range": {
         "earliest": "2025-12-01",
-        "latest": "2026-07-30"
+        "latest": "2026-09-18"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1673,47 +1638,44 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "Deployable Energy Limited은 Unity Nuclear Battery(UNB) 마이크로리액터의 10 CFR Part 50 기반 Class 104(c) NPUF 건설허가 신청(CPA)을 2026년 내 목표로, 연료 자격 백서 제출·NRC 기술 피드백 수령·사고분석 방법론 관련 부분 비공개 회의 진행 등 실질적인 사전신청 활동을 활발히 이어가고 있으며, 직전 '규제 트랙 미확인' 상태에서 규제 프레임워크 정렬과 CPA 준비라는 구체적 방향이 확인되는 의미 있는 진전이 관찰됨.",
+        "comment": "최신 문서: Submission of Pre-Application Meeting Materials on Site Attributes and the Environmental R (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26203A018 | 2026-07-30 | 06/17/2026 Summary of Partially Closed Meeting with Deployable Energy ",
-          "ML26196A401 | 2026-07-23 | Deployable Energy - Submission of the Unity Fuel Qualification White P",
-          "ML26202A015 | 2026-07-29 | EMAIL - Deployable Energy Limited - Request for Withholding Informatio",
-          "ML26148A391 | 2026-06-24 | Letter - The U.S. Nuclear Regulatory Commission Staff Feedback regardi"
+          "ML26253A088 | 2026-09-18"
         ]
       },
-      "stage_signal_line": "사전신청 6 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 8 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26203A018",
-            "date": "07/30",
-            "title": "06/17/2026 Summary of Partially Closed Meeting with Deployable E…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26203A018%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26253A088",
+            "date": "09/18",
+            "title": "Submission of Pre-Application Meeting Materials on Site Attribut…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26253A088%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26202A015",
-            "date": "07/29",
-            "title": "EMAIL - Deployable Energy Limited - Request for Withholding Info…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26202A015%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26253A093",
+            "date": "09/18",
+            "title": "Enclosure 5: Affidavit Supporting Request for Withholding from P…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26253A093%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26196A401",
-            "date": "07/23",
-            "title": "Deployable Energy - Submission of the Unity Fuel Qualification W…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A401%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26244A250",
+            "date": "09/16",
+            "title": "Pre-Application Readiness Assessment Plan - Deployable Energy Li…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26244A250%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26196A402",
-            "date": "07/23",
-            "title": "Deployable Energy - Affidavit Supporting Request for Withholding…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A402%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26253A089",
+            "date": "09/14",
+            "title": "Enclosure 1: Pre-Application Meeting Presentation for the Public",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26253A089%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26196A403",
-            "date": "07/23",
-            "title": "Deployable Energy - Confirmation of Comments for QAPD and Public…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A403%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26240A173",
+            "date": "09/11",
+            "title": "Enclosure 1 (Public) - U.S. Nuclear Regulatory Commission Staff …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26240A173%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1728,15 +1690,15 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Deployable Energy Unity\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Deployable Energy Limited은 Unity Nuclear Battery(UNB) 마이크로리액터의 10 CFR Part 50 기반 Class 104(c) NPUF 건설허가 신청(CPA)을 2026년 내 목표로, 연료 자격 백서 제출·NRC 기술 피드백 수령·사고분석 방법론 관련 부분 비공개 회의 진행 등 실질적인 사전신청 활동을 활발히 이어가고 있으며, 직전 '규제 트랙 미확인' 상태에서 규제 프레임워크 정렬과 CPA 준비라는 구체적 방향이 확인되는 의미 있는 진전이 관찰됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 6 [현재]"
+      "kakao_summary": "Deployable Energy Unity\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최신 문서: Submission of Pre-Application Meeting Materials on Site Attributes and the Environmental R (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 8 [현재]"
     },
     {
       "id": "deep_fission_gravity",
       "name": "Deep Fission Gravity Reactor",
-      "total_docs": 22,
+      "total_docs": 24,
       "doc_date_range": {
         "earliest": "2024-06-04",
-        "latest": "2026-06-05"
+        "latest": "2026-09-25"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1750,21 +1712,27 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "Deep Fission은 2026년 4~6월 사이 캔자스주 파슨스 부지의 Gravity Reactor에 대해 개념설계 백서 및 규제참여계획(REP)을 NRC에 제출하고, DOE 인허가 활동 관찰을 위한 전자열람실(eRR) 접근협약을 체결하며 NRC 감사계획까지 수립하는 등 사전신청 단계에서 매우 활발한 진전을 보이고 있으며, DOE Reactor Pilot Program 선정(2025년 8월)을 기반으로 DOE→NRC 순차 인허가 경로를 구체화하고 있다.",
+        "comment": "최신 문서: Expectations Regarding Construction Activities Associated with the Proposed Deep Fission,  (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26148A339 | 2026-06-05 | Deep Fission - Electronic Reference Portal Information Access Agreemen",
-          "ML26148A254 | 2026-05-28 | Plan for an Observation Audit of the DOE Authorization Activities for ",
-          "ML26133A255 | 2026-05-21 | Electronic Reference Portal Information Access Agreement Between the N",
-          "ML26112A158 | 2026-04-30 | Deep Fission, Inc., Submittal of Deep Fission, Inc., White Paper, \"Con",
-          "ML26112A159 | 2026-04-30 | Deep Fission, Inc., Conceptual Design Description of the Gravity React",
-          "ML26111A381 | 2026-04-29 | Submittal of Deep Fission, Inc., \"NRC Regulatory Engagement Plan,\" DF-",
-          "ML26111A382 | 2026-04-29 | Enclosure: DF-LIC-PLN-001, Rev. 0, NRC Regulatory Engagement Plan"
+          "ML26268A085 | 2026-09-25"
         ]
       },
       "stage_signal_line": "사전신청 7 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26268A085",
+            "date": "09/25",
+            "title": "Expectations Regarding Construction Activities Associated with t…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26268A085%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26180A217",
+            "date": "08/10",
+            "title": "Deep Fission, Inc. - Response to Conceptual Design Description W…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26180A217%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26148A339",
             "date": "06/05",
@@ -1782,18 +1750,6 @@
             "date": "05/21",
             "title": "Electronic Reference Portal Information Access Agreement Between…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26133A255%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26112A158",
-            "date": "04/30",
-            "title": "Deep Fission, Inc., Submittal of Deep Fission, Inc., White Paper…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26112A158%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26112A159",
-            "date": "04/30",
-            "title": "Deep Fission, Inc., Conceptual Design Description of the Gravity…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26112A159%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1844,15 +1800,15 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Deep Fission Gravity Reactor\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: Deep Fission은 2026년 4~6월 사이 캔자스주 파슨스 부지의 Gravity Reactor에 대해 개념설계 백서 및 규제참여계획(REP)을 NRC에 제출하고, DOE 인허가 활동 관찰을 위한 전자열람실(eRR) 접근협약을 체결하며 NRC 감사계획까지 수립하는 등 사전신청 단계에서 매우 활발한 진전을 보이고 있으며, DOE Reactor Pilot Program 선정(2025년 8월)을 기반으로 DOE→NRC 순차 인허가 경로를 구체화하고 있다.\n\n💰 자금조달: 상장사 (Nasdaq:FISN)\n📊 진척도: 딥피션은 2026년 6월 나스닥 IPO를 통해 주당 16달러, 250만주 공모로 약 400억 규모 자금조달에 성공하며 상장을 완료했고, 현재 공시된 경고 신호(임원 이탈·소송·계속기업 불확실성 등)는 확인되지 않아 초기 사업 진척은 긍정적으로 평가된다.\n\n단계별 문서: 사전신청 7 [현재]"
+      "kakao_summary": "Deep Fission Gravity Reactor\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: 최신 문서: Expectations Regarding Construction Activities Associated with the Proposed Deep Fission,  (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: 상장사 (Nasdaq:FISN)\n📊 진척도: 딥피션은 2026년 6월 나스닥 IPO를 통해 주당 16달러, 250만주 공모로 약 400억 규모 자금조달에 성공하며 상장을 완료했고, 현재 공시된 경고 신호(임원 이탈·소송·계속기업 불확실성 등)는 확인되지 않아 초기 사업 진척은 긍정적으로 평가된다.\n\n단계별 문서: 사전신청 7 [현재]"
     },
     {
       "id": "last_energy_pwr20",
       "name": "Last Energy PWR-20",
-      "total_docs": 14,
+      "total_docs": 18,
       "doc_date_range": {
         "earliest": "2025-02-11",
-        "latest": "2026-04-30"
+        "latest": "2026-09-17"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -1866,48 +1822,44 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "Last Energy는 밀봉형 격납 백서에 대한 NRC 피드백 수령, PM 재배정(Allen Fetter), 그리고 2026년 6월 최초 기술 사전신청 회의 일정 확정 등 사전신청 단계에서 꾸준하고 구체적인 활동이 이어지고 있으며, 환경 보고서 논의 및 텍사스 Haskell 부지 언급 등 실질적 진전이 확인된다.",
+        "comment": "최신 문서: Plan For Pre-Application Readiness Assessment For The Last Energy Limited Work Authorizati (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26120A094 | 2026-04-30 | 06/11/2026 NRC-Last Energy initial technical pre-application meeting [",
-          "ML25357A046 | 2025-12-29 | Project Manager Reassignment - Last Energy December 2025.",
-          "ML25163A036 | 2025-06-25 | NRC Feedback on Last Energy White Paper Hermetically Sealed Containmen",
-          "ML25146A001 | 2025-06-03 | Last Energy White Paper: Hermetically Sealed Containment, Revision 1",
-          "ML25108A002 | 2025-05-07 | 04/09/2025 Summary of Public Meeting with Last Energy to Hear Progress"
+          "ML26260A100 | 2026-09-17"
         ]
       },
-      "stage_signal_line": "사전신청 5 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 6 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
-        "header": "최근 문서 (2025~26)",
+        "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26260A100",
+            "date": "09/17",
+            "title": "Plan For Pre-Application Readiness Assessment For The Last Energ…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26260A100%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26259A098",
+            "date": "09/16",
+            "title": "Last Energy Request for Readiness Assessment of Draft LWA",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26259A098%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26246B019",
+            "date": "09/04",
+            "title": "NRC-Last Energy Public Meeting Summary_20260611",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26246B019%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26217A115",
+            "date": "08/19",
+            "title": "Last Energy, PWR-20 Regulatory Engagement Plan, Rev 1.0",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26217A115%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26120A094",
             "date": "04/30",
             "title": "06/11/2026 NRC-Last Energy initial technical pre-application mee…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26120A094%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML25357A046",
-            "date": "12/29",
-            "title": "Project Manager Reassignment - Last Energy December 2025.",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML25357A046%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML25163A036",
-            "date": "06/25",
-            "title": "NRC Feedback on Last Energy White Paper Hermetically Sealed Cont…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML25163A036%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML25153A043",
-            "date": "06/12",
-            "title": "Project Manager Reassignment - Last Energy, June 2025",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML25153A043%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML25146A001",
-            "date": "06/03",
-            "title": "Last Energy White Paper: Hermetically Sealed Containment, Revisi…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML25146A001%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -1922,15 +1874,15 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Last Energy PWR-20\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: Last Energy는 밀봉형 격납 백서에 대한 NRC 피드백 수령, PM 재배정(Allen Fetter), 그리고 2026년 6월 최초 기술 사전신청 회의 일정 확정 등 사전신청 단계에서 꾸준하고 구체적인 활동이 이어지고 있으며, 환경 보고서 논의 및 텍사스 Haskell 부지 언급 등 실질적 진전이 확인된다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 5 [현재]"
+      "kakao_summary": "Last Energy PWR-20\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: 최신 문서: Plan For Pre-Application Readiness Assessment For The Last Energy Limited Work Authorizati (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 6 [현재]"
     },
     {
       "id": "natura_resources_acu_msrr",
       "name": "Natura Resources / Abilene Christian University MSRR (MSR-1)",
-      "total_docs": 227,
+      "total_docs": 230,
       "doc_date_range": {
         "earliest": "2020-07-31",
-        "latest": "2026-07-13"
+        "latest": "2026-09-16"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -1942,27 +1894,43 @@
         "bullets": [
           "CP: ML24283A177 | 2024-10-10 11:53 | CPAF50-00610 - Abilene Christian University Molten Salt Research Reactor Construction Perm",
           "OL: ML23230A392 | 2023-08-23 16:09 | Abilene Christian University Construction Permit Application Information Related to the Nu",
-          "AI 교차검증: 2024년 9월 건설허가(CP)가 공식 발급되었습니다.",
           "DOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)",
           "환경검토(EIS/EA): EA 검토 중 (FONSI 미확인) — ML23300A053 | 2024-03-08 13:10 | Environmental Assessment for Abilene Christian University Molten Salt Research Reactor",
           "절차: 의무 심리(uncontested hearing) 관련 문서 존재"
         ],
-        "note_lines": []
+        "note_lines": [
+          "AI 교차검증 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\"))"
+        ]
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "2026년 6월 Natura Resources가 QAPD(품질보증 프로그램 설명서)를 토픽 리포트(NR-RPT-0002-R0)로 NRC에 제출하였고, 7월 13일 NRC가 완전성 검토를 완료해 정식 기술 검토 착수를 승인(Form 898)했으며, 초안 SE는 2026년 11월, 최종 SE는 12월 완료 예정으로 CP 이후 OL 준비를 위한 핵심 행정 절차가 활발히 진행 중입니다.",
+        "comment": "최신 문서: Abilene Christian University Molten Salt Research Reactor Degradation Management Program S (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26177A032 | 2026-07-13 | NRC Form 898 - Natura Resources Quality Assurance Program Description",
-          "ML26177A033 | 2026-07-13 | Transmittal - Natura Resources LLC QAPD TR Form 898",
-          "ML26166A407 | 2026-06-24 | Natura Resources - Letter Transmitting Quality Assurance Program Descr",
-          "ML26166A408 | 2026-06-24 | Natura Resources - Quality Assurance Program Description"
+          "ML26251A220 | 2026-09-16"
         ]
       },
       "stage_signal_line": "사전신청 41 | 신청접수 9 | 기술검토 10 | 초안 SE 0 | 최종 2 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26251A220",
+            "date": "09/16",
+            "title": "Abilene Christian University Molten Salt Research Reactor Degrad…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26251A220%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26230A095",
+            "date": "08/26",
+            "title": "Information Access Agreement Between Natura Resources, LLC and T…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26230A095%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26230A093",
+            "date": "08/26",
+            "title": "Natura Resources Online Reference Portal Agreement",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26230A093%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26177A032",
             "date": "07/13",
@@ -1974,24 +1942,6 @@
             "date": "07/13",
             "title": "Transmittal - Natura Resources LLC QAPD TR Form 898",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26177A033%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26166A407",
-            "date": "06/24",
-            "title": "Natura Resources - Letter Transmitting Quality Assurance Program…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26166A407%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26166A408",
-            "date": "06/24",
-            "title": "Natura Resources - Quality Assurance Program Description",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26166A408%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26111A436",
-            "date": "04/22",
-            "title": "Enclosure - Natura Resources LLC and U.S NRC Online Portal Agree…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26111A436%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -2006,15 +1956,15 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Natura Resources / Abilene Christian University MSRR (MSR-1)\nCP 발급 / OL 신청(태그뿐 — 제목 확인 필요)\nCP: ML24283A177 | 2024-10-10 11:53 | CPAF50-00610 - Abilene Christian University Molten Salt Research Reactor Construction Perm\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 6월 Natura Resources가 QAPD(품질보증 프로그램 설명서)를 토픽 리포트(NR-RPT-0002-R0)로 NRC에 제출하였고, 7월 13일 NRC가 완전성 검토를 완료해 정식 기술 검토 착수를 승인(Form 898)했으며, 초안 SE는 2026년 11월, 최종 SE는 12월 완료 예정으로 CP 이후 OL 준비를 위한 핵심 행정 절차가 활발히 진행 중입니다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 41 | 신청접수 9 | 기술검토 10 | 최종 2 [현재]"
+      "kakao_summary": "Natura Resources / Abilene Christian University MSRR (MSR-1)\nCP 발급 / OL 신청(태그뿐 — 제목 확인 필요)\nCP: ML24283A177 | 2024-10-10 11:53 | CPAF50-00610 - Abilene Christian University Molten Salt Research Reactor Construction Perm\nAI 교차검증 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded wi…\n\n최근 활동: 최신 문서: Abilene Christian University Molten Salt Research Reactor Degradation Management Program S (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 41 | 신청접수 9 | 기술검토 10 | 최종 2 [현재]"
     },
     {
       "id": "radiant_industries_kaleidos",
       "name": "Radiant Industries Kaleidos",
-      "total_docs": 116,
+      "total_docs": 152,
       "doc_date_range": {
         "earliest": "2022-10-06",
-        "latest": "2026-07-17"
+        "latest": "2026-09-30"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -2029,51 +1979,44 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "NRC가 2026년 7월 16일자로 여러 부족 대표 및 SHPO·NPS에 Section 106 협의 서한을 일괄 발송하였으며, 역사·문화자원에 대한 '악영향 없음' 판정을 통보하고 30일 내 의견 제출을 요청한 상태로, 환경평가(EA) 절차가 구체적으로 진행 중임을 확인할 수 있어 직전 대비 환경검토 단계에서 의미 있는 진전이 있었다.",
+        "comment": "최신 문서: Update to Radiant's Regulatory Engagement Plan (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26196A345 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Stephanie Bryan",
-          "ML26196A336 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Libby Rogers",
-          "ML26196A344 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Sena M. Yesslith",
-          "ML26196A342 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Ryan Morrow",
-          "ML26196A347 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Michell Hicks",
-          "ML26190A217 | 2026-07-17 | SHPO Re Radiant Section 106 Consultation Letter to Miranda Montgomery",
-          "ML26196A337 | 2026-07-17 | Radiant Section 106 Consultation Tribal Letter to Glenna Wallace",
-          "ML26190A216 | 2026-07-17 | NPS RE: Radiant Section 106 Consultation Letter to Niki Nicholas"
+          "ML26271A258 | 2026-09-30"
         ]
       },
-      "stage_signal_line": "사전신청 22 | 신청접수 4 | 기술검토 4 [현재] | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 26 | 신청접수 5 | 기술검토 6 [현재] | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26196A345",
-            "date": "07/17",
-            "title": "Radiant Section 106 Consultation Tribal Letter to Stephanie Bryan",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A345%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26271A258",
+            "date": "09/30",
+            "title": "Update to Radiant's Regulatory Engagement Plan",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26271A258%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26196A336",
-            "date": "07/17",
-            "title": "Radiant Section 106 Consultation Tribal Letter to Libby Rogers",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A336%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26271A259",
+            "date": "09/30",
+            "title": "Enclosure 1: Affidavit for Proprietary Withholding (Non-propriet…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26271A259%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26196A344",
-            "date": "07/17",
-            "title": "Radiant Section 106 Consultation Tribal Letter to Sena M. Yessli…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A344%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26258A125",
+            "date": "09/28",
+            "title": "NLAA Concurrence, Tricolored Bat and Long-Eared Bat, Federal Age…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26258A125%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26196A342",
-            "date": "07/17",
-            "title": "Radiant Section 106 Consultation Tribal Letter to Ryan Morrow",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A342%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26258A129",
+            "date": "09/28",
+            "title": "NLAA Concurrence Letter For 'Radiant Application for Special Nuc…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26258A129%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26196A347",
-            "date": "07/17",
-            "title": "Radiant Section 106 Consultation Tribal Letter to Michell Hicks",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26196A347%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26258A127",
+            "date": "09/28",
+            "title": "Tennessee Ecological Services Field Office, List of Threatened a…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26258A127%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -2124,15 +2067,15 @@
         "status_tag": "form_d",
         "form_d_round_count": 5
       },
-      "kakao_summary": "Radiant Industries Kaleidos\nNRC 기술검토 중\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: NRC가 2026년 7월 16일자로 여러 부족 대표 및 SHPO·NPS에 Section 106 협의 서한을 일괄 발송하였으며, 역사·문화자원에 대한 '악영향 없음' 판정을 통보하고 30일 내 의견 제출을 요청한 상태로, 환경평가(EA) 절차가 구체적으로 진행 중임을 확인할 수 있어 직전 대비 환경검토 단계에서 의미 있는 진전이 있었다.\n\n💰 자금조달: 비상장 · 사모 조달 5회 (2022~2025) — 누적 $488,189,973 조달 (최근 라운드 $268,805,033 / 목표 $350,000,018)\n📊 진척도: 라운드별 조달 규모가 $1,260만→$4,070만→$1억→$6,600만→$2억6,880만으로 전반적 증가 추세이며, 2025-12-30 라운드를 제외한 나머지는 목표액을 100% 달성했으나, 최근 라운드는 목표 $3.5억 대비 약 76.8% 조달에 그쳐 소폭 미달 중이고 경고 신호는 확인되지 않아 전반적으로 긍정적이나 주의 관찰이 필요합니다.\n\n단계별 문서: 사전신청 22 | 신청접수 4 | 기술검토 4 [현재]"
+      "kakao_summary": "Radiant Industries Kaleidos\nNRC 기술검토 중\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최신 문서: Update to Radiant's Regulatory Engagement Plan (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: 비상장 · 사모 조달 중\n📊 진척도: 라운드별 조달 규모가 $1,260만→$4,070만→$1억→$6,600만→$2억6,880만으로 전반적 증가 추세이며, 2025-12-30 라운드를 제외한 나머지는 목표액을 100% 달성했으나, 최근 라운드는 목표 $3.5억 대비 약 76.8% 조달에 그쳐 소폭 미달 중이고 경고 신호는 확인되지 않아 전반적으로 긍정적이나 주의 관찰이 필요합니다.\n\n단계별 문서: 사전신청 26 | 신청접수 5 | 기술검토 6 [현재]"
     },
     {
       "id": "terrestrial_energy_imsr",
       "name": "Terrestrial Energy IMSR (Project TETRA)",
-      "total_docs": 191,
+      "total_docs": 196,
       "doc_date_range": {
         "earliest": "2019-12-18",
-        "latest": "2026-07-16"
+        "latest": "2026-09-02"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -2148,50 +2091,44 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "2026년 4월 NRC의 PIE 토픽 보고서 최종 안전평가 완료 후, Terrestrial Energy는 규정에 따라 3개월 이내에 '-A' 버전 토픽 보고서(TR251231-A)를 제출 완료(2026-06-30)하였으며, 동시에 모기업 TEDI가 NRC 사전인허가 업무를 직접 수행하는 구조로 전환됨. 또한 Defense-in-Depth 전략 TR 및 규제 계획 v9 제출 등 복수의 기술 문서가 단기간 내 집중 제출되어 프로젝트는 사전신청 단계에서 매우 활발하게 진행 중인 것으로 평가됨.",
+        "comment": "최신 문서: IMSR Graphite Qualification Methodology Topical Report Revision A (TR-26-01) (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26189A299 | 2026-07-16 | Terrestrial Energy USA Inc. Postulated Initiating Events Topical Repor",
-          "ML26189A297 | 2026-07-16 | Enclosure 2: Topical Report TR251231-NP-A, Revision 0, \"Postulated Ini",
-          "ML26189A298 | 2026-07-16 | Enclosure 3: Affidavit Supporting Request for Withholding Public Discl",
-          "ML26117A170 | 2026-04-29 | Enclosure 1 TEUSA IMSR PIE TR Final SE (Public)",
-          "ML26110A298 | 2026-04-29 | TEUSA IMSR PIE TR FINAL SE Cover Letter",
-          "ML26113A374 | 2026-05-01 | Topical Report TR 251024, \"Strategy for Establishing Defense in Depth ",
-          "ML26091A372 | 2026-05-15 | Request for Withholding Proprietary Information Terrestrial Energy Reg"
+          "ML26237A148 | 2026-09-02"
         ]
       },
-      "stage_signal_line": "사전신청 56 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 59 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26189A298",
-            "date": "07/16",
-            "title": "Enclosure 3: Affidavit Supporting Request for Withholding Public…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26189A298%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26237A148",
+            "date": "09/02",
+            "title": "IMSR Graphite Qualification Methodology Topical Report Revision …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26237A148%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26189A299",
-            "date": "07/16",
-            "title": "Terrestrial Energy USA Inc. Postulated Initiating Events Topical…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26189A299%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26237A145",
+            "date": "09/02",
+            "title": "Enclosure 2: TR-26-01, Revision A, \"IMSR Graphite Qualification …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26237A145%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26189A297",
-            "date": "07/16",
-            "title": "Enclosure 2: Topical Report TR251231-NP-A, Revision 0, \"Postulat…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26189A297%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26237A147",
+            "date": "09/02",
+            "title": "Enclosure 3: Affidavit Supporting Request for Withholding from P…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26237A147%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26091A372",
-            "date": "05/15",
-            "title": "Request for Withholding Proprietary Information Terrestrial Ener…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26091A372%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26225A286",
+            "date": "08/17",
+            "title": "TR251231-A, - Terrestrial Energy USA Inc. Postulated Initiating …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26225A286%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26113A374",
-            "date": "05/01",
-            "title": "Topical Report TR 251024, \"Strategy for Establishing Defense in …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26113A374%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26225A285",
+            "date": "08/17",
+            "title": "Email Communication from Chauhan M to O'Keefe D, Terrestrial Ene…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26225A285%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -2242,7 +2179,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Terrestrial Energy IMSR (Project TETRA)\nSDA 신청\nSDA: ML20345A340 | 2020-12-10 16:25 | 12/16/2020 Contents of Application for Terrestrial's standard design approval application\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 4월 NRC의 PIE 토픽 보고서 최종 안전평가 완료 후, Terrestrial Energy는 규정에 따라 3개월 이내에 '-A' 버전 토픽 보고서(TR251231-A)를 제출 완료(2026-06-30)하였으며, 동시에 모기업 TEDI가 NRC 사전인허가 업무를 직접 수행하는 구조로 전환됨. 또한 Defense-in-Depth 전략 TR 및 규제 계획 v9 제출 등 복수의 기술 문서가 단기간 내 집중 제출되어 프로젝트는 사전신청 단계에서 매우 활발하게 진행 중인 것으로 평가됨.\n\n💰 자금조달: 상장사 (Nasdaq:IMSR)\n📊 진척도: 상장기업으로 별도 자금조달 라운드 이력은 없으며, 최근 공시는 1분기 실적 발표와 정기 주총 의안 처리 등 통상적인 운영 활동에 한정되어 있어 사업 개발상 특별한 진전이나 경고 신호는 확인되지 않는 중립적 상태임.\n\n단계별 문서: 사전신청 56 [현재]"
+      "kakao_summary": "Terrestrial Energy IMSR (Project TETRA)\nSDA 신청\nSDA: ML20345A340 | 2020-12-10 16:25 | 12/16/2020 Contents of Application for Terrestrial's standard design approval application\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최신 문서: IMSR Graphite Qualification Methodology Topical Report Revision A (TR-26-01) (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: 상장사 (Nasdaq:IMSR)\n📊 진척도: 상장기업으로 별도 자금조달 라운드 이력은 없으며, 최근 공시는 1분기 실적 발표와 정기 주총 의안 처리 등 통상적인 운영 활동에 한정되어 있어 사업 개발상 특별한 진전이나 경고 신호는 확인되지 않는 중립적 상태임.\n\n단계별 문서: 사전신청 59 [현재]"
     },
     {
       "id": "fanco_eagl1",
@@ -2379,10 +2316,10 @@
     {
       "id": "arc_clean_technology_arc100",
       "name": "ARC Clean Technology ARC-100",
-      "total_docs": 145,
+      "total_docs": 157,
       "doc_date_range": {
         "earliest": "2022-10-04",
-        "latest": "2026-08-07"
+        "latest": "2026-10-01"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -2396,48 +2333,44 @@
       },
       "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
       "recent_activity": {
-        "comment": "ARC-100은 지진격리(3D 스프링 댐퍼 선형 거동, 격리장치 고장 시 구조 응답 등) 및 나트륨 화재 모델링, 기능적 격납, 전자기 펌프 등 복수의 기술 쟁점을 NRC와 활발히 논의 중이며, 주요 분석 결과를 2026년 9월 30일까지 제출 예정으로 사전신청 단계에서 실질적 기술 검토가 집중적으로 진행되고 있어 직전 상태 대비 뚜렷한 활동 심화가 확인됨.",
+        "comment": "최신 문서: Notice of Meeting with ARC Clean Technology, Inc. 10/08/2026 (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))",
         "evidence": [
-          "ML26211A391 | 2026-08-07 | ARC Clean Technology, Inc. - Response to NRC feedback on Seismic Isola",
-          "ML26203A154 | 2026-07-30 | Modeling Sodium Fires Backup Slides",
-          "ML26121A130 | 2026-07-24 | 04/14/2026 Summary Of Partially Closed Meeting With Arc Clean Technolo",
-          "ML26203A176 | 2026-07-23 | ARC Clean Technology, Regulatory Engagement Plan, Rev. 2, Slide Presen",
-          "ML26203A173 | 2026-07-23 | ARC Clean Technology, ARC-100 Advanced Small Modular Reactor, Transiti"
+          "ML26274A408 | 2026-10-01"
         ]
       },
-      "stage_signal_line": "사전신청 60 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 65 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
           {
-            "accession_number": "ML26211A391",
-            "date": "08/07",
-            "title": "ARC Clean Technology, Inc. - Response to NRC feedback on Seismic…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26211A391%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26274A408",
+            "date": "10/01",
+            "title": "Notice of Meeting with ARC Clean Technology, Inc. 10/08/2026",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26274A408%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26203A154",
-            "date": "07/30",
-            "title": "Modeling Sodium Fires Backup Slides",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26203A154%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26076A334",
+            "date": "09/23",
+            "title": "Summary of the February 18, 2026, Public Meeting with ARC Clean …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26076A334%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26121A130",
-            "date": "07/24",
-            "title": "04/14/2026 Summary Of Partially Closed Meeting With Arc Clean Te…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26121A130%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26210A312",
+            "date": "09/04",
+            "title": "ARC - Summary of June 22, 2026, Public Meeting with ARC Clean Te…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26210A312%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26197A263",
-            "date": "07/24",
-            "title": "Summary of the April 14, 2026, Partially Closed Meeting with ARC…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26197A263%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26231A294",
+            "date": "08/26",
+            "title": "Regulatory Engagement Meeting August 27 2026 - Probabilistic Saf…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26231A294%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
-            "accession_number": "ML26203A176",
-            "date": "07/23",
-            "title": "ARC Clean Technology, Regulatory Engagement Plan, Rev. 2, Slide …",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26203A176%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+            "accession_number": "ML26230A325",
+            "date": "08/26",
+            "title": "Enclosure 1: Affidavit",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26230A325%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -2452,7 +2385,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "ARC Clean Technology ARC-100\n사전신청 단계\n절차: 의무 심리(uncontested hearing) 관련 문서 존재\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: ARC-100은 지진격리(3D 스프링 댐퍼 선형 거동, 격리장치 고장 시 구조 응답 등) 및 나트륨 화재 모델링, 기능적 격납, 전자기 펌프 등 복수의 기술 쟁점을 NRC와 활발히 논의 중이며, 주요 분석 결과를 2026년 9월 30일까지 제출 예정으로 사전신청 단계에서 실질적 기술 검토가 집중적으로 진행되고 있어 직전 상태 대비 뚜렷한 활동 심화가 확인됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 60 [현재]"
+      "kakao_summary": "ARC Clean Technology ARC-100\n사전신청 단계\n절차: 의무 심리(uncontested hearing) 관련 문서 존재\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최신 문서: Notice of Meeting with ARC Clean Technology, Inc. 10/08/2026 (AI 판단 사용 불가 — AI 호출/응답 파싱 실패: HTTPSConnectionPool(host='api.anthropic.com', port=443): Max retries exceeded with url: /v1/messages (Caused by NameResolutionError(\"HTTPSConnection(host='api.anthropic.com', port=443): Failed to resolve 'api.anthropic.com' ([Errno 11001] getaddrinfo failed)\")))\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 65 [현재]"
     }
   ]
 }
