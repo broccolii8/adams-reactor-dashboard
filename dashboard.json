@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T04:38:09Z",
+  "generated_at": "2026-11-03T07:07:52Z",
   "last_checked": "2026-11-03",
-  "total_docs": 16696,
+  "total_docs": 17396,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -178,7 +178,7 @@
     {
       "id": "bwrx300_clinch_river",
       "name": "BWRX-300 / Clinch River Unit 1",
-      "total_docs": 5292,
+      "total_docs": 5305,
       "doc_date_range": {
         "earliest": "2017-01-12",
         "latest": "2026-10-21"
@@ -206,7 +206,7 @@
           "ML26293A091 | 2026-10-21 | News Release-26-079: NRC Approves Construction of Nation's First Small"
         ]
       },
-      "stage_signal_line": "사전신청 117 | 신청접수 14 | 기술검토 11 | 초안 SE 0 | 최종 16 [현재]",
+      "stage_signal_line": "사전신청 300 | 신청접수 14 | 기술검토 11 | 초안 SE 0 | 최종 16 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
@@ -289,34 +289,38 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "BWRX-300 / Clinch River Unit 1\nESP 발급 / CP 발급\nESP: ML19189A228 | 2019-12-23 08:47 | Issuance of Early Site Permit for the Clinch River Nuclear Site Early Site Permit-006 to t\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: 2026년 9월 29일 NRC가 TVA의 Clinch River 부지에 대해 GE Vernova Hitachi BWRX-300(300MW) 건설허가(CP)를 공식 승인했으며, 2025년 7월 심사 착수 후 14개월 만에 완료(예정보다 4개월 단축)된 것으로 확인됨. 직전 상태(ESP 발급, CP 미발급)에서 CP 발급으로 명확한 진전이 이루어졌으며, 다음 단계는 운영허가(OL) 신청임.\n\n💰 자금조달: SEC 공시 기업 (Tennessee Valley Authority)\n📊 진척도: ⚠️ TVA는 커벌랜드 발전소 30년 리스-매입 계약 체결로 인프라 확장을 지속하고 있으나, 단기간 내 CEO 은퇴·퇴직 합의·임시 CEO 선임이 연속 발생해 리더십 불안정이 뚜렷한 경고 신호로 작용하고 있다.\n\n단계별 문서: 사전신청 117 | 신청접수 14 | 기술검토 11 | 최종 16 [현재]"
+      "kakao_summary": "BWRX-300 / Clinch River Unit 1\nESP 발급 / CP 발급\nESP: ML19189A228 | 2019-12-23 08:47 | Issuance of Early Site Permit for the Clinch River Nuclear Site Early Site Permit-006 to t\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: 2026년 9월 29일 NRC가 TVA의 Clinch River 부지에 대해 GE Vernova Hitachi BWRX-300(300MW) 건설허가(CP)를 공식 승인했으며, 2025년 7월 심사 착수 후 14개월 만에 완료(예정보다 4개월 단축)된 것으로 확인됨. 직전 상태(ESP 발급, CP 미발급)에서 CP 발급으로 명확한 진전이 이루어졌으며, 다음 단계는 운영허가(OL) 신청임.\n\n💰 자금조달: SEC 공시 기업 (Tennessee Valley Authority)\n📊 진척도: ⚠️ TVA는 커벌랜드 발전소 30년 리스-매입 계약 체결로 인프라 확장을 지속하고 있으나, 단기간 내 CEO 은퇴·퇴직 합의·임시 CEO 선임이 연속 발생해 리더십 불안정이 뚜렷한 경고 신호로 작용하고 있다.\n\n단계별 문서: 사전신청 300 | 신청접수 14 | 기술검토 11 | 최종 16 [현재]"
     },
     {
       "id": "bwrx300_aep_rockport",
       "name": "BWRX-300 / AEP Rockport (Indiana Michigan Power)",
-      "total_docs": 5,
+      "total_docs": 18,
       "doc_date_range": {
-        "earliest": "2026-05-07",
+        "earliest": "2021-05-20",
         "latest": "2026-09-17"
       },
       "track_labels": [],
       "track_labels_inferred": [],
       "track_caveat": null,
       "current_status": {
-        "headline": "판단 불가 — 단계 신호 문서 없음",
+        "headline": "사전신청 단계",
         "bullets": [],
         "note_lines": []
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "AEP는 NRC의 신형원자로 COL 신청을 위해 신청자 주도 NEPA 문서 작성 파일럿 프로그램에 정식 참여를 수락하고 Enercon을 환경검토 계약업체로 지정했으며, 이후 NRC가 라이선싱 경로 워크숍을 안내하는 등 환경검토 초기 단계 활동이 활발히 진행 중으로, 직전 '판단 불가' 상태 대비 규제 트랙이 COL(NEPA 준비 단계)로 명확해진 의미 있는 진전이 확인됨.",
+        "comment": "AEP는 2026년 상반기부터 NRC와 인허가 경로 논의, NEPA 파일럿 프로그램 참여, 착공 전 활동 정당화 백서 제출 등을 통해 규제 초기 단계를 적극적으로 진행 중이며, GVH도 BWRX-300 Safety Strategy LTR에 대한 RAI 응답을 제출하는 등 설계 인허가 기술 심사가 병행 진행되고 있어 직전 대비 다방면에서 의미 있는 진전이 확인됨.",
         "evidence": [
+          "ML26246A092 | 2026-09-17 | 2026/09/03 AEP ANPT Docs - FW Licensing Pathway Workshop",
+          "ML26236A347 | 2026-08-25 | GVH Response to USNRC Request for Additional Information (RAI) No. 001",
+          "ML26236A349 | 2026-08-25 | Enclosure 2: M260078 - GVH Response to USNRC Request for Additional In",
           "ML26160A348 | 2026-06-18 | Advanced Nuclear Power Project Two, Acknowledgment of Interest in Appl",
           "ML26177A167 | 2026-07-07 | Response Letter to Acknowledgement of Interest in Applicant-Prepared N",
-          "ML26246A092 | 2026-09-17 | 2026/09/03 AEP ANPT Docs - FW Licensing Pathway Workshop"
+          "ML26119A911 | 2026-05-07 | Enclosure 2: AEP-ND-2026-002: Regulatory Engagement Plant Initial Acti",
+          "ML26063A918 | 2026-03-20 | White Paper - Justification that Installation of Certain Structures, S"
         ]
       },
-      "stage_signal_line": "사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "stage_signal_line": "사전신청 183 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
@@ -325,6 +329,18 @@
             "date": "09/17",
             "title": "2026/09/03 AEP ANPT Docs - FW Licensing Pathway Workshop",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26246A092%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26236A347",
+            "date": "08/25",
+            "title": "GVH Response to USNRC Request for Additional Information (RAI) N…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26236A347%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26236A349",
+            "date": "08/25",
+            "title": "Enclosure 2: M260078 - GVH Response to USNRC Request for Additio…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26236A349%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           },
           {
             "accession_number": "ML26177A167",
@@ -337,18 +353,6 @@
             "date": "06/18",
             "title": "Advanced Nuclear Power Project Two, Acknowledgment of Interest i…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26160A348%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26119A910",
-            "date": "05/07",
-            "title": "Enclosure 1: Affidavit",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26119A910%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26119A911",
-            "date": "05/07",
-            "title": "Enclosure 2: AEP-ND-2026-002: Regulatory Engagement Plant Initia…",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26119A911%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -399,7 +403,7 @@
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "BWRX-300 / AEP Rockport (Indiana Michigan Power)\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: AEP는 NRC의 신형원자로 COL 신청을 위해 신청자 주도 NEPA 문서 작성 파일럿 프로그램에 정식 참여를 수락하고 Enercon을 환경검토 계약업체로 지정했으며, 이후 NRC가 라이선싱 경로 워크숍을 안내하는 등 환경검토 초기 단계 활동이 활발히 진행 중으로, 직전 '판단 불가' 상태 대비 규제 트랙이 COL(NEPA 준비 단계)로 명확해진 의미 있는 진전이 확인됨.\n\n💰 자금조달: 상장사 (NYSE:AEP)\n📊 진척도: AEP는 2,354만 주 선도매도계약 체결, 수권주식 9억 주로 증가 등 적극적인 자본조달을 추진 중이며, 1분기 실적 공시도 정상적으로 이루어져 사업 진척은 안정적으로 평가된다. 다만 대규모 주식 희석 가능성은 기존 주주 관점에서 주의가 필요하다.\n\n단계별 문서: 진행 신호 없음"
+      "kakao_summary": "BWRX-300 / AEP Rockport (Indiana Michigan Power)\n사전신청 단계\n\n최근 활동: AEP는 2026년 상반기부터 NRC와 인허가 경로 논의, NEPA 파일럿 프로그램 참여, 착공 전 활동 정당화 백서 제출 등을 통해 규제 초기 단계를 적극적으로 진행 중이며, GVH도 BWRX-300 Safety Strategy LTR에 대한 RAI 응답을 제출하는 등 설계 인허가 기술 심사가 병행 진행되고 있어 직전 대비 다방면에서 의미 있는 진전이 확인됨.\n\n💰 자금조달: 상장사 (NYSE:AEP)\n📊 진척도: AEP는 2,354만 주 선도매도계약 체결, 수권주식 9억 주로 증가 등 적극적인 자본조달을 추진 중이며, 1분기 실적 공시도 정상적으로 이루어져 사업 진척은 안정적으로 평가된다. 다만 대규모 주식 희석 가능성은 기존 주주 관점에서 주의가 필요하다.\n\n단계별 문서: 사전신청 183 [현재]"
     },
     {
       "id": "terrapower_natrium_kemmerer",
@@ -986,9 +990,13 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "최신 문서: Approval Email Request for Withholding Determination from Public Disclosure - Revision 1 o (AI 판단 사용 불가 — AI가 인용한 근거 문서 접수번호(['ML26022A028'])가 입력 목록에 없음 — 그라운딩 검증 실패(환각 가능성), 결과 폐기)",
+        "comment": "Holtec은 2026년 9월 30일 Pioneer Units 1&2 CP2 신청서를 제출한 데 이어, 비공개 처리 승인·PSAR 비독점본 제출·LWA 감사 질의 응답·SSI 분석 LTR Draft SE 일정 소폭 조정(10/26→11/2) 등 다수 행정·기술 절차가 동시에 진행 중으로, CP 신청 이후 심사 활동이 매우 활발하게 전개되고 있음.",
         "evidence": [
-          "ML26300A387 | 2026-10-29"
+          "ML26300A387 | 2026-10-29 | Approval Email Request for Withholding Determination from Public Discl",
+          "ML26293A006 | 2026-10-28 | Email to SMR (Holtec) Subject \"SMR-300 Time-Domain LS-DYNA Soil Struct",
+          "ML26286A325 | 2026-10-27 | Enclosure 2: SMR-300 LWA/CPA1 Select NRC Audit Question Responses (Non",
+          "ML26273A418 | 2026-10-26 | Enclosure II: Pioneer Units 1 and 2 Preliminary Safety Analysis Report",
+          "ML26286A323 | 2026-10-21 | Holtec International - Submittal of \"Pioneer Units 1 and 2 Limited Wor"
         ]
       },
       "stage_signal_line": "사전신청 366 | 신청접수 2 | 기술검토 9 [현재] | 초안 SE 0 | 최종 0",
@@ -1067,7 +1075,7 @@
         "status_tag": "ipo_pending",
         "form_d_round_count": null
       },
-      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nCP 신청\nCP: ML26273A417 | 2026-10-08 08:10 | Holtec International - Submittal of the Construction Permit Application for Pioneer Units \n\n최근 활동: 최신 문서: Approval Email Request for Withholding Determination from Public Disclosure - Revision 1 o (AI 판단 사용 불가 — AI가 인용한 근거 문서 접수번호(['ML26022A028'])가 입력 목록에 없음 — 그라운딩 검증 실패(환각 가능성), 결과 폐기)\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 366 | 신청접수 2 | 기술검토 9 [현재]"
+      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nCP 신청\nCP: ML26273A417 | 2026-10-08 08:10 | Holtec International - Submittal of the Construction Permit Application for Pioneer Units \n\n최근 활동: Holtec은 2026년 9월 30일 Pioneer Units 1&2 CP2 신청서를 제출한 데 이어, 비공개 처리 승인·PSAR 비독점본 제출·LWA 감사 질의 응답·SSI 분석 LTR Draft SE 일정 소폭 조정(10/26→11/2) 등 다수 행정·기술 절차가 동시에 진행 중으로, CP 신청 이후 심사 활동이 매우 활발하게 전개되고 있음.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 366 | 신청접수 2 | 기술검토 9 [현재]"
     },
     {
       "id": "xenergy_xenith",
@@ -1868,8 +1876,10 @@
       "track_labels_inferred": [],
       "track_caveat": null,
       "current_status": {
-        "headline": "사전신청 단계",
+        "headline": "CP 신청",
         "bullets": [
+          "CP: ML26294A375 | 2026-10-29 08:11 | Last Energy, Caldwell Site - Part One of a Construction Permit Application Filed Under 10 ",
+          "SER 진행도: 사전신청 단계",
           "DOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)"
         ],
         "note_lines": []
@@ -1935,7 +1945,7 @@
         "status_tag": "unmapped",
         "form_d_round_count": null
       },
-      "kakao_summary": "Last Energy PWR-20\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: Last Energy는 2026년 10월 29일 캘드웰 부지에 대한 건설허가 신청(Part 1) 및 LWA 신청을 NRC에 공식 제출하였으며(PSAR, 환경보고서, 일반·재무정보, 부지복구계획 포함), 직전 확인 시점의 사전신청 단계에서 실제 인허가 신청 단계로 명확히 전환된 의미 있는 진전이 확인된다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 6 [현재]"
+      "kakao_summary": "Last Energy PWR-20\nCP 신청\nCP: ML26294A375 | 2026-10-29 08:11 | Last Energy, Caldwell Site - Part One of a Construction Permit Application Filed Under 10 \n\n최근 활동: Last Energy는 2026년 10월 29일 캘드웰 부지에 대한 건설허가 신청(Part 1) 및 LWA 신청을 NRC에 공식 제출하였으며(PSAR, 환경보고서, 일반·재무정보, 부지복구계획 포함), 직전 확인 시점의 사전신청 단계에서 실제 인허가 신청 단계로 명확히 전환된 의미 있는 진전이 확인된다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 6 [현재]"
     },
     {
       "id": "natura_resources_acu_msrr",
@@ -2470,6 +2480,609 @@
         "form_d_round_count": null
       },
       "kakao_summary": "ARC Clean Technology ARC-100\n사전신청 단계\n절차: 의무 심리(uncontested hearing) 관련 문서 존재\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: ARC-100은 사전신청 단계에서 10 CFR Part 50→Part 53 전환, 내진격리 SSI 분석, Argonne와의 CFD 열수력 시뮬레이션 등 기술 검토를 활발히 진행 중이며, 월별 정례 NRC 회의 체계를 갖추는 등 전 확인 시점 대비 규제 참여 수준이 구체화·심화되고 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 68 [현재]"
+    },
+    {
+      "id": "blue_energy_port_of_victoria",
+      "name": "BWRX-300 / Blue Energy Port of Victoria",
+      "total_docs": 142,
+      "doc_date_range": {
+        "earliest": "2021-05-20",
+        "latest": "2026-10-21"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "CP 신청",
+        "bullets": [
+          "CP: ML26258A339 | 2026-09-23 08:11 | Blue Energy - Submittal of Construction Permit Application Part 1: Limited Work Authorizat",
+          "SER 진행도: 사전신청 단계"
+        ],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "Blue Energy Global은 2026년 9월 착공 전 면제 요청(BOP 활동 및 화재방호 SSC 설치) 2건을 NRC에 제출한 데 이어, NRC와의 수리 검토 협의 결과에 따라 2026년 10월 각 면제 요청별 독립 환경보고서(ER)를 추가 제출하는 등 CP 발급 전 LWA 획득을 위한 인허가 절차가 활발히 진행 중이다.",
+        "evidence": [
+          "ML26293A347 | 2026-10-21 | Submittal of Environmental Reports for the Exemption Requests for Acti",
+          "ML26293A349 | 2026-10-21 | BE-POV-LCNRG-LIC-5011 - Exemption Request from Activities Defined as C",
+          "ML26293A350 | 2026-10-21 | BE-POV-LCNRG-LIC-5010 - Exemption to Allow Installation of Select Fire",
+          "ML26266A183 | 2026-10-20 | Federal Register Notice - General Notice for Receipt of Blue Energy Li",
+          "ML26265A353 | 2026-09-29 | Blue Energy Global, Inc. - Enclosure 2: Exemption Request from Activit",
+          "ML26265A351 | 2026-09-29 | Blue Energy Global, Inc. - Submittal of Exemption Request from Activit"
+        ]
+      },
+      "stage_signal_line": "사전신청 205 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26293A347",
+            "date": "10/21",
+            "title": "Submittal of Environmental Reports for the Exemption Requests fo…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26293A347%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26293A349",
+            "date": "10/21",
+            "title": "BE-POV-LCNRG-LIC-5011 - Exemption Request from Activities Define…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26293A349%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26293A350",
+            "date": "10/21",
+            "title": "BE-POV-LCNRG-LIC-5010 - Exemption to Allow Installation of Selec…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26293A350%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26266A183",
+            "date": "10/20",
+            "title": "Federal Register Notice - General Notice for Receipt of Blue Ene…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26266A183%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26265A353",
+            "date": "09/29",
+            "title": "Blue Energy Global, Inc. - Enclosure 2: Exemption Request from A…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26265A353%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "funding": {
+        "headline": "SEC 공시 미확인",
+        "short_label": "SEC 공시 미확인",
+        "scope_note": null,
+        "as_of": "2026-07-15",
+        "recent_filings": [],
+        "assessment": null,
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
+      },
+      "kakao_summary": "BWRX-300 / Blue Energy Port of Victoria\nCP 신청\nCP: ML26258A339 | 2026-09-23 08:11 | Blue Energy - Submittal of Construction Permit Application Part 1: Limited Work Authorizat\n\n최근 활동: Blue Energy Global은 2026년 9월 착공 전 면제 요청(BOP 활동 및 화재방호 SSC 설치) 2건을 NRC에 제출한 데 이어, NRC와의 수리 검토 협의 결과에 따라 2026년 10월 각 면제 요청별 독립 환경보고서(ER)를 추가 제출하는 등 CP 발급 전 LWA 획득을 위한 인허가 절차가 활발히 진행 중이다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 205 [현재]"
+    },
+    {
+      "id": "aalo_rellis",
+      "name": "Aalo Pods / Texas A&M RELLIS",
+      "total_docs": 4,
+      "doc_date_range": {
+        "earliest": "2026-09-02",
+        "latest": "2026-10-05"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "판단 불가 — 단계 신호 문서 없음",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "Aalo Holdings는 2026년 9월 24일 NRC에 RELLIS 부지 조기부지허가(ESP) 환경보고서 대상 사전심사 준비도 평가(Readiness Assessment)를 공식 요청하였고, NRC는 10월 15일부터 약 4주간 온라인으로 평가를 수행하는 계획을 수립·통보하였으며, 12월 1일까지 관찰 의견 제공 및 4Q 2026 본신청 제출을 목표로 프로젝트가 매우 활발히 진행 중이다.",
+        "evidence": [
+          "ML26268A000 | 2026-10-05 | Request for Preapplication Readiness Assessment of the Aalo Atomics RE",
+          "ML26265A273 | 2026-10-01 | Email - Aalo ESP Readiness Assessment Plan",
+          "ML26265A272 | 2026-10-01 | Preapplication Readiness Assessment Plan - Aalo Holdings, Inc. Early S",
+          "ML26245A061 | 2026-09-02 | E-mail - RELLIS ESP Project Number"
+        ]
+      },
+      "stage_signal_line": "사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26268A000",
+            "date": "10/05",
+            "title": "Request for Preapplication Readiness Assessment of the Aalo Atom…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26268A000%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26265A273",
+            "date": "10/01",
+            "title": "Email - Aalo ESP Readiness Assessment Plan",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26265A273%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26265A272",
+            "date": "10/01",
+            "title": "Preapplication Readiness Assessment Plan - Aalo Holdings, Inc. E…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26265A272%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26245A061",
+            "date": "09/02",
+            "title": "E-mail - RELLIS ESP Project Number",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26245A061%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "funding": {
+        "headline": "SEC 공시 미확인",
+        "short_label": "SEC 공시 미확인",
+        "scope_note": null,
+        "as_of": "2026-07-15",
+        "recent_filings": [],
+        "assessment": null,
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
+      },
+      "kakao_summary": "Aalo Pods / Texas A&M RELLIS\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: Aalo Holdings는 2026년 9월 24일 NRC에 RELLIS 부지 조기부지허가(ESP) 환경보고서 대상 사전심사 준비도 평가(Readiness Assessment)를 공식 요청하였고, NRC는 10월 15일부터 약 4주간 온라인으로 평가를 수행하는 계획을 수립·통보하였으며, 12월 1일까지 관찰 의견 제공 및 4Q 2026 본신청 제출을 목표로 프로젝트가 매우 활발히 진행 중이다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 진행 신호 없음"
+    },
+    {
+      "id": "valar_atomics_ward250",
+      "name": "Valar Atomics Ward 250",
+      "total_docs": 5,
+      "doc_date_range": {
+        "earliest": "2026-10-01",
+        "latest": "2026-10-06"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "판단 불가 — 단계 신호 문서 없음",
+        "bullets": [
+          "DOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)",
+          "⚠️ DOE 인가 경로로 실제 임계(criticality) 달성 확인됨 — 토픽리포트 승인 개수만으론 안 보이는 물리적 이정표"
+        ],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "Valar Atomics는 2026년 4월 최초 제출에 이어 8월 Regulatory Engagement Plan Rev.1을 NRC에 제출하고 프로젝트 번호(99902185)를 공식 배정받았으며, Ward250 HTGR은 DOE 파일럿 프로그램 하에 이미 운영 중이고 두 번째 시험로(NumenorOne) DOE 인허가도 신청된 상태로, NRC 사전신청 단계가 본격 개시된 활발한 진행 국면으로 판단됨.",
+        "evidence": [
+          "ML26271A241 | 2026-10-06 | Assignment of Project Number for Valar Atomics Inc - Preapplication Ac",
+          "ML26224A415 | 2026-10-02 | Valar Atomics Inc. - Letter Submittal of Regulatory Engagement Plan, R",
+          "ML26224A417 | 2026-10-02 | Unsworn Declaration of Mark Mitchell In Support of Request for Withhol"
+        ]
+      },
+      "stage_signal_line": "사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26271A241",
+            "date": "10/06",
+            "title": "Assignment of Project Number for Valar Atomics Inc - Preapplicat…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26271A241%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26224A415",
+            "date": "10/02",
+            "title": "Valar Atomics Inc. - Letter Submittal of Regulatory Engagement P…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26224A415%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26224A417",
+            "date": "10/02",
+            "title": "Unsworn Declaration of Mark Mitchell In Support of Request for W…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26224A417%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26274A395",
+            "date": "10/01",
+            "title": "260402-REP_Affidavit_2390_signed",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26274A395%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26274A394",
+            "date": "10/01",
+            "title": "260402-REP_Cover_Letter_signed",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26274A394%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "funding": {
+        "headline": "SEC 공시 미확인",
+        "short_label": "SEC 공시 미확인",
+        "scope_note": null,
+        "as_of": "2026-07-15",
+        "recent_filings": [],
+        "assessment": null,
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
+      },
+      "kakao_summary": "Valar Atomics Ward 250\n판단 불가 — 단계 신호 문서 없음\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: Valar Atomics는 2026년 4월 최초 제출에 이어 8월 Regulatory Engagement Plan Rev.1을 NRC에 제출하고 프로젝트 번호(99902185)를 공식 배정받았으며, Ward250 HTGR은 DOE 파일럿 프로그램 하에 이미 운영 중이고 두 번째 시험로(NumenorOne) DOE 인허가도 신청된 상태로, NRC 사전신청 단계가 본격 개시된 활발한 진행 국면으로 판단됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 진행 신호 없음"
+    },
+    {
+      "id": "organicore_oc80",
+      "name": "OrganiCore OC-80",
+      "total_docs": 3,
+      "doc_date_range": {
+        "earliest": "2026-10-07",
+        "latest": "2026-10-08"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "사전신청 단계",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "OrganiCore는 2026년 8월 LOI 제출 후 약 2개월 만인 10월 9일 NRC와 첫 사전신청(Pre-application) 공개회의를 개최하였으며, OC-80은 80MWe급 저압·유기냉각제·경수감속 SMR로 10 CFR Part 53 경로를 우선 추진 중임. 직전 확인 기록이 없어 비교는 불가하나, LOI → 회의 개최 → 독점정보 비공개 요청까지 단기간에 연속 진행된 점에서 초기 단계임에도 활발히 움직이고 있는 것으로 평가됨.",
+        "evidence": [
+          "ML26268A079 | 2026-10-07 | Letter of Intent to Commence Pre-application Activities for the Organi",
+          "ML26281A015 | 2026-10-08 | 2026-10-09 - Organicore Public Meeting - Non-Proprietary Slides",
+          "ML26281A014 | 2026-10-08 | 2026-10-09 - Organicore Affidavit Supporting Request for Withholding U"
+        ]
+      },
+      "stage_signal_line": "사전신청 1 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26281A014",
+            "date": "10/08",
+            "title": "2026-10-09 - Organicore Affidavit Supporting Request for Withhol…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26281A014%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26281A015",
+            "date": "10/08",
+            "title": "2026-10-09 - Organicore Public Meeting - Non-Proprietary Slides",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26281A015%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26268A079",
+            "date": "10/07",
+            "title": "Letter of Intent to Commence Pre-application Activities for the …",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26268A079%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "funding": {
+        "headline": "SEC 공시 미확인",
+        "short_label": "SEC 공시 미확인",
+        "scope_note": null,
+        "as_of": "2026-07-15",
+        "recent_filings": [],
+        "assessment": null,
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
+      },
+      "kakao_summary": "OrganiCore OC-80\n사전신청 단계\n\n최근 활동: OrganiCore는 2026년 8월 LOI 제출 후 약 2개월 만인 10월 9일 NRC와 첫 사전신청(Pre-application) 공개회의를 개최하였으며, OC-80은 80MWe급 저압·유기냉각제·경수감속 SMR로 10 CFR Part 53 경로를 우선 추진 중임. 직전 확인 기록이 없어 비교는 불가하나, LOI → 회의 개최 → 독점정보 비공개 요청까지 단기간에 연속 진행된 점에서 초기 단계임에도 활발히 움직이고 있는 것으로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 1 [현재]"
+    },
+    {
+      "id": "ampera_microreactor",
+      "name": "AMPERA Microreactor",
+      "total_docs": 5,
+      "doc_date_range": {
+        "earliest": "2026-09-18",
+        "latest": "2026-10-19"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "판단 불가 — 단계 신호 문서 없음",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "AMPERA는 2026년 9월 규제참여계획(REP v1) 제출에 이어 10월 적층제조(AM) 핵구조재료의 프로세스-미세조직 및 조사거동 기술보고서 2건을 NRC 사전신청 참여 지원 목적으로 제출하였으며, 수수료 면제 요청도 병행하는 등 사전신청 단계에서 활발히 진행 중이나 아직 본허가 신청 전 초기 기술정렬 단계에 머물러 있음.",
+        "evidence": [
+          "ML26281A316 | 2026-10-19 | Ampera, Inc., Submittal of Two Technical Reports for Pre-Application E",
+          "ML26281A317 | 2026-10-19 | WP-26-10-002, \"Additive Manufacturing of Nuclear Structural Materials:",
+          "ML26281A318 | 2026-10-19 | WP-26-10-001, \"Irradiation Behavior and Qualification of Additively Ma",
+          "ML26266A278 | 2026-10-01 | AMPERA, Inc., Request for Fee Waiver - Part 53/57 Licensing",
+          "ML26253A058 | 2026-09-18 | Ampera, Inc., Revised Regulatory Engagement Plan (REP), Version 1"
+        ]
+      },
+      "stage_signal_line": "사전신청 0 | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26281A316",
+            "date": "10/19",
+            "title": "Ampera, Inc., Submittal of Two Technical Reports for Pre-Applica…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26281A316%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26281A317",
+            "date": "10/19",
+            "title": "WP-26-10-002, \"Additive Manufacturing of Nuclear Structural Mate…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26281A317%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26281A318",
+            "date": "10/19",
+            "title": "WP-26-10-001, \"Irradiation Behavior and Qualification of Additiv…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26281A318%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26266A278",
+            "date": "10/01",
+            "title": "AMPERA, Inc., Request for Fee Waiver - Part 53/57 Licensing",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26266A278%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26253A058",
+            "date": "09/18",
+            "title": "Ampera, Inc., Revised Regulatory Engagement Plan (REP), Version 1",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26253A058%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "funding": {
+        "headline": "SEC 공시 미확인",
+        "short_label": "SEC 공시 미확인",
+        "scope_note": null,
+        "as_of": "2026-07-15",
+        "recent_filings": [],
+        "assessment": null,
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
+      },
+      "kakao_summary": "AMPERA Microreactor\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: AMPERA는 2026년 9월 규제참여계획(REP v1) 제출에 이어 10월 적층제조(AM) 핵구조재료의 프로세스-미세조직 및 조사거동 기술보고서 2건을 NRC 사전신청 참여 지원 목적으로 제출하였으며, 수수료 면제 요청도 병행하는 등 사전신청 단계에서 활발히 진행 중이나 아직 본허가 신청 전 초기 기술정렬 단계에 머물러 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 진행 신호 없음"
+    },
+    {
+      "id": "bwxt_banr",
+      "name": "BWXT Advanced Nuclear Reactor (BANR)",
+      "total_docs": 53,
+      "doc_date_range": {
+        "earliest": "2022-06-15",
+        "latest": "2026-10-13"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "사전신청 단계",
+        "bullets": [
+          "절차: 의무 심리(uncontested hearing) 관련 문서 존재"
+        ],
+        "note_lines": []
+      },
+      "legal_note": "의무 심리(uncontested hearing) 관련 문서 존재",
+      "recent_activity": {
+        "comment": "2026년 9월 22일 공개 하이브리드 회의에서 BWXT는 BANR의 질소 냉각재 설계(75MWt×2기), UN TRISO 연료 조사시험(BANR-1, 6개 캡슐), AGR 데이터 활용 계획 등을 NRC에 업데이트했으며, 초기 인허가는 NRC가 아닌 미 육군 Janus 프로그램 경로로 진행 중임이 확인됨. 직전 확인 기록이 없어 비교는 불가하나, 연료 자격인증 백서 NRC 피드백(2024년 10월), QAPD 검증(2024년 5월)에 이어 분기별 업데이트 회의가 지속되고 있어 프로젝트는 점진적으로 활발히 진행 중으로 판단됨.",
+        "evidence": [
+          "ML26267A010 | 2026-10-13 | Meeting Summary BWXT 9-22-26",
+          "ML26252A153 | 2026-09-14 | 09/22/2026 BWXT Advanced Nuclear Reactor ARDP Fuel Qualification 2026 ",
+          "ML26252A347 | 2026-09-10 | BWXT Advanced Reactor Demonstration Project (ARDP) Update 09/22/2026",
+          "ML24278A131 | 2024-10-15 | NRC feedback regarding BANR UN TRISO Fuel Qualification Plan White Pap",
+          "ML24137A316 | 2024-05-21 | NRC 896 -A Verification for BWXT BANR QAPD"
+        ]
+      },
+      "stage_signal_line": "사전신청 15 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26267A010",
+            "date": "10/13",
+            "title": "Meeting Summary BWXT 9-22-26",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26267A010%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26252A153",
+            "date": "09/14",
+            "title": "09/22/2026 BWXT Advanced Nuclear Reactor ARDP Fuel Qualification…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26252A153%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26252A347",
+            "date": "09/10",
+            "title": "BWXT Advanced Reactor Demonstration Project (ARDP) Update 09/22/…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26252A347%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26051A277",
+            "date": "03/03",
+            "title": "BWX Technologies, Inc., Affidavit Supporting Request for Withhol…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26051A277%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26055A153",
+            "date": "03/03",
+            "title": "Enclosure 1: Affidavit",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26055A153%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "funding": {
+        "headline": "SEC 공시 미확인",
+        "short_label": "SEC 공시 미확인",
+        "scope_note": null,
+        "as_of": "2026-07-15",
+        "recent_filings": [],
+        "assessment": null,
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
+      },
+      "kakao_summary": "BWXT Advanced Nuclear Reactor (BANR)\n사전신청 단계\n절차: 의무 심리(uncontested hearing) 관련 문서 존재\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 9월 22일 공개 하이브리드 회의에서 BWXT는 BANR의 질소 냉각재 설계(75MWt×2기), UN TRISO 연료 조사시험(BANR-1, 6개 캡슐), AGR 데이터 활용 계획 등을 NRC에 업데이트했으며, 초기 인허가는 NRC가 아닌 미 육군 Janus 프로그램 경로로 진행 중임이 확인됨. 직전 확인 기록이 없어 비교는 불가하나, 연료 자격인증 백서 NRC 피드백(2024년 10월), QAPD 검증(2024년 5월)에 이어 분기별 업데이트 회의가 지속되고 있어 프로젝트는 점진적으로 활발히 진행 중으로 판단됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 15 [현재]"
+    },
+    {
+      "id": "fermi_america_matador",
+      "name": "Fermi America Project Matador AP1000 Units 1-4",
+      "total_docs": 76,
+      "doc_date_range": {
+        "earliest": "2025-09-05",
+        "latest": "2026-10-29"
+      },
+      "track_labels": [
+        "Part 52 (COL)"
+      ],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "COL 신청",
+        "bullets": [
+          "COL: ML26223A375 | 2026-08-19 08:15 | Supplemental Project Information to Support the Pilot Program Applicant Prepared Environme",
+          "SER 진행도: NRC 기술검토 중",
+          "환경검토(EIS/EA): 초안 EIS 단계 — ML26287A073 | 2026-10-21 08:15 | Comment (1) of A. Anon on Fermi America LLC (dba Fermi America); Project Matador Advanced "
+        ],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "2026년 10월 현재 Draft EIS(초안 환경영향평가서)에 대한 공개 의견수렴 단계가 활발히 진행 중으로, 인근 주민(수자원·가축 영향 우려), 환경단체(양서류 보호), 익명 일반인(원전 반대), 코만치 네이션 역사보존사무소, 위치타 부족 등 다양한 이해관계자로부터 의견서가 접수되고 있으며, ACHP(역사보존자문위원회)의 접수 확인 및 부족 대상 NRC 발송 서한도 확인되어 EIS 공식 검토 절차가 정상적으로 이행되고 있다.",
+        "evidence": [
+          "ML26292A029 | 2026-10-29 | 2026/10/13 - Comment (1) E-mail regarding Fermi America Draft EIS",
+          "ML26292A309 | 2026-10-29 | 2026/10/14 - Comment (2) E-mail regarding Fermi America Draft EIS",
+          "ML26287A073 | 2026-10-21 | Comment (1) of A. Anon on Fermi America LLC (dba Fermi America); Proje",
+          "ML26287A074 | 2026-10-21 | Comment (2) of Nikolas A. Naranjo on Fermi America LLC (dba Fermi Amer",
+          "ML26289A080 | 2026-10-16 | 10-15-26 Email from R. Mangum, ACHP Acknowledging Receipt of Letter - ",
+          "ML26287A027 | 2026-10-14 | 10-31-26 Ltr from T. Villicana, Comanche Nation Historic Preservation ",
+          "ML26265A261 | 2026-10-09 | Letter to A. Silverhorn-Wolfe, Wichita and Affiliated Tribes - Fermi-A",
+          "ML26237A202 | 2026-10-09 | Letter to D. Cooper, Apache Tribe of Oklahoma - Fermi-America Draft EI"
+        ]
+      },
+      "stage_signal_line": "사전신청 3 | 신청접수 2 | 기술검토 1 [현재] | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26292A029",
+            "date": "10/29",
+            "title": "2026/10/13 - Comment (1) E-mail regarding Fermi America Draft EIS",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26292A029%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26292A309",
+            "date": "10/29",
+            "title": "2026/10/14 - Comment (2) E-mail regarding Fermi America Draft EIS",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26292A309%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26287A073",
+            "date": "10/21",
+            "title": "Comment (1) of A. Anon on Fermi America LLC (dba Fermi America);…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26287A073%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26287A074",
+            "date": "10/21",
+            "title": "Comment (2) of Nikolas A. Naranjo on Fermi America LLC (dba Ferm…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26287A074%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26289A080",
+            "date": "10/16",
+            "title": "10-15-26 Email from R. Mangum, ACHP Acknowledging Receipt of Let…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26289A080%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "funding": {
+        "headline": "SEC 공시 미확인",
+        "short_label": "SEC 공시 미확인",
+        "scope_note": null,
+        "as_of": "2026-07-15",
+        "recent_filings": [],
+        "assessment": null,
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
+      },
+      "kakao_summary": "Fermi America Project Matador AP1000 Units 1-4\nCOL 신청\nCOL: ML26223A375 | 2026-08-19 08:15 | Supplemental Project Information to Support the Pilot Program Applicant Prepared Environme\n\n최근 활동: 2026년 10월 현재 Draft EIS(초안 환경영향평가서)에 대한 공개 의견수렴 단계가 활발히 진행 중으로, 인근 주민(수자원·가축 영향 우려), 환경단체(양서류 보호), 익명 일반인(원전 반대), 코만치 네이션 역사보존사무소, 위치타 부족 등 다양한 이해관계자로부터 의견서가 접수되고 있으며, ACHP(역사보존자문위원회)의 접수 확인 및 부족 대상 NRC 발송 서한도 확인되어 EIS 공식 검토 절차가 정상적으로 이행되고 있다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 3 | 신청접수 2 | 기술검토 1 [현재]"
+    },
+    {
+      "id": "advanced_float_abwr",
+      "name": "Advanced Float Offshore Floating ABWR",
+      "total_docs": 6,
+      "doc_date_range": {
+        "earliest": "2026-09-22",
+        "latest": "2026-11-02"
+      },
+      "track_labels": [],
+      "track_labels_inferred": [],
+      "track_caveat": null,
+      "current_status": {
+        "headline": "사전신청 단계",
+        "bullets": [],
+        "note_lines": []
+      },
+      "legal_note": null,
+      "recent_activity": {
+        "comment": "Advanced Float Co., Ltd.는 2026년 9월 규제 참여 계획(REP) 제출 및 프로젝트 번호(99902176) 부여를 시작으로, 11월 5일 NRC 사전신청 공개회의(공개·비공개 세션)를 개최하는 등 초기 라이선싱 절차가 빠르게 진행 중이며, 비공개 세션에서는 일본-미국 간 핵정보 공유 절차 현황 및 ABWR 설계 인증 참조 방안 등 핵심 전략 사안을 다뤘으나 해당 내용은 비밀 상업정보로 비공개 처리되어 세부 일정·기술 제출 계획은 확인 불가한 상태임.",
+        "evidence": [
+          "ML26296A006 | 2026-11-02 | Advanced Float Co., Ltd - NRC Closed Session - 2.390 Affidavit for Tak",
+          "ML26292A082 | 2026-10-27 | AFC_NRC_PublicMeeting_OpenSession_Rev0",
+          "ML26265A002 | 2026-10-02 | Advanced Float Co., Ltd. - Assignment of Project Number and Explanatio",
+          "ML26257A289 | 2026-09-22 | Submittal of Regulatory Engagement Plan, Revision 0 Advanced Float Co.",
+          "ML26257A291 | 2026-09-22 | Advanced Float Co., Ltd - Regulatory Engagement Plan (REF)"
+        ]
+      },
+      "stage_signal_line": "사전신청 2 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
+      "recent_documents": {
+        "header": "최근 문서 (2026)",
+        "items": [
+          {
+            "accession_number": "ML26296A006",
+            "date": "11/02",
+            "title": "Advanced Float Co., Ltd - NRC Closed Session - 2.390 Affidavit f…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26296A006%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26292A082",
+            "date": "10/27",
+            "title": "AFC_NRC_PublicMeeting_OpenSession_Rev0",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26292A082%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26265A002",
+            "date": "10/02",
+            "title": "Advanced Float Co., Ltd. - Assignment of Project Number and Expl…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26265A002%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26265A275",
+            "date": "09/22",
+            "title": "Pre-Application Meeting: Introduction & Design Overview of Advan…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26265A275%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26257A291",
+            "date": "09/22",
+            "title": "Advanced Float Co., Ltd - Regulatory Engagement Plan (REF)",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26257A291%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          }
+        ]
+      },
+      "funding": {
+        "headline": "SEC 공시 미확인",
+        "short_label": "SEC 공시 미확인",
+        "scope_note": null,
+        "as_of": "2026-07-15",
+        "recent_filings": [],
+        "assessment": null,
+        "signal": null,
+        "status_tag": "unmapped",
+        "form_d_round_count": null
+      },
+      "kakao_summary": "Advanced Float Offshore Floating ABWR\n사전신청 단계\n\n최근 활동: Advanced Float Co., Ltd.는 2026년 9월 규제 참여 계획(REP) 제출 및 프로젝트 번호(99902176) 부여를 시작으로, 11월 5일 NRC 사전신청 공개회의(공개·비공개 세션)를 개최하는 등 초기 라이선싱 절차가 빠르게 진행 중이며, 비공개 세션에서는 일본-미국 간 핵정보 공유 절차 현황 및 ABWR 설계 인증 참조 방안 등 핵심 전략 사안을 다뤘으나 해당 내용은 비밀 상업정보로 비공개 처리되어 세부 일정·기술 제출 계획은 확인 불가한 상태임.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 2 [현재]"
     }
   ]
 }
