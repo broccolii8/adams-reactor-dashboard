@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T07:07:52Z",
+  "generated_at": "2026-11-03T23:01:38Z",
   "last_checked": "2026-11-03",
-  "total_docs": 17396,
+  "total_docs": 17397,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -2268,10 +2268,10 @@
     {
       "id": "fanco_eagl1",
       "name": "First American Nuclear EAGL-1",
-      "total_docs": 3,
+      "total_docs": 4,
       "doc_date_range": {
         "earliest": "2026-02-25",
-        "latest": "2026-10-08"
+        "latest": "2026-11-03"
       },
       "track_labels": [],
       "track_labels_inferred": [],
@@ -2283,17 +2283,24 @@
       },
       "legal_note": null,
       "recent_activity": {
-        "comment": "2026년 2월 규제 참여 계획(REP) 제출로 10 CFR Part 50 프로토타입 라이선싱 경로 및 기술 전략이 공식화됐으며, 2026년 10월 NRC와 EAGL-1 재래식 섬(Conventional Island) SSC 관련 비공개 기술 회의가 진행돼 프리-애플리케이션 단계에서 실질적인 기술 논의가 활발히 이루어지고 있음.",
+        "comment": "FANCO는 2026년 2월 규제참여계획 수립 후 10월 비공개 회의를 거쳐 11월 'Conventional Island SSC의 사전시공 활동 해당 여부' 백서를 NRC에 제출하며 LWA 없이 비핵섬 구조물 선행 시공 허용을 요청하는 등, 사전신청 단계에서 구체적 인허가 쟁점을 적극적으로 진전시키고 있어 활발히 진행 중으로 평가됩니다.",
         "evidence": [
+          "ML26299A397 | 2026-11-03 | 1st American Nuclear Co., Justification that Installation of Conventio",
+          "ML26281A410 | 2026-10-08 | Closed Meeting with First American Nuclear Company (FANCO) 10/15/2026",
           "ML26048A511 | 2026-02-25 | 1st American Nuclear Co., Regulatory Engagement Plan Version 001, Cove",
-          "ML26048A512 | 2026-02-25 | 1st American Nuclear Co., Regulatory Engagement Plan, EAGL-1 Liquid He",
-          "ML26281A410 | 2026-10-08 | Closed Meeting with First American Nuclear Company (FANCO) 10/15/2026"
+          "ML26048A512 | 2026-02-25 | 1st American Nuclear Co., Regulatory Engagement Plan, EAGL-1 Liquid He"
         ]
       },
       "stage_signal_line": "사전신청 1 [현재] | 신청접수 0 | 기술검토 0 | 초안 SE 0 | 최종 0",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26299A397",
+            "date": "11/03",
+            "title": "1st American Nuclear Co., Justification that Installation of Con…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26299A397%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26281A410",
             "date": "10/08",
@@ -2354,7 +2361,7 @@
         "status_tag": "form_d",
         "form_d_round_count": 4
       },
-      "kakao_summary": "First American Nuclear EAGL-1\n사전신청 단계\n\n최근 활동: 2026년 2월 규제 참여 계획(REP) 제출로 10 CFR Part 50 프로토타입 라이선싱 경로 및 기술 전략이 공식화됐으며, 2026년 10월 NRC와 EAGL-1 재래식 섬(Conventional Island) SSC 관련 비공개 기술 회의가 진행돼 프리-애플리케이션 단계에서 실질적인 기술 논의가 활발히 이루어지고 있음.\n\n💰 자금조달: 비상장 · 사모 조달 4회 (2025) — 누적 $12,687,050 조달 (최근 라운드 $1,417,050 / 목표 $1,417,050)\n📊 진척도: 2025년 하반기에 4차례 사모 조달을 실시하며 활동이 집중되었고, 특히 12월에는 두 건 모두 목표액을 100% 달성했으나, 8월 공시에서 $20,000 조달(목표 $5,000,000 대비 0.4%)로 극심한 미달이 확인되어 조달 규모의 일관성이 결여되어 있음.\n\n단계별 문서: 사전신청 1 [현재]"
+      "kakao_summary": "First American Nuclear EAGL-1\n사전신청 단계\n\n최근 활동: FANCO는 2026년 2월 규제참여계획 수립 후 10월 비공개 회의를 거쳐 11월 'Conventional Island SSC의 사전시공 활동 해당 여부' 백서를 NRC에 제출하며 LWA 없이 비핵섬 구조물 선행 시공 허용을 요청하는 등, 사전신청 단계에서 구체적 인허가 쟁점을 적극적으로 진전시키고 있어 활발히 진행 중으로 평가됩니다.\n\n💰 자금조달: 비상장 · 사모 조달 4회 (2025) — 누적 $12,687,050 조달 (최근 라운드 $1,417,050 / 목표 $1,417,050)\n📊 진척도: 2025년 하반기에 4차례 사모 조달을 실시하며 활동이 집중되었고, 특히 12월에는 두 건 모두 목표액을 100% 달성했으나, 8월 공시에서 $20,000 조달(목표 $5,000,000 대비 0.4%)로 극심한 미달이 확인되어 조달 규모의 일관성이 결여되어 있음.\n\n단계별 문서: 사전신청 1 [현재]"
     },
     {
       "id": "blykalla_sealer",
