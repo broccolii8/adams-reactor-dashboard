@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-03T23:01:38Z",
-  "last_checked": "2026-11-03",
-  "total_docs": 17397,
+  "generated_at": "2026-11-04T04:50:05Z",
+  "last_checked": "2026-11-04",
+  "total_docs": 17399,
   "reactors": [
     {
       "id": "kairos_hermes",
@@ -81,7 +81,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
@@ -166,7 +166,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
@@ -246,8 +246,29 @@
         "headline": "SEC 공시 기업 (Tennessee Valley Authority)",
         "short_label": "SEC 공시 기업",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
+          {
+            "date": "2026-08-25",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000038/0001376986-26-000038-index.htm",
+            "summary": "TVA, FY2027 임직원 성과급 목표 및 평가지표 확정"
+          },
+          {
+            "date": "2026-08-04",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000036/0001376986-26-000036-index.htm",
+            "summary": "TVA 2026년 2분기 실적 보고"
+          },
+          {
+            "date": "2026-07-15",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000033/0001376986-26-000033-index.htm",
+            "summary": "TVA, 10억 달러 규모 신용 한도 계약 체결"
+          },
           {
             "date": "2026-05-28",
             "form": "8-K",
@@ -261,35 +282,14 @@
             "title": "10-Q (분기보고서)",
             "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000029/0001376986-26-000029-index.htm",
             "summary": "TVA 2026년 1분기 실적 및 재무현황 보고"
-          },
-          {
-            "date": "2026-04-24",
-            "form": "8-K",
-            "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000026/0001376986-26-000026-index.htm",
-            "summary": "TVA, 스캑스 임시 CEO 선임·연봉 50만달러"
-          },
-          {
-            "date": "2026-04-13",
-            "form": "8-K",
-            "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000024/0001376986-26-000024-index.htm",
-            "summary": "TVA 회장·CEO 무울, 퇴직 합의 및 분리 계약 체결"
-          },
-          {
-            "date": "2026-04-06",
-            "form": "8-K",
-            "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000022/0001376986-26-000022-index.htm",
-            "summary": "TVA CEO 무울, 2026년 7월 1일부로 은퇴 예정"
           }
         ],
-        "assessment": "TVA는 커벌랜드 발전소 30년 리스-매입 계약 체결로 인프라 확장을 지속하고 있으나, 단기간 내 CEO 은퇴·퇴직 합의·임시 CEO 선임이 연속 발생해 리더십 불안정이 뚜렷한 경고 신호로 작용하고 있다.",
-        "signal": "warning",
+        "assessment": "TVA는 10억 달러 신용한도 체결, 커벌랜드 발전소 장기 리스-매입 계약 등 자금조달과 인프라 확장이 활발하며, 뚜렷한 경고 신호는 확인되지 않는다.",
+        "signal": "positive",
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "BWRX-300 / Clinch River Unit 1\nESP 발급 / CP 발급\nESP: ML19189A228 | 2019-12-23 08:47 | Issuance of Early Site Permit for the Clinch River Nuclear Site Early Site Permit-006 to t\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: 2026년 9월 29일 NRC가 TVA의 Clinch River 부지에 대해 GE Vernova Hitachi BWRX-300(300MW) 건설허가(CP)를 공식 승인했으며, 2025년 7월 심사 착수 후 14개월 만에 완료(예정보다 4개월 단축)된 것으로 확인됨. 직전 상태(ESP 발급, CP 미발급)에서 CP 발급으로 명확한 진전이 이루어졌으며, 다음 단계는 운영허가(OL) 신청임.\n\n💰 자금조달: SEC 공시 기업 (Tennessee Valley Authority)\n📊 진척도: ⚠️ TVA는 커벌랜드 발전소 30년 리스-매입 계약 체결로 인프라 확장을 지속하고 있으나, 단기간 내 CEO 은퇴·퇴직 합의·임시 CEO 선임이 연속 발생해 리더십 불안정이 뚜렷한 경고 신호로 작용하고 있다.\n\n단계별 문서: 사전신청 300 | 신청접수 14 | 기술검토 11 | 최종 16 [현재]"
+      "kakao_summary": "BWRX-300 / Clinch River Unit 1\nESP 발급 / CP 발급\nESP: ML19189A228 | 2019-12-23 08:47 | Issuance of Early Site Permit for the Clinch River Nuclear Site Early Site Permit-006 to t\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: 2026년 9월 29일 NRC가 TVA의 Clinch River 부지에 대해 GE Vernova Hitachi BWRX-300(300MW) 건설허가(CP)를 공식 승인했으며, 2025년 7월 심사 착수 후 14개월 만에 완료(예정보다 4개월 단축)된 것으로 확인됨. 직전 상태(ESP 발급, CP 미발급)에서 CP 발급으로 명확한 진전이 이루어졌으며, 다음 단계는 운영허가(OL) 신청임.\n\n💰 자금조달: SEC 공시 기업 (Tennessee Valley Authority)\n📊 진척도: TVA는 10억 달러 신용한도 체결, 커벌랜드 발전소 장기 리스-매입 계약 등 자금조달과 인프라 확장이 활발하며, 뚜렷한 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 300 | 신청접수 14 | 기술검토 11 | 최종 16 [현재]"
     },
     {
       "id": "bwrx300_aep_rockport",
@@ -360,50 +360,50 @@
         "headline": "상장사 (NYSE:AEP)",
         "short_label": "상장사",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
           {
-            "date": "2026-05-14",
-            "form": "8-K",
-            "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/4904/000119312526223988/0001193125-26-223988-index.htm",
-            "summary": "2,354만 주 선도매도계약 체결, 자본조달 추진"
-          },
-          {
-            "date": "2026-05-05",
+            "date": "2026-10-28",
             "form": "10-Q",
             "title": "10-Q (분기보고서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000034/0000004904-26-000034-index.htm",
-            "summary": "AEP, 2026년 1분기 실적 및 자회사 현황 공개"
+            "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000072/0000004904-26-000072-index.htm",
+            "summary": "AEP, 2026년 3분기 실적 및 자회사 현황 공시"
           },
           {
-            "date": "2026-05-05",
+            "date": "2026-10-28",
             "form": "8-K",
             "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000031/0000004904-26-000031-index.htm",
-            "summary": "AEP, 2026년 1분기 실적 발표"
+            "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000069/0000004904-26-000069-index.htm",
+            "summary": "AEP, 2026년 3분기 재무실적 발표"
           },
           {
-            "date": "2026-04-29",
+            "date": "2026-09-30",
             "form": "8-K",
             "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000026/0000004904-26-000026-index.htm",
-            "summary": "보통주 수권주식 9억주로 증가·정관 개정 승인"
+            "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000063/0000004904-26-000063-index.htm",
+            "summary": "핵 개발 사장 Alicia Knapp 비자발적 퇴사, 퇴직금 지급 예정"
           },
           {
-            "date": "2026-03-18",
-            "form": "DEF 14A",
-            "title": "DEF 14A (주주총회 위임장)",
-            "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000022/0000004904-26-000022-index.htm",
-            "summary": "주총 안건: 이사 선출·주식수 증가·임원 보상 승인"
+            "date": "2026-07-30",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000059/0000004904-26-000059-index.htm",
+            "summary": "AEP, 2026년 2분기 실적 및 자회사 현황 공시"
+          },
+          {
+            "date": "2026-07-30",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000055/0000004904-26-000055-index.htm",
+            "summary": "AEP, 2026년 2분기 재무실적 발표"
           }
         ],
-        "assessment": "AEP는 2,354만 주 선도매도계약 체결, 수권주식 9억 주로 증가 등 적극적인 자본조달을 추진 중이며, 1분기 실적 공시도 정상적으로 이루어져 사업 진척은 안정적으로 평가된다. 다만 대규모 주식 희석 가능성은 기존 주주 관점에서 주의가 필요하다.",
-        "signal": "neutral",
+        "assessment": "AEP는 분기별 실적 공시를 정상적으로 이행하고 있으나, 핵 개발 사장 Alicia Knapp의 비자발적 퇴사는 주요 임원 이탈로 사업 추진 불확실성을 높이는 경고 신호로 판단됩니다.",
+        "signal": "warning",
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "BWRX-300 / AEP Rockport (Indiana Michigan Power)\n사전신청 단계\n\n최근 활동: AEP는 2026년 상반기부터 NRC와 인허가 경로 논의, NEPA 파일럿 프로그램 참여, 착공 전 활동 정당화 백서 제출 등을 통해 규제 초기 단계를 적극적으로 진행 중이며, GVH도 BWRX-300 Safety Strategy LTR에 대한 RAI 응답을 제출하는 등 설계 인허가 기술 심사가 병행 진행되고 있어 직전 대비 다방면에서 의미 있는 진전이 확인됨.\n\n💰 자금조달: 상장사 (NYSE:AEP)\n📊 진척도: AEP는 2,354만 주 선도매도계약 체결, 수권주식 9억 주로 증가 등 적극적인 자본조달을 추진 중이며, 1분기 실적 공시도 정상적으로 이루어져 사업 진척은 안정적으로 평가된다. 다만 대규모 주식 희석 가능성은 기존 주주 관점에서 주의가 필요하다.\n\n단계별 문서: 사전신청 183 [현재]"
+      "kakao_summary": "BWRX-300 / AEP Rockport (Indiana Michigan Power)\n사전신청 단계\n\n최근 활동: AEP는 2026년 상반기부터 NRC와 인허가 경로 논의, NEPA 파일럿 프로그램 참여, 착공 전 활동 정당화 백서 제출 등을 통해 규제 초기 단계를 적극적으로 진행 중이며, GVH도 BWRX-300 Safety Strategy LTR에 대한 RAI 응답을 제출하는 등 설계 인허가 기술 심사가 병행 진행되고 있어 직전 대비 다방면에서 의미 있는 진전이 확인됨.\n\n💰 자금조달: 상장사 (NYSE:AEP)\n📊 진척도: ⚠️ AEP는 분기별 실적 공시를 정상적으로 이행하고 있으나, 핵 개발 사장 Alicia Knapp의 비자발적 퇴사는 주요 임원 이탈로 사업 추진 불확실성을 높이는 경고 신호로 판단됩니다.\n\n단계별 문서: 사전신청 183 [현재]"
     },
     {
       "id": "terrapower_natrium_kemmerer",
@@ -477,7 +477,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
@@ -489,10 +489,10 @@
     {
       "id": "xenergy_xe100",
       "name": "X-energy Xe-100",
-      "total_docs": 1753,
+      "total_docs": 1755,
       "doc_date_range": {
         "earliest": "2018-11-21",
-        "latest": "2026-10-30"
+        "latest": "2026-11-03"
       },
       "track_labels": [
         "Part 50 (CP/OL)"
@@ -513,19 +513,29 @@
       },
       "legal_note": "쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음",
       "recent_activity": {
-        "comment": "2026년 10월 NRC가 Long Mott 발전소(Xe-100 4기) CP 신청에 대한 최종 안전평가보고서(FSER)를 완료·발행하고 의무청문회까지 개최함으로써, CP 신청 단계에서 CP 발급 결정 직전 단계로 실질적으로 진입한 상태이며 프로젝트는 매우 활발히 진행 중입니다.",
+        "comment": "Long Mott Energy(LME)의 Xe-100 CPA에 대한 NRC 최종안전평가보고서(FSER)가 2026년 10월 발급되어 건설허가 권고 단계에 도달하였으며, X-energy는 화재방호 프로그램 대안 접근법에 관한 NRC 사전 협의 미팅을 준비하는 등 CP→OL 전환을 위한 후속 절차가 활발히 진행 중입니다.",
         "evidence": [
           "ML26295A007 | 2026-10-30 | NRC Final Safety Evaluation for Long Mott Energy, LLC., Long Mott Gene",
-          "ML26295A006 | 2026-10-30 | NRC Final Safety Evaluation for Long Mott Energy, LLC., Long Mott Gene",
-          "ML26293A341 | 2026-10-23 | NRC Audit Report for LMGS CPA - Cover Letter",
-          "ML26288A056 | 2026-10-23 | U.S. Nuclear Regulatory Commission Public Meeting Summary - Mandatory ",
-          "ML26293A102 | 2026-10-21 | Media Advisory-26-029-A: NRC to Hold Mandatory Hearing on Proposed Lon"
+          "ML26299A095 | 2026-11-03 | X Energy, LLC (X-energy), Letter Regarding Presentation Materials: Xe-",
+          "ML26299A096 | 2026-11-03 | X Energy, LLC (X-energy), Presentation Materials: Xe-100 Fire Protecti"
         ]
       },
-      "stage_signal_line": "사전신청 300 | 신청접수 21 | 기술검토 23 | 초안 SE 0 | 최종 1 [현재]",
+      "stage_signal_line": "사전신청 301 | 신청접수 21 | 기술검토 23 | 초안 SE 0 | 최종 1 [현재]",
       "recent_documents": {
         "header": "최근 문서 (2026)",
         "items": [
+          {
+            "accession_number": "ML26299A095",
+            "date": "11/03",
+            "title": "X Energy, LLC (X-energy), Letter Regarding Presentation Material…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26299A095%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
+          {
+            "accession_number": "ML26299A096",
+            "date": "11/03",
+            "title": "X Energy, LLC (X-energy), Presentation Materials: Xe-100 Fire Pr…",
+            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26299A096%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
+          },
           {
             "accession_number": "ML26295A007",
             "date": "10/30",
@@ -543,18 +553,6 @@
             "date": "10/29",
             "title": "Proprietary Determination - Construction Permit Application Revi…",
             "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26302A030%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26293A341",
-            "date": "10/23",
-            "title": "NRC Audit Report for LMGS CPA - Cover Letter",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26293A341%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
-          },
-          {
-            "accession_number": "ML26293A342",
-            "date": "10/23",
-            "title": "ENRC Audit Report for LMGS CPA - Enclosure 1 (Summary)",
-            "url": "https://adams-search.nrc.gov/results/%257B%2522keywords%2522%253A%2522%255C%2522ML26293A342%255C%2522%2522%252C%2522legacyLibFilter%2522%253Atrue%252C%2522mainLibFilter%2522%253Atrue%252C%2522any%2522%253A%255B%255D%252C%2522all%2522%253A%255B%255D%257D"
           }
         ]
       },
@@ -562,8 +560,22 @@
         "headline": "상장사 (Nasdaq:XE)",
         "short_label": "상장사",
         "scope_note": "X-Energy, Inc.의 전사(全社) 재무 정보 — xenergy_xenith, xenergy_trisox와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
+          {
+            "date": "2026-08-13",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000119312526347752/0001193125-26-347752-index.htm",
+            "summary": "X-Energy 2026년 2분기 실적 및 사업 현황 발표"
+          },
+          {
+            "date": "2026-08-13",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000119312526347740/0001193125-26-347740-index.htm",
+            "summary": "X-Energy, 2026년 2분기 실적 발표"
+          },
           {
             "date": "2026-06-04",
             "form": "10-Q",
@@ -584,28 +596,14 @@
             "title": "8-K (수시공시)",
             "url": "https://www.sec.gov/Archives/edgar/data/2088896/000208889626000005/0002088896-26-000005-index.htm",
             "summary": "X-Energy, 주주 대상 투자자 프레젠테이션 공개"
-          },
-          {
-            "date": "2026-04-27",
-            "form": "424B4",
-            "title": "424B (투자설명서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000110465926049515/0001104659-26-049515-index.htm",
-            "summary": "X-Energy, 나스닥 IPO 주당 23달러, 4425만주 공모"
-          },
-          {
-            "date": "2026-04-20",
-            "form": "S-1/A",
-            "title": "S-1/A (증권신고서 수정)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000110465926045175/0001104659-26-045175-index.htm",
-            "summary": "X-Energy, 소형 원자로 IPO 등록 4차 수정"
           }
         ],
-        "assessment": "X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주)를 완료해 자금조달을 성공적으로 마쳤으며, 1분기 실적 공시와 투자자 프레젠테이션 등 상장 후 공시 활동도 정상적으로 진행되고 있어 전반적인 사업 진척은 양호한 편이나, 락업 조기 해제 일정 공개는 주가 압박 요인으로 주시가 필요합니다.",
+        "assessment": "X-Energy는 상장기업으로서 2026년 1·2분기 연속 정기 공시를 이행하고 있으나, IPO 락업 조기 해제 일정 공개는 매도 압력 가능성을 시사하며, 현재 제공된 공시만으로는 재무 건전성이나 사업 진척의 긍정·부정 여부를 명확히 판단하기 어려운 중립적 상태이다.",
         "signal": "neutral",
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "X-energy Xe-100\nCP 신청\nCP: ML25090A058 | 2025-04-28 09:43 | Long Mott Energy, LLC, Submittal of Construction Permit Application for Long Mott Generati\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: 2026년 10월 NRC가 Long Mott 발전소(Xe-100 4기) CP 신청에 대한 최종 안전평가보고서(FSER)를 완료·발행하고 의무청문회까지 개최함으로써, CP 신청 단계에서 CP 발급 결정 직전 단계로 실질적으로 진입한 상태이며 프로젝트는 매우 활발히 진행 중입니다.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주)를 완료해 자금조달을 성공적으로 마쳤으며, 1분기 실적 공시와 투자자 프레젠테이션 등 상장 후 공시 활동도 정상적으로 진행되고 있어 전반적인 사업 진척은 양호한 편이나, 락업 조기 해제 일정 공개는 주가 압박 요인으로 주시가 필요합니다.\n\n단계별 문서: 사전신청 300 | 신청접수 21 | 기술검토 23 | 최종 1 [현재]"
+      "kakao_summary": "X-energy Xe-100\nCP 신청\nCP: ML25090A058 | 2025-04-28 09:43 | Long Mott Energy, LLC, Submittal of Construction Permit Application for Long Mott Generati\n쟁송형(contested) 심리절차 진행 — 제3자 이의제기 있음\n\n최근 활동: Long Mott Energy(LME)의 Xe-100 CPA에 대한 NRC 최종안전평가보고서(FSER)가 2026년 10월 발급되어 건설허가 권고 단계에 도달하였으며, X-energy는 화재방호 프로그램 대안 접근법에 관한 NRC 사전 협의 미팅을 준비하는 등 CP→OL 전환을 위한 후속 절차가 활발히 진행 중입니다.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 상장기업으로서 2026년 1·2분기 연속 정기 공시를 이행하고 있으나, IPO 락업 조기 해제 일정 공개는 매도 압력 가능성을 시사하며, 현재 제공된 공시만으로는 재무 건전성이나 사업 진척의 긍정·부정 여부를 명확히 판단하기 어려운 중립적 상태이다.\n\n단계별 문서: 사전신청 301 | 신청접수 21 | 기술검토 23 | 최종 1 [현재]"
     },
     {
       "id": "nuscale_us460",
@@ -681,8 +679,29 @@
         "headline": "상장사 (NYSE:SMR)",
         "short_label": "상장사",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
+          {
+            "date": "2026-08-11",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1822966/000110465926094073/0001104659-26-094073-index.htm",
+            "summary": "7억5천만 달러 규모 주식 시장매출 프로그램 개시"
+          },
+          {
+            "date": "2026-08-05",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1822966/000182296626000086/0001822966-26-000086-index.htm",
+            "summary": "뉴스케일파워, 2026년 2분기 실적 발표"
+          },
+          {
+            "date": "2026-08-05",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1822966/000182296626000085/0001822966-26-000085-index.htm",
+            "summary": "뉴스케일파워 2026년 2분기 실적 보고"
+          },
           {
             "date": "2026-06-02",
             "form": "8-K",
@@ -696,35 +715,14 @@
             "title": "10-Q (분기보고서)",
             "url": "https://www.sec.gov/Archives/edgar/data/1822966/000182296626000054/0001822966-26-000054-index.htm",
             "summary": "뉴스케일파워 2026년 1분기 실적 및 재무현황 보고"
-          },
-          {
-            "date": "2026-05-07",
-            "form": "8-K",
-            "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1822966/000182296626000052/0001822966-26-000052-index.htm",
-            "summary": "뉴스케일파워, 2026년 1분기 실적 발표"
-          },
-          {
-            "date": "2026-04-15",
-            "form": "DEF 14A",
-            "title": "DEF 14A (주주총회 위임장)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1822966/000182296626000042/0001822966-26-000042-index.htm",
-            "summary": "2026년 주주총회 이사 9인 선출 및 안건 공지"
-          },
-          {
-            "date": "2026-04-08",
-            "form": "8-K",
-            "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1822966/000182296626000038/0001822966-26-000038-index.htm",
-            "summary": "5월 7일 실적 발표 컨퍼런스콜 일정 공지"
           }
         ],
-        "assessment": "최근 공시는 정기 주총, 분기 실적 발표 등 일상적 공시에 그치며 신규 계약·파트너십·자금조달 등 사업 진척을 나타내는 이벤트가 없어 뚜렷한 성장 모멘텀이 확인되지 않는다.",
+        "assessment": "2026년 8월 7억5천만 달러 규모의 주식 시장매출 프로그램 개시는 대규모 자금조달 의지를 보여주나, 상장기업으로서 지속적인 외부 자금 의존은 수익 창출 미흡 가능성을 시사하며 신중한 모니터링이 필요합니다.",
         "signal": "neutral",
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "NuScale US460 SDA\nSDA 발급\nSDA: ML25129A004 | 2025-05-29 10:31 | Standard Design Approval SDA for the NuScale US460 Power Plant Design\n\n최근 활동: 2026년 7~8월 중 NuScale의 비상계획 관련 두 핵심 LTR(TR-182845 EECS, TR-183101 ERO)이 NRC로부터 공식 승인(-A 버전)을 받았고, 감사(Audit)도 완료(종료일 2026-07-17)되어 비상계획 규제 심사가 주요 단계를 통과한 만큼 프로젝트는 COL 경로에서 활발히 진행되고 있음.\n\n💰 자금조달: 상장사 (NYSE:SMR)\n📊 진척도: 최근 공시는 정기 주총, 분기 실적 발표 등 일상적 공시에 그치며 신규 계약·파트너십·자금조달 등 사업 진척을 나타내는 이벤트가 없어 뚜렷한 성장 모멘텀이 확인되지 않는다.\n\n단계별 문서: 사전신청 458 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
+      "kakao_summary": "NuScale US460 SDA\nSDA 발급\nSDA: ML25129A004 | 2025-05-29 10:31 | Standard Design Approval SDA for the NuScale US460 Power Plant Design\n\n최근 활동: 2026년 7~8월 중 NuScale의 비상계획 관련 두 핵심 LTR(TR-182845 EECS, TR-183101 ERO)이 NRC로부터 공식 승인(-A 버전)을 받았고, 감사(Audit)도 완료(종료일 2026-07-17)되어 비상계획 규제 심사가 주요 단계를 통과한 만큼 프로젝트는 COL 경로에서 활발히 진행되고 있음.\n\n💰 자금조달: 상장사 (NYSE:SMR)\n📊 진척도: 2026년 8월 7억5천만 달러 규모의 주식 시장매출 프로그램 개시는 대규모 자금조달 의지를 보여주나, 상장기업으로서 지속적인 외부 자금 의존은 수익 창출 미흡 가능성을 시사하며 신중한 모니터링이 필요합니다.\n\n단계별 문서: 사전신청 458 | 신청접수 2 | 기술검토 368 | 초안 SE 3 | 최종 34 [현재]"
     },
     {
       "id": "oklo_aurora",
@@ -804,8 +802,29 @@
         "headline": "상장사 (NYSE:OKLO)",
         "short_label": "상장사",
         "scope_note": "Oklo Inc.의 전사(全社) 재무 정보 — atomic_alchemy_meitner1, oklo_fuel_recycling와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
+          {
+            "date": "2026-09-11",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000110465926106897/0001104659-26-106897-index.htm",
+            "summary": "최대 10억 달러 규모 ATM 주식 공모 프로그램 개시"
+          },
+          {
+            "date": "2026-08-07",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026054571/0001628280-26-054571-index.htm",
+            "summary": "Oklo, 2026년 2분기 실적 및 사업 현황 보고"
+          },
+          {
+            "date": "2026-07-28",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000039/0001849056-26-000039-index.htm",
+            "summary": "임원 5인 신규 선임, 최고제품책임자 등 주요 직책 확정"
+          },
           {
             "date": "2026-06-17",
             "form": "10-Q/A",
@@ -819,35 +838,14 @@
             "title": "8-K (수시공시)",
             "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000028/0001849056-26-000028-index.htm",
             "summary": "2026 주주총회: 이사 3인 선출 및 회계법인 승인"
-          },
-          {
-            "date": "2026-05-13",
-            "form": "8-K",
-            "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000110465926060385/0001104659-26-060385-index.htm",
-            "summary": "Oklo, 최대 10억 달러 규모 ATM 주식 발행 프로그램 개시"
-          },
-          {
-            "date": "2026-05-12",
-            "form": "10-Q",
-            "title": "10-Q (분기보고서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026034095/0001628280-26-034095-index.htm",
-            "summary": "Oklo, 2026년 1분기 분기 실적 보고"
-          },
-          {
-            "date": "2026-04-21",
-            "form": "DEF 14A",
-            "title": "DEF 14A (주주총회 위임장)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000023/0001849056-26-000023-index.htm",
-            "summary": "2026년 주주총회: 이사 3인 선출 및 감사법인 승인 안건"
           }
         ],
-        "assessment": "Oklo는 최대 10억 달러 규모 ATM 프로그램 개시로 자금조달 여력을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부통제 측면에서 경미한 우려 신호로 볼 수 있어 전반적으로 중립적 진척 수준이다.",
+        "assessment": "Oklo는 최대 10억 달러 규모 ATM 프로그램 개시와 임원 5인 신규 선임으로 자금조달 및 조직 확충에 적극적이나, CFO 서명 누락에 따른 10-Q/A 정정 공시는 내부통제 측면에서 일부 우려를 남긴다.",
         "signal": "neutral",
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Oklo Aurora Powerhouse\n기존 신청 거부\nCOL 신청이 거부되었으며, 면허 발급 이력 없음\n⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Oklo는 직전 COL 거부 이후 Part 52 트랙을 유지하면서 새로운 접근을 병행 추진 중으로, 스태핑 계획 검증 방법론 토픽 보고서 Rev.0에 대한 NRC 규제 감사가 2026년 4월~9월 완료(미결 사항 없음)되고 Rev.1이 재제출됐으며, DOE INL 파일럿 프로그램 관련 NRC 관찰 서한 발송 및 RIM 프로그램 회의까지 진행되는 등 다수 병렬 규제 활동이 활발히 진행되고 있어 정체보다는 실질적 진전 국면으로 평가됨.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모 ATM 프로그램 개시로 자금조달 여력을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부통제 측면에서 경미한 우려 신호로 볼 수 있어 전반적으로 중립적 진척 수준이다.\n\n단계별 문서: 사전신청 172 | 신청접수 2 | 기술검토 16 | 최종 1 [확인 불가]"
+      "kakao_summary": "Oklo Aurora Powerhouse\n기존 신청 거부\nCOL 신청이 거부되었으며, 면허 발급 이력 없음\n⚠️ AI도 인허가 발급 여부를 근거 문서로 확정하지 못함\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: Oklo는 직전 COL 거부 이후 Part 52 트랙을 유지하면서 새로운 접근을 병행 추진 중으로, 스태핑 계획 검증 방법론 토픽 보고서 Rev.0에 대한 NRC 규제 감사가 2026년 4월~9월 완료(미결 사항 없음)되고 Rev.1이 재제출됐으며, DOE INL 파일럿 프로그램 관련 NRC 관찰 서한 발송 및 RIM 프로그램 회의까지 진행되는 등 다수 병렬 규제 활동이 활발히 진행되고 있어 정체보다는 실질적 진전 국면으로 평가됨.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모 ATM 프로그램 개시와 임원 5인 신규 선임으로 자금조달 및 조직 확충에 적극적이나, CFO 서명 누락에 따른 10-Q/A 정정 공시는 내부통제 측면에서 일부 우려를 남긴다.\n\n단계별 문서: 사전신청 172 | 신청접수 2 | 기술검토 16 | 최종 1 [확인 불가]"
     },
     {
       "id": "atomic_alchemy_meitner1",
@@ -919,8 +917,29 @@
         "headline": "상장사 (NYSE:OKLO)",
         "short_label": "상장사",
         "scope_note": "Oklo Inc.의 전사(全社) 재무 정보 — oklo_aurora, oklo_fuel_recycling와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
+          {
+            "date": "2026-09-11",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000110465926106897/0001104659-26-106897-index.htm",
+            "summary": "최대 10억 달러 규모 ATM 주식 공모 프로그램 개시"
+          },
+          {
+            "date": "2026-08-07",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026054571/0001628280-26-054571-index.htm",
+            "summary": "Oklo, 2026년 2분기 실적 및 사업 현황 보고"
+          },
+          {
+            "date": "2026-07-28",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000039/0001849056-26-000039-index.htm",
+            "summary": "임원 5인 신규 선임, 최고제품책임자 등 주요 직책 확정"
+          },
           {
             "date": "2026-06-17",
             "form": "10-Q/A",
@@ -934,35 +953,14 @@
             "title": "8-K (수시공시)",
             "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000028/0001849056-26-000028-index.htm",
             "summary": "2026 주주총회: 이사 3인 선출 및 회계법인 승인"
-          },
-          {
-            "date": "2026-05-13",
-            "form": "8-K",
-            "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000110465926060385/0001104659-26-060385-index.htm",
-            "summary": "Oklo, 최대 10억 달러 규모 ATM 주식 발행 프로그램 개시"
-          },
-          {
-            "date": "2026-05-12",
-            "form": "10-Q",
-            "title": "10-Q (분기보고서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026034095/0001628280-26-034095-index.htm",
-            "summary": "Oklo, 2026년 1분기 분기 실적 보고"
-          },
-          {
-            "date": "2026-04-21",
-            "form": "DEF 14A",
-            "title": "DEF 14A (주주총회 위임장)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000023/0001849056-26-000023-index.htm",
-            "summary": "2026년 주주총회: 이사 3인 선출 및 감사법인 승인 안건"
           }
         ],
-        "assessment": "Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락으로 인한 10-Q 정정 공시는 내부 통제 관련 경미한 우려 신호로 볼 수 있다.",
+        "assessment": "10억 달러 규모 ATM 공모 개시와 임원 5인 신규 선임으로 자금조달 및 조직 확충이 진행 중이나, CFO 서명 누락에 따른 10-Q/A 정정 공시는 내부 통제 측면에서 경미한 우려 신호로 볼 수 있다.",
         "signal": "neutral",
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Atomic Alchemy Meitner-1\n인허가 신청 철회\n근거: ML25353A630 | Meitner-1 Construction Permit Application Withdrawal Following Atomic \n표기된 최고 단계는 과거 도달 단계이며, 현재 신청은 철회 상태.\n\n최근 활동: Atomic Alchemy는 2025년 12월 19일 DOE의 Reactor Pilot Program(RPP) 선정을 이유로 Meitner-1 건설허가 신청을 공식 철회하였고, NRC는 2026년 1월 28일 이를 수리하여 모든 검토 활동을 중단하였습니다. 직전 상태(철회/미확인)와 일치하나, RPP 참여를 통한 설계 보완 후 재신청을 예고하고 있어 프로젝트 자체는 잠정 중단 상태이나 완전 폐기는 아닌 것으로 판단됩니다.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락으로 인한 10-Q 정정 공시는 내부 통제 관련 경미한 우려 신호로 볼 수 있다.\n\n단계별 문서: 사전신청 20 | 신청접수 13 | 기술검토 13 | 최종 1 [신청 철회]"
+      "kakao_summary": "Atomic Alchemy Meitner-1\n인허가 신청 철회\n근거: ML25353A630 | Meitner-1 Construction Permit Application Withdrawal Following Atomic \n표기된 최고 단계는 과거 도달 단계이며, 현재 신청은 철회 상태.\n\n최근 활동: Atomic Alchemy는 2025년 12월 19일 DOE의 Reactor Pilot Program(RPP) 선정을 이유로 Meitner-1 건설허가 신청을 공식 철회하였고, NRC는 2026년 1월 28일 이를 수리하여 모든 검토 활동을 중단하였습니다. 직전 상태(철회/미확인)와 일치하나, RPP 참여를 통한 설계 보완 후 재신청을 예고하고 있어 프로젝트 자체는 잠정 중단 상태이나 완전 폐기는 아닌 것으로 판단됩니다.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: 10억 달러 규모 ATM 공모 개시와 임원 5인 신규 선임으로 자금조달 및 조직 확충이 진행 중이나, CFO 서명 누락에 따른 10-Q/A 정정 공시는 내부 통제 측면에서 경미한 우려 신호로 볼 수 있다.\n\n단계별 문서: 사전신청 20 | 신청접수 13 | 기술검토 13 | 최종 1 [신청 철회]"
     },
     {
       "id": "holtec_smr160",
@@ -1036,11 +1034,25 @@
         ]
       },
       "funding": {
-        "headline": "상장 추진 중 — S-1 제출 2026-07-10",
+        "headline": "상장 추진 중 — S-1 제출 2026-09-08",
         "short_label": "상장 추진 중",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
+          {
+            "date": "2026-09-08",
+            "form": "S-1/A",
+            "title": "S-1/A (증권신고서 수정)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2104277/000119312526384287/0001193125-26-384287-index.htm",
+            "summary": "Holtec Nuclear Corp, IPO 등록 2차 수정 신청"
+          },
+          {
+            "date": "2026-08-24",
+            "form": "S-1/A",
+            "title": "S-1/A (증권신고서 수정)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2104277/000119312526361496/0001193125-26-361496-index.htm",
+            "summary": "홀텍 뉴클리어, IPO 위한 증권 등록 신청 개정"
+          },
           {
             "date": "2026-07-10",
             "form": "S-1",
@@ -1061,21 +1073,14 @@
             "title": "DRS/A (상장 초안 등록 수정)",
             "url": "https://www.sec.gov/Archives/edgar/data/2104277/000119312526177567/0001193125-26-177567-index.htm",
             "summary": "Holtec 핵에너지 법인, IPO 위한 증권신고서 제출"
-          },
-          {
-            "date": "2026-01-30",
-            "form": "DRS",
-            "title": "DRS (상장 초안 등록)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2104277/000119312526032047/0001193125-26-032047-index.htm",
-            "summary": "홀텍 뉴클리어, IPO 위한 증권신고서 비밀 제출"
           }
         ],
-        "assessment": "홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.",
+        "assessment": "홀텍 뉴클리어는 2026년 4월 기밀 제출을 시작으로 7월 S-1 공개 등록, 9월 2차 수정까지 IPO 절차를 단계적으로 진행 중이며, 제공된 공시 내에서 임원 이탈·소송·계속기업 불확실성 등 경고 신호는 확인되지 않는다.",
         "signal": "positive",
         "status_tag": "ipo_pending",
         "form_d_round_count": null
       },
-      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nCP 신청\nCP: ML26273A417 | 2026-10-08 08:10 | Holtec International - Submittal of the Construction Permit Application for Pioneer Units \n\n최근 활동: Holtec은 2026년 9월 30일 Pioneer Units 1&2 CP2 신청서를 제출한 데 이어, 비공개 처리 승인·PSAR 비독점본 제출·LWA 감사 질의 응답·SSI 분석 LTR Draft SE 일정 소폭 조정(10/26→11/2) 등 다수 행정·기술 절차가 동시에 진행 중으로, CP 신청 이후 심사 활동이 매우 활발하게 전개되고 있음.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-07-10\n📊 진척도: 홀텍 뉴클리어는 2026년 1월 기밀 제출을 시작으로 약 6개월간 세 차례 수정 후 S-1을 공개 제출하며 IPO 절차가 순조롭게 진행 중이나, 현재까지 실제 자금조달 완료나 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 366 | 신청접수 2 | 기술검토 9 [현재]"
+      "kakao_summary": "Holtec SMR-300 (Pioneer Units 1&2, 구 SMR-160)\nCP 신청\nCP: ML26273A417 | 2026-10-08 08:10 | Holtec International - Submittal of the Construction Permit Application for Pioneer Units \n\n최근 활동: Holtec은 2026년 9월 30일 Pioneer Units 1&2 CP2 신청서를 제출한 데 이어, 비공개 처리 승인·PSAR 비독점본 제출·LWA 감사 질의 응답·SSI 분석 LTR Draft SE 일정 소폭 조정(10/26→11/2) 등 다수 행정·기술 절차가 동시에 진행 중으로, CP 신청 이후 심사 활동이 매우 활발하게 전개되고 있음.\n\n💰 자금조달: 상장 추진 중 — S-1 제출 2026-09-08\n📊 진척도: 홀텍 뉴클리어는 2026년 4월 기밀 제출을 시작으로 7월 S-1 공개 등록, 9월 2차 수정까지 IPO 절차를 단계적으로 진행 중이며, 제공된 공시 내에서 임원 이탈·소송·계속기업 불확실성 등 경고 신호는 확인되지 않는다.\n\n단계별 문서: 사전신청 366 | 신청접수 2 | 기술검토 9 [현재]"
     },
     {
       "id": "xenergy_xenith",
@@ -1143,8 +1148,22 @@
         "headline": "상장사 (Nasdaq:XE)",
         "short_label": "상장사",
         "scope_note": "X-Energy, Inc.의 전사(全社) 재무 정보 — xenergy_xe100, xenergy_trisox와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
+          {
+            "date": "2026-08-13",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000119312526347752/0001193125-26-347752-index.htm",
+            "summary": "X-Energy 2026년 2분기 실적 및 사업 현황 발표"
+          },
+          {
+            "date": "2026-08-13",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000119312526347740/0001193125-26-347740-index.htm",
+            "summary": "X-Energy, 2026년 2분기 실적 발표"
+          },
           {
             "date": "2026-06-04",
             "form": "10-Q",
@@ -1165,28 +1184,14 @@
             "title": "8-K (수시공시)",
             "url": "https://www.sec.gov/Archives/edgar/data/2088896/000208889626000005/0002088896-26-000005-index.htm",
             "summary": "X-Energy, 주주 대상 투자자 프레젠테이션 공개"
-          },
-          {
-            "date": "2026-04-27",
-            "form": "424B4",
-            "title": "424B (투자설명서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000110465926049515/0001104659-26-049515-index.htm",
-            "summary": "X-Energy, 나스닥 IPO 주당 23달러, 4425만주 공모"
-          },
-          {
-            "date": "2026-04-20",
-            "form": "S-1/A",
-            "title": "S-1/A (증권신고서 수정)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000110465926045175/0001104659-26-045175-index.htm",
-            "summary": "X-Energy, 소형 원자로 IPO 등록 4차 수정"
           }
         ],
-        "assessment": "X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 완료하며 자금조달에 성공했고, 이후 분기 실적 공시와 투자자 프레젠테이션을 통해 사업 진척을 꾸준히 공개하고 있으나, 락업 조기 해제 일정 공개는 주가 희석 압력으로 작용할 수 있어 주의가 필요하다.",
+        "assessment": "X-Energy는 상장기업으로서 2026년 1·2분기 연속 실적 공시 및 투자자 프레젠테이션을 정기적으로 진행하고 있으나, IPO 락업 조기 해제 일정 공개는 초기 투자자 이탈 가능성을 시사하는 경고 신호로 주목할 필요가 있다.",
         "signal": "neutral",
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "X-energy XENITH\n사전신청 단계\n\n최근 활동: XENITH는 예산 제약으로 7월 검토가 일시 중단됐다가 9월 재개됐으며, 3종 라이선싱 토피컬 리포트(분석방법·PDC·선원항)의 개정본 제출 및 비공개 결정 승인이 이뤄졌다. 직전 '미확인' 상태 대비 사전신청 단계에서 토피컬 리포트 NRC 검토가 실질적으로 진행 중이나, 예산 제약이 여전히 변수로 남아 있어 진행 속도는 제한적이다.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 완료하며 자금조달에 성공했고, 이후 분기 실적 공시와 투자자 프레젠테이션을 통해 사업 진척을 꾸준히 공개하고 있으나, 락업 조기 해제 일정 공개는 주가 희석 압력으로 작용할 수 있어 주의가 필요하다.\n\n단계별 문서: 사전신청 15 [현재]"
+      "kakao_summary": "X-energy XENITH\n사전신청 단계\n\n최근 활동: XENITH는 예산 제약으로 7월 검토가 일시 중단됐다가 9월 재개됐으며, 3종 라이선싱 토피컬 리포트(분석방법·PDC·선원항)의 개정본 제출 및 비공개 결정 승인이 이뤄졌다. 직전 '미확인' 상태 대비 사전신청 단계에서 토피컬 리포트 NRC 검토가 실질적으로 진행 중이나, 예산 제약이 여전히 변수로 남아 있어 진행 속도는 제한적이다.\n\n💰 자금조달: 상장사 (Nasdaq:XE)\n📊 진척도: X-Energy는 상장기업으로서 2026년 1·2분기 연속 실적 공시 및 투자자 프레젠테이션을 정기적으로 진행하고 있으나, IPO 락업 조기 해제 일정 공개는 초기 투자자 이탈 가능성을 시사하는 경고 신호로 주목할 필요가 있다.\n\n단계별 문서: 사전신청 15 [현재]"
     },
     {
       "id": "xenergy_trisox",
@@ -1259,8 +1264,22 @@
         "headline": "상장사 (Nasdaq:XE)",
         "short_label": "상장사",
         "scope_note": "X-Energy, Inc.의 전사(全社) 재무 정보 — xenergy_xe100, xenergy_xenith와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
+          {
+            "date": "2026-08-13",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000119312526347752/0001193125-26-347752-index.htm",
+            "summary": "X-Energy 2026년 2분기 실적 및 사업 현황 발표"
+          },
+          {
+            "date": "2026-08-13",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000119312526347740/0001193125-26-347740-index.htm",
+            "summary": "X-Energy, 2026년 2분기 실적 발표"
+          },
           {
             "date": "2026-06-04",
             "form": "10-Q",
@@ -1281,28 +1300,14 @@
             "title": "8-K (수시공시)",
             "url": "https://www.sec.gov/Archives/edgar/data/2088896/000208889626000005/0002088896-26-000005-index.htm",
             "summary": "X-Energy, 주주 대상 투자자 프레젠테이션 공개"
-          },
-          {
-            "date": "2026-04-27",
-            "form": "424B4",
-            "title": "424B (투자설명서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000110465926049515/0001104659-26-049515-index.htm",
-            "summary": "X-Energy, 나스닥 IPO 주당 23달러, 4425만주 공모"
-          },
-          {
-            "date": "2026-04-20",
-            "form": "S-1/A",
-            "title": "S-1/A (증권신고서 수정)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2088896/000110465926045175/0001104659-26-045175-index.htm",
-            "summary": "X-Energy, 소형 원자로 IPO 등록 4차 수정"
           }
         ],
-        "assessment": "X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 성공적으로 완료하고 분기 실적 공시 및 투자자 프레젠테이션을 이어가며 상장 후 공개 행보를 본격화하고 있으나, 락업 조기 해제 일정 공개는 단기 매도 압력 가능성을 시사하는 주의 요소로 판단된다.",
+        "assessment": "X-Energy는 상장기업으로서 분기별 10-Q 및 8-K 공시를 정상적으로 이행하고 있으나, IPO 락업 조기 해제 일정 공개는 주식 매도 압력 가능성을 시사하며, 현재 제공된 공시만으로는 재무 건전성이나 사업 가속화 여부를 명확히 판단하기 어렵다.",
         "signal": "neutral",
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "TRISO-X Fuel Fabrication Facility (TX-1)\nOL 신청(태그뿐 — 제목 확인 필요)\nOL: ML25353A614 | 2025-12-30 10:24 | TRISO-X, LLC, Fuel Fabrication Facility Special Nuclear Material License Application Cover\n⚠️ 인허가행위 탐지는 'OL 신청(태그뿐 — 제목 확인 필요)'뿐이나, AI가 더 넓은 범위에서 실제 발급 근거를 찾음: 2026년 2월 SNM-7007 면허가 공식 발급되어 현재 건설 중 운영…\n\n최근 활동: 2026년 3~4분기 TX-1 건설 중 공정 건물 구조철골 관련 설계관리 위반(MFRS 설계 기준 미유지)이 적발되어 확대집행 검토 → ADR 조정(7/29, 8/20) → 확인명령(Confirmatory Order, SNM-7007) 발행으로 마무리됐으며, 3분기 통합검사보고서에는 추가 위반 없음이 확인됨. 인허가 보유(SNM-7007) 및 건설 지속 상태로 프로젝트는 진행 중이나 규제 집행 이슈를 수반한 진행으로 일정·기술 리스크 요인이 존재.\n\n💰 자금조달: 상장사\n📊 진척도: X-Energy는 2026년 4월 나스닥 IPO(주당 23달러, 4,425만주 공모)를 성공적으로 완료하고 분기 실적 공시 및 투자자 프레젠테이션을 이어가며 상장 후 공개 행보를 본격화하고 있으나, 락업 조기 해제 일정 공개는 단기 매도 압력 가능성을 시사하는 주의 요소로 판단된다.\n\n단계별 문서: 사전신청 118 | 신청접수 9 | 기술검토 51 | 초안 SE 2 | 최종 2 [현재]"
+      "kakao_summary": "TRISO-X Fuel Fabrication Facility (TX-1)\nOL 신청(태그뿐 — 제목 확인 필요)\nOL: ML25353A614 | 2025-12-30 10:24 | TRISO-X, LLC, Fuel Fabrication Facility Special Nuclear Material License Application Cover\n⚠️ 인허가행위 탐지는 'OL 신청(태그뿐 — 제목 확인 필요)'뿐이나, AI가 더 넓은 범위에서 실제 발급 근거를 찾음: 2026년 2월 SNM-7007 면허가 공식 발급되어 현재 건설 중 운영단계 진입\n의무 심리(uncont…\n\n최근 활동: 2026년 3~4분기 TX-1 건설 중 공정 건물 구조철골 관련 설계관리 위반(MFRS 설계 기준 미유지)이 적발되어 확대집행 검토 → ADR 조정(7/29, 8/20) → 확인명령(Confirmatory Order, SNM-7007) 발행으로 마무리됐으며, 3분기 통합검사보고서에는 추가 위반 없음이 확인됨. 인허가 보유(SNM-7007) 및 건설 지속 상태로 프로젝트는 진행 중이나 규제 집행 이슈를 수반한 진행으로 일정·기술 리스크 요인이 존재.\n\n💰 자금조달: 상장사\n📊 진척도: X-Energy는 상장기업으로서 분기별 10-Q 및 8-K 공시를 정상적으로 이행하고 있으나, IPO 락업 조기 해제 일정 공개는 주식 매도 압력 가능성을 시사하며, 현재 제공된 공시만으로는 재무 건전성이나 사업 가속화 여부를 명확히 판단하기 어렵다.\n\n단계별 문서: 사전신청 118 | 신청접수 9 | 기술검토 51 | 초안 SE 2 | 최종 2 [현재]"
     },
     {
       "id": "terrapower_natrium_fuel_facility",
@@ -1370,7 +1375,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
@@ -1447,8 +1452,29 @@
         "headline": "상장사 (NYSE:OKLO)",
         "short_label": "상장사",
         "scope_note": "Oklo Inc.의 전사(全社) 재무 정보 — oklo_aurora, atomic_alchemy_meitner1와(과) 공유됨, 이 리액터 전용 수치가 아님",
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
+          {
+            "date": "2026-09-11",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000110465926106897/0001104659-26-106897-index.htm",
+            "summary": "최대 10억 달러 규모 ATM 주식 공모 프로그램 개시"
+          },
+          {
+            "date": "2026-08-07",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026054571/0001628280-26-054571-index.htm",
+            "summary": "Oklo, 2026년 2분기 실적 및 사업 현황 보고"
+          },
+          {
+            "date": "2026-07-28",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000039/0001849056-26-000039-index.htm",
+            "summary": "임원 5인 신규 선임, 최고제품책임자 등 주요 직책 확정"
+          },
           {
             "date": "2026-06-17",
             "form": "10-Q/A",
@@ -1462,35 +1488,14 @@
             "title": "8-K (수시공시)",
             "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000028/0001849056-26-000028-index.htm",
             "summary": "2026 주주총회: 이사 3인 선출 및 회계법인 승인"
-          },
-          {
-            "date": "2026-05-13",
-            "form": "8-K",
-            "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000110465926060385/0001104659-26-060385-index.htm",
-            "summary": "Oklo, 최대 10억 달러 규모 ATM 주식 발행 프로그램 개시"
-          },
-          {
-            "date": "2026-05-12",
-            "form": "10-Q",
-            "title": "10-Q (분기보고서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026034095/0001628280-26-034095-index.htm",
-            "summary": "Oklo, 2026년 1분기 분기 실적 보고"
-          },
-          {
-            "date": "2026-04-21",
-            "form": "DEF 14A",
-            "title": "DEF 14A (주주총회 위임장)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000023/0001849056-26-000023-index.htm",
-            "summary": "2026년 주주총회: 이사 3인 선출 및 감사법인 승인 안건"
           }
         ],
-        "assessment": "Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부 통제 취약성을 시사하는 경고 신호로 주목할 필요가 있다.",
+        "assessment": "10억 달러 규모 ATM 공모 개시와 임원 5인 신규 선임으로 자금조달 및 조직 확충이 진행 중이나, CFO 서명 누락에 따른 분기보고서 정정 공시는 내부통제 측면에서 주의가 필요한 신호입니다.",
         "signal": "neutral",
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Oklo Fuel Recycling Facility (Advanced Fuel Center)\n사전신청 단계\n\n최근 활동: Oklo는 테네시주 오크리지 소재 핵연료 재처리 시설(Docket No. 70-7042)의 사전신청 단계에서 2026년 7월 20·29일 NRC와 사이팅 요건 관련 비공개 회의를 개최했으며, NRC는 초안 1장의 부지 정보에 대한 관측 의견에 Oklo가 제출한 응답을 논의했고, 세부 기술·사이팅 정보는 독점정보로 비공개 처리됨. 직전 상태 대비 규제 트랙(10 CFR Part 70 재처리시설), 구체적 부지(오크리지), 초안 신청서 챕터 작성 등이 확인되어 사전신청이 실질적으로 진전되고 있음.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: Oklo는 최대 10억 달러 규모의 ATM 주식 발행 프로그램 개시로 자금조달 역량을 확보했으나, CFO 서명 누락에 따른 10-Q 정정 공시는 내부 통제 취약성을 시사하는 경고 신호로 주목할 필요가 있다.\n\n단계별 문서: 사전신청 29 [현재]"
+      "kakao_summary": "Oklo Fuel Recycling Facility (Advanced Fuel Center)\n사전신청 단계\n\n최근 활동: Oklo는 테네시주 오크리지 소재 핵연료 재처리 시설(Docket No. 70-7042)의 사전신청 단계에서 2026년 7월 20·29일 NRC와 사이팅 요건 관련 비공개 회의를 개최했으며, NRC는 초안 1장의 부지 정보에 대한 관측 의견에 Oklo가 제출한 응답을 논의했고, 세부 기술·사이팅 정보는 독점정보로 비공개 처리됨. 직전 상태 대비 규제 트랙(10 CFR Part 70 재처리시설), 구체적 부지(오크리지), 초안 신청서 챕터 작성 등이 확인되어 사전신청이 실질적으로 진전되고 있음.\n\n💰 자금조달: 상장사 (NYSE:OKLO)\n📊 진척도: 10억 달러 규모 ATM 공모 개시와 임원 5인 신규 선임으로 자금조달 및 조직 확충이 진행 중이나, CFO 서명 누락에 따른 분기보고서 정정 공시는 내부통제 측면에서 주의가 필요한 신호입니다.\n\n단계별 문서: 사전신청 29 [현재]"
     },
     {
       "id": "aalo_atomics_aalox",
@@ -1564,7 +1569,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
@@ -1633,11 +1638,25 @@
         ]
       },
       "funding": {
-        "headline": "비상장 · 사모 조달 3회 (2023~2025) — 누적 $86,691,732 조달 (최근 라운드 $51,045,266 / 목표 $79,534,995)",
+        "headline": "비상장 · 사모 조달 5회 (2023~2026) — 누적 $466,690,951 조달 (최근 라운드 $59,999,682 / 목표 $84,999,666)",
         "short_label": "비상장 · 사모 조달 중",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
+          {
+            "date": "2026-08-18",
+            "form": "D",
+            "title": "Form D (사모 조달)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1998786/000199878626000005/0001998786-26-000005-index.htm",
+            "summary": null
+          },
+          {
+            "date": "2026-07-28",
+            "form": "D",
+            "title": "Form D (사모 조달)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1998786/000199878626000002/0001998786-26-000002-index.htm",
+            "summary": null
+          },
           {
             "date": "2025-09-19",
             "form": "D",
@@ -1660,12 +1679,12 @@
             "summary": null
           }
         ],
-        "assessment": "라운드별 조달액이 $811만 → $2,753만 → $5,105만으로 뚜렷한 증가 추세이나, 2025년 라운드는 목표액 $7,953만 대비 64% 수준에 그쳐 미달 상태이며 추가 모집이 진행 중인 것으로 판단됩니다.",
-        "signal": "neutral",
+        "assessment": "2023년 약 810만 달러에서 2026년 약 3.2억 달러로 라운드 규모가 급격히 증가하며 자금조달이 매우 활발하나, 2025년 9월 및 2026년 8월 라운드에서 목표액 미달이 확인되어 일부 주의가 필요하다.",
+        "signal": "positive",
         "status_tag": "form_d",
-        "form_d_round_count": 3
+        "form_d_round_count": 5
       },
-      "kakao_summary": "Antares Nuclear Mark-0\n판단 불가 — 단계 신호 문서 없음\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: Antares Nuclear은 2025년 7~8월 중 R1 마이크로리액터 사전신청 참여계획(RP-25-01)을 NRC에 제출하고, NRC로부터 프로젝트 번호(99902149) 및 과금체계 안내를 받았으며, 독점정보 비공개 처리도 승인되어 Pre-Application 단계가 본격적으로 개시된 것으로 평가됨.\n\n💰 자금조달: 비상장 · 사모 조달 3회 (2023~2025) — 누적 $86,691,732 조달 (최근 라운드 $51,045,266 / 목표 $79,534,995)\n📊 진척도: 라운드별 조달액이 $811만 → $2,753만 → $5,105만으로 뚜렷한 증가 추세이나, 2025년 라운드는 목표액 $7,953만 대비 64% 수준에 그쳐 미달 상태이며 추가 모집이 진행 중인 것으로 판단됩니다.\n\n단계별 문서: 진행 신호 없음"
+      "kakao_summary": "Antares Nuclear Mark-0\n판단 불가 — 단계 신호 문서 없음\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: Antares Nuclear은 2025년 7~8월 중 R1 마이크로리액터 사전신청 참여계획(RP-25-01)을 NRC에 제출하고, NRC로부터 프로젝트 번호(99902149) 및 과금체계 안내를 받았으며, 독점정보 비공개 처리도 승인되어 Pre-Application 단계가 본격적으로 개시된 것으로 평가됨.\n\n💰 자금조달: 비상장 · 사모 조달 5회 (2023~2026) — 누적 $466,690,951 조달 (최근 라운드 $59,999,682 / 목표 $84,999,666)\n📊 진척도: 2023년 약 810만 달러에서 2026년 약 3.2억 달러로 라운드 규모가 급격히 증가하며 자금조달이 매우 활발하나, 2025년 9월 및 2026년 8월 라운드에서 목표액 미달이 확인되어 일부 주의가 필요하다.\n\n단계별 문서: 진행 신호 없음"
     },
     {
       "id": "deployable_energy_unity",
@@ -1738,7 +1757,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
@@ -1819,50 +1838,50 @@
         "headline": "상장사 (Nasdaq:FISN)",
         "short_label": "상장사",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
           {
-            "date": "2026-06-22",
+            "date": "2026-10-20",
             "form": "8-K",
             "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926076400/0001104659-26-076400-index.htm",
-            "summary": "공모가 $16, 주식 250만주 공모 완료·나스닥 상장"
+            "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926117389/0001104659-26-117389-index.htm",
+            "summary": "캔자스 핵발전 프로젝트 에너지 구매 계약 체결"
           },
           {
-            "date": "2026-06-18",
-            "form": "424B4",
-            "title": "424B (투자설명서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926075763/0001104659-26-075763-index.htm",
-            "summary": "딥피션, 나스닥 IPO 주당 16달러 400억 규모 상장"
+            "date": "2026-09-21",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926109201/0001104659-26-109201-index.htm",
+            "summary": "Youngquist Brothers와 심층 시추 기술 협력 발표"
           },
           {
-            "date": "2026-06-17",
-            "form": "DEF 14A",
-            "title": "DEF 14A (주주총회 위임장)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926075196/0001104659-26-075196-index.htm",
-            "summary": "2026 주주총회: 이사 선출·주식보상 증가 승인 안건"
+            "date": "2026-08-03",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926089884/0001104659-26-089884-index.htm",
+            "summary": "딥피션, 2026년 2분기 실적 보고"
           },
           {
-            "date": "2026-06-10",
-            "form": "S-1/A",
-            "title": "S-1/A (증권신고서 수정)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926072286/0001104659-26-072286-index.htm",
-            "summary": "딥피션, 델라웨어 에너지기업 IPO 등록 신청"
+            "date": "2026-07-29",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926088125/0001104659-26-088125-index.htm",
+            "summary": "비상임 이사 보상 정책 개정, 주식 보상 상향"
           },
           {
-            "date": "2026-05-20",
-            "form": "S-1",
-            "title": "S-1 (증권신고서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926064074/0001104659-26-064074-index.htm",
-            "summary": "딥피션, 델라웨어 원자력 스타트업 IPO 추진"
+            "date": "2026-07-17",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1918102/000110465926084625/0001104659-26-084625-index.htm",
+            "summary": "주주총회: 이사 선출·주식인센티브 500만주 증가 승인"
           }
         ],
-        "assessment": "딥피션은 2026년 6월 나스닥 IPO를 통해 주당 16달러, 250만주 공모로 약 400억 규모 자금조달에 성공하며 상장을 완료했고, 현재 공시된 경고 신호(임원 이탈·소송·계속기업 불확실성 등)는 확인되지 않아 초기 사업 진척은 긍정적으로 평가된다.",
-        "signal": "positive",
+        "assessment": "핵발전 에너지 구매 계약 체결, 심층 시추 기술 협력 등 사업 진척이 가시화되고 있으나, 자금조달 이력이 없고 주식 인센티브 증가 및 비상임 이사 보상 상향이 현금 여력 부족 가능성을 시사한다.",
+        "signal": "neutral",
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Deep Fission Gravity Reactor\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: Deep Fission은 사전신청 단계에서 DOE 승인 병행 및 NRC 상업 운허가 취득을 목표로 한 명확한 이중 트랙 전략을 구체화했으며, 캔자스주 파슨스 부지에서 실제 건설 활동이 진행 중인 것으로 확인됨. NRC는 개념 설계 백서에 대한 기술 검토 의견(SSC 분류, 시추 산업 운영경험 적용 타당성 등)을 제공하고, EO 14300 기반 DOE/DOW 사전 승인 활용 신속 인허가 경로와 건설 후 합리적 확신 확보 방법론을 공식 서한으로 안내하는 등 사전신청 단계임에도 NRC 개입 수준이 매우 높아 프로젝트는 가속화되고 있음.\n\n💰 자금조달: 상장사 (Nasdaq:FISN)\n📊 진척도: 딥피션은 2026년 6월 나스닥 IPO를 통해 주당 16달러, 250만주 공모로 약 400억 규모 자금조달에 성공하며 상장을 완료했고, 현재 공시된 경고 신호(임원 이탈·소송·계속기업 불확실성 등)는 확인되지 않아 초기 사업 진척은 긍정적으로 평가된다.\n\n단계별 문서: 사전신청 7 [현재]"
+      "kakao_summary": "Deep Fission Gravity Reactor\n사전신청 단계\nDOE Reactor Pilot Program 경로 병행 중(NRC 정식 신청 전 — 사전신청=기술 리디니스의 대체 증명 수단)\n\n최근 활동: Deep Fission은 사전신청 단계에서 DOE 승인 병행 및 NRC 상업 운허가 취득을 목표로 한 명확한 이중 트랙 전략을 구체화했으며, 캔자스주 파슨스 부지에서 실제 건설 활동이 진행 중인 것으로 확인됨. NRC는 개념 설계 백서에 대한 기술 검토 의견(SSC 분류, 시추 산업 운영경험 적용 타당성 등)을 제공하고, EO 14300 기반 DOE/DOW 사전 승인 활용 신속 인허가 경로와 건설 후 합리적 확신 확보 방법론을 공식 서한으로 안내하는 등 사전신청 단계임에도 NRC 개입 수준이 매우 높아 프로젝트는 가속화되고 있음.\n\n💰 자금조달: 상장사 (Nasdaq:FISN)\n📊 진척도: 핵발전 에너지 구매 계약 체결, 심층 시추 기술 협력 등 사업 진척이 가시화되고 있으나, 자금조달 이력이 없고 주식 인센티브 증가 및 비상임 이사 보상 상향이 현금 여력 부족 가능성을 시사한다.\n\n단계별 문서: 사전신청 7 [현재]"
     },
     {
       "id": "last_energy_pwr20",
@@ -1938,7 +1957,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
@@ -2023,7 +2042,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
@@ -2105,7 +2124,7 @@
         "headline": "비상장 · 사모 조달 5회 (2022~2025) — 누적 $488,189,973 조달 (최근 라운드 $268,805,033 / 목표 $350,000,018)",
         "short_label": "비상장 · 사모 조달 중",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
           {
             "date": "2025-12-30",
@@ -2220,50 +2239,50 @@
         "headline": "상장사 (Nasdaq:IMSR)",
         "short_label": "상장사",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
           {
-            "date": "2026-06-12",
+            "date": "2026-10-27",
             "form": "8-K",
             "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000110465926073471/0001104659-26-073471-index.htm",
-            "summary": "2026 주총: 이사 3인 선출·회계법인 선임 승인"
+            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000030/0002019804-26-000030-index.htm",
+            "summary": "2500만 달러 규모 자사주 매입 프로그램 승인"
           },
           {
-            "date": "2026-05-14",
+            "date": "2026-08-14",
             "form": "424B3",
             "title": "424B (투자설명서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000110465926061280/0001104659-26-061280-index.htm",
-            "summary": "테레스트리얼 에너지 2026년 1분기 실적 보고"
+            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000027/0002019804-26-000027-index.htm",
+            "summary": "2026년 2분기 분기보고서 반영 투자설명서 보완"
           },
           {
-            "date": "2026-05-14",
-            "form": "424B3",
-            "title": "424B (투자설명서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000110465926061279/0001104659-26-061279-index.htm",
-            "summary": "테레스트리얼 에너지, 2026년 1분기 분기보고서 업데이트"
-          },
-          {
-            "date": "2026-05-14",
+            "date": "2026-08-11",
             "form": "10-Q",
             "title": "10-Q (분기보고서)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000110465926061234/0001104659-26-061234-index.htm",
-            "summary": "2026년 1분기 분기보고서, 소형 성장 원자력 기업 재무현황"
+            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000110465926094085/0001104659-26-094085-index.htm",
+            "summary": "테레스트리얼 에너지, 2026년 2분기 실적 보고"
           },
           {
-            "date": "2026-05-14",
+            "date": "2026-08-11",
             "form": "8-K",
             "title": "8-K (수시공시)",
-            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000110465926060716/0001104659-26-060716-index.htm",
-            "summary": "테레스트리얼 에너지, 2026년 1분기 실적 발표"
+            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000110465926093776/0001104659-26-093776-index.htm",
+            "summary": "테레스트리얼 에너지, 2026년 2분기 실적 발표"
+          },
+          {
+            "date": "2026-07-31",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000021/0002019804-26-000021-index.htm",
+            "summary": "Shawn Matthews 이사 사임, 7월 27일부로 효력"
           }
         ],
-        "assessment": "상장기업으로 별도 자금조달 라운드 이력은 없으며, 최근 공시는 1분기 실적 발표와 정기 주총 의안 처리 등 통상적인 운영 활동에 한정되어 있어 사업 개발상 특별한 진전이나 경고 신호는 확인되지 않는 중립적 상태임.",
-        "signal": "neutral",
+        "assessment": "자사주 매입 프로그램 승인은 주주환원 의지를 보여주나, 이사 사임과 추가 자금조달 활동 부재가 확인되어 사업 진척 모멘텀이 제한적이며 경영진 안정성에 일부 우려가 존재한다.",
+        "signal": "warning",
         "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Terrestrial Energy IMSR (Project TETRA)\nSDA 신청\nSDA: ML20345A340 | 2020-12-10 16:25 | 12/16/2020 Contents of Application for Terrestrial's standard design approval application\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최근 Terrestrial Energy는 흑연 자격 인증 방법론(TR-26-01 Rev.A)에 대한 NRC 완전성 검토를 통과하여 정밀 기술 심사가 개시되었고(감사 기간 10/23/2026~2/11/2027, 안전평가 완료 예상 8/24/2027), TEF-NF 분리 방법론 TR-26-02 Rev.A 및 PIE 방법론 안전평가도 진행 중으로, 복수의 토피컬 리포트가 동시에 심사 단계에 진입한 활발한 진전 상태임.\n\n💰 자금조달: 상장사 (Nasdaq:IMSR)\n📊 진척도: 상장기업으로 별도 자금조달 라운드 이력은 없으며, 최근 공시는 1분기 실적 발표와 정기 주총 의안 처리 등 통상적인 운영 활동에 한정되어 있어 사업 개발상 특별한 진전이나 경고 신호는 확인되지 않는 중립적 상태임.\n\n단계별 문서: 사전신청 62 [현재]"
+      "kakao_summary": "Terrestrial Energy IMSR (Project TETRA)\nSDA 신청\nSDA: ML20345A340 | 2020-12-10 16:25 | 12/16/2020 Contents of Application for Terrestrial's standard design approval application\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 최근 Terrestrial Energy는 흑연 자격 인증 방법론(TR-26-01 Rev.A)에 대한 NRC 완전성 검토를 통과하여 정밀 기술 심사가 개시되었고(감사 기간 10/23/2026~2/11/2027, 안전평가 완료 예상 8/24/2027), TEF-NF 분리 방법론 TR-26-02 Rev.A 및 PIE 방법론 안전평가도 진행 중으로, 복수의 토피컬 리포트가 동시에 심사 단계에 진입한 활발한 진전 상태임.\n\n💰 자금조달: 상장사 (Nasdaq:IMSR)\n📊 진척도: ⚠️ 자사주 매입 프로그램 승인은 주주환원 의지를 보여주나, 이사 사임과 추가 자금조달 활동 부재가 확인되어 사업 진척 모멘텀이 제한적이며 경영진 안정성에 일부 우려가 존재한다.\n\n단계별 문서: 사전신청 62 [현재]"
     },
     {
       "id": "fanco_eagl1",
@@ -2322,11 +2341,18 @@
         ]
       },
       "funding": {
-        "headline": "비상장 · 사모 조달 4회 (2025) — 누적 $12,687,050 조달 (최근 라운드 $1,417,050 / 목표 $1,417,050)",
+        "headline": "비상장 · 사모 조달 5회 (2025~2026) — 누적 $13,687,050 조달 (최근 라운드 $1,000,000 / 목표 $25,000,000)",
         "short_label": "비상장 · 사모 조달 중",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [
+          {
+            "date": "2026-09-18",
+            "form": "D",
+            "title": "Form D (사모 조달)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2074867/000121390026101361/0001213900-26-101361-index.htm",
+            "summary": null
+          },
           {
             "date": "2025-12-22",
             "form": "D",
@@ -2356,12 +2382,12 @@
             "summary": null
           }
         ],
-        "assessment": "2025년 하반기에 4차례 사모 조달을 실시하며 활동이 집중되었고, 특히 12월에는 두 건 모두 목표액을 100% 달성했으나, 8월 공시에서 $20,000 조달(목표 $5,000,000 대비 0.4%)로 극심한 미달이 확인되어 조달 규모의 일관성이 결여되어 있음.",
-        "signal": "neutral",
+        "assessment": "총 5회의 사모 조달이 이루어졌으나, 2026년 9월 최신 라운드에서 목표 $25M 대비 $1M만 조달(4%)되어 목표 미달이 심각하며, 조달 규모의 일관성 없는 변동과 반복적 미달이 우려스럽다.",
+        "signal": "warning",
         "status_tag": "form_d",
-        "form_d_round_count": 4
+        "form_d_round_count": 5
       },
-      "kakao_summary": "First American Nuclear EAGL-1\n사전신청 단계\n\n최근 활동: FANCO는 2026년 2월 규제참여계획 수립 후 10월 비공개 회의를 거쳐 11월 'Conventional Island SSC의 사전시공 활동 해당 여부' 백서를 NRC에 제출하며 LWA 없이 비핵섬 구조물 선행 시공 허용을 요청하는 등, 사전신청 단계에서 구체적 인허가 쟁점을 적극적으로 진전시키고 있어 활발히 진행 중으로 평가됩니다.\n\n💰 자금조달: 비상장 · 사모 조달 4회 (2025) — 누적 $12,687,050 조달 (최근 라운드 $1,417,050 / 목표 $1,417,050)\n📊 진척도: 2025년 하반기에 4차례 사모 조달을 실시하며 활동이 집중되었고, 특히 12월에는 두 건 모두 목표액을 100% 달성했으나, 8월 공시에서 $20,000 조달(목표 $5,000,000 대비 0.4%)로 극심한 미달이 확인되어 조달 규모의 일관성이 결여되어 있음.\n\n단계별 문서: 사전신청 1 [현재]"
+      "kakao_summary": "First American Nuclear EAGL-1\n사전신청 단계\n\n최근 활동: FANCO는 2026년 2월 규제참여계획 수립 후 10월 비공개 회의를 거쳐 11월 'Conventional Island SSC의 사전시공 활동 해당 여부' 백서를 NRC에 제출하며 LWA 없이 비핵섬 구조물 선행 시공 허용을 요청하는 등, 사전신청 단계에서 구체적 인허가 쟁점을 적극적으로 진전시키고 있어 활발히 진행 중으로 평가됩니다.\n\n💰 자금조달: 비상장 · 사모 조달 5회 (2025~2026) — 누적 $13,687,050 조달 (최근 라운드 $1,000,000 / 목표 $25,000,000)\n📊 진척도: ⚠️ 총 5회의 사모 조달이 이루어졌으나, 2026년 9월 최신 라운드에서 목표 $25M 대비 $1M만 조달(4%)되어 목표 미달이 심각하며, 조달 규모의 일관성 없는 변동과 반복적 미달이 우려스럽다.\n\n단계별 문서: 사전신청 1 [현재]"
     },
     {
       "id": "blykalla_sealer",
@@ -2402,7 +2428,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
@@ -2476,17 +2502,39 @@
         ]
       },
       "funding": {
-        "headline": "SEC 공시 미확인",
-        "short_label": "SEC 공시 미확인",
+        "headline": "비상장 · 사모 조달 2회 (2022~2023) — 누적 $5,705,000 조달 (최근 라운드 $1,400,000 / 목표 $13,500,000)",
+        "short_label": "비상장 · 사모 조달 중",
         "scope_note": null,
-        "as_of": "2026-07-15",
-        "recent_filings": [],
-        "assessment": null,
-        "signal": null,
-        "status_tag": "unmapped",
-        "form_d_round_count": null
+        "as_of": "2026-11-04",
+        "recent_filings": [
+          {
+            "date": "2023-03-21",
+            "form": "D",
+            "title": "Form D (사모 조달)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1917665/000191766523000001/0001917665-23-000001-index.htm",
+            "summary": null
+          },
+          {
+            "date": "2022-03-23",
+            "form": "D/A",
+            "title": "Form D/A (사모 조달 수정)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1917665/000191766522000002/0001917665-22-000002-index.htm",
+            "summary": null
+          },
+          {
+            "date": "2022-03-22",
+            "form": "D",
+            "title": "Form D (사모 조달)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1917665/000191766522000001/0001917665-22-000001-index.htm",
+            "summary": null
+          }
+        ],
+        "assessment": "2023년 조달 시도에서 목표 $1,350만 대비 실제 조달액이 $140만(약 10%)에 그쳐 목표 대비 심각한 미달 상태이며, 직전 라운드 대비 목표액은 대폭 증가했으나 실제 조달 성과는 오히려 급감해 자금조달 역량 저하가 우려됩니다.",
+        "signal": "warning",
+        "status_tag": "form_d",
+        "form_d_round_count": 2
       },
-      "kakao_summary": "ARC Clean Technology ARC-100\n사전신청 단계\n절차: 의무 심리(uncontested hearing) 관련 문서 존재\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: ARC-100은 사전신청 단계에서 10 CFR Part 50→Part 53 전환, 내진격리 SSI 분석, Argonne와의 CFD 열수력 시뮬레이션 등 기술 검토를 활발히 진행 중이며, 월별 정례 NRC 회의 체계를 갖추는 등 전 확인 시점 대비 규제 참여 수준이 구체화·심화되고 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 68 [현재]"
+      "kakao_summary": "ARC Clean Technology ARC-100\n사전신청 단계\n절차: 의무 심리(uncontested hearing) 관련 문서 존재\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: ARC-100은 사전신청 단계에서 10 CFR Part 50→Part 53 전환, 내진격리 SSI 분석, Argonne와의 CFD 열수력 시뮬레이션 등 기술 검토를 활발히 진행 중이며, 월별 정례 NRC 회의 체계를 갖추는 등 전 확인 시점 대비 규제 참여 수준이 구체화·심화되고 있음.\n\n💰 자금조달: 비상장 · 사모 조달 2회 (2022~2023) — 누적 $5,705,000 조달 (최근 라운드 $1,400,000 / 목표 $13,500,000)\n📊 진척도: ⚠️ 2023년 조달 시도에서 목표 $1,350만 대비 실제 조달액이 $140만(약 10%)에 그쳐 목표 대비 심각한 미달 상태이며, 직전 라운드 대비 목표액은 대폭 증가했으나 실제 조달 성과는 오히려 급감해 자금조달 역량 저하가 우려됩니다.\n\n단계별 문서: 사전신청 68 [현재]"
     },
     {
       "id": "blue_energy_port_of_victoria",
@@ -2556,17 +2604,25 @@
         ]
       },
       "funding": {
-        "headline": "SEC 공시 미확인",
-        "short_label": "SEC 공시 미확인",
+        "headline": "비상장 · 사모 조달 1회 (2026) — 누적 $177,476,834 조달 (최근 라운드 $177,476,834 / 목표 $399,999,949)",
+        "short_label": "비상장 · 사모 조달 중",
         "scope_note": null,
-        "as_of": "2026-07-15",
-        "recent_filings": [],
-        "assessment": null,
-        "signal": null,
-        "status_tag": "unmapped",
-        "form_d_round_count": null
+        "as_of": "2026-11-04",
+        "recent_filings": [
+          {
+            "date": "2026-05-01",
+            "form": "D",
+            "title": "Form D (사모 조달)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2130865/000213086526000001/0002130865-26-000001-index.htm",
+            "summary": null
+          }
+        ],
+        "assessment": "2026년 5월 Form D 사모 조달에서 목표액 약 4억 달러 대비 실제 조달액이 약 1억 7,700만 달러로 목표의 44% 수준에 그쳐 자금조달이 목표 대비 크게 미달하고 있으며, 단일 라운드만 확인되어 추세 판단은 제한적이나 현재로선 조달 부진이 우려됩니다.",
+        "signal": "warning",
+        "status_tag": "form_d",
+        "form_d_round_count": 1
       },
-      "kakao_summary": "BWRX-300 / Blue Energy Port of Victoria\nCP 신청\nCP: ML26258A339 | 2026-09-23 08:11 | Blue Energy - Submittal of Construction Permit Application Part 1: Limited Work Authorizat\n\n최근 활동: Blue Energy Global은 2026년 9월 착공 전 면제 요청(BOP 활동 및 화재방호 SSC 설치) 2건을 NRC에 제출한 데 이어, NRC와의 수리 검토 협의 결과에 따라 2026년 10월 각 면제 요청별 독립 환경보고서(ER)를 추가 제출하는 등 CP 발급 전 LWA 획득을 위한 인허가 절차가 활발히 진행 중이다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 205 [현재]"
+      "kakao_summary": "BWRX-300 / Blue Energy Port of Victoria\nCP 신청\nCP: ML26258A339 | 2026-09-23 08:11 | Blue Energy - Submittal of Construction Permit Application Part 1: Limited Work Authorizat\n\n최근 활동: Blue Energy Global은 2026년 9월 착공 전 면제 요청(BOP 활동 및 화재방호 SSC 설치) 2건을 NRC에 제출한 데 이어, NRC와의 수리 검토 협의 결과에 따라 2026년 10월 각 면제 요청별 독립 환경보고서(ER)를 추가 제출하는 등 CP 발급 전 LWA 획득을 위한 인허가 절차가 활발히 진행 중이다.\n\n💰 자금조달: 비상장 · 사모 조달 1회 (2026) — 누적 $177,476,834 조달 (최근 라운드 $177,476,834 / 목표 $399,999,949)\n📊 진척도: ⚠️ 2026년 5월 Form D 사모 조달에서 목표액 약 4억 달러 대비 실제 조달액이 약 1억 7,700만 달러로 목표의 44% 수준에 그쳐 자금조달이 목표 대비 크게 미달하고 있으며, 단일 라운드만 확인되어 추세 판단은 제한적이나 현재로선 조달 부진이 우려됩니다.\n\n단계별 문서: 사전신청 205 [현재]"
     },
     {
       "id": "aalo_rellis",
@@ -2628,7 +2684,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
@@ -2705,7 +2761,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
@@ -2764,17 +2820,25 @@
         ]
       },
       "funding": {
-        "headline": "SEC 공시 미확인",
-        "short_label": "SEC 공시 미확인",
+        "headline": "비상장 · 사모 조달 1회 (2026) — 누적 $14,999,924 조달 (최근 라운드 $14,999,924 / 목표 $65,000,003)",
+        "short_label": "비상장 · 사모 조달 중",
         "scope_note": null,
-        "as_of": "2026-07-15",
-        "recent_filings": [],
-        "assessment": null,
-        "signal": null,
-        "status_tag": "unmapped",
-        "form_d_round_count": null
+        "as_of": "2026-11-04",
+        "recent_filings": [
+          {
+            "date": "2026-08-13",
+            "form": "D",
+            "title": "Form D (사모 조달)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2148566/000214856626000001/0002148566-26-000001-index.htm",
+            "summary": null
+          }
+        ],
+        "assessment": "단일 Form D 공시에서 목표액 $6,500만 대비 약 23%인 $1,500만 조달에 그쳐 목표 달성률이 현저히 낮으며, 추가 공시나 후속 라운드 이력이 없어 자금조달 진척이 정체 또는 부진한 상태로 판단됩니다.",
+        "signal": "warning",
+        "status_tag": "form_d",
+        "form_d_round_count": 1
       },
-      "kakao_summary": "OrganiCore OC-80\n사전신청 단계\n\n최근 활동: OrganiCore는 2026년 8월 LOI 제출 후 약 2개월 만인 10월 9일 NRC와 첫 사전신청(Pre-application) 공개회의를 개최하였으며, OC-80은 80MWe급 저압·유기냉각제·경수감속 SMR로 10 CFR Part 53 경로를 우선 추진 중임. 직전 확인 기록이 없어 비교는 불가하나, LOI → 회의 개최 → 독점정보 비공개 요청까지 단기간에 연속 진행된 점에서 초기 단계임에도 활발히 움직이고 있는 것으로 평가됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 1 [현재]"
+      "kakao_summary": "OrganiCore OC-80\n사전신청 단계\n\n최근 활동: OrganiCore는 2026년 8월 LOI 제출 후 약 2개월 만인 10월 9일 NRC와 첫 사전신청(Pre-application) 공개회의를 개최하였으며, OC-80은 80MWe급 저압·유기냉각제·경수감속 SMR로 10 CFR Part 53 경로를 우선 추진 중임. 직전 확인 기록이 없어 비교는 불가하나, LOI → 회의 개최 → 독점정보 비공개 요청까지 단기간에 연속 진행된 점에서 초기 단계임에도 활발히 움직이고 있는 것으로 평가됨.\n\n💰 자금조달: 비상장 · 사모 조달 1회 (2026) — 누적 $14,999,924 조달 (최근 라운드 $14,999,924 / 목표 $65,000,003)\n📊 진척도: ⚠️ 단일 Form D 공시에서 목표액 $6,500만 대비 약 23%인 $1,500만 조달에 그쳐 목표 달성률이 현저히 낮으며, 추가 공시나 후속 라운드 이력이 없어 자금조달 진척이 정체 또는 부진한 상태로 판단됩니다.\n\n단계별 문서: 사전신청 1 [현재]"
     },
     {
       "id": "ampera_microreactor",
@@ -2840,17 +2904,25 @@
         ]
       },
       "funding": {
-        "headline": "SEC 공시 미확인",
-        "short_label": "SEC 공시 미확인",
+        "headline": "비상장 · 사모 조달 1회 (2026) — 누적 $20,000,000 조달 (최근 라운드 $20,000,000 / 목표 금액 미상)",
+        "short_label": "비상장 · 사모 조달 중",
         "scope_note": null,
-        "as_of": "2026-07-15",
-        "recent_filings": [],
-        "assessment": null,
-        "signal": null,
-        "status_tag": "unmapped",
-        "form_d_round_count": null
+        "as_of": "2026-11-04",
+        "recent_filings": [
+          {
+            "date": "2026-02-27",
+            "form": "D",
+            "title": "Form D (사모 조달)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2110656/000211065626000001/0002110656-26-000001-index.htm",
+            "summary": null
+          }
+        ],
+        "assessment": "2026년 2월 Form D를 통해 2,000만 달러 규모의 사모 자금조달을 완료하였으나, 단일 라운드 정보만 존재하고 목표액 및 추세 비교가 불가하여 진척도 판단이 제한적입니다. 경고 신호는 확인되지 않습니다.",
+        "signal": "neutral",
+        "status_tag": "form_d",
+        "form_d_round_count": 1
       },
-      "kakao_summary": "AMPERA Microreactor\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: AMPERA는 2026년 9월 규제참여계획(REP v1) 제출에 이어 10월 적층제조(AM) 핵구조재료의 프로세스-미세조직 및 조사거동 기술보고서 2건을 NRC 사전신청 참여 지원 목적으로 제출하였으며, 수수료 면제 요청도 병행하는 등 사전신청 단계에서 활발히 진행 중이나 아직 본허가 신청 전 초기 기술정렬 단계에 머물러 있음.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 진행 신호 없음"
+      "kakao_summary": "AMPERA Microreactor\n판단 불가 — 단계 신호 문서 없음\n\n최근 활동: AMPERA는 2026년 9월 규제참여계획(REP v1) 제출에 이어 10월 적층제조(AM) 핵구조재료의 프로세스-미세조직 및 조사거동 기술보고서 2건을 NRC 사전신청 참여 지원 목적으로 제출하였으며, 수수료 면제 요청도 병행하는 등 사전신청 단계에서 활발히 진행 중이나 아직 본허가 신청 전 초기 기술정렬 단계에 머물러 있음.\n\n💰 자금조달: 비상장 · 사모 조달 1회 (2026) — 누적 $20,000,000 조달 (최근 라운드 $20,000,000 / 목표 금액 미상)\n📊 진척도: 2026년 2월 Form D를 통해 2,000만 달러 규모의 사모 자금조달을 완료하였으나, 단일 라운드 정보만 존재하고 목표액 및 추세 비교가 불가하여 진척도 판단이 제한적입니다. 경고 신호는 확인되지 않습니다.\n\n단계별 문서: 진행 신호 없음"
     },
     {
       "id": "bwxt_banr",
@@ -2918,17 +2990,53 @@
         ]
       },
       "funding": {
-        "headline": "SEC 공시 미확인",
-        "short_label": "SEC 공시 미확인",
+        "headline": "상장사 (NYSE:BWXT)",
+        "short_label": "상장사",
         "scope_note": null,
-        "as_of": "2026-07-15",
-        "recent_filings": [],
-        "assessment": null,
-        "signal": null,
-        "status_tag": "unmapped",
+        "as_of": "2026-11-04",
+        "recent_filings": [
+          {
+            "date": "2026-11-03",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1486957/000110465926121983/0001104659-26-121983-index.htm",
+            "summary": "12.5억 달러 신용시설 만기 2031년으로 1년 연장"
+          },
+          {
+            "date": "2026-11-02",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1486957/000148695726000053/0001486957-26-000053-index.htm",
+            "summary": "2026년 3분기 실적 발표"
+          },
+          {
+            "date": "2026-11-02",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1486957/000148695726000051/0001486957-26-000051-index.htm",
+            "summary": "2026년 3분기 실적 발표, 핵 기술 사업 현황 공개"
+          },
+          {
+            "date": "2026-08-05",
+            "form": "10-Q/A",
+            "title": "10-Q/A (분기보고서 정정)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1486957/000148695726000044/0001486957-26-000044-index.htm",
+            "summary": "iXBRL 데이터 누락 정정, 2026년 2분기 보고서 수정"
+          },
+          {
+            "date": "2026-08-03",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/1486957/000148695726000042/0001486957-26-000042-index.htm",
+            "summary": "2026년 2분기 분기 실적 보고"
+          }
+        ],
+        "assessment": "BWX Technologies는 12.5억 달러 신용시설 만기를 2031년으로 연장하며 유동성을 안정적으로 확보하였고, 분기 실적 공시도 정상적으로 이루어지고 있어 사업 운영이 안정적으로 진행 중인 것으로 판단됩니다. 별도의 경고 신호는 확인되지 않습니다.",
+        "signal": "positive",
+        "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "BWXT Advanced Nuclear Reactor (BANR)\n사전신청 단계\n절차: 의무 심리(uncontested hearing) 관련 문서 존재\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 9월 22일 공개 하이브리드 회의에서 BWXT는 BANR의 질소 냉각재 설계(75MWt×2기), UN TRISO 연료 조사시험(BANR-1, 6개 캡슐), AGR 데이터 활용 계획 등을 NRC에 업데이트했으며, 초기 인허가는 NRC가 아닌 미 육군 Janus 프로그램 경로로 진행 중임이 확인됨. 직전 확인 기록이 없어 비교는 불가하나, 연료 자격인증 백서 NRC 피드백(2024년 10월), QAPD 검증(2024년 5월)에 이어 분기별 업데이트 회의가 지속되고 있어 프로젝트는 점진적으로 활발히 진행 중으로 판단됨.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 15 [현재]"
+      "kakao_summary": "BWXT Advanced Nuclear Reactor (BANR)\n사전신청 단계\n절차: 의무 심리(uncontested hearing) 관련 문서 존재\n의무 심리(uncontested hearing) 관련 문서 존재\n\n최근 활동: 2026년 9월 22일 공개 하이브리드 회의에서 BWXT는 BANR의 질소 냉각재 설계(75MWt×2기), UN TRISO 연료 조사시험(BANR-1, 6개 캡슐), AGR 데이터 활용 계획 등을 NRC에 업데이트했으며, 초기 인허가는 NRC가 아닌 미 육군 Janus 프로그램 경로로 진행 중임이 확인됨. 직전 확인 기록이 없어 비교는 불가하나, 연료 자격인증 백서 NRC 피드백(2024년 10월), QAPD 검증(2024년 5월)에 이어 분기별 업데이트 회의가 지속되고 있어 프로젝트는 점진적으로 활발히 진행 중으로 판단됨.\n\n💰 자금조달: 상장사 (NYSE:BWXT)\n📊 진척도: BWX Technologies는 12.5억 달러 신용시설 만기를 2031년으로 연장하며 유동성을 안정적으로 확보하였고, 분기 실적 공시도 정상적으로 이루어지고 있어 사업 운영이 안정적으로 진행 중인 것으로 판단됩니다. 별도의 경고 신호는 확인되지 않습니다.\n\n단계별 문서: 사전신청 15 [현재]"
     },
     {
       "id": "fermi_america_matador",
@@ -3003,17 +3111,53 @@
         ]
       },
       "funding": {
-        "headline": "SEC 공시 미확인",
-        "short_label": "SEC 공시 미확인",
+        "headline": "상장사 (Nasdaq:FRMI)",
+        "short_label": "상장사",
         "scope_note": null,
-        "as_of": "2026-07-15",
-        "recent_filings": [],
-        "assessment": null,
-        "signal": null,
-        "status_tag": "unmapped",
+        "as_of": "2026-11-04",
+        "recent_filings": [
+          {
+            "date": "2026-10-16",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2071778/000121390026109980/0001213900-26-109980-index.htm",
+            "summary": "대출 계약 개정, 400MW 임대 조항 삭제 및 수수료 2500만 달러…"
+          },
+          {
+            "date": "2026-10-14",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2071778/000121390026109227/0001213900-26-109227-index.htm",
+            "summary": "TensorWave와 Project Matador 임대 계약 세부사항 …"
+          },
+          {
+            "date": "2026-10-02",
+            "form": "DEF 14A",
+            "title": "DEF 14A (주주총회 위임장)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2071778/000121390026106378/0001213900-26-106378-index.htm",
+            "summary": "Fermi Inc. 첫 주주총회, 이사 선출 및 감사인 비준 안건"
+          },
+          {
+            "date": "2026-08-31",
+            "form": "8-K",
+            "title": "8-K (수시공시)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2071778/000121390026095719/0001213900-26-095719-index.htm",
+            "summary": "첫 주주총회 10월 30일 개최, 주주 제안 마감일 공고"
+          },
+          {
+            "date": "2026-08-14",
+            "form": "10-Q",
+            "title": "10-Q (분기보고서)",
+            "url": "https://www.sec.gov/Archives/edgar/data/2071778/000207177826000051/0002071778-26-000051-index.htm",
+            "summary": "Fermi Inc. 2026년 2분기 실적 및 신흥성장기업 현황"
+          }
+        ],
+        "assessment": "Fermi Inc.는 TensorWave와의 대규모 임대 계약 체결 및 첫 주주총회 개최 등 사업 초기 단계의 진척을 보이나, 대출 계약 개정 과정에서 400MW 임대 조항 삭제와 2,500만 달러 수수료 발생은 계약 조건 약화 가능성을 시사하는 주의 신호로 판단된다.",
+        "signal": "neutral",
+        "status_tag": "public_reporting",
         "form_d_round_count": null
       },
-      "kakao_summary": "Fermi America Project Matador AP1000 Units 1-4\nCOL 신청\nCOL: ML26223A375 | 2026-08-19 08:15 | Supplemental Project Information to Support the Pilot Program Applicant Prepared Environme\n\n최근 활동: 2026년 10월 현재 Draft EIS(초안 환경영향평가서)에 대한 공개 의견수렴 단계가 활발히 진행 중으로, 인근 주민(수자원·가축 영향 우려), 환경단체(양서류 보호), 익명 일반인(원전 반대), 코만치 네이션 역사보존사무소, 위치타 부족 등 다양한 이해관계자로부터 의견서가 접수되고 있으며, ACHP(역사보존자문위원회)의 접수 확인 및 부족 대상 NRC 발송 서한도 확인되어 EIS 공식 검토 절차가 정상적으로 이행되고 있다.\n\n💰 자금조달: SEC 공시 미확인\n\n단계별 문서: 사전신청 3 | 신청접수 2 | 기술검토 1 [현재]"
+      "kakao_summary": "Fermi America Project Matador AP1000 Units 1-4\nCOL 신청\nCOL: ML26223A375 | 2026-08-19 08:15 | Supplemental Project Information to Support the Pilot Program Applicant Prepared Environme\n\n최근 활동: 2026년 10월 현재 Draft EIS(초안 환경영향평가서)에 대한 공개 의견수렴 단계가 활발히 진행 중으로, 인근 주민(수자원·가축 영향 우려), 환경단체(양서류 보호), 익명 일반인(원전 반대), 코만치 네이션 역사보존사무소, 위치타 부족 등 다양한 이해관계자로부터 의견서가 접수되고 있으며, ACHP(역사보존자문위원회)의 접수 확인 및 부족 대상 NRC 발송 서한도 확인되어 EIS 공식 검토 절차가 정상적으로 이행되고 있다.\n\n💰 자금조달: 상장사 (Nasdaq:FRMI)\n📊 진척도: Fermi Inc.는 TensorWave와의 대규모 임대 계약 체결 및 첫 주주총회 개최 등 사업 초기 단계의 진척을 보이나, 대출 계약 개정 과정에서 400MW 임대 조항 삭제와 2,500만 달러 수수료 발생은 계약 조건 약화 가능성을 시사하는 주의 신호로 판단된다.\n\n단계별 문서: 사전신청 3 | 신청접수 2 | 기술검토 1 [현재]"
     },
     {
       "id": "advanced_float_abwr",
@@ -3082,7 +3226,7 @@
         "headline": "SEC 공시 미확인",
         "short_label": "SEC 공시 미확인",
         "scope_note": null,
-        "as_of": "2026-07-15",
+        "as_of": "2026-11-04",
         "recent_filings": [],
         "assessment": null,
         "signal": null,
